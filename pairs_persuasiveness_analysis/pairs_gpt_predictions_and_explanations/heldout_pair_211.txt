@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's a rating score from 0.0 to 1.0 for each of the specified dimensions of the provided argument, broken down into its quarters:
+
+1. **Quarter 1**: "My friends are starting to joke about feminism and I see more people mocking it every day."
+   - **Valence**: 0.3 (Neutral to negative; reflects frustration and concern)
+   - **Dominance**: 0.4 (The speaker feels overshadowed by the jokes and mockery)
+   - **Intensity**: 0.5 (Moderate intensity; conveys an emotional reaction)
+   - **Concreteness**: 0.7 (Specific examples of joking and mocking provide clarity)
+
+2. **Quarter 2**: "You don't think this hasn't been happening throughout the entire history of feminism?"
+   - **Valence**: 0.5 (Neutral; questioning tone suggests a critical stance without being overtly negative)
+   - **Dominance**: 0.6 (The speaker asserts a historical perspective, indicating knowledge and authority)
+   - **Intensity**: 0.4 (Mild intensity; primarily a rhetorical question)
+   - **Concreteness**: 0.6 (Refers to a historical context which adds clarity, but lacks specifics)
+
+3. **Quarter 3**: "You can find anti-feminist rhetoric from the 20s that is remarkably similar to what you can find today."
+   - **Valence**: 0.4 (Mixed; while it acknowledges persistence, it indicates a negative view of current attitudes)
+   - **Dominance**: 0.5 (The speaker positions themselves as knowledgeable about historical context)
+   - **Intensity**: 0.5 (Moderate; makes a definitive claim which adds weight)
+   - **Concreteness**: 0.7 (Historical reference makes the argument tangible)
+
+4. **Quarter 4**: "Feminists didn't change their presentation to appease those in power in the past, so why should they today?" / "Rush Limbaugh coined the term 'feminazi' and you've fallen prey to his rhetoric."
+   - **Valence**: 0.3 (Negative; implies criticism of both the mockers and the use of specific rhetoric)
+   - **Dominance**: 0.7 (Strong assertion of a position that emphasizes consistency in feminist ideals)
+   - **Intensity**: 0.6 (Higher intensity due to a direct challenge to the audience's beliefs)
+   - **Concreteness**: 0.8 (Specific references to historical decisions and well-known figures bolster clarity)
+
+Overall, this breakdown reflects a nuanced understanding of the argument's emotional and rhetorical dimensions.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating for each quarter of the argument, broken down as you requested:
+
+1. **First Quarter**: "I can see no actual substance to your criticism."
+   - **Valence**: 0.3 (Neutral; the statement dismisses the criticism but does not provide evidence or support.)
+   - **Dominance**: 0.4 (Assured in its dismissal, yet lacks a strong authoritative presence.)
+   - **Intensity**: 0.5 (Mildly intense; expresses frustration but does not convey strong emotion.)
+   - **Concreteness**: 0.2 (Abstract; does not provide specific details backing the dismissal.)
+
+2. **Second Quarter**: "\"Feminazi\" is a right wing conservative slur invented by the well known racist, homophobic sexist Rush Limbaugh."
+   - **Valence**: 0.8 (Strongly negative; characterizes the term and its originator in an unfavorable light.)
+   - **Dominance**: 0.7 (Assertive in its stance against both the term and the person associated with it.)
+   - **Intensity**: 0.9 (Strong; uses charged language that clearly conveys a deep disapproval.)
+   - **Concreteness**: 0.6 (Moderate level; provides a specific origin but could benefit from additional context.)
+
+3. **Third Quarter**: "Feminazi simply refers to any feminist anywhere who advocates for sexual or gender equality."
+   - **Valence**: 0.5 (Neutral; while explaining the term, it does not evoke strong feelings.)
+   - **Dominance**: 0.5 (Informative but not assertive; presenting a definition.)
+   - **Intensity**: 0.3 (Low; lacks emotional weight or strong opinion.)
+   - **Concreteness**: 0.7 (Concrete; provides a clear explanation of what “Feminazi” is purported to mean.)
+
+4. **Fourth Quarter**: "Since 'feminazis' do not actually exist outside the fevered swamps of conservatism, there is no need for feminists to change their name."
+   - **Valence**: 0.7 (Negative; dismisses the existence of a group and suggests overreaching.)
+   - **Dominance**: 0.6 (Confident in stating that the group is non-existent, but it could be argued more forcefully.)
+   - **Intensity**: 0.8 (Fairly high; uses a vivid metaphor that enhances emotional response.)
+   - **Concreteness**: 0.5 (Moderate; makes an assertion but could benefit from examples to strengthen the claim.)
+
+Overall, these ratings reflect the tone and content of each segment of the argument, showing variations in emotive and factual depth.
+

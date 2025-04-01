@@ -1,0 +1,63 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Based on the argument you've provided, here's a rating score for each aspect (valence, dominance, intensity, and concreteness) across the four quarters of the text:
+
+**1st Quarter: "I would argue that completing any stage of education warrants a celebration, but it does seem too outlandish to dress small children in graduation clothes."**
+- **Valence:** 0.5 (The statement presents a mixture of positivity about celebrating education but negativity about dressing in graduation clothes.)
+- **Dominance:** 0.4 (The speaker expresses a personal opinion but does not assert dominance over the argument.)
+- **Intensity:** 0.5 (Moderate intensity as the speaker expresses a clear opinion.)
+- **Concreteness:** 0.6 (There is a concrete idea of celebrating education stages but a somewhat abstract notion about graduation clothing.)
+
+**2nd Quarter: "My only guess why this is happening is to show the kids that it's important to be in school and look how fancy you look when you do good!"**
+- **Valence:** 0.6 (This quarter expresses positive feelings toward the intent behind dressing children up.)
+- **Dominance:** 0.3 (The speaker is speculating rather than asserting a strong viewpoint.)
+- **Intensity:** 0.4 (The intensity is lower as it reflects a guess rather than a strong opinion.)
+- **Concreteness:** 0.5 (Somewhat concrete through the explanation of intent but remains speculative.)
+
+**3rd Quarter: "Also, some people may appreciate having pictures of their kids in grad robes at important points in their lives: aged 7, 14, then 18, then 22, whatever."**
+- **Valence:** 0.7 (This portion has a positive valence as it considers the potential sentimental value of pictures.)
+- **Dominance:** 0.4 (The viewpoint is more observational rather than authoritative.)
+- **Intensity:** 0.5 (Moderate intensity present in the appreciation for experiences.)
+- **Concreteness:** 0.7 (Concrete in discussing the idea of capturing moments at various ages.)
+
+**4th Quarter: "But then again, we live in a world where the majority of us prefer instant gratification (which is taught at a young age). So rewarding good behavior with awesome things at a young age may prove to be an effective motivator for people (read: children) to keep going through school."**
+- **Valence:** 0.5 (The statement contains both positive aspects of motivation and negative implications about instant gratification.)
+- **Dominance:** 0.5 (The speaker provides a broader social commentary, asserting more authority in this final section.)
+- **Intensity:** 0.6 (Higher intensity due to the critique of societal behaviors.)
+- **Concreteness:** 0.6 (The argument is increasingly concrete as it relates to societal behaviors and motivations.)
+
+These scores can be adjusted based on further interpretation, but they reflect a general understanding of the sentiment and specificity in each quarter.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the provided argument, I will analyze each quarter based on the dimensions of valence, dominance, intensity, and concreteness.
+
+1. **First Quarter:** "I think that elementary school graduations serve one good function, and one bad function."
+   - **Valence: 0.5** (neutral; introducing both positive and negative aspects)
+   - **Dominance: 0.5** (the speaker is asserting their opinion without an overpowering stance)
+   - **Intensity: 0.3** (low intensity; it's a soft statement)
+   - **Concreteness: 0.4** (the statement is somewhat abstract)
+
+2. **Second Quarter:** "The bad function is to congratulate students on their achievement. Because, as you argue, graduating from elementary school is not an achievement. It's expected."
+   - **Valence: 0.3** (more negative as it criticizes the idea of graduation)
+   - **Dominance: 0.6** (the speaker articulates a clear stance against the idea of achievement)
+   - **Intensity: 0.5** (moderate intensity in expressing the argument)
+   - **Concreteness: 0.5** (the argument is somewhat concrete but still retains an abstract nature)
+
+3. **Third Quarter:** "But the good function is to impress upon students the importance of school."
+   - **Valence: 0.7** (positive; highlighting a beneficial aspect)
+   - **Dominance: 0.6** (the speaker is establishing a positive perspective)
+   - **Intensity: 0.5** (moderate intensity; affirmation of importance)
+   - **Concreteness: 0.5** (the idea is somewhat abstract but still focused)
+
+4. **Fourth Quarter:** "Their parents, friends and family show up. This says: we care about school, and you should too. It gives them an opportunity to express pride over the students' grades. And it generally shows children at an impressionable age that school is a central part of their life."
+   - **Valence: 0.8** (very positive; emphasizing support and importance)
+   - **Dominance: 0.7** (the speaker clearly advocates for this view)
+   - **Intensity: 0.6** (higher intensity in accentuating the benefits)
+   - **Concreteness: 0.8** (specific examples and clearer imagery, making it concrete)
+
+In summary, the ratings for each quarter are as follows:
+
+1. First Quarter: Valence - 0.5, Dominance - 0.5, Intensity - 0.3, Concreteness - 0.4  
+2. Second Quarter: Valence - 0.3, Dominance - 0.6, Intensity - 0.5, Concreteness - 0.5  
+3. Third Quarter: Valence - 0.7, Dominance - 0.6, Intensity - 0.5, Concreteness - 0.5  
+4. Fourth Quarter: Valence - 0.8, Dominance - 0.7, Intensity - 0.6, Concreteness - 0.8
+

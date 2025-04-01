@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the argument into four quarters, along with scores for valence, dominance, intensity, and concreteness for each quarter:
+
+### Quarter 1:
+**Text:** Oftentimes, the OP is the person presenting the most common viewpoint, and it's up to the commenters to find a unique argument against it. I say unique because usually, the OP has already considered the most common opposing ideas in advance. 
+
+- **Valence:** 0.5 (Neutral to slightly negative, as it suggests a challenge to common viewpoints)
+- **Dominance:** 0.6 (Addresses the dominance of the OP's view in the discussion)
+- **Intensity:** 0.4 (Moderately intense; it presents an observation but is relatively calm)
+- **Concreteness:** 0.7 (The concepts of OP and unique arguments are clear and relatable)
+
+### Quarter 2:
+**Text:** In fact, people present mainstream views so often that the moderators created Fresh Topic Friday in order to promote more unique and nonconforming posts.
+
+- **Valence:** 0.4 (Slightly negative, indicating a frustration with mainstream views)
+- **Dominance:** 0.5 (Explains an institutional response, suggesting a challenge to the status quo)
+- **Intensity:** 0.5 (Moderate intensity as it states a fact but hints at an underlying issue)
+- **Concreteness:** 0.8 (The establishment of Fresh Topic Friday is a clear and specific example)
+
+### Quarter 3:
+**Text:** Furthermore, even though I think it's much more difficult to give a delta than to earn one, the system rewards earning them. That means that everyone is competing to have the most unique and compelling post, and the OP is competing to keep his or her view from being changed.
+
+- **Valence:** 0.5 (Neutral, as it recognizes competition without an overtly positive or negative tone)
+- **Dominance:** 0.6 (Describes the competitive dynamic in a way that emphasizes power struggles)
+- **Intensity:** 0.6 (A bit more intense as it addresses the competitive nature directly)
+- **Concreteness:** 0.7 (The notion of competition in earning deltas is clear and tangible)
+
+### Quarter 4:
+**Text:** I'm not sure how important internet points are to people, but the scoring system is definitely set up to reward individuality and disincentives groupthink. This is in direct contrast to karma, which is often awarded to people who people already agree with.
+
+- **Valence:** 0.4 (Neutral to slightly negative, as it critiques the karma system)
+- **Dominance:** 0.5 (Contrast indicates an underdog discussion against the prevailing view)
+- **Intensity:** 0.7 (Higher intensity, as it critiques an established system)
+- **Concreteness:** 0.8 (Clear distinctions between the scoring systems and their implications)
+
+### Summary of Scores:
+1. **Quarter 1:** Valence: 0.5, Dominance: 0.6, Intensity: 0.4, Concreteness: 0.7
+2. **Quarter 2:** Valence: 0.4, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.8
+3. **Quarter 3:** Valence: 0.5, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.7
+4. **Quarter 4:** Valence: 0.4, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.8
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here’s a rating score from 0.0 to 1.0 for the four specified aspects of the argument in each quarter of the text:
+
+**Quarter 1:**
+- **Valence:** 0.6 (The argument presents a mix of perspectives on posting motivations, leaning towards a slightly positive view by acknowledging varied user intentions.)
+- **Dominance:** 0.4 (The argument introduces a counter-narrative to common interpretations, but it doesn't strongly impose authority; rather, it highlights complexity.)
+- **Intensity:** 0.5 (There's a moderate intensity in the critique of simplification, suggesting a thoughtful engagement but not extreme emotional weight.)
+- **Concreteness:** 0.5 (The argument is somewhat abstract in discussing motivations without providing specific examples but does reference general behaviors.)
+
+**Quarter 2:**
+- **Valence:** 0.5 (Neutral presentation regarding the structure of discussion on Reddit, with both criticisms and acknowledgments.)
+- **Dominance:** 0.5 (The argument carries a balanced tone without overt dominance; it integrates the nature of popular opinion and the role of the OP.)
+- **Intensity:** 0.4 (The argument has a lower intensity, focusing on structure and function rather than invoking strong feelings.)
+- **Concreteness:** 0.6 (There's a clearer discussion about the mechanics of interaction and interest which adds to its concreteness.)
+
+**Quarter 3:**
+- **Valence:** 0.4 (The tone suggests caution around groupthink, carrying a slightly negative connotation towards its implications.)
+- **Dominance:** 0.6 (The argument asserts a clear differentiation between groupthink and the sub's methodology, establishing stronger authority on this distinction.)
+- **Intensity:** 0.5 (Moderate intensity as it addresses the serious nature of groupthink and its implications for discussion.)
+- **Concreteness:** 0.5 (The discussion about dogma is somewhat abstract but does reflect on specific societal issues without elaborate examples.)
+
+**Quarter 4:**
+- **Valence:** 0.7 (The concluding thoughts lean towards a positive view of the sub's purpose, suggesting empowerment in idea exploration.)
+- **Dominance:** 0.5 (It maintains a balanced approach in discussing the Socratic method compared to groupthink, without asserting dominance.)
+- **Intensity:** 0.6 (The intensity increases as it articulates the value of discussion, hinting at a more impassioned defense.)
+- **Concreteness:** 0.7 (The reference to the Socratic method provides a concrete philosophical framework that grounds the argument effectively.)
+
+These ratings reflect how effectively each aspect is conveyed throughout the argument in each segment.
+

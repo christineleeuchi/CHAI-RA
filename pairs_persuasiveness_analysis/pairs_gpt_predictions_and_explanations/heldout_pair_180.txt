@@ -1,0 +1,82 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To provide a rating score for each of the categories (valence, dominance, intensity, and concreteness) for each quarter of the argument, we first need to break down the argument into four distinct parts. Here’s how it can be divided and scored:
+
+### Quarter 1:
+**Text:** "I totally with /u/RustyRook as he says vaccines are one of the single greatest medical interventions that human beings have ever developed. The only reason I think that so many people distrust vaccines is due to the Lancet article of Andrew Wakefield."
+
+- **Valence:** 0.9 (The sentiment is very positive towards vaccines)
+- **Dominance:** 0.7 (There is an assertive tone in agreeing with RustyRook)
+- **Intensity:** 0.7 (The statement expresses strong belief in vaccines as a key medical intervention)
+- **Concreteness:** 0.5 (References the Lancet article but lacks more detailed specifics initially)
+
+### Quarter 2:
+**Text:** "Which been retracted and after investigation Wakefield was struck off the medical register in the UK."
+
+- **Valence:** 0.8 (Positive sentiment by highlighting Wakefield's discrediting)
+- **Dominance:** 0.6 (A neutral tone that informs rather than asserts)
+- **Intensity:** 0.6 (Shows moderate assertion regarding Wakefield's retraction)
+- **Concreteness:** 0.8 (Provides clear specifics about the retraction and consequences faced by Wakefield)
+
+### Quarter 3:
+**Text:** "There have been many studies on vaccines and autism and to my knowledge all of them have concluded that vaccines do not cause autism. I just go through a couple here."
+
+- **Valence:** 0.85 (Positive view on the studies supporting vaccine safety)
+- **Dominance:** 0.7 (Confidently asserts that studies exist validating the position)
+- **Intensity:** 0.75 (Shows a strong determination to present evidence)
+- **Concreteness:** 0.9 (High concreteness, as it clearly indicates existing studies)
+
+### Quarter 4:
+**Text:** "I can find a lot more studies that conclude vaccines and autism don't have a connection. What I can't find however is a scientific study that concludes that vaccines cause autism. If you know one I'm very interested to read it."
+
+- **Valence:** 0.9 (Supports the argument that vaccines are safe, leading to positive sentiment)
+- **Dominance:** 0.8 (The speaker takes a strong stance in asking for evidence from opposing views)
+- **Intensity:** 0.85 (Strong intensity due to the challenge presented)
+- **Concreteness:** 0.9 (Very specific, indicating willingness to engage with evidence)
+
+### Summary of Scores:
+- **Quarter 1:** Valence: 0.9, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.5
+- **Quarter 2:** Valence: 0.8, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.8
+- **Quarter 3:** Valence: 0.85, Dominance: 0.7, Intensity: 0.75, Concreteness: 0.9
+- **Quarter 4:** Valence: 0.9, Dominance: 0.8, Intensity: 0.85, Concreteness: 0.9
+
+These scores reflect the tone, assertiveness, strength of the claims, and level of specific information provided throughout the argument presented.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! I'll break down the argument into four quarters and assign ratings for valence, dominance, intensity, and concreteness:
+
+### Quarter 1: "What are the main health concerns that you have with vaccines? Are they worse than the potential medical issues that could arise from people not being vaccinated?"
+
+- **Valence:** 0.6 (Neutral/Somewhat Positive) - This portion invites a discussion, showing some consideration of concerns without being overtly negative.
+- **Dominance:** 0.4 (Low) - The speaker is posing questions, which indicates lower dominance as they are seeking information rather than asserting authority.
+- **Intensity:** 0.5 (Moderate) - The tone is moderate; it expresses curiosity without strong emotion.
+- **Concreteness:** 0.5 (Moderate) - The questions posed are abstract but grounded in a real concern about health.
+
+### Quarter 2: "Aside from that, there are some people who can't get vaccinated because of certain medical issues."
+
+- **Valence:** 0.7 (Positive) - This segment highlights empathy for those who cannot be vaccinated, which adds a positive emotional valence.
+- **Dominance:** 0.5 (Moderate) - The statement provides factual information without overshadowing the previous questions; it maintains a balanced tone.
+- **Intensity:** 0.4 (Low) - The tone is factual and less emotionally charged.
+- **Concreteness:** 0.6 (Moderate) - It presents a concrete fact about medical issues preventing vaccination.
+
+### Quarter 3: "These people rely on herd immunity to protect themselves from the diseases that vaccinations are supposed to prevent."
+
+- **Valence:** 0.8 (Positive) - This section emphasizes the importance of herd immunity, which is generally seen positively in public health.
+- **Dominance:** 0.6 (Moderate) - The speaker is asserting a key point about herd immunity, indicating moderate dominance.
+- **Intensity:** 0.7 (Moderate) - The concern for vulnerable populations raises the intensity.
+- **Concreteness:** 0.7 (Moderate) - This segment introduces a concrete concept in public health with clear implications.
+
+### Quarter 4: "If more people who can get vaccinated don't, it puts those who can't get vaccinated at a greater risk to develop some of the issues that vaccines can prevent. If everyone who can get vaccinated does, it makes it much less likely that these medical issues develop on a large scale."
+
+- **Valence:** 0.9 (Positive) - The conclusion underscores a proactive stance towards vaccination for the benefit of public health.
+- **Dominance:** 0.7 (Moderate to High) - The speaker asserts a clear viewpoint regarding the consequences of vaccination status.
+- **Intensity:** 0.8 (High) - This part effectively communicates urgency and importance, heightening emotional intensity.
+- **Concreteness:** 0.8 (High) - It presents clear causal relationships between vaccination rates and public health, making it very concrete.
+
+### Summary Ratings:
+- **Quarter 1:** Valence 0.6, Dominance 0.4, Intensity 0.5, Concreteness 0.5
+- **Quarter 2:** Valence 0.7, Dominance 0.5, Intensity 0.4, Concreteness 0.6
+- **Quarter 3:** Valence 0.8, Dominance 0.6, Intensity 0.7, Concreteness 0.7
+- **Quarter 4:** Valence 0.9, Dominance 0.7, Intensity 0.8, Concreteness 0.8
+
+These ratings reflect the argument's overall progression from inquiry to informed claims about public health and vaccination's role.
+

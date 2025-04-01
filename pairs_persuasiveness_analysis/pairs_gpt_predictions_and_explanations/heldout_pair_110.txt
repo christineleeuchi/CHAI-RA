@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument based on the criteria provided (valence, dominance, intensity, and concreteness), let's break down the argument into four quarters. I will provide a score for each criterion ranging from 0.0 to 1.0.
+
+**Quarter 1: "I think it's more like"**
+- **Valence**: 0.5 (Neutral; expressing a personal perspective)
+- **Dominance**: 0.2 (Low dominance; suggests a hesitant opinion)
+- **Intensity**: 0.3 (Mildly intense; suggests contemplation)
+- **Concreteness**: 0.4 (Some concrete ideas but largely abstract)
+
+**Quarter 2: "I have this very strong opinion and I'm really in the mood for arguing about it"**
+- **Valence**: 0.6 (Positive; strong conviction expressed)
+- **Dominance**: 0.7 (Moderate dominance; indicates a desire to engage in argument)
+- **Intensity**: 0.9 (High intensity; communicates strong feelings about the opinion)
+- **Concreteness**: 0.5 (Somewhat concrete; stating the desire for argument but still abstract)
+
+**Quarter 3: "but I don't particularly want to change it"**
+- **Valence**: 0.4 (Slightly negative; indicates resistance to change)
+- **Dominance**: 0.5 (Moderate dominance; assertion of personal stance)
+- **Intensity**: 0.4 (Moderate intensity; less emphatic than previous parts)
+- **Concreteness**: 0.6 (More concrete; clearly states the desire not to change)
+
+**Quarter 4: "so I'm just gonna ignore the excellent counterarguments that took ages to write and not give people the deltas they deserve."**
+- **Valence**: 0.2 (Negative; reflects dismissiveness toward others' efforts)
+- **Dominance**: 0.6 (Moderate dominance; asserting disregard for counterarguments)
+- **Intensity**: 0.7 (High intensity; communicates strong disregard)
+- **Concreteness**: 0.8 (Quite concrete; explicitly mentions counterarguments and the idea of not reciprocating)
+
+Overall, these scores reflect the emotional and rhetorical aspects of the argument while considering the phrasing and implications of each part.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score for each category (valence, dominance, intensity, and concreteness) based on the argument outlined, I will evaluate each quarter of the argument separately.
+
+### Quarter 1:
+**Argument:** "If a point of view is supported by group think, it does not mean the point of view is wrong, it just means many people use a flawed method to get there. It might be wrong, but we wouldn't know until we examine the argument itself."
+
+- **Valence:** 0.7 (Positive outlook on examining viewpoints)
+- **Dominance:** 0.5 (Neutral tone; not overly assertive)
+- **Intensity:** 0.6 (Moderate intensity in the argument)
+- **Concreteness:** 0.5 (Some abstract concepts about group think)
+
+### Quarter 2:
+**Argument:** "The important point therefore is not whether the people arguing here are arguing for a point that is also supported by group think amongst others, but rather what process we use to convince people."
+
+- **Valence:** 0.6 (Generally positive, focusing on processes)
+- **Dominance:** 0.6 (More assertive about the importance of process)
+- **Intensity:** 0.5 (Moderate intensity; clear assertion of importance)
+- **Concreteness:** 0.5 (Still somewhat abstract, but clearer about the focus)
+
+### Quarter 3:
+**Argument:** "If a controversial point does not stand a test of logic or evidence, then the change of view has nothing to do with learning how to group think."
+
+- **Valence:** 0.8 (Clear focus on logic/evidence is a positive stance)
+- **Dominance:** 0.7 (Stronger statement about logic and standards)
+- **Intensity:** 0.7 (Higher intensity when discussing tests of logic)
+- **Concreteness:** 0.6 (More concrete as it references logic and evidence)
+
+### Quarter 4:
+**Argument:** "for each quarter of the argument's text"
+
+- **Valence:** 0.3 (This part is less meaningful)
+- **Dominance:** 0.3 (Lacks assertiveness or relevance)
+- **Intensity:** 0.2 (Very low intensity)
+- **Concreteness:** 0.1 (Very abstract and vague)
+
+### Summary:
+- **Quarter 1:** Valence: 0.7, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 2:** Valence: 0.6, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.5
+- **Quarter 3:** Valence: 0.8, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.3, Dominance: 0.3, Intensity: 0.2, Concreteness: 0.1 
+
+Feel free to ask for more details or further analysis!
+

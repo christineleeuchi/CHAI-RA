@@ -1,0 +1,46 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s the rating for each quarter of the argument based on the specified criteria: valence, dominance, intensity, and concreteness.
+
+### Quarter 1 
+**Text:** "First, there's a fairness question, since the taxes you pay should be the same no matter who you are. In the case of property taxes, they're already progressive in as much as they depend on the fair market value of an asset you own."
+- **Valence:** 0.7 (The argument has a generally positive outlook towards fairness but is challenged by the notion of what is truly fair.)
+- **Dominance:** 0.5 (The argument acknowledges an important point about fairness but also opens up space for counterarguments.)
+- **Intensity:** 0.6 (There is a moderate intensity regarding the importance of fairness and taxation, but it's somewhat subdued by the analytical approach.)
+- **Concreteness:** 0.6 (The reference to property taxes and fair market value is concrete, though the term "fairness" could benefit from further specification.)
+
+### Quarter 2  
+**Text:** "That's not progressive, though. That's just linear. Progressive would mean the amount of tax owed increases proportionately faster than the value of the property. 'Fairness' is a hard concept to nail down - you probably wouldn't consider a linear income tax to be fair."
+- **Valence:** 0.5 (The tone is neutral and evaluative, questioning the initial claim without strong positive or negative bias.)
+- **Dominance:** 0.7 (This section asserts authority on the definition of progressive taxation and challenges the previous assertion.)
+- **Intensity:** 0.6 (There is moderate intensity as it passionately clarifies the difference between linear and progressive taxation.)
+- **Concreteness:** 0.7 (This part is concrete with clear definitions, enhancing the understanding of the argument.)
+
+### Quarter 3  
+**Text:** "Second is an efficiency issue. Giving people tax abatements encourages them not to move (as in prop 13) or to not sell when they don't have good use for the property, such as this woman who is being sued for failing to maintain a property she can't afford to renovate, but keeps paying the very low taxes on."
+- **Valence:** 0.8 (The argument presents a negative view on the implications of tax abatements, highlighting inefficiencies.)
+- **Dominance:** 0.6 (While making a strong point regarding efficiency, it still allows room for consideration of the opposing perspective.)
+- **Intensity:** 0.7 (The intensity is higher here, emphasizing the inefficiency and real-world impact of tax policy.)
+- **Concreteness:** 0.8 (This section is concrete, providing a specific example (Prop 13) and a real case scenario about a homeowner’s situation.)
+
+### Quarter 4  
+**Text:** "I think the obvious competing interest here is that you don't want to, effectively, kick people out of their long-term homes because it so happens that the housing area around them became more expensive. What do you say to this?"
+- **Valence:** 0.6 (This presents a concern that balances the argument but recognizes the emotional aspects involved in housing and displacement.)
+- **Dominance:** 0.5 (This text offers a thoughtful counterpoint, but it does not dominate the overall argument.)
+- **Intensity:** 0.5 (The intensity is moderate, presenting a reasonable concern without strong emotional language.)
+- **Concreteness:** 0.5 (The argument is somewhat abstract in discussing “long-term homes” without providing specific examples, making it less concrete.)
+
+These ratings reflect an analysis of the argument and can help clarify the strengths and weaknesses in its presentation.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score from 0.0 to 1.0 for each aspect of the argument you provided, broken down into four quarters:
+
+1. **Valence (0.6)**: This portion of the argument presents a critical view of the initial claim that the property tax system is progressive as it stands. While it maintains a somewhat negative tone toward the original proposition, it isn’t overly hostile or aggressive, hence the moderate score.
+
+2. **Dominance (0.5)**: The author expresses a strong opinion that challenges the notion of progressiveness in taxation. However, the dominance is somewhat tempered by the logical structure and the explanations provided, leading to a neutral rating.
+
+3. **Intensity (0.7)**: There is a notable intensity in the argument, especially with the assertion of what "progressive" means and providing a fictional example that sharply contrasts the original claim. The use of terms like "more-than-linear chunk" adds to the fervor, resulting in a higher intensity score.
+
+4. **Concreteness (0.8)**: The argument includes specific examples (both real and fictional) to illustrate the points being made, enhancing its concreteness. By defining progressive taxation in clear terms and providing a numerical illustration, it achieves a strong score in this category. 
+
+Overall, the argument is clear and structured, making it fairly effective in conveying its points.
+

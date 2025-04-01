@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating for each of the requested categories based on the provided argument:
+
+**1. Valence** (0.0 to 1.0 scale):
+- **Score: 0.2** 
+  - The overall tone of the argument is quite negative, emphasizing the problems and failings of both the current prison system and the proposed alternatives. It expresses frustration and concern about the implications of these systems.
+
+**2. Dominance** (0.0 to 1.0 scale):
+- **Score: 0.7** 
+  - The argument presents a strong viewpoint against the proposed alternatives, asserting that they are flawed and detrimental. The author takes a commanding position, effectively critiquing the ideas and explaining why they believe these issues are critical.
+
+**3. Intensity** (0.0 to 1.0 scale):
+- **Score: 0.6** 
+  - The argument conveys a moderate to high intensity. The use of strong language and vivid examples (e.g., "college for criminal learning") indicates a passionate stance. However, it does not reach a peak emotional level; it remains grounded in logical reasoning.
+
+**4. Concreteness** (0.0 to 1.0 scale):
+- **Score: 0.8** 
+  - The argument includes specific details and examples to support its claims, such as the difficulties ex-cons face and the impact of public shaming. This makes it relatable and tangible, but some concepts, like "some people are not capable of rehabilitation," touch on abstract notions that are less concrete. 
+
+Overall, the argument critiques the prison-industrial complex and proposed alternatives while focusing on specific social implications, demonstrating both strength and clarity in its delivery.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for valence, dominance, intensity, and concreteness for each quarter of the argument provided:
+
+**1st Quarter:**
+- **Valence: 0.3** (The tone is somewhat negative as it critiques current methods of exile and public shaming, but it doesn't entirely dismiss their utility.)
+- **Dominance: 0.4** (The author presents a good amount of knowledge, indicating a degree of authority, but relies on familiar societal concepts rather than asserting a strong forceful dominance.)
+- **Intensity: 0.6** (The argument has a moderate intensity in highlighting the existing forms of exile and shaming, utilizing some strong language.)
+- **Concreteness: 0.5** (Specific examples like the sex offender registry give some grounding, but the abstract nature of the concepts makes it less concrete.)
+
+**2nd Quarter:**
+- **Valence: 0.2** (The tone is increasingly negative, as it outlines the detrimental effects of being an ex-con and reinforces that these practices lead to social exclusion.)
+- **Dominance: 0.5** (There is a stronger assertion of authority here, as the argument details the adverse impacts of social exile, showing a clearer stance.)
+- **Intensity: 0.7** (The intensity rises due to the implications of the consequences faced by ex-convicts, which are presented with urgency.)
+- **Concreteness: 0.5** (The argument remains grounded in the reality of post-incarceration challenges, though it lacks specific examples beyond general statements.)
+
+**3rd Quarter:**
+- **Valence: 0.1** (The tone is quite negative, reflecting strong discontent with shunning and public shaming as effective methods.)
+- **Dominance: 0.6** (This section asserts a firmer stance against current practices and begins to critically analyze their outcomes.)
+- **Intensity: 0.8** (The argument touches on psychological trauma and the disapproval from historical perspectives, which raises its intensity.)
+- **Concreteness: 0.4** (While the critique is impactful, it lacks specific examples, which makes it somewhat abstract.)
+
+**4th Quarter:**
+- **Valence: 0.3** (While acknowledging some potential problems with incarceration, the author maintains a negative perspective on the alternatives as well.)
+- **Dominance: 0.7** (Here, the argument achieves a strong point of authority, especially when discussing psychiatric needs and alternatives to incarceration.)
+- **Intensity: 0.9** (The intensity peaks as serious social issues and the need for psychiatric care are presented, engaging empathetic concerns.)
+- **Concreteness: 0.6** (The mention of psychiatric illnesses adds a concrete aspect, making it a substantial critique of the current system.)
+
+Overall, the argument presents a robust critique of the methods employed for handling crime and punishment and emphasizes the importance of reevaluating these approaches for better societal outcomes.
+

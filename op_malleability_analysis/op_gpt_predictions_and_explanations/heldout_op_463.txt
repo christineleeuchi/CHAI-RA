@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument using the specified criteria—valence, dominance, intensity, and concreteness—I'll provide scores for each quarter of the argument's text.
+
+### 1st Quarter: 
+"CMV: If you are unable to make above 40k/year you are not very intelligent. My reasoning is that having under 40k sucks, it's manageable, but it is a struggle."
+
+- **Valence**: 0.2 (The argument presents a negative view of low income, implying struggle and dissatisfaction.)
+- **Dominance**: 0.7 (The speaker expresses a strong opinion, asserting a direct correlation between income and intelligence.)
+- **Intensity**: 0.6 (The language conveys a significant level of frustration regarding low-income situations.)
+- **Concreteness**: 0.5 (The mention of a specific income threshold gives some concrete detail, but the concept of intelligence remains abstract.)
+
+### 2nd Quarter:
+"I understand 'intelligence' is a very murky word and everyone thinks they are intelligent, but in the general 'competency of life' sense of the word, if you are unable to hold down a good enough job that money is an ever-present problem in your life, I question your intelligence."
+
+- **Valence**: 0.4 (The recognition of the murkiness of intelligence adds nuance, but it still leans negative regarding those struggling financially.)
+- **Dominance**: 0.6 (The speaker maintains a strong position, questioning intelligence based on financial success.)
+- **Intensity**: 0.5 (There's a moderate level of intensity in the questioning and the framing of life competency.)
+- **Concreteness**: 0.6 (Links between financial capability and life competency provide a bit more concreteness.)
+
+### 3rd Quarter:
+"Now would be a good time to exclude a few groups: - Those who have a low income now, but are pretty confident in their ability to hit that threshold in a few years (think grad student). - Very handy(?might not be the right word?) people..."
+
+- **Valence**: 0.5 (The argument takes a more neutral stance with the exclusions, showing that the speaker is considering other perspectives.)
+- **Dominance**: 0.4 (The speaker is moderating their stance, which reduces the dominance of the original claim.)
+- **Intensity**: 0.3 (The intensity decreases as the speaker acknowledges exceptions and nuances.)
+- **Concreteness**: 0.6 (The examples of groups excluded provide more concrete details, clarifying the argument.)
+
+### 4th Quarter:
+"- Those who could easily make a decent salary, but consciously decided that their life would be better if they made a lot less money (I have a friend that chose to work for a non-profit after receiving an engineering offer) - EDIT: I don't think this counts as changing my view..."
+
+- **Valence**: 0.5 (Further acknowledgment of exceptions maintains a neutral tone.)
+- **Dominance**: 0.3 (The argument weakens as more exceptions are introduced, lowering the dominance of the initial claim.)
+- **Intensity**: 0.2 (As more qualifications are added, the intensity of the argument diminishes.)
+- **Concreteness**: 0.7 (Examples of specific occupations and choices increase the concreteness of the argument.)
+
+### Summary of Scores:
+1st Quarter: Valence 0.2, Dominance 0.7, Intensity 0.6, Concreteness 0.5  
+2nd Quarter: Valence 0.4, Dominance 0.6, Intensity 0.5, Concreteness 0.6  
+3rd Quarter: Valence 0.5, Dominance 0.4, Intensity 0.3, Concreteness 0.6  
+4th Quarter: Valence 0.5, Dominance 0.3, Intensity 0.2, Concreteness 0.7  
+

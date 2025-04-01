@@ -1,0 +1,62 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score from 0.0 to 1.0 for each dimension—valence, dominance, intensity, and concreteness—I'll break down the argument into quarters and assess each accordingly.
+
+### Quarter 1
+**Text: "CMV: Prisoners should have the option to end their life. I believe someone who has been convicted of a non-violent crime should have the option to end their life in prison."**
+
+- **Valence**: 0.5 (The concept is inherently negative regarding death but framed positively as a choice.)
+- **Dominance**: 0.6 (The speaker asserts authority over the topic but presents a controversial viewpoint.)
+- **Intensity**: 0.7 (Death is a strong subject, and there's intensity in the statement of "opt to end their life.")
+- **Concreteness**: 0.4 (The ideas are abstract but somewhat concrete in the context of prison and life choices.)
+
+### Quarter 2
+**Text: "So if someone is doing 20 years for drug distribution they can choose to die. This would decrease prison population and relief funding to the prison system."**
+
+- **Valence**: 0.4 (While offering a solution to prison overpopulation, it also introduces the heavy topic of death.)
+- **Dominance**: 0.7 (The speaker is taking a strong stance by proposing a solution.)
+- **Intensity**: 0.6 (The discussion of death related to incarceration brings intensity, but less than the first quarter.)
+- **Concreteness**: 0.6 (Here, the proposal becomes more practical with clear implications for prison funding and population.)
+
+### Quarter 3
+**Text: "Prisoners sometimes have to endure very horrible things while in prison. Rape, sexual assault and violence affect many prisoners that are serving time for theft, drugs, etc."**
+
+- **Valence**: 0.2 (This portion discusses very negative experiences, leading to a lower positive valence.)
+- **Dominance**: 0.5 (The speaker articulates these issues but without asserting as strong a position regarding a solution.)
+- **Intensity**: 0.8 (The topics mentioned are extremely intense and provoke strong emotions.)
+- **Concreteness**: 0.7 (Specific and tangible issues are presented, leading to a clearer picture of prison life.)
+
+### Quarter 4
+**Text: "This would also apply to criminals who are terminally ill and suffer every day from the side effects. People are given life sentences without parole for non-violent offenses sometimes."**
+
+- **Valence**: 0.3 (While discussing suffering and the possibility of relief, it addresses significant, painful realities.)
+- **Dominance**: 0.4 (The dominance is lower as the speaker seems to be reflecting on injustices rather than proposing a central argument.)
+- **Intensity**: 0.6 (Intensity exists, but it's somewhat mitigated by discussing terminally ill patients.)
+- **Concreteness**: 0.6 (The argument remains grounded in specific scenarios but is still somewhat broad.)
+
+### Summary of Scores:
+**Quarter 1**: 
+- Valence: 0.5 
+- Dominance: 0.6 
+- Intensity: 0.7 
+- Concreteness: 0.4 
+
+**Quarter 2**: 
+- Valence: 0.4 
+- Dominance: 0.7 
+- Intensity: 0.6 
+- Concreteness: 0.6 
+
+**Quarter 3**:
+- Valence: 0.2 
+- Dominance: 0.5 
+- Intensity: 0.8 
+- Concreteness: 0.7 
+
+**Quarter 4**: 
+- Valence: 0.3 
+- Dominance: 0.4 
+- Intensity: 0.6 
+- Concreteness: 0.6 
+
+These assessments provide a nuanced view of how the argument is framed across different dimensions.
+

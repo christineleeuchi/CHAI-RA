@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Certainly! Below are the ratings for valence, dominance, intensity, and concreteness for each quarter of the argument:
+
+### Quarter 1
+**Text:** "CMV: Reddit will go in exactly the same direction under Steve Huffman and no one will care, Ellen Pao was a martyr Redditors main real concerns about the website were monetization and the limiting of 'free speech' in the /r/fatpeoplehate drama."
+
+- **Valence:** 0.5 (Neutral to slightly negative; indicates some dissatisfaction or concern.)
+- **Dominance:** 0.7 (A strong opinion presented with a degree of confidence.)
+- **Intensity:** 0.6 (Moderately intense; expresses a clear viewpoint.)
+- **Concreteness:** 0.7 (Statements are based on observable events and general sentiments.)
+
+### Quarter 2
+**Text:** "Reddit has still brought many people on board independent of Huffman to help advance the site and create revenue. Further having money and people behind him will influence Huffman and his situation is very different from when he founded Reddit."
+
+- **Valence:** 0.6 (Slightly positive; acknowledges growth and support.)
+- **Dominance:** 0.6 (Outlines a perspective on the situation with some authority.)
+- **Intensity:** 0.5 (Moderate intensity; presents factual assertions rather than emotive claims.)
+- **Concreteness:** 0.8 (Very concrete; based on factual developments regarding the company's growth.)
+
+### Quarter 3
+**Text:** "In regards to 'free speech' the subreddits that make Reddit the awesome website it is are all heavily moderated. The subreddits targeted were brigading other subreddits. The administration's views on hate speech won't change, they even said in their announcement..."
+
+- **Valence:** 0.4 (Negative; suggests limitations on free speech.)
+- **Dominance:** 0.6 (Demonstrates a strong understanding of Reddit's moderation policies.)
+- **Intensity:** 0.7 (Fairly intense; emotional weight regarding moderation.)
+- **Concreteness:** 0.7 (Relatively concrete; referencing official statements and subreddit behavior.)
+
+### Quarter 4
+**Text:** "While there will be more communication on things like the Victoria firing Reddit is still headed in exactly the same direction. To be clear I am perfectly content with the monetization of reddit..."
+
+- **Valence:** 0.5 (Neutral; expresses contentment with monetization.)
+- **Dominance:** 0.5 (Presents a personal opinion but lacks strong authority.)
+- **Intensity:** 0.5 (Moderate; expresses an acceptance of change with some implication of stagnation.)
+- **Concreteness:** 0.6 (Somewhat concrete; personal statements mixed with general observations.)
+
+These ratings aim to reflect the emotional tone and clarity of the arguments presented in each respective quarter.
+

@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here is the rating for each of the categories (valence, dominance, intensity, and concreteness) for each quarter of the argument's text:
+
+### Quarter 1:
+**Text:** "CMV: Tom Brady is guilty. I've read the [20 page report released from Goodell.](https://nfllabor.files.wordpress.com/2015/07/07282015-final-decision-tom-brady-appeal.pdf) I've read [Kraft's speech.](http://profootballtalk.nbcsports.com/2015/07/29/robert-kraft-tees-off-on/) I've read [Brady's Facebook post.](https://www.reddit.com/r/nfl/comments/3f0m1w/tom_bradys_statement_via_facebook/) The entire thing seems like a sloppy attempt at a coverup."
+
+- **Valence:** 0.4 (Neutral to negative tone, presents an accusation)
+- **Dominance:** 0.7 (Assertive statement of guilt)
+- **Intensity:** 0.5 (Moderate, given the context but isn't overly emotional)
+- **Concreteness:** 0.6 (Mentions specific sources, but still general in terms of proof)
+
+### Quarter 2:
+**Text:** "The texts/phone conversations between the two equipment managers:..."
+
+- **Valence:** 0.3 (Indicates suspicious behavior; negative implications)
+- **Dominance:** 0.6 (The argument is presenting evidence in a strong manner)
+- **Intensity:** 0.7 (More definitive claims as evidence is presented)
+- **Concreteness:** 0.8 (Clear examples are provided, enhancing the argument)
+
+### Quarter 3:
+**Text:** "Brady ordered his phone that had been used the past 4 months to be destroyed..."
+
+- **Valence:** 0.2 (Highly negative implications about Brady’s actions)
+- **Dominance:** 0.7 (Strong assertion about Brady’s behavior)
+- **Intensity:** 0.8 (Emotional language suggesting deceitfulness)
+- **Concreteness:** 0.6 (Specific actions are mentioned, but reliance on circumstantial evidence)
+
+### Quarter 4:
+**Text:** "EDIT: Prior to the start of the game, Mcnally removed the Patriots' footballs..."
+
+- **Valence:** 0.3 (Negative implications towards misconduct)
+- **Dominance:** 0.7 (Part of the evidence reinforcing the argument)
+- **Intensity:** 0.7 (Strong language that emphasizes wrongdoing)
+- **Concreteness:** 0.7 (Details about specific actions provide a concrete basis)
+
+These scores reflect the argument's overall persuasive techniques and the emotional weight of the language used throughout the different sections.
+

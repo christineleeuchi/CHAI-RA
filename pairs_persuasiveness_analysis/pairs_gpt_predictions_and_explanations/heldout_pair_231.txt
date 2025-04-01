@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1:
+- **Valence**: 0.4 (The argument introduces a skeptical view of the claim of hyper-rationality; it's somewhat negative toward that idea.)
+- **Dominance**: 0.6 (The speaker is asserting their perspective against the original argument, showing some confidence.)
+- **Intensity**: 0.5 (The tone is moderately intense as it challenges the existing notion, but lacks strong emotional language.)
+- **Concreteness**: 0.5 (References to voting habits provide some concrete examples, but they aren't fully fleshed out yet.)
+
+### Quarter 2:
+- **Valence**: 0.5 (This section maintains a critical stance, but it also opens up to broader human behavior, which could be perceived neutrally.)
+- **Dominance**: 0.5 (The argument continues to assert a counterpoint, but it's less dominant as it branches into general observations.)
+- **Intensity**: 0.6 (There's a stronger assertion of human irrationality that infuses this part with a bit more intensity.)
+- **Concreteness**: 0.6 (Specific examples of voting criteria show a higher degree of concreteness.)
+
+### Quarter 3:
+- **Valence**: 0.5 (This part continues the critical vein, but without strong negative emotion, maintaining neutrality.)
+- **Dominance**: 0.4 (This section is somewhat less dominant as it starts listing behavior examples rather than arguing against a claim directly.)
+- **Intensity**: 0.4 (The intensity remains moderate but lacks the forcefulness of earlier sections.)
+- **Concreteness**: 0.7 (Examples of behaviors (TV watching, consumption) are different forms of concrete behavior that illustrate the argument.)
+
+### Quarter 4:
+- **Valence**: 0.6 (The conclusion leans positively towards an alternative explanation rather than the original idea of hyper-rationality.)
+- **Dominance**: 0.7 (This section is assertive in presenting a rationale grounded in modern incentives, showing dominance in the argument.)
+- **Intensity**: 0.6 (There's a more forthright expression of reasoning that gives the argument some intensity.)
+- **Concreteness**: 0.8 (The last quarter provides well-defined examples of modern incentives, making it highly concrete.)
+
+These scores reflect the various aspects of the argument presented in each quarter while considering the nuanced delivery and examples used throughout.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To rate the argument provided in each quarter of the text, I will consider the four dimensions: valence (positive or negative tone), dominance (authority or assertiveness), intensity (strength of conviction), and concreteness (level of detail and specificity). 
+
+**Quarter 1: "There is a different between someone's proposed reasons..."**
+- **Valence:** 0.6 (The tone is somewhat negative regarding the reasons people give for not wanting children.)
+- **Dominance:** 0.7 (The speaker asserts a strong perspective on the distinction between stated and actual reasons.)
+- **Intensity:** 0.6 (There is conviction in the argument, but it could use more passionate language.)
+- **Concreteness:** 0.5 (The argument is clear, but it uses general terms without providing a detailed, specific example to illustrate the point.)
+
+**Quarter 2: "As a source for the assertion above..."**
+- **Valence:** 0.5 (This section carries a neutral tone as it focuses on citing sources rather than expressing strong opinions.)
+- **Dominance:** 0.4 (The commentary is more observational and does not assertively contribute to the argument.)
+- **Intensity:** 0.3 (There’s minimal emotional engagement or strength in the language used here.)
+- **Concreteness:** 0.7 (The use of a specific Reddit comment provides a concrete example, though the overall connection to the argument isn’t deeply elaborated.)
+
+**Quarter 3: "There is still a strong social pressure to procreate..."**
+- **Valence:** 0.5 (The tone remains neutral but leans slightly towards a critical view of societal norms.)
+- **Dominance:** 0.6 (The assertion about social pressures is presented with confidence.)
+- **Intensity:** 0.5 (The argument maintains a decent level of intensity, but more fervent language could strengthen it.)
+- **Concreteness:** 0.6 (Offers contextual specifics regarding Sweden and its policies, but could provide more data to strengthen the argument.)
+
+**Quarter 4: "Rationality doesn't seem to be causing people..."**
+- **Valence:** 0.6 (The tone is somewhat assertive about rationality’s perceived impact, leaning towards a critical view.)
+- **Dominance:** 0.7 (Strongly states the argument against the idea that rational decision-making overrides instinct.)
+- **Intensity:** 0.7 (Uses assertive language to reinforce that emotional factors are still influential.)
+- **Concreteness:** 0.5 (Although it brings up the idea that emotional factors still play a role, it lacks detailed specific examples or evidence to support the claim fully.)
+
+These scores reflect the nuances in each section of the argument, considering the dimensions you requested.
+

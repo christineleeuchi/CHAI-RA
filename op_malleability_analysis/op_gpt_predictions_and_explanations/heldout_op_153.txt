@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here are the requested ratings for each of the four quarters of the argument:
+
+### Quarter 1:
+"CMV: No one over the age of 16 and under the age of 65 should celebrate a birthday. Celebrating your birthday is the most attention whorish thing you could ever do. There really is no need to celebrate a birthday because you didn't do anything on that actual day."
+
+- **Valence**: 0.2 (Negative; the argument expresses disdain for birthday celebrations)
+- **Dominance**: 0.6 (The speaker expresses a strong opinion, presenting it as a widely applicable rule)
+- **Intensity**: 0.7 (The phrase "most attention whorish thing" conveys strong feelings)
+- **Concreteness**: 0.5 (The argument is somewhat abstract but does refer to specific age ranges)
+
+### Quarter 2:
+"If anything, one should celebrate their mother or father on their birthday. They did all the hard work. When I see grown ups celebrate birthdays I cringe a little bit."
+
+- **Valence**: 0.3 (Negative; this reflects discomfort with celebrations)
+- **Dominance**: 0.5 (The speaker's authority is somewhat maintained through the assertion of who deserves celebration)
+- **Intensity**: 0.6 (The use of "cringe" indicates strong disapproval)
+- **Concreteness**: 0.6 (More concrete because it discusses specific individuals to celebrate)
+
+### Quarter 3:
+"The one exception is senior citizens (those who are past 65 years of age). Then it's acceptable to celebrate a birthday because it is a true celebration that you're still alive, and you could die soon. Even worse is grown men who celebrate their birthdays & throw parties to do so. If you're a grown man, there is no need to go out & celebrate your "birth"."
+
+- **Valence**: 0.4 (Although there’s a positive note on senior citizens, it’s still largely negative)
+- **Dominance**: 0.6 (The speaker advocates a specific rule for whom to celebrate)
+- **Intensity**: 0.7 (The phrasing indicates strong feelings, particularly with "even worse")
+- **Concreteness**: 0.7 (The argument is specific in terms of age demographics and logical reasoning)
+
+### Quarter 4:
+"I think one thing that should be celebrated is your work anniversary (or school year completion if you don't have a job). This is something that you have to put effort into, and requires something on your behalf that requires a cause of celebration."
+
+- **Valence**: 0.5 (A neutral to slightly positive attitude towards work anniversaries and achievements)
+- **Dominance**: 0.4 (This portion is more introductory in tone and less assertive)
+- **Intensity**: 0.5 (Moderate intensity, acknowledging effort but not expressing strong feelings)
+- **Concreteness**: 0.8 (Very concrete, as it provides specific examples of celebrations that are deemed appropriate)
+
+These ratings reflect the emotional tone, strength of the argument, and specific references made in the text.
+

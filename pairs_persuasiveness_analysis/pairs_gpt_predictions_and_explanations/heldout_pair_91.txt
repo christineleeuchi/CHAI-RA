@@ -1,0 +1,63 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided in terms of valence, dominance, intensity, and concreteness, here’s a breakdown of each quarter:
+
+### Quarter 1: 
+*We don't really have a problem making food for people. Transporting food is the problem (logistical or financial). Unless you live somewhere where that is an issue your extra mouth doesn't take food out of another's. It's no more selfish than feeding yourself.*
+
+1. **Valence**: 0.7 - The tone is somewhat positive, as the speaker is presenting a rational argument against the selfishness of having children. It emphasizes a logistical perspective rather than moral condemnation.
+2. **Dominance**: 0.6 - The argument asserts a position of understanding and control over the situation, but it could be seen as somewhat defensive and reliant on external factors (logistics).
+3. **Intensity**: 0.5 - The argument is relatively moderate in intensity; while it seeks to make a point, it does not express strong emotions or urgency.
+4. **Concreteness**: 0.6 - The argument is concrete in discussing food production and transportation, but it may lack specifics about how this directly relates to the morality of having children.
+
+### Quarter 2:
+*As for point 1. That voice in your head telling you to have a child is what connects us to all other sentient life. We exist to reproduce. It's how we lived to take domain over the earth (and moon) in a darwinian sense you are acting selflessly sacrificing time energy and possibly health to broaden the human gene pool.*
+
+1. **Valence**: 0.8 - This portion has a more positive slant, focusing on the natural drive to reproduce and the connections to life, which can be uplifting.
+2. **Dominance**: 0.7 - The speaker takes a strong position here, asserting that reproduction is a fundamental aspect of existence and emphasizing a sort of philosophical dominance.
+3. **Intensity**: 0.8 - The intensity is higher as the speaker appeals to evolutionary biology and existential reasoning, making a passionate case for procreation.
+4. **Concreteness**: 0.6 - While the argument references Darwinian principles, it remains somewhat abstract regarding the implications for morality, focusing instead on a biological viewpoint.
+
+### Quarter 3:
+*(this also answers point three for me as well. Unless you believe humans are truly special in the eye of some deity then we can be punished for being the animals we are.)*
+
+1. **Valence**: 0.5 - The valence here is neutral, highlighting a contrast in beliefs without strong positive or negative emotions attached.
+2. **Dominance**: 0.4 - There’s a relatively low dominance here, as it reflects uncertainty or questioning of belief systems rather than asserting authority.
+3. **Intensity**: 0.5 - The intensity is moderate, with a philosophical stance, but it does not employ strong emotional language.
+4. **Concreteness**: 0.5 - This section is abstract and somewhat philosophical in nature, discussing deity and punishment, making it less concrete.
+
+### Summary Score:
+- **Quarter 1**: Valence 0.7, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+- **Quarter 2**: Valence 0.8, Dominance 0.7, Intensity 0.8, Concreteness 0.6
+- **Quarter 3**: Valence 0.5, Dominance 0.4, Intensity 0.5, Concreteness 0.5
+
+These scores reflect the overall tone, strength, and clarity of the arguments made within each quarter.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s the rating for each of the specified dimensions of the argument provided in each quarter of the text, scored from 0.0 to 1.0:
+
+**1st Quarter:**
+- **Valence:** 0.6 (The argument presents a positive view of having children, though it indicates a somewhat dismissive tone towards the opposing viewpoint.)
+- **Dominance:** 0.5 (The argument asserts a traditional belief in the biological desire for children but acknowledges the opposing perspective.)
+- **Intensity:** 0.7 (There's a strong expression of conviction regarding biological instincts and societal norms.)
+- **Concreteness:** 0.5 (References to Japan’s population issue add some concreteness, but the overall reasoning remains somewhat abstract.)
+
+**2nd Quarter:**
+- **Valence:** 0.5 (Here, the tone remains neutral as it acknowledges the opponent’s perspective while outlining the counterargument regarding food distribution.)
+- **Dominance:** 0.4 (The argument is less about dominance in opinion, focusing instead on suggesting a different perspective on the hunger issue.)
+- **Intensity:** 0.4 (The points made are reasonable but lack emotional weight compared to the first quarter.)
+- **Concreteness:** 0.6 (The reference to distribution logistics enhances the argument's groundedness in reality.)
+
+**3rd Quarter:**
+- **Valence:** 0.4 (This part downplays the concern raised about beliefs in the afterlife, which could be perceived negatively by those invested in that perspective.)
+- **Dominance:** 0.6 (The argument asserts a viewpoint that prioritizes personal beliefs over the opposing argument, indicating a stronger stance.)
+- **Intensity:** 0.5 (The argument remains relatively moderate without strong emotional appeal.)
+- **Concreteness:** 0.3 (The discussion about belief systems is abstract and does not provide concrete examples.)
+
+**4th Quarter:**
+- **Valence:** 0.7 (This portion expresses a strong positive emotion toward parenting and the personal bond with a biological child.)
+- **Dominance:** 0.8 (The speaker clearly asserts the importance of personal experience and the benefits of having biological children, dominating the discourse.)
+- **Intensity:** 0.9 (This segment is emotionally charged, reflecting a deep love for the child and strong personal convictions.)
+- **Concreteness:** 0.7 (Concrete personal anecdotes about the child and perceptions of bonding add to the argument's solidity.)
+
+These ratings reflect aspects of the argument's emotional tone, assertiveness, and clarity throughout its various components.
+

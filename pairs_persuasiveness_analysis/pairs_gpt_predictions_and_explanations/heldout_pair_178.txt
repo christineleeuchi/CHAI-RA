@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To provide ratings for each quarter of the argument based on valence, dominance, intensity, and concreteness, here's the breakdown:
+
+### First Quarter: 
+_"Spirited Away_ contains one of the most hauntingly beautiful scenes I've ever encountered in a movie, one that resonates deeply with me."
+- **Valence**: 0.8 (The language is positive, indicating a strong emotional response.)
+- **Dominance**: 0.4 (The statement expresses a personal feeling rather than asserting power or control over a subject.)
+- **Intensity**: 0.7 (Words like "hauntingly beautiful" and "resonates deeply" indicate a strong emotional reaction.)
+- **Concreteness**: 0.6 (While the scene is described as beautiful, it is still somewhat abstract without specific details about the scene itself.)
+
+### Second Quarter: 
+_I once spent six months of my life travelling, alone, in countries where I was either marginally fluent, barely able to speak a few hundred words, or completely incapable of communicating in the local language (depending on the country)._
+- **Valence**: 0.3 (The experience of traveling alone suggests a mix of positive and negative; it has a slight negative tilt due to loneliness.)
+- **Dominance**: 0.5 (Describes a personal experience, but does not assert dominance.)
+- **Intensity**: 0.6 (The experience of being "alone" and "incapable of communicating" conveys a considerable emotional weight.)
+- **Concreteness**: 0.8 (It's a specific and relatable experience, easily visualized.)
+
+### Third Quarter: 
+_That scene where Sen is on the train, riding through the water with no-face following her? That *perfectly* captured the surreal experience of being alone and unable to communicate in an alien land._
+- **Valence**: 0.7 (Positive in that it articulates a moment that evokes strong feelings, even if related to loneliness.)
+- **Dominance**: 0.4 (Again, it's a subjective interpretation of art without assertion over others’ views.)
+- **Intensity**: 0.8 (The word "perfectly" and the description of a "surreal experience" amplify feelings.)
+- **Concreteness**: 0.9 (Very specific imagery is provided, making it highly relatable.)
+
+### Fourth Quarter: 
+_It's moments like that that make Ghibli awesome. Not the artwork; not the story per se (although _Princess Mononoke_ is an amazing story): the fleeting momentary encapsulation of feeling in the form of art._
+- **Valence**: 0.7 (Positively expresses appreciation for moments in Ghibli films.)
+- **Dominance**: 0.5 (Proclaims a personal view but does not assert a preference in a dominating manner.)
+- **Intensity**: 0.7 (Words like "awesome" and "momentary encapsulation" convey a strong sense of appreciation.)
+- **Concreteness**: 0.7 (While defining what makes Ghibli appealing, it still remains somewhat abstract.)
+
+### Summary of Ratings:
+- **First Quarter**: Valence: 0.8, Dominance: 0.4, Intensity: 0.7, Concreteness: 0.6
+- **Second Quarter**: Valence: 0.3, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.8
+- **Third Quarter**: Valence: 0.7, Dominance: 0.4, Intensity: 0.8, Concreteness: 0.9
+- **Fourth Quarter**: Valence: 0.7, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.7
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument in quarters based on valence, dominance, intensity, and concreteness, I will assess each aspect as described:
+
+**1st Quarter: "This type of CMV is pointless. Nobody is going to be able to convince you to be retroactively moved by a film."**
+- **Valence:** 0.2 (Negative; expresses frustration or dismissal)
+- **Dominance:** 0.7 (Strong; the speaker asserts their perspective firmly)
+- **Intensity:** 0.5 (Moderate; the tone is assertive but not overly aggressive)
+- **Concreteness:** 0.5 (Fairly concrete; makes a claim about the inability to change opinions but lacks specific examples)
+
+**2nd Quarter: "However, I can assure you that nobody is 'faking' their love for these movies, as you suggest."**
+- **Valence:** 0.6 (Positive; aims to defend the sincerity of others’ opinions)
+- **Dominance:** 0.6 (Moderate-Strong; stands against the previous claim with authority)
+- **Intensity:** 0.4 (Moderate; somewhat calmer than the first quarter)
+- **Concreteness:** 0.6 (More concrete; directly addresses the assertion of insincerity)
+
+**3rd Quarter: "It's not even as though there's some intellectual clout to be gained by claiming to like movies that are largely indistinguishable to non-fans from trashy mecha anime."**
+- **Valence:** 0.1 (Negative; uses sarcasm and belittles an opinion)
+- **Dominance:** 0.5 (Moderate; challenges another viewpoint but is less assertive than earlier)
+- **Intensity:** 0.6 (Moderate-High; some degree of sarcasm and hostility)
+- **Concreteness:** 0.7 (Concrete; provides a comparison to illustrate the argument)
+
+**4th Quarter: "Miyazaki's films have strong, rounded characters, beautiful imagery, fantastic music, and inventive, original plots (who the hell else has ever made a decent movie about a supernatural bathhouse?)."**
+- **Valence:** 0.8 (Positive; praises the films and highlights their qualities)
+- **Dominance:** 0.4 (Less dominant; this part is more informative than assertive)
+- **Intensity:** 0.7 (High; conveys excitement and appreciation for the film's qualities)
+- **Concreteness:** 0.8 (Very concrete; lists specific attributes and a unique example)
+
+**Summary of Ratings:**
+- **1st Quarter:** Valence 0.2, Dominance 0.7, Intensity 0.5, Concreteness 0.5
+- **2nd Quarter:** Valence 0.6, Dominance 0.6, Intensity 0.4, Concreteness 0.6
+- **3rd Quarter:** Valence 0.1, Dominance 0.5, Intensity 0.6, Concreteness 0.7
+- **4th Quarter:** Valence 0.8, Dominance 0.4, Intensity 0.7, Concreteness 0.8
+

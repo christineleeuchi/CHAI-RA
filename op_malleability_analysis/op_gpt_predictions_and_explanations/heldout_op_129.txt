@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on valence, dominance, intensity, and concreteness, I will break it down into four quarters and provide ratings from 0.0 to 1.0 for each criteria.
+
+### Quarter 1: 
+"CMV: The social contract of marriage should not be limited to romantic/sexual relationships. If the government is going to be involved in issuing and recognizing unions between two people (which it really shouldn't but that's an entirely different CMV)..."
+
+- **Valence**: 0.6 (The sentiment is somewhat positive, advocating for inclusivity but acknowledges its disagreement with government involvement.)
+- **Dominance**: 0.5 (The argument posits a claim but does not overpower or dismiss opposing views outright.)
+- **Intensity**: 0.7 (There is a moderate level of conviction in the stance taken.)
+- **Concreteness**: 0.4 (The argument introduces abstract concepts of marriage and government involvement without concrete examples yet.)
+
+### Quarter 2: 
+"...then this social contract and the benefits it carries should be available to ANY two consenting adults. Any two adults should be allowed to join together in a domestic partnership for mutual benefit, be they a romantic couple, friends, siblings, parent and child, etc."
+
+- **Valence**: 0.8 (This portion conveys a strongly positive sentiment toward inclusivity and sharing benefits.)
+- **Dominance**: 0.6 (The argument asserts a strong belief in equality amongst various forms of partnerships and begins to consolidate the argument's position.)
+- **Intensity**: 0.8 (The use of "ANY two consenting adults" reinforces the strength and seriousness of the claim.)
+- **Concreteness**: 0.6 (Specific examples of different types of partnerships provide a clearer picture of the argument.)
+
+### Quarter 3: 
+"The romantic and sexual aspect of a marriage should be irrelevant in the eyes of the state. It is simply two people who for whatever reason decide to face life together and form a partnership to help, support, and prosper one another."
+
+- **Valence**: 0.7 (The sentiment remains positive, emphasizing partnership and support.)
+- **Dominance**: 0.5 (While it presents a strong belief, it allows for nuance in understanding relationships beyond romance.)
+- **Intensity**: 0.7 (The conviction is solid with a clear endorsement of diverse types of partnerships.)
+- **Concreteness**: 0.5 (While there are picturable elements, it is still somewhat abstract, largely discussing ideas without specific case studies.)
+
+### Quarter 4: 
+"Apart from the fact that government shouldn't be involved in marriage at all, I really don't think there is any argument that can hold up against the fundamental injustice of allowing this benefit for some and not for others."
+
+- **Valence**: 0.8 (Very strong positive inclination toward fairness and justice.)
+- **Dominance**: 0.8 (This portion is assertive and states a strong position against perceived injustice.)
+- **Intensity**: 0.9 (The emphatic nature of "no argument that can hold up" suggests high intensity and certainty.)
+- **Concreteness**: 0.6 (While it articulates a strong view, it remains conceptual about injustice without referencing specifics.)
+
+### Summary of Scores
+- **Quarter 1**: Valence: 0.6, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.4
+- **Quarter 2**: Valence: 0.8, Dominance: 0.6, Intensity: 0.8, Concreteness: 0.6
+- **Quarter 3**: Valence: 0.7, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.5
+- **Quarter 4**: Valence: 0.8, Dominance: 0.8, Intensity: 0.9, Concreteness: 0.6
+
+These scores capture the multifaceted nature of the argument, illustrating its strengths and weaknesses across various dimensions.
+

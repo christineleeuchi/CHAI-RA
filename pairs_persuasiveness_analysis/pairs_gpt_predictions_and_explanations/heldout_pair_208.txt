@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each of the four dimensions (valence, dominance, intensity, and concreteness) for each quarter of the argument. 
+
+**1st Quarter: "I grew up without tv, so from my perspective, everyone else seems to be slow-boiled into accepting ads. I loath them, and if there isn't a good reason to have ads on a service then I don't see a good reason to pay for it or them. I see this as voting with my dollar."**
+
+- **Valence:** 0.3 (The argument expresses a negative feeling towards ads, reflecting dissatisfaction.)
+- **Dominance:** 0.5 (The speaker positions themselves as a discerning consumer, asserting their opinion against ads, but does not completely dominate the conversation.)
+- **Intensity:** 0.6 (The speaker's strong dislike for ads suggests a moderate to high intensity of feeling.)
+- **Concreteness:** 0.4 (The mention of "voting with my dollar" gives a clear action but is somewhat abstract regarding how they relate to the situation.)
+
+**2nd Quarter: "If you remember, Hulu originally said they would offer paid tiers that would allow for more expensive shows to be ad-free with the higher cost subscriptions (I liked this idea). When they axed this plan I bowed out."**
+
+- **Valence:** 0.4 (The sentiment is more neutral than negative here, expressing disappointment rather than outright anger.)
+- **Dominance:** 0.4 (While sharing an opinion, the speaker is providing a reaction to Hulu's decisions, which gives them a less dominant role compared to Hulu.)
+- **Intensity:** 0.5 (There is a sense of personal disappointment, showing moderate intensity in the feelings expressed.)
+- **Concreteness:** 0.5 (The mention of specific past plans by Hulu provides a clearer basis for the opinion.)
+
+**3rd Quarter: "Fulfilling a person's desires in a marketplace is how innovation happens and at the moment Hulu is not innovating in my direction—so they don't get my money."**
+
+- **Valence:** 0.5 (This section has a more neutral tone, focusing on innovation rather than negativity toward Hulu.)
+- **Dominance:** 0.6 (The speaker asserts their opinion strongly and clearly in terms of marketplace principles.)
+- **Intensity:** 0.5 (The argument maintains a moderate level of intensity, as the speaker is expressing a principled stance.)
+- **Concreteness:** 0.6 (The connection between market desires and innovation makes this point specific and actionable.)
+
+**4th Quarter: "Other companies *are* innovating in my direction. I'm also spoiled about having a machine to wash my clothes and ride a car instead of a horse."**
+
+- **Valence:** 0.5 (Still a neutral tone; there is satisfaction in finding alternatives but also some critique.)
+- **Dominance:** 0.5 (The mention of other companies shows a comparative stance, but it doesn't shift the overall dominance in the argument.)
+- **Intensity:** 0.4 (The intensity is lower here, as the comparison is somewhat lighthearted rather than charged.)
+- **Concreteness:** 0.5 (References to modern conveniences provide relatable examples, but they are metaphorical.)
+
+These scores reflect the different components of the argument and how they convey the speaker's feelings and perspectives.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here are the ratings you requested for each quarter of the argument in terms of valence, dominance, intensity, and concreteness:
+
+### Quarter 1: "Initially, Hulu was ad free, and then they slowly added more and more ads."
+- **Valence**: 0.2 (Negative tone toward Hulu's change)
+- **Dominance**: 0.4 (The speaker appears frustrated but is not overly aggressive)
+- **Intensity**: 0.5 (Moderate dissatisfaction is expressed)
+- **Concreteness**: 0.7 (Specific reference to Hulu’s ad policy)
+
+### Quarter 2: "And it's a few ads over and over again. And then you pay for the Hulu Plus subscription, but some shows are **still** 'Web only' or require you to authenticate through a cable/satellite provider."
+- **Valence**: 0.3 (Continued negative feelings about repeated ads and access issues)
+- **Dominance**: 0.5 (More assertive about Hulu’s shortcomings)
+- **Intensity**: 0.6 (Frustration is growing; the speaker is adamant)
+- **Concreteness**: 0.8 (Specific examples of issues faced with Hulu)
+
+### Quarter 3: "Or they still don't get the current season (for example, the History Channel's Vikings series)."
+- **Valence**: 0.4 (Negative yet somewhat resigned tone)
+- **Dominance**: 0.5 (Direct criticism of Hulu’s content offerings)
+- **Intensity**: 0.5 (Continues to express frustration but with specific reference)
+- **Concreteness**: 0.9 (Very clear example used)
+
+### Quarter 4: "All in all, it seems like you're paying every month just to have a bunch of ads shoved down your throat. I cancelled when I got fed up with the combination of ads and the lack of availability of some shows for the aforementioned reasons."
+- **Valence**: 0.4 (Strongly negative sentiment emphasizing dissatisfaction)
+- **Dominance**: 0.6 (The speaker confidently cites personal experience as evidence)
+- **Intensity**: 0.8 (High level of frustration clearly expressed)
+- **Concreteness**: 0.8 (Clear conclusion drawn based on provided experiences)
+
+### Summary Ratings
+- **Valence Scores**: 0.2, 0.3, 0.4, 0.4
+- **Dominance Scores**: 0.4, 0.5, 0.5, 0.6
+- **Intensity Scores**: 0.5, 0.6, 0.5, 0.8
+- **Concreteness Scores**: 0.7, 0.8, 0.9, 0.8
+

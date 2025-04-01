@@ -1,0 +1,46 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! I will provide a rating score for valence, dominance, intensity, and concreteness for each quarter of the argument.
+
+### Quarter 1: "He or she might catch diseases outside of your relationship and infect you with them. Avoiding infection risks sounds healthy to me."
+- **Valence:** 0.7 (The statement is generally negative, focusing on health risks, but it emphasizes a healthy choice.)
+- **Dominance:** 0.5 (The argument presents a precaution but does not strongly assert dominance over the opposing view.)
+- **Intensity:** 0.6 (The implication of disease adds a moderate intensity to the concern.)
+- **Concreteness:** 0.8 (The mention of diseases is specific and tangible.)
+
+### Quarter 2: "Another thing is that you can't guarantee that it would not make you fall in love with someone else. That would cause emotional pain. Avoiding emotional pain sounds healthy to me."
+- **Valence:** 0.6 (This section presents a negative outcome related to emotional pain but ties it to the idea of health.)
+- **Dominance:** 0.5 (Again, it expresses a concern without dominating the conversation, indicating another perspective.)
+- **Intensity:** 0.7 (Emotional pain is a strong concept that provokes significant feelings.)
+- **Concreteness:** 0.7 (Falling in love is a concrete idea, though somewhat abstract in its emotional implications.)
+
+### Quarter 3: "Also, it might not be accepted by society or your family or general peer group. Avoiding those arguments sounds healthy to me."
+- **Valence:** 0.5 (This statement is neutral, acknowledging social acceptance and implying potential negativity.)
+- **Dominance:** 0.4 (It suggests a concern for societal norms but does not forcefully assert dominance.)
+- **Intensity:** 0.4 (The emotional intensity is lower here as it is more about societal perception than personal feelings.)
+- **Concreteness:** 0.6 (Referring to social acceptance is somewhat abstract but still has concrete implications for relationships.)
+
+### Quarter 4: "Basically, your reasoning is strongly simplified."
+- **Valence:** 0.2 (This is a critique and carries a negative tone.)
+- **Dominance:** 0.6 (This statement asserts dominance by challenging the opposing argument directly.)
+- **Intensity:** 0.5 (While it is a critique, it is not strongly intense, as it does not evoke strong emotions.)
+- **Concreteness:** 0.4 (The assertion that reasoning is "simplified" is somewhat abstract, lacking specific examples.)
+
+These scores reflect an analysis of the argument based on its emotional tone (valence), assertiveness (dominance), emotional charge (intensity), and degree of specificity (concreteness).
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each of the specified dimensions (valence, dominance, intensity, and concreteness) based on the given argument:
+
+1. **Valence: 0.6**  
+   The overall sentiment of the argument is somewhat negative towards the idea of non-monogamous relationships, implying that such arrangements aren't in line with the emotional expectations many people have. However, it also acknowledges the need for compatibility in relationship expectations, which adds a slight positive aspect.
+
+2. **Dominance: 0.4**  
+   The argument presents a counterpoint to the original viewpoint advocating for body autonomy in relationships, but it does so in a way that suggests there's nothing wrong with setting boundaries as long as they are communicated. This reflects a moderate level of authority rather than overt dominance over the original argument.
+
+3. **Intensity: 0.5**  
+   The argument conveys a moderate intensity in addressing the topic. It questions the idea of body autonomy in the context of emotional bonds but does so more as a critique rather than with extreme language or forceful rhetoric.
+
+4. **Concreteness: 0.7**  
+   The argument illustrates a clear and specific scenario related to relationships and expectations. It addresses the issue of communicating boundaries in a relationship, making it more concrete than abstract. The mention of wanting emotional bonds and laying out expectations adds to this concreteness.
+
+Overall, the argument assesses the notion of non-monogamy while grounding its points in the importance of mutual expectations and emotional connections.
+

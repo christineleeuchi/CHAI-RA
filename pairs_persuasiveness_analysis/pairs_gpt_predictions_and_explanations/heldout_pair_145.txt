@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the ratings for each quarter of the argument text you provided, based on the criteria of valence, dominance, intensity, and concreteness:
+
+### 1st Quarter: "The animals - especially endangered ones - can be cared for"
+- **Valence:** 0.7 (Positive aspect of zoos caring for animals is emphasized)
+- **Dominance:** 0.5 (The argument is not particularly strong yet; it presents a perspective without asserting power over the counter-argument)
+- **Intensity:** 0.6 (Moderate intensity, as it discusses a significant point about endangered species)
+- **Concreteness:** 0.6 (Somewhat concrete as it references the care of endangered animals, though specifics on what 'care' means are lacking)
+
+### 2nd Quarter: "either to preserve the species or ultimately release into the wild."
+- **Valence:** 0.4 (Neutral to slightly negative due to acknowledgment of the limitations of releasing zoo animals)
+- **Dominance:** 0.4 (Argument is countered immediately with a significant point about their inability to survive in the wild)
+- **Intensity:** 0.5 (Medium intensity regarding the species preservation point but quickly undermined by counter-claims)
+- **Concreteness:** 0.5 (It has some elements of concreteness but lacks detail on how species would actually be preserved)
+
+### 3rd Quarter: "zoos let citizens see animals which they otherwise not, leading them to consider them - and the environment - when creating/voting on policies."
+- **Valence:** 0.5 (Neutral, as it recognizes a potential positive but questions its effectiveness)
+- **Dominance:** 0.4 (The argument isn’t particularly strong; it’s followed by skepticism about its impact)
+- **Intensity:** 0.5 (Moderate intensity but lacking strong evidence)
+- **Concreteness:** 0.5 (Concrete enough to understand the idea but lacks empirical support)
+
+### 4th Quarter: "Though, mostly zoo life for animals is a lot like prison life for humans..."
+- **Valence:** 0.3 (Negative because it paints a grim picture of life in zoos)
+- **Dominance:** 0.7 (Strong dominance, as it effectively counters the previous point and presents a vivid analogy)
+- **Intensity:** 0.8 (High intensity due to the emotional weight of comparing zoo life to prison life)
+- **Concreteness:** 0.7 (Concrete in drawing strong parallels between human imprisonment and animal captivity)
+
+### Summary Ratings
+1st Quarter: Valence 0.7 | Dominance 0.5 | Intensity 0.6 | Concreteness 0.6  
+2nd Quarter: Valence 0.4 | Dominance 0.4 | Intensity 0.5 | Concreteness 0.5  
+3rd Quarter: Valence 0.5 | Dominance 0.4 | Intensity 0.5 | Concreteness 0.5  
+4th Quarter: Valence 0.3 | Dominance 0.7 | Intensity 0.8 | Concreteness 0.7  
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided in four quarters, we can assign scores from 0.0 to 1.0 in the categories of valence, dominance, intensity, and concreteness. Here's a breakdown of the argument:
+
+**Quarter 1: "endangered animals can be cared for: It's true but it's only a very small portions of endangered animals that the public find cute or know about that will be protected this way."**
+- **Valence:** 0.5 - While it starts with an acknowledgment that caring for endangered animals is true, it quickly turns negative by emphasizing limitations.
+- **Dominance:** 0.6 - The speaker asserts their point about the small portion of animals that benefit from this care, positioning themselves with authority.
+- **Intensity:** 0.5 - The intensity of the argument is moderate; it's more of a critique than a strong emotional appeal.
+- **Concreteness:** 0.7 - The argument is concrete as it deals with measurable facts about the proportion of endangered animals being protected.
+
+**Quarter 2: "The reasons why some animals are protected in the wild or in a zoo are wildly irrational."**
+- **Valence:** 0.4 - The comment is critical and negative, indicating a strong disapproval of the methods used for animal protection.
+- **Dominance:** 0.5 - This statement makes a claim but lacks strong authoritative backing or evidence to dominate the discourse.
+- **Intensity:** 0.6 - The use of the word "wildly" adds intensity to the critique, suggesting passion or strong disagreement.
+- **Concreteness:** 0.4 - The argument is somewhat abstract as it does not provide specific examples or reasoning for why the rationale is deemed irrational.
+
+**Quarter 3: "Most of these animals are 'exotic' and your concern has very little chance of changing things in these animals' former countries."**
+- **Valence:** 0.5 - This part is somewhat neutral; it acknowledges the “exotic” nature of the animals but suggests limitations in the effectiveness of concern.
+- **Dominance:** 0.6 - The speaker confidently states a viewpoint about the lack of impact, asserting a position.
+- **Intensity:** 0.5 - The phrase has a moderate intensity but lacks strong emotional language.
+- **Concreteness:** 0.6 - It is concrete in that it refers to “exotic” animals and suggests a clear limitation to concern.
+
+**Quarter 4: "there are many other ways to attract attention to these animals than enslave them and put them in a cage..."**
+- **Valence:** 0.3 - This has a negative valence since it raises the ethical concern of enslavement, which is a strong critique of zoos.
+- **Dominance:** 0.5 - The claim has a degree of authority but depends on the acceptance of the term "enslave," which can be contentious.
+- **Intensity:** 0.7 - The language used (“enslave them”) elevates the emotional intensity considerably, indicating strong moral outrage.
+- **Concreteness:** 0.6 - The argument references specific alternatives but is still somewhat generalized in its suggestion.
+
+Overall, the ratings reflect the mixed emotional and rational qualities of the provided argument, balancing critique with acknowledgment of different perspectives.
+

@@ -1,0 +1,39 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on the metrics of valence, dominance, intensity, and concreteness, I'll break down the argument into four quarters and give a rating score from 0.0 to 1.0 for each.
+
+### Quarter 1:
+**Text: "CMV: Pink is the best colour highlighter Amongst me and my friends, as well as friends of friends, and just about anyone at our schools and universities we see multiple times, we constantly have the debate about the best colour of highlighter."**
+- **Valence:** 0.7 (The sentiment is positive towards pink being the best, but it is also subjective)
+- **Dominance:** 0.5 (The speaker is asserting an opinion but acknowledges a broader discussion)
+- **Intensity:** 0.6 (There is enthusiasm about the topic but it is stated in a casual manner)
+- **Concreteness:** 0.7 (The context of discussions among friends and peers adds some concreteness)
+
+### Quarter 2:
+**Text: "for me it is easily pink because it just POPS off the page. it does highlight! it draws the eye better than any other colour."**
+- **Valence:** 0.9 (Highly positive and definitive about pink's qualities)
+- **Dominance:** 0.8 (Strong assertion of preference and confidence in the argument)
+- **Intensity:** 0.9 (Emotionally charged descriptions; “POPS” enhances intensity)
+- **Concreteness:** 0.6 (While there is a strong visual element, the argument is still subjective)
+
+### Quarter 3:
+**Text: "most people say yellow because it is the classic and easy to photocopy without it showing up so you can share notes. however i feel like yellow isn't as strong or immediately distinct as pink and it takes time to dry."**
+- **Valence:** 0.5 (Balanced; recognizes yellow's merits but contrasts them with pink's strengths)
+- **Dominance:** 0.6 (Acknowledges opposing views while still maintaining a preference for pink)
+- **Intensity:** 0.5 (Less emotionally charged than previous sections, more analytical)
+- **Concreteness:** 0.7 (Discusses practical considerations about photocopying, which adds practicality)
+
+### Quarter 4:
+**Text: "Also, yellow is usually tainted by the pen and isn't as clean."**
+- **Valence:** 0.4 (Slightly negative towards yellow)
+- **Dominance:** 0.5 (Continues the critique of yellow but less assertive)
+- **Intensity:** 0.5 (Mildly negative observation without strong emotional weight)
+- **Concreteness:** 0.6 (Specific complaint about yellow's qualities adds some concrete reasoning)
+
+### Summary Scores:
+- **Quarter 1:** Valence: 0.7, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+- **Quarter 2:** Valence: 0.9, Dominance: 0.8, Intensity: 0.9, Concreteness: 0.6
+- **Quarter 3:** Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.7
+- **Quarter 4:** Valence: 0.4, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+
+This breakdown provides an overview of how different aspects of the argument manifest throughout the text.
+

@@ -1,0 +1,38 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a breakdown of the rating scores for the argument based on its valence, dominance, intensity, and concreteness:
+
+### First Quarter:
+**Text:** "CMV: I think Batman's dumb and I don't see the appeal. He's intelligent and wealthy and adaptable apparently."
+
+- **Valence:** 0.2 (Negative sentiment towards Batman)
+- **Dominance:** 0.4 (Some assertion of opinion but not overly forceful)
+- **Intensity:** 0.4 (Expresses a strong opinion but not extreme)
+- **Concreteness:** 0.5 (Vague appeal to Batman’s qualities)
+
+### Second Quarter:
+**Text:** "I think the majority of Gotham's problems could've solved with smart investments in social programs and industry and the police force which Bruce has money for."
+
+- **Valence:** 0.3 (Critique of Bruce Wayne’s choices implies negativity)
+- **Dominance:** 0.5 (More assertive in suggesting an alternative approach)
+- **Intensity:** 0.5 (Reasonable argument, but doesn’t reach extreme levels)
+- **Concreteness:** 0.7 (Specific suggestions for improvements)
+
+### Third Quarter:
+**Text:** "I swear the guy is anonymous being Batman, which means he can get away with killing, which would solve all his super villain issues immediately. How naive are superheros when same villains keep coming back. Considering his track record, you think he really can't his stance on the not killing rule."
+
+- **Valence:** 0.1 (Strongly negative tone towards Batman’s morals)
+- **Dominance:** 0.6 (Assertive and critical of Batman’s ethics)
+- **Intensity:** 0.7 (Emotional and passionate criticism)
+- **Concreteness:** 0.6 (More specific about the implications of Batman’s choices)
+
+### Fourth Quarter:
+**Text:** "And even when it comes to I dunno fighting regular crime, I'm pretty sure a neighborhood watch group and 100 patrolmen would do a much better job than one guy flying around million dollar super planes. I think that just makes you an asshole."
+
+- **Valence:** 0.2 (Semi-negative, calling Batman out as an “asshole”)
+- **Dominance:** 0.7 (High assertiveness in opposition to Batman’s role)
+- **Intensity:** 0.8 (Very intense expression of disdain)
+- **Concreteness:** 0.8 (Clear comparison of potential solutions)
+
+### Summary:
+This shows how the argument shifts in tone and intensity throughout the different segments, building a strong critical stance towards Batman, especially in the latter parts.
+

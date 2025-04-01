@@ -1,0 +1,47 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument across different dimensions (valence, dominance, intensity, and concreteness), I’ll break it down into four quarters and provide a rating for each category from 0.0 to 1.0.
+
+### Quarter 1
+*Valence: 0.3* - The tone is somewhat negative as it opposes the idea of raising the minimum wage, indicating skepticism about its benefits for poor people.
+
+*Dominance: 0.6* - The speaker presents their viewpoint clearly and forcefully, asserting their perspective against popular opinion.
+
+*Intensity: 0.5* - There is a moderate level of intensity; while the speaker feels strongly about their position, they do not use overly emotional language.
+
+*Concreteness: 0.4* - The speaker shares personal experiences, but the initial claim is still quite abstract (about being against a higher minimum wage).
+
+### Quarter 2
+*Valence: 0.4* - The tone remains somewhat negative as the speaker contrasts the job availability in the US with that in Europe, suggesting a preference for the current system.
+
+*Dominance: 0.6* - The argument maintains a strong position, utilizing personal experience to bolster their claim.
+
+*Intensity: 0.5* - The description of the jobs brings a sense of complexity but doesn't significantly ramp up the emotional appeal.
+
+*Concreteness: 0.5* - The reference to specific jobs and hiring practices adds some concrete elements to the argument.
+
+### Quarter 3
+*Valence: 0.3* - The negativity persists as the claim is made that raising the minimum wage will result in job losses.
+
+*Dominance: 0.7* - The speaker firmly states their argument and conclusions, positioning themselves confidently against the raise in minimum wage.
+
+*Intensity: 0.6* - The consequences of raising minimum wage are presented with more urgency, indicating a stronger concern for job loss.
+
+*Concreteness: 0.6* - The argument is becoming more concrete with specific outcomes mentioned regarding job availability for lower-skilled workers.
+
+### Quarter 4
+*Valence: 0.4* - The tone is more mixed, acknowledging the need for adjustments to minimum wage with a caution against abrupt change.
+
+*Dominance: 0.5* - The speaker attempts to moderate their position, indicating some flexibility but still holds firm on their main argument.
+
+*Intensity: 0.4* - The intensity diminishes as the speaker advocates for alternatives like Universal Basic Income instead of directly opposing the idea of supporting low-income workers.
+
+*Concreteness: 0.5* - The mention of alternative solutions adds to the concreteness of the discussion but does not strongly alter the core argument.
+
+### Summary of Ratings
+| Quarter     | Valence | Dominance | Intensity | Concreteness |
+|-------------|---------|-----------|-----------|--------------|
+| Quarter 1   |  0.3    |    0.6    |    0.5    |     0.4      |
+| Quarter 2   |  0.4    |    0.6    |    0.5    |     0.5      |
+| Quarter 3   |  0.3    |    0.7    |    0.6    |     0.6      |
+| Quarter 4   |  0.4    |    0.5    |    0.4    |     0.5      |
+

@@ -1,0 +1,29 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **First Quarter: "CMV: Bernie Sanders is a bad person for his immigration policy, and anyone who interprets this as racism on his part has a very good reason for doing so."**
+   - **Valence:** 0.3 (Negative)
+   - **Dominance:** 0.6 (Moderately assertive)
+   - **Intensity:** 0.5 (Moderately intense)
+   - **Concreteness:** 0.4 (Somewhat abstract, less concrete examples provided)
+
+2. **Second Quarter: "Saying that open borders is a 'Koch Brothers Proposal' as though that in any way justifies treating people differently simply on the geographic location in which they were born is an absolutely abhorrent opinion..."**
+   - **Valence:** 0.1 (Very negative)
+   - **Dominance:** 0.7 (Very assertive)
+   - **Intensity:** 0.8 (High intensity)
+   - **Concreteness:** 0.5 (Some tangible ideas, but still somewhat abstract)
+
+3. **Third Quarter: "... and I interpret it to mean that Bernie Sanders supports a bourgeois class of elitists who are only really different based on the fact that they were born in America."**
+   - **Valence:** 0.2 (Negative)
+   - **Dominance:** 0.6 (Moderately assertive)
+   - **Intensity:** 0.6 (Moderately intense)
+   - **Concreteness:** 0.4 (Somewhat abstract but references class distinction)
+
+4. **Fourth Quarter: "No one has any choice over where they happen to be born, and people are *humans first*, regardless of where they are born. Discrimination based on where someone is born is *exactly equal* to racism."**
+   - **Valence:** 0.4 (Somewhat negative due to the implication of racism)
+   - **Dominance:** 0.5 (Moderately assertive)
+   - **Intensity:** 0.7 (Fairly intense)
+   - **Concreteness:** 0.6 (More concrete in addressing the core issue of humanity and discrimination)
+
+These ratings reflect the argument’s structure and language, indicating where it is more negative, assertive, intense, and concrete.
+

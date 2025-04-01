@@ -1,0 +1,33 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the specified characteristics for each quarter of the argument, I will evaluate the provided text accordingly.
+
+**1st Quarter: "CMV: My vote in an election doesn't matter I really want someone to change my view on this, since everyone i know are frowning on me for thinking this way."**
+
+- Valence: 0.5 (Mix of neutral and slightly negative, as it indicates frustration)
+- Dominance: 0.3 (The speaker seems to feel somewhat powerless and seeks validation)
+- Intensity: 0.6 (There is a strong emotional appeal in wanting someone to change their view)
+- Concreteness: 0.5 (The statement is clear but abstract regarding the significance of the vote)
+
+**2nd Quarter: "My argument is, that just with my single vote, i'm statistically extremely unlikely to make a significant difference."**
+
+- Valence: 0.4 (Negative view on the effectiveness of an individual vote)
+- Dominance: 0.5 (The argument expresses a firm belief but acknowledges a larger context)
+- Intensity: 0.7 (Strong conviction in the statistical reasoning)
+- Concreteness: 0.6 (Reasoning is clear but relies on statistical concepts)
+
+**3rd Quarter: "Whether i vote or not is irrelevant on that scale. The obvious argument against me, that i hear time and time again, is that my vote is a vote in a bigger picture."**
+
+- Valence: 0.4 (Continued negative view, though recognizes opposing arguments)
+- Dominance: 0.4 (Moderate, but there’s acknowledgment of counterarguments)
+- Intensity: 0.6 (Commitment to the belief is still present, but less intense)
+- Concreteness: 0.5 (Some clarity, though metaphorical language about "the bigger picture" is somewhat abstract)
+
+**4th Quarter: "But that still doesn't counter my argument that a *single* vote doesn't matter. Statistically."**
+
+- Valence: 0.5 (Neutral; reinforcing belief without strong emotion)
+- Dominance: 0.5 (Maintains a balanced argumentative stance; not overly aggressive)
+- Intensity: 0.5 (Moderate confidence in the argument without peak emotional drive)
+- Concreteness: 0.7 (Clear conclusion with a strong grounding in statistics)
+
+Overall, these scores reflect the emotional landscape and clarity of the argument while considering how decisive and impactful the assertions are.
+

@@ -1,0 +1,52 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness, using a scale from 0.0 to 1.0:
+
+1. **Quarter 1: "I will concede that on a biological level, squatting is the 'default' position so our biology and anatomy generally works better in that position."**
+   - **Valence:** 0.6 (Generally positive acknowledgment of biological benefits)
+   - **Dominance:** 0.5 (Balanced tone; neither aggressively persuasive nor defensively positioned)
+   - **Intensity:** 0.4 (Mild intensity; simply stating a biological fact)
+   - **Concreteness:** 0.7 (Concrete in referencing biological anatomy)
+
+2. **Quarter 2: "Toilet paper is a shield that, hopefully, keeps your hand and any small cuts, or splits cleaner and less prone to nasty infections. It does, as other commentators have said, keep feces out from underneath your fingernails. The associated costs of water usage, soap also affect the environment. (Though it must be noted that you still SHOULD wash your hands after pooing it just takes less if you're not scrubbing last night's dinner off your hand.)"**
+   - **Valence:** 0.5 (Neutral-to-positive; considers the protective benefits of toilet paper)
+   - **Dominance:** 0.6 (Moderately assertive in defending toilet paper use)
+   - **Intensity:** 0.5 (Moderate intensity; discusses practical concerns but softens with qualifiers)
+   - **Concreteness:** 0.6 (Concrete in its discussion of hygiene and associated environmental considerations)
+
+3. **Quarter 3: "Bulky, dirty, and in need of maintenance I will give you. However, if we are talking about a toilet in a home cleanliness should be part of the necessary routine that would be needed if you had say, a bucket and a floor level toilet system. The complexity in a toilet provides a way to shield sewer gasses from coming back up into the restroom. It's not a perfect system but it's better than up against a tree in the woods."**
+   - **Valence:** 0.5 (Neutral; acknowledging both sides of the argument)
+   - **Dominance:** 0.7 (Assertive in defending the complexity of modern toilets)
+   - **Intensity:** 0.6 (Moderate intensity; presents a robust defense with a comparison to primitive solutions)
+   - **Concreteness:** 0.7 (Concretely addresses arguments against modern toilets with practical implications)
+
+These scores reflect my assessment of the emotional and pragmatic aspects of the arguments presented in each quarter.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for each quarter of the argument text you provided:
+
+1) **Quarter 1: "This may be true, but there is no evidence that I am aware of that supports any of your claims. Also, cancer? Really? That sounds almost like a joke: 'I squat when I poop so I won't get cancer!'"**
+   - Valence: 0.3 (Neutral to slightly negative, as it dismisses the claims and uses a somewhat sarcastic tone)
+   - Dominance: 0.6 (The speaker asserts their position over the original claim, indicating control in the conversation)
+   - Intensity: 0.5 (Moderate intensity due to the dismissive tone and the mention of a serious topic like cancer)
+   - Concreteness: 0.4 (While it refers to the lack of evidence and uses a concrete term like "cancer," it is largely abstract in its ridicule)
+
+2) **Quarter 2: "Soap and other cleaning materials also have costs associated with them. The cleanliness bonus is marginal for people who shower daily. You'll need to use more water too to wash up. Are you sure that this is really a plus?"**
+   - Valence: 0.4 (Slightly negative, questioning the benefits of cleanliness)
+   - Dominance: 0.5 (The speaker presents a counter-argument, showing some control over the discussion)
+   - Intensity: 0.4 (Moderate intensity as the argument challenges the cleanliness claim)
+   - Concreteness: 0.5 (The argument is fairly concrete, discussing specific items like soap and water usage)
+
+3) **Quarter 3: "They are also a great way to dispose of waste: it has to go somewhere, it can be toxic to plants, and toilets take up a negligibly larger amount of space than a bucket, which then requires 'maintenance' every time it needs emptied."**
+   - Valence: 0.5 (Neutral, as it presents a factual statement about waste disposal and space)
+   - Dominance: 0.5 (The speaker is asserting a logical perspective on the argument but does not dominate outright)
+   - Intensity: 0.5 (Balanced intensity, presenting factual points without strong emotional appeal)
+   - Concreteness: 0.6 (The assertions are concrete and relate to practical aspects of waste management and space)
+
+4) **Quarter 4: "Butts are also, with the exception of the asshole itself, probably the cleanest part of our bodies. They're always covered and we rarely directly touch anything with them; why would they be unclean?"**
+   - Valence: 0.5 (Neutral, attempting to support an argument with reasoning, though the subject matter may evoke mixed feelings)
+   - Dominance: 0.4 (Presents a counter point but is less assertive than previous quarters)
+   - Intensity: 0.5 (Moderately intense due to the surprising nature of the claim about cleanliness)
+   - Concreteness: 0.6 (Addresses specific parts of the body and their cleanliness, making the argument more grounded)
+
+Overall, these ratings reflect the tone, argument strength, emotional engagement, and specificity present in each quarter of the provided text.
+

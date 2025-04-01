@@ -1,0 +1,75 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score for each of the four criteria for each quarter of the argument:
+
+### Quarter 1
+- **Valence: 0.4**
+  - The argument presents a negative view of the original belief (selfish motives are evil) but does not evoke strong positive emotions.
+- **Dominance: 0.6**
+  - The speaker asserts authority in their argument, pushing back against the accepted belief and framing it as irrational.
+- **Intensity: 0.5**
+  - The language is somewhat strong, expressing frustration with societal beliefs, but lacks extreme emotional language.
+- **Concreteness: 0.5**
+  - The examples of differing motivations (earning vs. stealing) add some concreteness but remain abstract in discussing morality.
+
+### Quarter 2
+- **Valence: 0.5**
+  - The tone is more neutral as it questions societal perceptions, providing both sides without overt negativity or positivity.
+- **Dominance: 0.5**
+  - The speaker maintains a level of authority in questioning the moral judgment of desires but does not dominate the conversation.
+- **Intensity: 0.4**
+  - The intensity remains moderate, as the speaker is questioning rather than passionately arguing.
+- **Concreteness: 0.6**
+  - The comparison of various motivations (earning vs. stealing) enhances concreteness here.
+
+### Quarter 3
+- **Valence: 0.7**
+  - There’s a positive spin here as the speaker expresses that wanting children is virtuous, invoking a sense of goodness in selfishness.
+- **Dominance: 0.7**
+  - The argument asserts a strong viewpoint, emphasizing the moral implications of desire.
+- **Intensity: 0.6**
+  - This section uses more emotional language about the child's desire to be wanted, increasing the intensity of the argument.
+- **Concreteness: 0.7**
+  - This segment feels more concrete as it addresses the child’s perspective and emotional needs directly.
+
+### Quarter 4
+- **Valence: 0.6**
+  - The conclusion reiterates the positive aspects of selfish desires, leaving a positive residue in the argument’s tone.
+- **Dominance: 0.6**
+  - The speaker successfully argues that their perspective is valid, maintaining a level of authority.
+- **Intensity: 0.7**
+  - This section feels more passionate as it emphasizes the emotional connection between parent and child.
+- **Concreteness: 0.6**
+  - While still abstract, this portion draws on a relatable emotional experience, adding a layer of concreteness.
+
+### Summary
+Overall, the argument presents a nuanced view of selfishness that challenges existing beliefs, using examples and emotional connections to enhance persuasiveness. The varying scores reflect shifts in emotional tone, authority, and clarity throughout different sections.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for each of the specified dimensions of the argument, broken down by each quarter of the text:
+
+**1st Quarter:**
+- **Valence: 0.6** - The argument presents a positive view of having children, emphasizing biological instincts and societal norms.
+- **Dominance: 0.7** - The speaker assumes a dominant position by asserting that the desire for biological children is innate and presents it as a universal truth.
+- **Intensity: 0.5** - The language used is firm but not overly passionate; it expresses a strong belief without excessive emotional appeal.
+- **Concreteness: 0.6** - The argument references biological instincts and societal norms, which are tangible concepts, although somewhat abstract in discussion.
+
+**2nd Quarter:**
+- **Valence: 0.5** - It maintains a neutral tone while acknowledging the existence of children who need homes but still prioritizes biological desires.
+- **Dominance: 0.5** - The argument remains balanced but implies that the biological desire is more important than the logistical issues surrounding adoption.
+- **Intensity: 0.4** - This section is more analytical and less emotionally charged, though it still asserts the speaker's viewpoint on reproduction.
+- **Concreteness: 0.5** - It addresses societal issues like overpopulation and hunger logistics but does not provide strong concrete examples or data.
+
+**3rd Quarter:**
+- **Valence: 0.4** - The speaker dismisses the concerns about the afterlife without deeply engaging with them, which may come off as somewhat negative toward the agnostic perspective.
+- **Dominance: 0.6** - The speaker establishes their position and effectively counters the concerns about existential risk with their atheistic viewpoint.
+- **Intensity: 0.3** - This part of the argument is more detached and lacks emotional weight, focusing instead on differing beliefs.
+- **Concreteness: 0.4** - It discusses abstract beliefs about existence but lacks concrete evidence or examples to support its dismissal of the concern.
+
+**4th Quarter:**
+- **Valence: 0.7** - The author expresses a strong positive sentiment towards their own child and the bond they share, which is an emotional appeal.
+- **Dominance: 0.6** - The focus on personal experience with their child helps to assert dominance in the conversation about the parent-child bond.
+- **Intensity: 0.8** - There is a high level of intensity in expressing the love for their child, which conveys a deep emotional investment.
+- **Concreteness: 0.7** - The argument about the bond with one’s biological child is concrete, with real-life experience and tangible examples (such as the child's resemblance and behavior).
+
+Overall, the argument presents a mix of emotional and rational components, and the scores reflect varying degrees of valence, dominance, intensity, and concreteness throughout the text.
+

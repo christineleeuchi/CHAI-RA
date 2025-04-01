@@ -1,0 +1,85 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided, I will assign scores for valence, dominance, intensity, and concreteness based on each quarter of the text. 
+
+### Quarter 1: "Shouldn't we try to fix the problems of rape, assault, and violence in prisons instead if suicide becomes that appealing an option?"
+- **Valence (0.6):** The sentiment is mostly negative regarding prison conditions but has a positive slant toward finding solutions. 
+- **Dominance (0.5):** The argument is questioning and seeks to assert that problems in prisons should be addressed, indicating a moderate level of dominance.
+- **Intensity (0.6):** There is a strong emotional appeal in expressing concern for serious issues like rape and assault, giving this a moderately high intensity.
+- **Concreteness (0.7):** The mention of specific issues makes the argument concrete in its context.
+
+### Quarter 2: "I'm for physician assisted suicide in the cases of terminal illness myself..."
+- **Valence (0.8):** This portion has a positive valence as it advocates for physician-assisted suicide in appropriate cases.
+- **Dominance (0.4):** It presents a personal viewpoint without a strong assertion, indicating lower dominance.
+- **Intensity (0.5):** The statement is moderate in intensity as it conveys a personal belief without strong emotions.
+- **Concreteness (0.6):** The concept of physician-assisted suicide is specific but is somewhat abstract in the context of terminal illness.
+
+### Quarter 3: "...but I think saying 'Just let them kill themselves' will only lead to more apathy towards prison conditions."
+- **Valence (0.5):** This segment has a neutral to slightly negative valence, indicating concern about potential consequences without overly negative emotions.
+- **Dominance (0.6):** The speaker asserts a viewpoint that challenges a proposed solution, indicating moderate dominance.
+- **Intensity (0.7):** The concern about apathy towards prison conditions adds intensity to this part of the argument.
+- **Concreteness (0.5):** The phrase "just let them kill themselves" is concrete but operates at a more abstract level regarding societal attitudes.
+
+### Quarter 4: "for each quarter of the argument's text."
+- **Valence (0.5):** This segment is neutral, merely providing instruction and lacking emotive content.
+- **Dominance (0.5):** It expresses no opinion, showing a neutral level of dominance.
+- **Intensity (0.1):** This part has low intensity due to its instructional nature.
+- **Concreteness (0.1):** This is a very abstract segment due to its lack of content related to the main topic.
+
+### Summary of Scores:
+1. **Quarter 1:**
+   - Valence: 0.6
+   - Dominance: 0.5
+   - Intensity: 0.6
+   - Concreteness: 0.7
+
+2. **Quarter 2:**
+   - Valence: 0.8
+   - Dominance: 0.4
+   - Intensity: 0.5
+   - Concreteness: 0.6
+
+3. **Quarter 3:**
+   - Valence: 0.5
+   - Dominance: 0.6
+   - Intensity: 0.7
+   - Concreteness: 0.5
+
+4. **Quarter 4:**
+   - Valence: 0.5
+   - Dominance: 0.5
+   - Intensity: 0.1
+   - Concreteness: 0.1
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument's valence, dominance, intensity, and concreteness, we can break it down into four quarters:
+
+1. **First Quarter: "A lot of prisoners go to prison on grounds I disagree with: three strikes, mandatory minimum..."**
+
+   - **Valence:** 0.5 (Neutral; expresses disagreement but does not convey strong positive or negative emotions.)
+   - **Dominance:** 0.4 (The speaker asserts a viewpoint but doesn't demonstrate strong authority or control over the topic.)
+   - **Intensity:** 0.5 (Moderate intensity; there is a clear stance, but it's more of a general dissatisfaction than an emotionally charged statement.)
+   - **Concreteness:** 0.4 (Somewhat concrete; mentions specific concepts but lacks detailed examples.)
+
+2. **Second Quarter: "The courts should have the final say in who gets what punishment."**
+
+   - **Valence:** 0.6 (Somewhat positive; supports the judicial system and emphasizes a belief in its authority.)
+   - **Dominance:** 0.6 (The speaker presents a clear assertion about the role of courts, indicating a stronger stance.)
+   - **Intensity:** 0.5 (Moderate intensity; a straightforward assertion but not highly charged.)
+   - **Concreteness:** 0.7 (Concrete; clearly defines the role of courts in the context of punishment.)
+
+3. **Third Quarter: "Other than that, the State shouldn't be involved with suicide unless the State has to take on responsibility."**
+
+   - **Valence:** 0.5 (Neutral; expresses a pragmatic viewpoint without strong emotional appeal.)
+   - **Dominance:** 0.5 (Balanced view; indicates the speaker's belief about the state's involvement but lacks assertiveness.)
+   - **Intensity:** 0.4 (Mild intensity; the argument is clear but not emotionally engaging.)
+   - **Concreteness:** 0.6 (Somewhat concrete; presents a clear stance on state involvement, but general.)
+
+4. **Fourth Quarter: "I don't want to pay for widows."**
+
+   - **Valence:** 0.3 (Negative; expresses a concern that implies financial burden and distaste for consequences.)
+   - **Dominance:** 0.5 (Moderate dominance; indicates a personal opinion on responsibility but does not take a strong authoritative tone.)
+   - **Intensity:** 0.7 (High intensity; expresses a strong emotional viewpoint regarding financial responsibilities.)
+   - **Concreteness:** 0.6 (Relatively concrete; directly states a concern about costs associated with consequences of state actions.)
+
+Overall, these ratings reflect the varying strengths and clarity of the arguments presented in each quarter.
+

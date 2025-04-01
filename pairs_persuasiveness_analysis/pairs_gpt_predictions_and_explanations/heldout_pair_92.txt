@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each dimension of the argument, broken down into quarters:
+
+### 1. Quarter 1: "Taxation is far from the only thing a government does."
+- **Valence**: 0.5 (Neutral statement, acknowledges a fact about government functions)
+- **Dominance**: 0.4 (Somewhat authoritative but not strongly assertive)
+- **Intensity**: 0.3 (Mildly emphasizes the inadequacy of taxation as the sole measure of government)
+- **Concreteness**: 0.4 (Somewhat tangible, but general statement)
+
+### 2. Quarter 2: "In your plutocracy, the 1% could vote to send the other 99% to war, or to become indentured servants, etc."
+- **Valence**: 0.8 (Negative implication of plutocracy, suggesting harm to the majority)
+- **Dominance**: 0.7 (Strong assertion against the hypothetical scenario)
+- **Intensity**: 0.8 (High emotional resonance due to the dire consequences mentioned)
+- **Concreteness**: 0.6 (Very concrete examples of potential consequences)
+
+### 3. Quarter 3: "Besides the question of fairness, obviously, there would be problems with stability."
+- **Valence**: 0.6 (Negative connotation regarding stability, but also recognizes fairness)
+- **Dominance**: 0.5 (Moderate assertion about stability issues)
+- **Intensity**: 0.5 (Balanced concern, though future stability is implicitly serious)
+- **Concreteness**: 0.5 (Concept of stability is somewhat abstract)
+
+### 4. Quarter 4: "That's a big part of the appeal of democracy, and why, when established for some time, democracies are more stable. If you have a government that the majority finds crappy, there’s at least a mechanism to change it. (Yes, I know it doesn't work that well in practice, but it's still better than most)."
+- **Valence**: 0.7 (Generally positive view of democracy, with some acknowledgment of its imperfections)
+- **Dominance**: 0.6 (Strong claim about the merits of democracy despite flaws)
+- **Intensity**: 0.6 (Moderate emphasis on the stability of established democracies)
+- **Concreteness**: 0.6 (Concrete discussion of democracy's features but slightly abstract regarding implementation)
+
+This breakdown captures the emotional and structural aspects of the argument in terms of valence, dominance, intensity, and concreteness.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Rating the argument in terms of valence, dominance, intensity, and concreteness for each quarter of the provided text, here are the scores:
+
+### First Quarter:
+**Text:** "One of my favorite quotes from Rome '... you know nothing of violence. A pack of mangy dogs can kill a lion.'"
+
+- **Valence:** 0.4 (The quote introduces an interesting perspective, but it's somewhat neutral.)
+- **Dominance:** 0.3 (It suggests violence can be overpowering, but does not assert dominance strongly.)
+- **Intensity:** 0.5 (The imagery is evocative but doesn't carry extreme emotional weights.)
+- **Concreteness:** 0.6 (The reference to animals and the quote provides a tangible image.)
+
+### Second Quarter:
+**Text:** "Democracy is a stable form of government because physical force against it is pointless. All things being equal the minority would always lose in a fight and so rule by the majority is physically unassailable."
+
+- **Valence:** 0.6 (Mostly positive, defending democracy; it's rational and somewhat uplifting.)
+- **Dominance:** 0.7 (Assertive claim about democracy's strength.)
+- **Intensity:** 0.7 (The argument carries a strong conviction about democracy's resilience.)
+- **Concreteness:** 0.5 (The abstract nature of democracy limits its concreteness but uses the tangible idea of physical force.)
+
+### Third Quarter:
+**Text:** "My point... It is important that Bill Gates doesn't get more political impact than 100 million other people because, eventually, those 100 million other people would storm his house, kill his guards, and mount his head on a pike."
+
+- **Valence:** 0.2 (Negative connotation towards wealth and potential mob violence.)
+- **Dominance:** 0.5 (Suggests the power of the majority, but in a threatening context.)
+- **Intensity:** 0.9 (The imagery of storming a house and violence is very intense.)
+- **Concreteness:** 0.8 (Very concrete and vivid imagery contrasting wealthy individual against the masses.)
+
+### Fourth Quarter:
+**Text:** "Just look at how well feudal societies worked out in the past, and how well Russia is working out today. The brilliance of western society is that we are all in this together and we all get to choose the country's course together. Finally... Bill Gates is a great man. If there was a person alive today who I think could be king and do good it would be Bill Gates. So I probably wouldn't be in the mob at his gates... If however Kim Kardashian were making decisions for millions of others...."
+
+- **Valence:** 0.5 (A mix of positive and negative; commendation for Gates contrasted with cynicism about celebrity influence.)
+- **Dominance:** 0.4 (It introduces a more collaborative viewpoint but lacks a strong assertiveness.)
+- **Intensity:** 0.6 (The argument is thoughtful, but less passionate than earlier sections.)
+- **Concreteness:** 0.6 (Divided between tangible examples of past systems and current individual recognitions.)
+
+These scores provide a rounded evaluation of the argument's components throughout each section, reflecting the complexity and nuances of the statements made.
+

@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here’s a rating for each of the specified dimensions of the argument for each quarter of the provided text. The scores are from 0.0 (low) to 1.0 (high).
+
+### Quarter 1: "The problem with this train of thought is that the men who end up being the biggest 'studs' are the ones who *don't* have to try as hard as the average guy."
+- **Valence:** 0.5 (Neutral; identifies a problem without strong positive or negative sentiment.)
+- **Dominance:** 0.6 (Confident assertion about the men in question, but not overly aggressive.)
+- **Intensity:** 0.5 (Mildly assertive, not highly charged emotionally.)
+- **Concreteness:** 0.7 (Some concrete examples can be inferred, but it remains more abstract.)
+
+### Quarter 2: "The reason that they end up being such 'studs' is that they have some advantage that makes women more likely to want to sleep with them."
+- **Valence:** 0.5 (Neutral; outlining reasons without a strong emotional tone.)
+- **Dominance:** 0.6 (Decisively states a cause but is somewhat speculative.)
+- **Intensity:** 0.4 (Less emotional; focused on explanation rather than passion.)
+- **Concreteness:** 0.6 (Suggests a concrete attribute but does not specify what those advantages could be.)
+
+### Quarter 3: "Leonardo DiCaprio pretty clearly doesn't put much effort into getting women, and yet he still leaves clubs with dozens of girls at a time."
+- **Valence:** 0.4 (Some negative tone towards the concept of effort for some men, implies inequity.)
+- **Dominance:** 0.7 (Strong assertion of a well-known figure's experience.)
+- **Intensity:** 0.6 (More emotional and assertive, drawing on a specific example that highlights the disparity.)
+- **Concreteness:** 0.8 (Very concrete; uses a specific individual as evidence.)
+
+### Quarter 4: "Getting women is super easy for him, and yet people basically never seriously call guys like him a 'slut.' That's why that argument always seems like a rationalization to justify the speaker's feelings to me, instead of a true explanation of why they have them."
+- **Valence:** 0.3 (More negative sentiment expressed towards the reasoning behind societal views.)
+- **Dominance:** 0.8 (Strong and assertive statement regarding societal judgments.)
+- **Intensity:** 0.7 (Higher emotional and rhetorical intensity; it captures frustration.)
+- **Concreteness:** 0.5 (Concepts are relevant but could benefit from more specific evidence or examples.)
+
+Overall, the argument demonstrates a mix of emotionality and rationality, focusing on the disparity in societal perceptions of male behaviors in contrast to female behaviors.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the rating scores for the argument "Crime" based on the given criteria:
+
+### 1. Valence (Emotional Tone)
+- **Score: 0.6**  
+The argument expresses concern and a strong emotional tone regarding gender inequality and the morality of labeling women as "sluts." While it conveys a critical perspective on the fairness of society's views, it does so in a way that seeks to provoke thought rather than simply attacking.
+
+### 2. Dominance (Power or Influence)
+- **Score: 0.7**  
+The argument presents a strong counterpoint to the original perspective on sexual promiscuity, asserting that the moral implications cannot be separated from the discussion of societal reactions. This suggests a high level of influence in steering the conversation towards a deeper analysis of gender dynamics.
+
+### 3. Intensity (Strength of Argument)
+- **Score: 0.8**  
+The argument is quite intense in its challenge to the original viewpoint. It emphasizes that moral implications cannot be divorced from the initial context and stresses the unfairness of the double standard, suggesting a robust commitment to its stance.
+
+### 4. Concreteness (Clarity and Specificity)
+- **Score: 0.6**  
+While the argument is clear in its assertion and supports its claims with logical reasoning, it could benefit from more concrete examples or data to further bolster its stance. The mention of societal reactions could be expanded with specifics to enhance clarity.
+
+Overall, the argument "Crime" is thoughtful and raises important issues regarding gender perceptions and morality, but it could incorporate more detailed examples or data to strengthen its claims.
+

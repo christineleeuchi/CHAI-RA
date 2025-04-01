@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here is a rating score for each of the four requested dimensions (valence, dominance, intensity, and concreteness) for each quarter of the argument:
+
+**Quarter 1:**
+*Text: "If someone has a Harvard degree, do you think, 'gee, this person is good enough to get accepted to Harvard, and has one of the best educations in the country,' OR 'wow, this person could afford to get into Harvard, they should work for me.'"*
+
+- **Valence:** 0.8 (The statement has a generally positive tone towards Harvard degrees.)
+- **Dominance:** 0.6 (The argument suggests a belief in the meritocratic value of a Harvard degree.)
+- **Intensity:** 0.7 (The use of rhetorical questioning implies strong feelings about the perceived value of the degree.)
+- **Concreteness:** 0.6 (Specific references to a Harvard degree add some concreteness, but the assertions are still somewhat abstract.)
+
+**Quarter 2:**
+*Text: "Pretty sure it's the former, not the latter. Harvard may be expensive, but it's *also* hard to get into."*
+
+- **Valence:** 0.8 (The positive view of Harvard's selectivity is emphasized.)
+- **Dominance:** 0.7 (The speaker asserts a strong opinion against the devaluation of Harvard degrees based on financial factors.)
+- **Intensity:** 0.6 (The phrase "pretty sure" suggests confidence, but not absolute certainty.)
+- **Concreteness:** 0.6 (The focus remains on Harvard, but without specific examples or data for support.)
+
+**Quarter 3:**
+*Text: "We definitely view degrees based on the prestige of the school, not the expense. Schools are often expensive because they are prestigious, not the other way around."*
+
+- **Valence:** 0.7 (This section maintains a generally positive view regarding prestigious schools.)
+- **Dominance:** 0.7 (The argument asserts the hierarchy of prestige over cost, demonstrating a strong belief.)
+- **Intensity:** 0.5 (While there is a clear opinion, the intensity could be stronger with more emphatic language.)
+- **Concreteness:** 0.7 (This statement provides a clear, straightforward argument that can be easily understood.)
+
+**Quarter 4:**
+*Text: "If Harvard were free, it would still be viewed favorably by an employer. Plus, I've read that Harvard and other Ivys make so much money in endowment that they could afford to pay for everyone's tuition as it is; so it's probable that the quality of an Ivy education wouldn't even go down if it were free."*
+
+- **Valence:** 0.9 (This final statement is very positive about the potential for free education at prestigious schools.)
+- **Dominance:** 0.8 (It asserts that the quality wouldn't diminish, maintaining confidence in the Ivy League.)
+- **Intensity:** 0.7 (The conclusion has a strong assertive tone about free education not harming prestige.)
+- **Concreteness:** 0.8 (Incorporating financial facts about endowments adds concrete support for the argument presented.)
+
+These scores reflect the varying degrees of valence, dominance, intensity, and concreteness across the different parts of the argument.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each aspect of the provided argument, broken down by quarter:
+
+1. **Valence**: 0.7
+   - The argument presents a nuanced view, recognizing potential benefits and drawbacks. It acknowledges that free college tuition could decrease the perceived value of a degree, but also counters that access to education is vital for societal benefits. 
+
+2. **Dominance**: 0.6
+   - The argument is quite assertive, especially in challenging the notion that free tuition would inherently undermine the value of education. However, it's balanced by a recognition of the complexities involved in education and societal needs.
+
+3. **Intensity**: 0.5
+   - There is a moderate level of intensity in the argument. It raises important points but does so in a reasoned manner rather than with excessive emotion or urgency. The focus on factual comparisons and implications keeps it grounded.
+
+4. **Concreteness**: 0.8
+   - The argument uses concrete examples (e.g., education systems in Germany and Denmark) to illustrate its points, making it tangible. The reference to specific educational standards and outcomes lends clarity and substance. 
+
+Overall, the argument engages in a thoughtful critique of the "free college tuition" concept, supporting its points with evidence and examples while maintaining a balanced tone.
+

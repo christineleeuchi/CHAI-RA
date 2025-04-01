@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the following argument on four dimensions—valence, dominance, intensity, and concreteness—here are the scores for each quarter of the text provided:
+
+1. **First Quarter: "They are slow, stupidly huge, a lot more fragile than planes..."**
+
+   - **Valence:** 0.2 (the overall sentiment is negative)
+   - **Dominance:** 0.5 (the argument is expressed in a somewhat assertive manner)
+   - **Intensity:** 0.6 (strong descriptors like "stupidly huge" add to the intensity)
+   - **Concreteness:** 0.4 (some tangible characteristics are mentioned but lack specific metrics)
+
+2. **Second Quarter: "...the useful mass/volume to total mass/volume ratios are obscenely low..."**
+
+   - **Valence:** 0.3 (negative sentiment but more technical)
+   - **Dominance:** 0.6 (the phrasing asserts a negative trait decisively)
+   - **Intensity:** 0.5 (the use of "obscenely low" is somewhat intense)
+   - **Concreteness:** 0.5 (quantifiable ratios mentioned, but without exact figures)
+
+3. **Third Quarter: "...they are very susceptible to meteorological conditions (a strong wind will blow them back)..."**
+
+   - **Valence:** 0.3 (negative aspect discussed)
+   - **Dominance:** 0.6 (the argument presents a clear and confident statement)
+   - **Intensity:** 0.5 (the phrase about susceptibility carries weight)
+   - **Concreteness:** 0.5 (concrete example provided, but not extensively detailed)
+
+4. **Fourth Quarter: "...and they aren't even that incredibly efficient fuel wise (using solar..."**
+
+   - **Valence:** 0.4 (still negative, but slightly more reasoned)
+   - **Dominance:** 0.5 (an assertion is made, but slightly less forceful)
+   - **Intensity:** 0.4 (less intense compared to previous parts, a more analytical tone)
+   - **Concreteness:** 0.6 (some technical discussion of efficiency and solar potential adds detail)
+
+These scores reflect the general sentiment and quality of the argument in each section, focusing on how positively or negatively it presents its points, how dominant the arguments are stated, their intensity of expression, and how concrete or specific they are in their claims and assertions.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's the rating score for each aspect of the argument, divided into quarters of the text:
+
+1. **First Quarter: "We should bring back airships, but only for a few niche applications. One such application is military transport..."**
+   - **Valence:** 0.7 (The statement supports the idea of airships, indicating a positive view but with qualifiers.)
+   - **Dominance:** 0.5 (It asserts a specific opinion but leaves room for other views.)
+   - **Intensity:** 0.6 (There is a level of enthusiasm for airships, albeit controlled by the limitation to niche applications.)
+   - **Concreteness:** 0.6 (Introduces a specific application, making the argument somewhat concrete.)
+
+2. **Second Quarter: "Airships like the one in the video have the excellent advantage of being able to lift huge cargo loads over land..."**
+   - **Valence:** 0.8 (Strongly positive view of the airships' capabilities.)
+   - **Dominance:** 0.6 (The argument is confident in stating the advantages of airships.)
+   - **Intensity:** 0.7 (Demonstrates enthusiasm about their cargo-lifting capacity.)
+   - **Concreteness:** 0.8 (Clearly outlines a tangible advantage that can be visualized.)
+
+3. **Third Quarter: "Using a rigid airship for disaster relief in locations where all the transportation industry has been destroyed..."**
+   - **Valence:** 0.9 (Highly positive view, emphasizing a beneficial application in crisis scenarios.)
+   - **Dominance:** 0.7 (Strong assertion about the utility of airships in a specific context.)
+   - **Intensity:** 0.8 (High enthusiasm about their potential role in disaster relief.)
+   - **Concreteness:** 0.7 (The application is specific and clear, though still somewhat hypothetical.)
+
+4. **Fourth Quarter: "The slow speed makes this impractical for commercial transport applications."**
+   - **Valence:** 0.4 (Negative aspect introduced, which reduces overall positivity.)
+   - **Dominance:** 0.5 (Neutral; recognizes a limitation without dominating the overall view.)
+   - **Intensity:** 0.5 (Moderate contrast introduced, balancing the previous enthusiasm.)
+   - **Concreteness:** 0.6 (Brings up a concrete limitation that affects the feasibility of commercial transport.) 
+
+These scores reflect how each segment of the argument presents its case regarding the value and practicality of airships in certain niches while acknowledging their limitations.
+

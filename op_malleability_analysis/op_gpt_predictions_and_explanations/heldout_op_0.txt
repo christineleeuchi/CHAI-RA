@@ -1,0 +1,29 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating for each aspect of the argument in the specified quarters:
+
+### Quarter 1: "CMV: Price gouging during natural disasters is a good thing, and should not be banned. This came up in the aftermath of Hurricane Sandy for me, since I live in an area of NY (Long Island) that was fairly heavily affected."
+- **Valence**: 0.7 (The statement expresses a positive view on price gouging, indicating that it is beneficial in the context of natural disasters.)
+- **Dominance**: 0.5 (The individual presents their personal experience, suggesting that their viewpoint is formed by direct observation, but not overwhelmingly authoritative.)
+- **Intensity**: 0.6 (The language used is assertive, indicating a strong opinion on the matter, particularly with "should not be banned.")
+- **Concreteness**: 0.4 (While specific to a personal experience, it lacks detailed examples in this quarter.)
+
+### Quarter 2: "After the storm, generators and gasoline were in very high demand and very short supply. Due to [NY's price gouging law](http://www.ag.ny.gov/price-gouging), gas prices rose only very modestly after the storm, and many gas stations had incredibly long lines. Generators were basically unavailable at any price."
+- **Valence**: 0.5 (The tone is neutral; it describes the situation post-storm without positive or negative judgment.)
+- **Dominance**: 0.6 (The author provides factual information about the supply and demand situation, which supports their subsequent argument.)
+- **Intensity**: 0.5 (The description is straightforward and factual, lacking emotional language but conveying urgency regarding shortages.)
+- **Concreteness**: 0.7 (This section provides tangible details about the specific issues faced post-disaster.)
+
+### Quarter 3: "If price gouging had been allowed, the high prices would have had two effects, both beneficial: * The price would have attracted needed items from outside the affected area to come in via unusual means. [...]"
+- **Valence**: 0.8 (This quarter argues directly for the benefits of price gouging, reinforcing the positive view.)
+- **Dominance**: 0.7 (The author takes a strong stance and provides a rationale for their viewpoint, showing confidence in their perspective.)
+- **Intensity**: 0.8 (The argument presents strong hypothetical outcomes that suggest urgency and importance, emphasizing high prices as a catalyst for change.)
+- **Concreteness**: 0.6 (This section begins to outline hypothetical situations that illustrate the point but remains somewhat abstract in its examples.)
+
+### Quarter 4: "* The higher prices would have caused people to conserve [...]"
+- **Valence**: 0.7 (The argument continues to maintain a positive view on price gouging by suggesting it leads to better resource allocation.)
+- **Dominance**: 0.6 (The reasoning is still strong, though it focusing on a psychological aspect, which feels slightly less authoritative than the previous quarter.)
+- **Intensity**: 0.7 (The call for conservation through price increases indicates a strong emotional appeal to the audience, suggesting an understanding of human behavior in crisis.)
+- **Concreteness**: 0.5 (While discussing conservation, it lacks specific examples to illustrate how price gouging directly influences consumer behavior.)
+
+These ratings provide a nuanced view of how each quarter of the argument conveys various aspects of the author’s message.
+

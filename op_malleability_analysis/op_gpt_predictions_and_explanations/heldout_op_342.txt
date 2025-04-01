@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument on a scale from 0.0 to 1.0 for each metric—valence, dominance, intensity, and concreteness—I'll break it down into quarters based on the text provided. 
+
+### Quarter 1:
+**Text:** "CMV: Not knowing her age should be a defense against statutory rape in some cases. Hi guys! Let me start out by saying that I believe I understand the reasons behind statutory rape. Many different cultures define adulthood differently, but in most childhood is defined as a time where the person has a psuedo-agency. They're a person but they can only make certain decisions. Age of consent laws are based upon this."
+
+- **Valence:** 0.7 (The overall tone is neutral to somewhat positive, as the author seeks to clarify their understanding and engage in discussion.)
+- **Dominance:** 0.4 (The author expresses an opinion but does so in a tentative, open way which invites discussion rather than asserting dominance.)
+- **Intensity:** 0.5 (Moderate intensity as the author expresses a controversial viewpoint.)
+- **Concreteness:** 0.5 (The author discusses cultural definitions and concepts but remains somewhat abstract without specific examples.)
+
+### Quarter 2:
+**Text:** "I completely agree. I like romeo and juliet clauses but in general I think this way of thinking and justification is spot-on."
+
+- **Valence:** 0.8 (Positive sentiment is high as the author expresses agreement.)
+- **Dominance:** 0.3 (Lacks assertiveness; more of an endorsement than a commanding statement.)
+- **Intensity:** 0.5 (Calm yet positive intensity as the author shows approval.)
+- **Concreteness:** 0.6 (Concrete because it mentions specific legal terms like "romeo and juliet clauses.")
+
+### Quarter 3:
+**Text:** "I think it's 110% absurd though to apply this in situations where the minor meets their statutory rapist in an adult-restricted zone (in this case a zone designated for anybody above the relevant age of consent). This means 18+ clubs, 21+ bars, even 16+ shows where it takes place in a region where the age of consent is 16+."
+
+- **Valence:** 0.6 (A slightly negative tone is present as the author critiques the application of the law, but it's not overly aggressive.)
+- **Dominance:** 0.5 (The author asserts an opinion more strongly in this section, showing a clearer stance.)
+- **Intensity:** 0.7 (Higher intensity as the author uses hyperbole ("110% absurd") to emphasize their point.)
+- **Concreteness:** 0.7 (Specific examples provided strengthen the argument's clarity.)
+
+### Quarter 4:
+**Text:** "I understand this isn't a super common occurrence, that typically it's parents who file charges and that minors aren't usually acting as weird predators. It's not about frequency, just that it exists. I'm not sure how easy it will be to change my view. I do know that I completely don't understand any arguments for this line of thought. I might just be confused. It just doesn't make sense to me. Maybe something will click."
+
+- **Valence:** 0.5 (A neutral tone as it suggests consideration of different perspectives, but with a hint of confusion.)
+- **Dominance:** 0.4 (Less dominant as it reflects ambivalence and uncertainty.)
+- **Intensity:** 0.6 (Moderate intensity in expressing confusion and the struggle to understand.)
+- **Concreteness:** 0.4 (Some abstract concepts like confusion, making it less concrete.)
+
+Overall, the argument is a mix of personal reflection and legal discussion, showing a spectrum of emotions and thought processes throughout the text.
+

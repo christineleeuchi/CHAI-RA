@@ -1,0 +1,63 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score from 0.0 to 1.0 for each of the specified dimensions in the argument you provided:
+
+### 1st Quarter (Pros for oranges)
+- **Valence:** 0.8 (The argument has a positive tone about oranges and highlights their practical advantages.)
+- **Dominance:** 0.6 (The speaker shows confidence in the advantages of oranges but does not dismiss apples entirely.)
+- **Intensity:** 0.7 (The speaker expresses strong personal feelings about convenience and cleanliness, particularly against apples.)
+- **Concreteness:** 0.8 (The points about practicality and cleanliness are specific and easy to visualize.)
+
+### 2nd Quarter (Refutation of Alcohol point)
+- **Valence:** 0.6 (The tone is somewhat negative towards apples, but it's more about challenging a point rather than being overtly dismissive.)
+- **Dominance:** 0.7 (The speaker asserts their view and questions the inherent advantages of apples.)
+- **Intensity:** 0.5 (This part is less emotionally charged than the previous quarter; it’s more of a factual assertion.)
+- **Concreteness:** 0.6 (While referring to an interesting cultural practice, it’s less concrete than the previous examples but still tangible.)
+
+### 3rd Quarter (Refutation of Food and Diversity)
+- **Valence:** 0.5 (This section is neutral to slightly negative; it addresses oranges rather than promoting them.)
+- **Dominance:** 0.5 (The speaker acknowledges the possibility of orange pie but does not assert strong dominance over the discussion.)
+- **Intensity:** 0.4 (This part lacks the same emotional intensity of personal preference and is focused on practical arguments.)
+- **Concreteness:** 0.5 (The mention of other citrus fruits adds some specificity, but it’s more abstract than the earlier points.)
+
+### 4th Quarter (Refutation of Pop culture)
+- **Valence:** 0.5 (This is more analytical and somewhat neutral, assessing factors behind apple's symbolic success without strong praise for oranges.)
+- **Dominance:** 0.6 (The speaker asserts a perspective on branding but seems to concede that apples had certain advantages.)
+- **Intensity:** 0.4 (This part is less emotionally engaging and more focused on theory and language.)
+- **Concreteness:** 0.5 (The discussion about naming impacts does offer tangible ideas, though its abstract nature may weaken concreteness.)
+
+In summary:
+- The first quarter is the strongest in terms of positivity and personal connection, followed by a steady decline through the next sections that become more analytical and less emotionally charged.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score from 0.0 to 1.0 for each aspect of the argument in four quarters:
+
+### 1st Quarter:
+- **Valence:** 0.2 - The sentiment is largely negative towards apples, described as "sucking" and being inferior.
+- **Dominance:** 0.6 - While the argument lacks structure, there is a confident tone implying superiority of oranges, particularly in terms of growth and environment.
+- **Intensity:** 0.7 - Strong language ("suck," "better than fucking JASMINE") conveys a high level of intensity and passion against apples.
+- **Concreteness:** 0.5 - The argument introduces concepts like Steve Jobs and the idea of "low-hanging fruit," but is somewhat abstract when discussing the sensory aspects of apples.
+
+### 2nd Quarter:
+- **Valence:** 0.2 - Continues the negative sentiment towards apples while expressing admiration for oranges, especially regarding their growth and appeal.
+- **Dominance:** 0.7 - The speaker exhibits a strong stance on the benefits of oranges, asserting moral authority based on personal experience.
+- **Intensity:** 0.6 - The language remains forceful; however, it starts to shift slightly to a comparative tone regarding cultural interpretations of both fruits.
+- **Concreteness:** 0.4 - Though there are sensory expressions (taste, smell), many arguments remain anecdotal without concrete evidence to support claims about juiciness and taste.
+
+### 3rd Quarter:
+- **Valence:** 0.1 - Highly negative sentiments toward apples remain, with the argument intensified through assertions about apple origins and cultural associations.
+- **Dominance:** 0.8 - The speaker firmly positions oranges as culturally and gastronomically superior while criticizing the history of apple products.
+- **Intensity:** 0.8 - The intensity peaks with assertions that apples are fundamentally flawed and unworthy, using strong negative descriptors.
+- **Concreteness:** 0.5 - This section offers a mix of anecdotal and cultural references; however, claims about apples being "German" are not supported by evidence.
+
+### 4th Quarter:
+- **Valence:** 0.1 - The negativity towards apples persists, while the appreciation for citrus increases, contrasting the two fruits harshly.
+- **Dominance:** 0.7 - Reinforcement of the argument against apples continuously asserts oranges’ superiority, with slight acknowledgment of tangerines.
+- **Intensity:** 0.7 - The use of exclamation points and strong language (“Nope. Nope nope nope”) continues to convey a high intensity.
+- **Concreteness:** 0.6 - More examples of other citrus fruits contextualize the speaker's view while maintaining some abstract ideas about preference and taste.
+
+### Summary Scores:
+- **1st Quarter: Valence: 0.2, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5**
+- **2nd Quarter: Valence: 0.2, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.4**
+- **3rd Quarter: Valence: 0.1, Dominance: 0.8, Intensity: 0.8, Concreteness: 0.5**
+- **4th Quarter: Valence: 0.1, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.6**
+

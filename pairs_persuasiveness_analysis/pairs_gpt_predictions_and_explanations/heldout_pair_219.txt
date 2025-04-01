@@ -1,0 +1,56 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! I'll provide a rating score from 0.0 to 1.0 for the valence, dominance, intensity, and concreteness of each quarter of the argument you've provided.
+
+### Quarter 1
+**Text:** "Hiya! I think I disagree because I don't think that this aspect alone could trump (no pun intended, honestly) any amount of good a President could do."
+- **Valence:** 0.7 (Positive tone, but disagreement is introduced)
+- **Dominance:** 0.4 (A measured and amiable tone)
+- **Intensity:** 0.5 (Moderate intensity; casual phrasing)
+- **Concreteness:** 0.5 (Some abstract concepts about good a President could do)
+
+### Quarter 2
+**Text:** "For instance, if you had 10 candidates that exaggerate their finances while you have 1 candidate who doesn't, but has policies that would essentially end the world due to their nuke trigger-happy beliefs, I definitely would not vote the last one for fear of Cold War: The Sequel (This time, it's personal)."
+- **Valence:** 0.3 (Negative tone due to catastrophic consequences)
+- **Dominance:** 0.5 (Argumentative tone, presenting a clear hypothetical situation)
+- **Intensity:** 0.7 (High intensity when discussing the potential catastrophic outcomes)
+- **Concreteness:** 0.6 (Specific example provided; tangible fear of nuclear consequences)
+
+### Quarter 3
+**Text:** "I definitely would never vote Trump and Scott Walker either, but not for those reasons alone. Had they had incredible policies that would improve this nation better than the other candidates, I would have chosen them as the President despite this one aspect."
+- **Valence:** 0.5 (Neutral tone, expresses a clear stance)
+- **Dominance:** 0.6 (Affirmative tone; showing a strong personal stance)
+- **Intensity:** 0.4 (Moderate intensity; more analytical than emotional)
+- **Concreteness:** 0.7 (Refers to specific candidates and potential policies)
+
+### Quarter 4
+**Text:** "Unfortunately, the examples you gave are bad Presidents altogether, but concrete examples aside, the concept is there. This trait can be outweighed by goodness."
+- **Valence:** 0.4 (Slightly negative for the reference to bad Presidents)
+- **Dominance:** 0.5 (Balanced tone; critiquing and reiterating a concept)
+- **Intensity:** 0.3 (Lower intensity; more reflective and summarizing)
+- **Concreteness:** 0.5 (Refers to bad examples but becomes more abstract in the conclusion)
+
+These scoring assessments provide an overall evaluation of each component of the argument as requested!
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! Here are the ratings for valence, dominance, intensity, and concreteness for each quarter of the argument:
+
+**1st Quarter (Scott Walker's argument about credit card debt):**
+- **Valence:** 0.6 (The tone is slightly positive, as it emphasizes financial responsibility despite the debt.)
+- **Dominance:** 0.5 (The argument presents a counterpoint but doesn’t overly assert dominance; it’s more of an explanation.)
+- **Intensity:** 0.4 (The intensity is mild; it's a reasoned stance rather than an emotionally charged argument.)
+- **Concreteness:** 0.7 (Specific figures are given, which adds to the concreteness of the argument.)
+
+**2nd Quarter (Response about Donald Trump's worth):**
+- **Valence:** 0.5 (Neutral tone, as it acknowledges the point about Trump without a strong emotional charge.)
+- **Dominance:** 0.4 (This part is more of an acknowledgment rather than an assertive statement.)
+- **Intensity:** 0.3 (Low intensity; it’s a factual statement rather than one that provokes strong feelings.)
+- **Concreteness:** 0.6 (It references a specific number but lacks deeper context or detail.)
+
+**3rd Quarter (Edit about presidential power over the budget):**
+- **Valence:** 0.5 (Neutral, as it states a fact about the presidential role.)
+- **Dominance:** 0.6 (It asserts a position about the limitations of presidential power, giving it some dominance.)
+- **Intensity:** 0.5 (Moderate intensity; it challenges the initial claim regarding responsibility for budgeting.)
+- **Concreteness:** 0.8 (Very concrete, providing a clear understanding of the power dynamics in budget setting.)
+
+Overall, the argument makes reasonable points but varies in its emotional tone and assertiveness across the segments.
+

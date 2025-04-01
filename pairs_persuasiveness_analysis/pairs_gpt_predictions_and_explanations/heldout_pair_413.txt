@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To rate the argument on the dimensions of valence, dominance, intensity, and concreteness, we can break it down into quarters and evaluate each segment of the argument accordingly.
+
+### Quarter 1: "You're not following through the game theory of optimisation. Take the Prisoner's Dilemma. As you know, the confession is always (by design) the best individual result for the actor with all things being equal, assuming the game is only played once."
+
+- **Valence:** 0.5 (Neutral to slightly negative tone, as it implies a critique of the listener's understanding)
+- **Dominance:** 0.6 (The speaker positions themselves as knowledgeable, asserting an authoritative stance)
+- **Intensity:** 0.4 (Mildly intense, just stating a premise without strong emotional appeal)
+- **Concreteness:** 0.7 (Concrete explanation of a well-known concept in game theory)
+
+### Quarter 2: "In a sequence of games, and with the ability to form a cartel with the other prisoner, the net benefit to an individual by arranging to both cooperate outweighs the single gain of betrayal given sufficient iterations, because betrayal ensures the cartel breaks and you end up back in the both-confess situation."
+
+- **Valence:** 0.6 (Factual, leaning towards positive as it presents a potential solution or strategy)
+- **Dominance:** 0.5 (More descriptive, slightly authoritative but not commanding)
+- **Intensity:** 0.5 (Moderate intensity, logically presenting the argument)
+- **Concreteness:** 0.8 (Very concrete; utilizes a clear example of game theory in practice)
+
+### Quarter 3: "All of society is in essence a multiparty cartel; agreeing to cooperate ensures a greater personal reward in the long term, and is thus the rational self-interest to pursue - your betrayal of the cartel by pursuing short term personal interest by exploiting the others leads to them punishing you by refusing to cooperate back."
+
+- **Valence:** 0.7 (Positive tone suggesting the benefits of cooperation and long-term gain)
+- **Dominance:** 0.7 (Clear authority in the assertion that cooperation is beneficial)
+- **Intensity:** 0.6 (Fairly intense, emphasizing the consequences of betrayal)
+- **Concreteness:** 0.9 (Highly concrete; draws a clear parallel between society and game theory)
+
+### Quarter 4: "Objectivism, in your description (ie one objectivist in a crowd of gulls) doesn't advantage you over the long term unless the gulls have fixed behavior, but in reality they do not - they will change their behavior to punish yours and your overall personal utility is reduced."
+
+- **Valence:** 0.5 (Neutral; evaluates objectivism without overt negativity but highlights its pitfalls)
+- **Dominance:** 0.8 (Strongly positions the speaker's viewpoint against objectivism)
+- **Intensity:** 0.7 (Intense, as it critiques a philosophical stance and its implications)
+- **Concreteness:** 0.7 (Relatively concrete; presents a metaphor to clarify the argument)
+
+### Summary Scores:
+1. **Quarter 1:** Valence: 0.5, Dominance: 0.6, Intensity: 0.4, Concreteness: 0.7
+2. **Quarter 2:** Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.8
+3. **Quarter 3:** Valence: 0.7, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.9
+4. **Quarter 4:** Valence: 0.5, Dominance: 0.8, Intensity: 0.7, Concreteness: 0.7
+
+These ratings reflect a progression from a critique to a more assertive stance advocating for cooperation, and finally drawing a strong conclusion about the drawbacks of individualistic philosophies like objectivism.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument provided in terms of valence, dominance, intensity, and concreteness, we can break it down into quarters and assess each characteristic accordingly.
+
+1. **Quarter 1: "My biggest complaint against objectivism is that it is sociopathy elevated to the level of moral philosophy."**
+   - **Valence:** 0.2 (Negative sentiment toward objectivism, indicating strong disapproval.)
+   - **Dominance:** 0.6 (Strong stance being taken; the use of "sociopathy" suggests a commanding position.)
+   - **Intensity:** 0.7 (Highly charged language, strong wording like "sociopathy" elevates the intensity.)
+   - **Concreteness:** 0.5 (Concepts introduced are somewhat abstract but explainable; sociopathy is a defined term.)
+
+2. **Quarter 2: "Ignoring that you can indeed go through life as you describe and benefit enormously from it."**
+   - **Valence:** 0.4 (Somewhat positive acknowledgment of a viewpoint, though still with a critical undertone.)
+   - **Dominance:** 0.5 (Balanced stance recognizing the other perspective but not overly submissive.)
+   - **Intensity:** 0.5 (Moderate intensity; acknowledges benefit without strong emotional language.)
+   - **Concreteness:** 0.6 (More concrete as it evaluates practical benefits of a lifestyle.)
+
+3. **Quarter 3: "As long as you're one of the few that do and that you do not do so in a manner that raises the ire of the rest of society."**
+   - **Valence:** 0.3 (Negative insinuation about societal acceptance; the word "few" adds a bit of a pejorative connotation.)
+   - **Dominance:** 0.5 (Implying that this lifestyle is only viable under specific conditions, reflecting a moderate level of influence.)
+   - **Intensity:** 0.4 (Less intense than the first quarter but still suggests concern about societal repercussions.)
+   - **Concreteness:** 0.5 (Somewhat abstract but implies societal dynamics, maintaining a reasonable level of clarity.)
+
+4. **Quarter 4: "If everyone acted in that manner, society would crumble almost immediately and you would not likely enjoy its replacement."**
+   - **Valence:** 0.1 (Very negative outlook on the consequences of such behavior; a dire prediction.)
+   - **Dominance:** 0.8 (Strongly dominant statement implying a serious consequence, asserting strong authority.)
+   - **Intensity:** 0.9 (High intensity due to the implications of societal collapse; very emotive.)
+   - **Concreteness:** 0.7 (Concrete consequences outlined, presenting a vivid scenario.)
+
+**Summary of Ratings:**
+1. Quarter 1: Valence 0.2, Dominance 0.6, Intensity 0.7, Concreteness 0.5
+2. Quarter 2: Valence 0.4, Dominance 0.5, Intensity 0.5, Concreteness 0.6
+3. Quarter 3: Valence 0.3, Dominance 0.5, Intensity 0.4, Concreteness 0.5
+4. Quarter 4: Valence 0.1, Dominance 0.8, Intensity 0.9, Concreteness 0.7
+
+These ratings can help illuminate how the argument's tone, authority, emotion, and clarity shift across different components of the text.
+

@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score for each of the dimensions (valence, dominance, intensity, and concreteness) across the four quarters of the argument you provided:
+
+**1st Quarter: "You say that this isn't something you would do yourself, but that alone should be enough to change your view..."**
+- **Valence**: 0.6 (The argument is somewhat positive, as it encourages reflection and action toward a moral lifestyle.)
+- **Dominance**: 0.7 (There's a tone of authority in suggesting that an immoral lifestyle should compel change.)
+- **Intensity**: 0.5 (The intensity is moderate; it carries a moral weight, but it's not overly forceful.)
+- **Concreteness**: 0.6 (The call to change is specific, yet still abstract in nature regarding moral implications.)
+
+**2nd Quarter: "With that being said, you could still get a job... which is often just as valuable..."**
+- **Valence**: 0.5 (This part is neutral as it presents options without strong emotional appeal.)
+- **Dominance**: 0.5 (The argument suggests alternatives but remains passive in asserting the speaker's dominance.)
+- **Intensity**: 0.4 (The phrasing is fairly mild, lacking urgency or heated emotion.)
+- **Concreteness**: 0.7 (Offers specific suggestions for action, which adds to its clarity.)
+
+**3rd Quarter: "As for your second point, you're right; donating everything after one's own living expenses wouldn't be fun..."**
+- **Valence**: 0.5 (Acknowledges the counterpoint but doesn't engage with strong positive or negative emotion.)
+- **Dominance**: 0.4 (This section is more reflective, suggesting receptiveness to opposing views.)
+- **Intensity**: 0.3 (The discussion of motivations feels less intense as it contemplates societal behaviors.)
+- **Concreteness**: 0.6 (It discusses potential behavior changes but remains somewhat abstract in its implications.)
+
+**4th Quarter: "I know that sounds selfish, and maybe it is, but society thrives on people being selfish..."**
+- **Valence**: 0.4 (Here, the tone is somewhat negative as it accepts selfishness as a societal norm.)
+- **Dominance**: 0.5 (The speaker starts acknowledging weaknesses in the argument while engaging more critically.)
+- **Intensity**: 0.6 (There’s a more evident tension in addressing the selfish nature of people.)
+- **Concreteness**: 0.5 (The argument is more philosophical in nature, making societal claims without providing specific examples.)
+
+These ratings are subjective and may vary based on personal interpretation, but this framework should provide a solid overview of the emotional and rhetorical dynamics present in the argument.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Based on the argument provided, here are the ratings for valence, dominance, intensity, and concreteness for each quarter of the text:
+
+### Quarter 1: "Person X works extremely hard, earns lots of money, and keeps it all for himself."
+- **Valence:** 0.6 (Positive connotation towards hard work but implies selfishness)
+- **Dominance:** 0.7 (X is portrayed as powerful due to wealth)
+- **Intensity:** 0.5 (Neutral intensity about work and wealth)
+- **Concreteness:** 0.8 (Clear depiction of actions and attributes)
+
+### Quarter 2: "Person Y has an easy job and earns just enough money to cover his own expenses."
+- **Valence:** 0.5 (Neutral description; implies contentment but can suggest complacency)
+- **Dominance:** 0.4 (Y is less dominant due to his ease and low earning)
+- **Intensity:** 0.4 (Low intensity regarding work ethic and outcome)
+- **Concreteness:** 0.9 (Very clear description of Y's situation)
+
+### Quarter 3: "If X is morally obligated to give away his excess money, then should Y also be morally obligated to work harder, so that he can earn more money, so that he can give away more money as well?"
+- **Valence:** 0.7 (Raises moral dilemmas; positive aspects of charity)
+- **Dominance:** 0.5 (Questioning moral obligations creates a balance of power)
+- **Intensity:** 0.6 (Higher intensity due to the moral implications and questioning)
+- **Concreteness:** 0.6 (Conceptual but directly addresses moral obligations)
+
+### Quarter 4: "If X is morally obligated to give away all his excess money, and Y is not morally obligated to earn more money (so that he can likewise give it away), then X is a fool for working so hard. All his hard work gains him nothing."
+- **Valence:** 0.4 (Negative view of X's situation, implying futility; critical)
+- **Dominance:** 0.6 (X’s hard work criticized while Y is let off the hook)
+- **Intensity:** 0.8 (High emotional intensity due to the critical tone)
+- **Concreteness:** 0.7 (Clear in its argument but involves more abstract reasoning)
+
+Overall, this breakdown provides insight into the emotional and cognitive aspects of the argument presented, reflecting its complexities and implications.
+

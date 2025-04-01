@@ -1,0 +1,65 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! I’ll break down the argument into quarters and provide a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each section.
+
+**Quarter 1: "People already have freedom of religion. You can go to any church you want."**
+- **Valence:** 0.7 (positive for the principle of freedom of religion)
+- **Dominance:** 0.4 (neutral tone, but asserting that freedom already exists)
+- **Intensity:** 0.3 (low intensity; more factual than passionate)
+- **Concreteness:** 0.8 (clear statement about the existing rights regarding religion)
+
+**Quarter 2: "It seems that you want there to be some type of freedom of bigotry where you can say bigoted things and then there are no consequences."**
+- **Valence:** 0.2 (negative, as it addresses bigotry)
+- **Dominance:** 0.6 (assertive; accusing the opposition of wanting to enable bigotry)
+- **Intensity:** 0.8 (high intensity; emotionally charged language)
+- **Concreteness:** 0.6 (somewhat clear, but vague with the term "bigotry")
+
+**Quarter 3: "If you're a shop owner and you use your religion to say that all gays are going to hell or any of the other drivel than I have the right now to go to your business."**
+- **Valence:** 0.5 (mixed; addresses the rights of both the business owner and the individual)
+- **Dominance:** 0.5 (balanced assertion of personal rights vs. business owner beliefs)
+- **Intensity:** 0.6 (moderately intense; defensive stance about personal rights)
+- **Concreteness:** 0.7 (specific scenario presented, but "drivel" detracts slightly)
+
+**Quarter 4: "But also I have to add, even if you feel that gay marriage is horrible why should they restrict it for another group of people?"**
+- **Valence:** 0.6 (positive for advocating for rights of another group)
+- **Dominance:** 0.5 (questioning and asserting a viewpoint)
+- **Intensity:** 0.7 (fairly intense; challenging the counterargument)
+- **Concreteness:** 0.7 (clear rhetorical question that seeks to address a perceived injustice)
+
+These ratings reflect different aspects of the argument's emotional tone, assertiveness, strength of feelings, and clarity.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness, I will break the text into four segments and evaluate each one accordingly.
+
+**1. Segment 1: "I'm confused. Of course people should have freedom of religion. I think the vast majority of liberals will resoundingly agree with that."**
+   - **Valence:** 0.8 (Positive, expresses agreement with freedom of religion)
+   - **Dominance:** 0.5 (Neutral, expressing an opinion without asserting authority)
+   - **Intensity:** 0.6 (Moderate, expresses confusion and a strong belief in the idea)
+   - **Concreteness:** 0.5 (Somewhat abstract, primarily discussing general beliefs)
+
+**2. Segment 2: "Nobody is being forced to like gay marriage. Nobody is being forced to perform gay marriages."**
+   - **Valence:** 0.7 (Positive, asserts a belief in choice and freedom)
+   - **Dominance:** 0.6 (A bit dominant as it expresses a clear stance)
+   - **Intensity:** 0.7 (Strong, direct language emphasizes the assertion)
+   - **Concreteness:** 0.8 (More concrete, refers to specific actions and choices)
+
+**3. Segment 3: "Everyone is free to express their religion. Everyone is also free to criticize someone else's religion. Everyone is also free to criticize other people for criticizing someone else's religion."**
+   - **Valence:** 0.6 (Positive, emphasizes freedom, but acknowledges conflict)
+   - **Dominance:** 0.6 (Evenly dominant, as it states the freedoms available)
+   - **Intensity:** 0.5 (Moderate, slightly repetitive in nature)
+   - **Concreteness:** 0.7 (Concrete, discusses specific freedoms clearly)
+
+**4. Segment 4: "If this is all about one of those 'I don't want to bake a gay wedding cake' stories, let's cut to the chase and talk about that particular case."**
+   - **Valence:** 0.5 (Neutral, aims for clarity but touches on contentious issues)
+   - **Dominance:** 0.7 (More dominant as it directly addresses a specific situation)
+   - **Intensity:** 0.6 (Moderate, somewhat confrontational in tone)
+   - **Concreteness:** 0.9 (Very concrete, refers to a specific case)
+
+**Summary Ratings:**
+
+- **Segment 1:** (Valence: 0.8, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5)
+- **Segment 2:** (Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.8)
+- **Segment 3:** (Valence: 0.6, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.7)
+- **Segment 4:** (Valence: 0.5, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.9) 
+
+These scores reflect an analysis of the overall sentiment, authority, emotional weight, and specificity of the arguments made in each segment.
+

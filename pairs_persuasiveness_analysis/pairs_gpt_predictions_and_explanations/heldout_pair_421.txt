@@ -1,0 +1,81 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument you provided, I'll assess each quarter for its valence (the emotional tone), dominance (the power or authority expressed), intensity (the strength of the emotions conveyed), and concreteness (the degree to which the argument uses specific and clear examples). Here's my breakdown: 
+
+### Quarter 1
+"I think it is ludicrous for a business to turn away customers for irrelevant matters. Doing so, to me means you're no longer so much in the business of making money, you're now making a political statement."
+
+- **Valence**: 0.7 (The tone expresses frustration and disapproval.)
+- **Dominance**: 0.6 (The speaker positions themselves as having authority to judge the actions of businesses.)
+- **Intensity**: 0.7 (The use of "ludicrous" indicates strong feelings about the issue.)
+- **Concreteness**: 0.5 (It asserts an opinion but lacks specific examples or details.)
+
+### Quarter 2
+"You're essentially giving your customers a litmus test and if they pass you allow them to purchase your services."
+
+- **Valence**: 0.6 (This continues the critical tone but introduces the idea of judgment.)
+- **Dominance**: 0.5 (The speaker raises an argument but does not assert authority strongly.)
+- **Intensity**: 0.6 (The phrase "litmus test" conveys a strong idea of exclusion or discrimination.)
+- **Concreteness**: 0.5 (The metaphor provides a clearer image, but it's still somewhat abstract.)
+
+### Quarter 3
+"Giving employees such tests is illegal, why should it be legal to apply the same sort of tests to customers?"
+
+- **Valence**: 0.8 (The tone here is more assertive and challenging, indicating frustration.)
+- **Dominance**: 0.7 (The argument is compelling and draws a direct comparison to laws, offering authority.)
+- **Intensity**: 0.7 (The rhetorical question adds emotion and drive to the argument.)
+- **Concreteness**: 0.6 (The comparison to employee tests is tangible but could benefit from legal specifics.)
+
+### Quarter 4
+"These laws protect consumers. End of story. These people are not going into establishments and ordering non-menu items, they're not walking into Muslim owned diners and demanding pork, they're not going to subway and demanding a big mac, they're not being unreasonable in the slightest. Therefore I believe that it is the government's duty to protect these people."
+
+- **Valence**: 0.9 (The tone is very strong and assertive, closing with a definitive statement.)
+- **Dominance**: 0.8 (The speaker is particularly authoritative in this section, asserting a clear duty of government.)
+- **Intensity**: 0.7 (The insistence on protection demonstrates strong conviction about the issue.)
+- **Concreteness**: 0.8 (The use of specific and relatable examples makes this argument very tangible.)
+
+### Summary Scores
+1. **Quarter 1**: Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5
+2. **Quarter 2**: Valence: 0.6, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+3. **Quarter 3**: Valence: 0.8, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.6
+4. **Quarter 4**: Valence: 0.9, Dominance: 0.8, Intensity: 0.7, Concreteness: 0.8
+
+This assessment aims to capture the nuances in the argument's emotional tone, assertiveness, emotional strength, and clarity throughout the text.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument using the scores for valence, dominance, intensity, and concreteness, here's a breakdown for each quarter of the text:
+
+**Quarter 1: "In a capitalist system, the person who would be making decisions about who the business serves is most often not the person who is actually dealing with the customers."**
+
+- **Valence (0.6):** The sentiment is moderately positive, as it aims to highlight the separation between decision-makers and customer-facing employees.
+- **Dominance (0.5):** The argument presents a neutral stance, acknowledging a fact rather than asserting authority or power.
+- **Intensity (0.5):** The language used here is straightforward and lacks strong emotional weight.
+- **Concreteness (0.7):** This quarter presents a clear scenario that most readers can visualize, making it relatively concrete.
+
+**Quarter 2: "So in most cases this discrimination would involve a boss telling his employees not to serve certain people."**
+
+- **Valence (0.4):** The sentiment is slightly negative due to the mention of discrimination, which generally carries a negative connotation.
+- **Dominance (0.6):** There’s a dominance of authority implied, with bosses exerting control over employees and decisions.
+- **Intensity (0.6):** The argument captures a significant issue, indicating some level of concern with a relatively stronger emotional pull.
+- **Concreteness (0.6):** This is moderately concrete; while it describes a clear dynamic, it refers to a broad category of discrimination without specific examples.
+
+**Quarter 3: "In a hypothetical non-capitalist, non-hierarchal society (whether or not you believe such a society would be feasible), this might be more about free association, and non-discrimination laws might not be as necessary as you could ask any other worker to help you."**
+
+- **Valence (0.5):** This portion is neutral to slightly positive, as it discusses the concept of free association without strong negative implications.
+- **Dominance (0.4):** The idea of a non-hierarchical society suggests a less dominant structure, hence a lower score.
+- **Intensity (0.4):** The hypothetical nature of this scenario reduces intensity; it's less urgent than the previous segments.
+- **Concreteness (0.5):** While it suggests a different societal structure, the hypothetical nature makes it less concrete.
+
+**Quarter 4: "But in a capitalist world, there is a higher risk that a business owner could be preventing a certain group of people from accessing an important resource. And I can't see it as 'enslaving' a business owner to prevent him or her from having a policy that certain groups of people should be refused service."**
+
+- **Valence (0.3):** This part of the argument carries a negative sentiment due to the discussion of risk and discrimination.
+- **Dominance (0.7):** There’s a clear power dynamic here, with business owners exercising control over access to resources.
+- **Intensity (0.7):** The terminology used evokes a stronger emotional reaction, especially with the mention of significant risks and the implications of discrimination.
+- **Concreteness (0.6):** This section describes a real consequence but lacks specific examples of resources or groups, making it slightly more abstract.
+
+In summary, the scores for each quarter are as follows:
+
+**Quarter 1: Valence (0.6), Dominance (0.5), Intensity (0.5), Concreteness (0.7)**  
+**Quarter 2: Valence (0.4), Dominance (0.6), Intensity (0.6), Concreteness (0.6)**  
+**Quarter 3: Valence (0.5), Dominance (0.4), Intensity (0.4), Concreteness (0.5)**  
+**Quarter 4: Valence (0.3), Dominance (0.7), Intensity (0.7), Concreteness (0.6)**
+

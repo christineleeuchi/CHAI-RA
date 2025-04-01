@@ -1,0 +1,63 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Let's break down the argument into four quarters and assess the valence, dominance, intensity, and concreteness for each section. We'll rate each category on a scale from 0.0 to 1.0, where 0.0 indicates a lack of the trait and 1.0 indicates a strong presence of the trait.
+
+### Quarter 1:
+*"CMV: The living conditions for animals that are raised for slaughter are irrelevant. This is assuming the end product (consumed meat) is unaffected/not harmful to the consumers. Also, I am leaving out the issues that arise from breeding/sourcing animals. I am only really talking about once the husbanders (right word?) have the animals."*
+
+- **Valence**: 0.3 - The statement presents a neutral to slightly negative view on animal welfare.
+- **Dominance**: 0.6 - The speaker presents a strong opinion asserting the irrelevance of living conditions for animals raised for slaughter.
+- **Intensity**: 0.5 - The claim is stated firmly but not enthusiastically; it reads as a rational argument rather than an emotional appeal.
+- **Concreteness**: 0.4 - Some abstract concepts (irrelevance) but clear in specifying the focus on husbandry.
+
+### Quarter 2:
+*"For any food source (plant or animal) I think the goals should be: 1. Increase in quality/nutrition 2. Increase in availability 3. Decrease in price 4. Decrease in time to harvest 5. Does not affect the well-being of the people involved in raising the animal."*
+
+- **Valence**: 0.5 - The goals described are generally neutral or positive, focusing on efficiency and well-being of farmers.
+- **Dominance**: 0.4 - The goals are stated as a preference but lack an assertive tone about their importance.
+- **Intensity**: 0.5 - The list format gives a structured feel, but the intensity of the argument isn’t particularly high.
+- **Concreteness**: 0.7 - The goals are specific and actionable, presenting clear ideas.
+
+### Quarter 3:
+*"So long as it is legal, I think farmers/animal husbanders should strive to meet those four criteria in whatever ways they can."*
+
+- **Valence**: 0.6 - The stance is generally positive, supporting farmers' rights to optimize their practices.
+- **Dominance**: 0.5 - The speaker expresses a clear expectation but does not convey a commanding tone.
+- **Intensity**: 0.5 - The expression reflects a typical opinion rather than a passionately delivered argument.
+- **Concreteness**: 0.6 - The language is direct and practical, focusing on achievable actions.
+
+### Quarter 4:
+*"Change my view. Edit: I need to step away from Reddit for a bit (I am at work). Thank you so much for the responses thus far, I will do my best to continue replying in a few hours."*
+
+- **Valence**: 0.4 - The invitation to change the view displays openness but is accompanied by an admission of limited engagement.
+- **Dominance**: 0.3 - Suggests a willingness to be influenced but lacks assertiveness in the exploration of the topic.
+- **Intensity**: 0.2 - The tone is much more subdued, reflecting a casual approach to the discussion rather than a provocative stance.
+- **Concreteness**: 0.5 - The statement is straightforward, but the context of engagement diminishes the urgency or depth.
+
+### Summary Scores:
+
+#### Quarter 1:
+- Valence: **0.3**
+- Dominance: **0.6**
+- Intensity: **0.5**
+- Concreteness: **0.4**
+
+#### Quarter 2:
+- Valence: **0.5**
+- Dominance: **0.4**
+- Intensity: **0.5**
+- Concreteness: **0.7**
+
+#### Quarter 3:
+- Valence: **0.6**
+- Dominance: **0.5**
+- Intensity: **0.5**
+- Concreteness: **0.6**
+
+#### Quarter 4:
+- Valence: **0.4**
+- Dominance: **0.3**
+- Intensity: **0.2**
+- Concreteness: **0.5** 
+
+These scores capture the nuances of the argument's presentation across different sections.
+

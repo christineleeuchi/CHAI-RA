@@ -1,0 +1,43 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure, here is a breakdown of the provided argument into four quarters, along with a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each section.
+
+### Quarter 1:
+**Text:** "CMV: Women are inferior to men in most aspects of life. I understand that this is a very controversial thing to say. Perhaps my view comes from the women I am surrounded by, which is quite a small sample size. I look forward to hearing another point of view."
+
+- **Valence:** 0.2 (The statement is negative but acknowledges controversy and invites discussion)
+- **Dominance:** 0.4 (There is an assertion of superiority and authority)
+- **Intensity:** 0.5 (Expresses a controversial and strong belief while remaining somewhat tentative)
+- **Concreteness:** 0.4 (Some specificity in recognizing the controversy, but vague overall)
+
+### Quarter 2:
+**Text:** "1.) Physically. Men dominate sports and physical events. I can't think of one sport that women are better than men at, in general, and if there are a few, that's only a few, and men dominate the rest."
+
+- **Valence:** 0.1 (Very negative view on gender capabilities)
+- **Dominance:** 0.5 (Strong assertion of men's superiority in physical activities)
+- **Intensity:** 0.6 (Strongly presents a generalization that can be emotionally charged)
+- **Concreteness:** 0.6 (Provides examples related to sports, making it more specific)
+
+### Quarter 3:
+**Text:** "2.) In the work place. This is the most controversial part. Women want equal pay, but from what I've seen in my limited 8 years in industry, is that women are not as good as men at their jobs. My industry is oil refining. 99% of the plant workers are men, why? I work in the Engineering office. There are no women engineers, only secretaries, and some of them baffle me at how incompetent they are."
+
+- **Valence:** 0.0 (Explicitly negative and dismissive of women's capabilities in the workforce)
+- **Dominance:** 0.6 (A strong, authoritative stance on perceived incompetence)
+- **Intensity:** 0.7 (Emotionally charged language used and strong generalization presented)
+- **Concreteness:** 0.7 (Specific examples and personal experiences lend credibility)
+
+### Quarter 4:
+**Text:** "3.) At home. This is where most of my point lies. It could just be a gender roles thing, but why am I so much better at everything than my girlfriend? I'm not saying I'm great, but rather most of the girlfriends I've had are completely incompetent at a lot of things."
+
+- **Valence:** 0.1 (Continues the negative view but acknowledges personal biases)
+- **Dominance:** 0.5 (Claims superiority over women in domestic tasks)
+- **Intensity:** 0.6 (Emotionally charged language, suggests frustration and disappointment)
+- **Concreteness:** 0.5 (Relatively specific anecdotal evidence but still generalizes about women)
+
+### Summary:
+- **Quarter 1:** Valence: 0.2, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.4
+- **Quarter 2:** Valence: 0.1, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.6
+- **Quarter 3:** Valence: 0.0, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.7
+- **Quarter 4:** Valence: 0.1, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5 
+
+These ratings are subjective and may vary based on personal interpretation of the text.
+

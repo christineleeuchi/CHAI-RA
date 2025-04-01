@@ -1,0 +1,78 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To provide ratings for valence, dominance, intensity, and concreteness for each quarter of the argument, I'll break it down accordingly:
+
+### 1st Quarter: "what other word to describe it than 'incorrect'?"
+
+- **Valence (0.5):** Neutral. The statement doesn't strongly express a positive or negative sentiment.
+- **Dominance (0.6):** Moderate. It asserts a viewpoint and invites discussion, suggesting a level of confidence.
+- **Intensity (0.4):** Low. The phrasing is mild and more of a rhetorical question.
+- **Concreteness (0.5):** Moderate. It’s abstract in discussing correctness but mentions "incorrect" explicitly.
+
+### 2nd Quarter: "The word I remember from my college intro linguistics class is 'ungrammatical.'"
+
+- **Valence (0.6):** Slightly positive. Reflects a nostalgic tone toward college learning.
+- **Dominance (0.5):** Moderate. It states knowledge and introduces a term without strong assertiveness.
+- **Intensity (0.4):** Low. The statement is straightforward and factual, lacking strong emotional charge.
+- **Concreteness (0.8):** High. "Ungrammatical" is a concrete linguistic term providing clarity.
+
+### 3rd Quarter: "A prescriptivist would say that 'he went to the shops' is correct, and 'he gone to the shops' or 'shops went the he to' is incorrect..."
+
+- **Valence (0.5):** Neutral. It describes perspectives without endorsing one over the other.
+- **Dominance (0.6):** Moderate to high. It asserts a clear viewpoint of prescriptivism confidently.
+- **Intensity (0.5):** Moderate. While it expresses definitive statements, it's informative rather than passionate.
+- **Concreteness (0.7):** High. The language used is clear and specific to the examples given.
+
+### 4th Quarter: "A descriptivist would say that 'he went to the shops' and 'he gone to the shops' are grammatical, but 'shops went the he to' is ungrammatical..."
+
+- **Valence (0.5):** Neutral. Provides a balanced description without clear bias.
+- **Dominance (0.6):** Moderate. It presents the descriptivist viewpoint with confidence.
+- **Intensity (0.5):** Moderate. The presentation is classic argumentative but not highly charged emotionally.
+- **Concreteness (0.8):** High. The examples provided are concrete and relatable, supporting the concepts clearly.
+
+### Summary of Scores:
+- 1st Quarter: Valence 0.5, Dominance 0.6, Intensity 0.4, Concreteness 0.5
+- 2nd Quarter: Valence 0.6, Dominance 0.5, Intensity 0.4, Concreteness 0.8
+- 3rd Quarter: Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.7
+- 4th Quarter: Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.8
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating for each section of the argument based on the criteria of valence, dominance, intensity, and concreteness, we need to break down the argument into four quarters and analyze each one accordingly.
+
+### Quarter 1
+**Text:** "Instead of *correct* and *incorrect*, think *standard* and *non-standard*."
+
+- **Valence:** 0.7 (The shift in terminology is positive and encourages an inclusive way of thinking about language.)
+- **Dominance:** 0.6 (This part asserts a perspective that promotes a new framework, but it's not overly forceful.)
+- **Intensity:** 0.5 (The statement is clear but lacks emotional weight or urgency.)
+- **Concreteness:** 0.8 (The terms *standard* and *non-standard* are clear and tangible concepts in the discourse of linguistics.)
+
+### Quarter 2
+**Text:** "In descriptivism, linguists try to discern general rules of grammar (e.g., universal grammar) using language as people actually use it as a basis."
+
+- **Valence:** 0.8 (This statement positively reflects the goals of linguistics and suggests a systematic approach to understanding language.)
+- **Dominance:** 0.7 (It asserts the importance of descriptivism firmly but is supported by factual content.)
+- **Intensity:** 0.6 (There is a mild enthusiasm in the explanation, but it remains primarily informative.)
+- **Concreteness:** 0.9 (The mention of *general rules of grammar* and *universal grammar* provides a high level of specificity.)
+
+### Quarter 3
+**Text:** "Linguists are not trying to redefine Standard English or what vocabulary is appropriate in specific settings."
+
+- **Valence:** 0.7 (This defends the field of linguistics against prescriptivist critiques, which is a positive framing.)
+- **Dominance:** 0.6 (There is a defensive tone here, but it does not come off as confrontational.)
+- **Intensity:** 0.5 (This part is factual and calm rather than passionate.)
+- **Concreteness:** 0.8 (The distinction between *Standard English* and other varieties is clear and understandable.)
+
+### Quarter 4
+**Text:** "“Shops went the he to,” is ungrammatical in any variety of English, and why that is is of interest to linguists."
+
+- **Valence:** 0.6 (It presents a neutral view on the problematic structure, but acknowledges an interesting point for study.)
+- **Dominance:** 0.8 (There is a strong assertion regarding the ungrammaticality of the sentence, giving it a dominant quality.)
+- **Intensity:** 0.7 (The seriousness of discussing ungrammaticality adds intensity.)
+- **Concreteness:** 0.9 (The example is very concrete and easily understandable for those familiar with the language.)
+
+### Summary Ratings:
+1. Quarter 1: Valence 0.7 | Dominance 0.6 | Intensity 0.5 | Concreteness 0.8
+2. Quarter 2: Valence 0.8 | Dominance 0.7 | Intensity 0.6 | Concreteness 0.9
+3. Quarter 3: Valence 0.7 | Dominance 0.6 | Intensity 0.5 | Concreteness 0.8
+4. Quarter 4: Valence 0.6 | Dominance 0.8 | Intensity 0.7 | Concreteness 0.9
+

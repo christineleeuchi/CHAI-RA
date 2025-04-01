@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score for each of the specified dimensions for each quarter of the argument:
+
+### Quarter 1:
+**Argument:** "I don't really care if you are a vegan or not but your logic seems flawed here. If a lion eats a monkey or a hippo, by your logic it would be considered unethical."
+
+- **Valence:** 0.5 (Neutral tone; highlights a flaw but doesn't carry strong positive or negative emotion)
+- **Dominance:** 0.7 (Confidently challenges the logic but is not overly aggressive)
+- **Intensity:** 0.6 (Moderate intensity in questioning the reasoning)
+- **Concreteness:** 0.4 (Refers to a specific scenario but lacks detailed examples)
+
+### Quarter 2:
+**Argument:** "Vegans would clearly argue that humans don't have to eat meat. I would argue that one cannot make a universal ethical argument on eating meat."
+
+- **Valence:** 0.6 (More assertive and conveys a clear perspective)
+- **Dominance:** 0.6 (Establishes a counterpoint with authority)
+- **Intensity:** 0.5 (Slightly less intense than the previous section)
+- **Concreteness:** 0.5 (Presents a clear argument but lacks specific examples or data)
+
+### Quarter 3:
+**Argument:** "Humans still today, subsist on hunting for wild animals in areas where resources for cultivation are scarce. To claim that meat is murder, you would have to believe that indigenous people in the world should starve to death or be locked in prison."
+
+- **Valence:** 0.5 (Neutral, focusing on presenting a dilemma without strong emotional bias)
+- **Dominance:** 0.8 (Strongly asserts the argument by introducing a critical issue)
+- **Intensity:** 0.6 (Moderate intensity, raising serious ethical implications)
+- **Concreteness:** 0.7 (Provides a concrete example of indigenous people relying on hunting)
+
+### Quarter 4:
+**Argument:** "If you are planning on becoming vegan because you believe meat is murder, why then would you go so far as to not consume eggs or dairy? You can go buy free range eggs pretty easily in most places these days. I would further ask how far you plan on taking your veganism. Do you plan on using products tested on animals? Eating honey? Eating produce grown using animal fertilizer?"
+
+- **Valence:** 0.4 (More critical, questioning the consistency of the stance)
+- **Dominance:** 0.7 (Asks pointed questions that emphasize inconsistency)
+- **Intensity:** 0.7 (Higher intensity, pushing for clarity and consistency in belief)
+- **Concreteness:** 0.6 (Asks specific questions with relevant examples)
+
+### Summary Scores:
+- **Quarter 1:** Valence: 0.5, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.4
+- **Quarter 2:** Valence: 0.6, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.5
+- **Quarter 3:** Valence: 0.5, Dominance: 0.8, Intensity: 0.6, Concreteness: 0.7
+- **Quarter 4:** Valence: 0.4, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument, I will break down the argument into four sections and evaluate each one accordingly.
+
+### Quarter 1: "The way I like to see this is kinda human nature. Survival of the fittest."
+- **Valence**: 0.5 - Neutral; it presents a perspective that could be viewed positively or negatively depending on one's stance on nature and survival.
+- **Dominance**: 0.6 - Suggests that humans have a dominant position in nature, aligning with the concept of "survival of the fittest."
+- **Intensity**: 0.4 - Moderate; sets the stage for a discussion but does not evoke strong emotions yet.
+- **Concreteness**: 0.5 - Reasonably concrete; references a well-known concept but remains somewhat abstract.
+
+### Quarter 2: "Eventually, animals we eat could evolve to survive and not be killed off so easily."
+- **Valence**: 0.5 - Neutral; it suggests a potential for change without a positive or negative emotional connotation.
+- **Dominance**: 0.5 - Indicates a balance between predator and prey, acknowledging the ongoing process of evolution.
+- **Intensity**: 0.5 - Moderate; expresses a possibility but lacks strong emotional language.
+- **Concreteness**: 0.6 - More concrete due to referencing evolutionary processes.
+
+### Quarter 3: "But you shouldn't think it's wrong. So you think that we should do our best to make bears stop eating fish? Lions stop eating gazelle?"
+- **Valence**: 0.4 - Slightly negative; challenges the audience's moral viewpoint and suggests resistance to alternate perspectives.
+- **Dominance**: 0.5 - Questions the audience's stance, asserting dominance in the argument but open to dialogue.
+- **Intensity**: 0.6 - Moderate-high; challenges ethical considerations and invokes a strong analogy from nature.
+- **Concreteness**: 0.7 - Concrete; uses specific examples to ground the argument in real-world contexts.
+
+### Quarter 4: "We do it because it's in our nature. We are stronger and smarter than a lot of animals we eat, so we use them to live. Survival of the fittest is pretty much the only thing you need to not see eating meat as murder."
+- **Valence**: 0.3 - Negative; implies a justification for eating meat that could be viewed as dismissive of opposing ethical viewpoints.
+- **Dominance**: 0.7 - Strongly asserts human superiority over animals; emphasizes dominance in the food chain perspective.
+- **Intensity**: 0.8 - High; the assertions made are imperative and emotive, designed to provoke thought and elicit agreement.
+- **Concreteness**: 0.6 - Reasonably concrete; relies on the concept of survival and human nature but introduces abstract ideas about morality and survival.
+
+These ratings provide insight into the emotional and logical components of the argument, reflecting how each section may resonate with an audience.
+

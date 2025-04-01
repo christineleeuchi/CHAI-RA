@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for the argument you provided, broken down by each of the four categories:
+
+### Valence
+**Score: 0.6**  
+The argument has a generally constructive tone, focusing on correcting potential misconceptions about the Common Core standards. However, there is a slight confrontational edge, particularly in pointing out the flaws in the original argument’s assessments, which affects overall positivity.
+
+### Dominance
+**Score: 0.7**  
+The argument positions itself as authoritative by highlighting specific standards and responding assertively to the initial claim. It effectively asserts the validity of the standards and suggests that misunderstandings stem from poor implementation rather than the standards themselves.
+
+### Intensity
+**Score: 0.5**  
+The argument maintains a moderate level of intensity. It does not exhibit extreme passion or anger, but rather a reasonable frustration with the original claim. The use of examples supports its points without pushing into emotional extremes.
+
+### Concreteness
+**Score: 0.8**  
+The argument is quite concrete, as it references specific Common Core standards and provides direct examples to support its claims. This level of detail helps ground the argument and makes it easy to understand the points being made.
+
+### Summary of Scores
+- **Valence:** 0.6
+- **Dominance:** 0.7
+- **Intensity:** 0.5
+- **Concreteness:** 0.8
+
+These scores reflect the overall effectiveness and clarity of the argument in addressing the points raised in the original claim.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the given argument based on valence, dominance, intensity, and concreteness, I’ll break down the argument into four quarters and provide scores for each category.
+
+### Quarter 1:
+*Summary:* The speaker introduces their perspective as a high school physics teacher unfamiliar with Common Core (CC) and expresses concern about its implementation.
+
+- **Valence:** 0.6 (The tone is somewhat neutral, but hints at frustration.)
+- **Dominance:** 0.4 (The speaker expresses a desire to critique but acknowledges their limited knowledge, showing a certain humility.)
+- **Intensity:** 0.3 (The concern is present but not overwhelmingly strong.)
+- **Concreteness:** 0.5 (The mention of specific standards hints toward a concrete viewpoint but lacks specific examples yet.)
+
+### Quarter 2:
+*Summary:* The speaker discusses how CC focuses too much on memorization which they contest based on their experiences with NGSS in physics.
+
+- **Valence:** 0.5 (The tone conveys a mild dissatisfaction, but is not overly negative.)
+- **Dominance:** 0.5 (The speaker asserts their viewpoint more strongly in this section.)
+- **Intensity:** 0.6 (The concerns about memorization reflect a moderate level of intensity.)
+- **Concreteness:** 0.7 (Specific points about AP classes and calculators make the argument more concrete.)
+
+### Quarter 3:
+*Summary:* The speaker references examples from Illinois' testing system to counter the argument that CC emphasizes rote memorization.
+
+- **Valence:** 0.7 (This quarter is more positive, supporting the CC standards with examples.)
+- **Dominance:** 0.6 (The speaker strongly refutes the previous concern, which bolsters their position.)
+- **Intensity:** 0.7 (There’s a stronger emphasis on the positive aspects of CC here.)
+- **Concreteness:** 0.8 (The reference to specific examples and tests adds significant concreteness.)
+
+### Quarter 4:
+*Summary:* The speaker acknowledges issues with CC while ultimately defending its benefits and offers to provide further examples.
+
+- **Valence:** 0.5 (The tone is balanced, recognizing both strengths and weaknesses.)
+- **Dominance:** 0.5 (They assert their viewpoints while also acknowledging limitations.)
+- **Intensity:** 0.4 (Less intense as it presents a balanced view rather than simply one side.)
+- **Concreteness:** 0.6 (More examples are suggested, which adds clarity, but still remains somewhat general.)
+
+### Aggregate Scores:
+Here’s an overall summary of the argument across the four quarters:
+
+- **Valence:** 0.6 (Overall a mix of concerns and support.)
+- **Dominance:** 0.5 (A reasonably balanced approach in presenting views.)
+- **Intensity:** 0.5 (Moderate intensity throughout, with peaks and valleys.)
+- **Concreteness:** 0.6 (A combination of personal experience and specific references enhances the argument's clarity.)
+
+Overall, this argument presents a measured critique while also providing a more informed perspective on Common Core and its applications, suggesting a complex understanding of the topic.
+

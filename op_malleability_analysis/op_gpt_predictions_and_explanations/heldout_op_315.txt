@@ -1,0 +1,57 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the provided argument, I will rate each of the dimensions—valence, dominance, intensity, and concreteness—on a scale from 0.0 to 1.0, for each of the four quarters of the argument. 
+
+**Quarter 1:**
+"CMV: absolute majority in elections should not mean getting voted by way less than 50% of the total population I can't get why does this even make sense. For me it's easy."
+- Valence: 0.6 (The tone is more critical but not entirely negative.)
+- Dominance: 0.5 (The speaker expresses a strong opinion but invites others to change their view, indicating a balance of authority.)
+- Intensity: 0.7 (The use of "OBVIOUSLY" adds emotional weight.)
+- Concreteness: 0.5 (The argument is somewhat abstract in its critique.)
+
+**Quarter 2:**
+"Usually elections around the world go from 50% to 75-80% of participation. Let's say 75% for example. Out of that, a party gets 33% of the votes. Or even a 50% it doesn't really matter. And they get absolute majority..."
+- Valence: 0.7 (The argument seems mostly negative towards the electoral system.)
+- Dominance: 0.6 (The speaker assumes a position of authority by stating facts about electoral participation.)
+- Intensity: 0.5 (The tone is analytical, lacking strong emotional appeal.)
+- Concreteness: 0.7 (This part provides specific numbers and percentages, giving it more substance.)
+
+**Quarter 3:**
+"So 50% of 75% of participation (where I live it's usually WAY lower, for both %, but whatever), you get 0.375, 37.5% unless I'm mistaken. And with that alone, you can govern for 4,5, 6 years."
+- Valence: 0.5 (Balanced, though it underscores a systemic flaw.)
+- Dominance: 0.4 (Less dominance, as it reflects a personal experience without asserting broader authority.)
+- Intensity: 0.4 (The calculation is unemotional but still underscores a significant point.)
+- Concreteness: 0.8 (Highly concrete due to the specific calculations provided.)
+
+**Quarter 4:**
+"Very few countries have referendum to vote for stuff that happens between that 4 years so I do not get why this is a valid way of treating more than half of the population..."
+- Valence: 0.6 (The sentiment is critical of the current system, suggesting dissatisfaction.)
+- Dominance: 0.5 (The speaker reasserts authority by questioning the validity of current practices.)
+- Intensity: 0.6 (There’s a sense of urgency and frustration in the questioning.)
+- Concreteness: 0.6 (It addresses specific issues (referendums) but remains somewhat abstract in argumentation.)
+
+In summary, here are the scores for each quarter of the argument:
+
+**Quarter 1:**  
+Valence: 0.6  
+Dominance: 0.5  
+Intensity: 0.7  
+Concreteness: 0.5  
+
+**Quarter 2:**  
+Valence: 0.7  
+Dominance: 0.6  
+Intensity: 0.5  
+Concreteness: 0.7  
+
+**Quarter 3:**  
+Valence: 0.5  
+Dominance: 0.4  
+Intensity: 0.4  
+Concreteness: 0.8  
+
+**Quarter 4:**  
+Valence: 0.6  
+Dominance: 0.5  
+Intensity: 0.6  
+Concreteness: 0.6  
+

@@ -1,0 +1,64 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating for each of the requested dimensions based on the provided argument:
+
+1. **Valence**: 0.3 
+   - The argument exhibits a mix of negative and neutral sentiments. While the author expresses dislike for certain BuzzFeed content (like clickbait quizzes), there is also a recognition of the necessity for revenue generation. This duality suggests an overall somewhat negative valence, but not overwhelmingly so.
+
+2. **Dominance**: 0.4 
+   - The author presents a balanced view, acknowledging both their frustrations with BuzzFeed and the rationale behind its business model. This indicates a moderate level of assertiveness in presenting their argument, without dominating the conversation.
+
+3. **Intensity**: 0.5 
+   - The intensity of the argument is somewhat moderate. There are clear expressions of frustration (e.g., "I absolutely hate..." and "THEY DIDN'T WRITE SHIT"), indicating strong feelings about certain issues. However, the argument is reasoned out and not overly emotional or aggressive, leading to a balanced score.
+
+4. **Concreteness**: 0.6 
+   - The argument contains concrete examples (like the reference to "which Frozen character are you?" quizzes and the issue of recycling Reddit posts). These specific references make the argument more tangible, but the concepts of ratios or degrees of articles versus quizzes are a bit abstract, leading to a moderately high score rather than a perfect one.
+
+This analysis reflects a mixture of feelings and reasoning in the argument, highlighting an understanding of BuzzFeed's operational model while critiquing its content.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating for each quarter of the argument, I'll break down the text and analyze it according to each of the four dimensions: valence, dominance, intensity, and concreteness.
+
+### Quarter 1: 
+"Yellow journalism has always existed." 
+
+- **Valence:** 0.5 (Neutral statement, as it doesn’t carry a strong positive or negative sentiment; it merely asserts a fact.)
+- **Dominance:** 0.5 (The statement is assertive but not overtly authoritative; it presents a common claim.)
+- **Intensity:** 0.4 (Low intensity; it’s a straightforward assertion without emotional weight.)
+- **Concreteness:** 0.7 (Moderately concrete; "yellow journalism" is a well-defined term, making the statement relatively clear.)
+
+### Quarter 2:
+"Sensationalist views about the end of journalism have always existed."
+
+- **Valence:** 0.5 (Again, fairly neutral, describing a phenomenon without emotional judgment.)
+- **Dominance:** 0.6 (Slightly more authoritative; it suggests ongoing concern, which indicates a position.)
+- **Intensity:** 0.5 (Moderate intensity; it acknowledges a trend but does not invoke strong emotions.)
+- **Concreteness:** 0.6 (Somewhat concrete; the idea of "sensationalist views" has a tangible meaning but is still somewhat abstract.)
+
+### Quarter 3:
+"Fabricated stories that tell one-sided views which are congruent with the kinds of stories that people want to hear at the time have always been more interesting than reality. As a result, a retelling of reality has lower ratings than fiction which purports itself as a retelling of reality."
+
+- **Valence:** 0.4 (Negative sentiment towards fabricated stories and a critique of media.)
+- **Dominance:** 0.7 (More dominant argument as it makes a larger claim about storytelling and media consumption.)
+- **Intensity:** 0.8 (High intensity, as it discusses the impact of media on reality and audience preferences.)
+- **Concreteness:** 0.5 (Moderate concretism; while it talks about storytelling, the abstract nature of "interest" and "reality" makes it less tangible.)
+
+### Quarter 4:
+"Misquoting (deliberate or idiotic) from untrustworthy sources by major news organizations have always existed. What you're seeing is not the end of journalism and BuzzFeed is just someone riding the wave of a trend. People are more interested in hearing someone validate their ideas than they are in aligning their ideas with reality. This changes with the generations as phases do and it will pass."
+
+- **Valence:** 0.3 (Generally negative regarding the state of journalism and media, yet somewhat hopeful toward the end.)
+- **Dominance:** 0.7 (Assertive in the conclusion; it expresses a strong viewpoint on the current media landscape.)
+- **Intensity:** 0.9 (High intensity due to the emotional implications about journalism and societal trends.)
+- **Concreteness:** 0.6 (Moderate; while it deals with specific claims like misquoting and trends, broader terms like "phases" may reduce clarity.)
+
+### Summary Ratings:
+1. **Quarter 1:** 
+   - Valence: 0.5, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.7
+2. **Quarter 2:** 
+   - Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+3. **Quarter 3:** 
+   - Valence: 0.4, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.5
+4. **Quarter 4:** 
+   - Valence: 0.3, Dominance: 0.7, Intensity: 0.9, Concreteness: 0.6
+
+These ratings can help to understand the emotional and communicative strength of each segment of the argument.
+

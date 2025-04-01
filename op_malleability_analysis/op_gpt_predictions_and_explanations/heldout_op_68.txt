@@ -1,0 +1,38 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on the criteria of valence, dominance, intensity, and concreteness, I will provide scores for each quarter of the text.
+
+### Quarter 1: "CMV: The nation becoming more politically correct is not a bad thing. On top of that, if hear you complain about 'PC culture' I think it's not unreasonable to assume they are prejudiced in some way."
+
+- **Valence (0.7)**: The sentiment is generally positive towards political correctness, though it does touch on a more critical view of those who complain about it.
+- **Dominance (0.4)**: The speaker asserts a viewpoint, but the argument isn't overly dominating in tone—there's an acknowledgment of others' opinions.
+- **Intensity (0.6)**: The intensity is moderate; the statement about those who complain being potentially prejudiced adds some weight to the argument.
+- **Concreteness (0.5)**: The argument is somewhat abstract in discussing the concept of 'political correctness' and the implications of complaining about it.
+
+### Quarter 2: "While I don't think keeping up with gender pronouns is important, I don't think it is too much to ask for people to not say 'nigger' or 'faggot'."
+
+- **Valence (0.5)**: The sentiment is neutral; it acknowledges the discussion around pronouns while firmly opposing the use of hate speech.
+- **Dominance (0.6)**: The speaker takes a strong stance against slurs, which increases the dominance of this portion of the argument.
+- **Intensity (0.8)**: This part of the argument is very intense; it directly addresses slurs, which are highly charged terms that evoke strong emotions.
+- **Concreteness (0.9)**: The argument is very concrete in that it references specific terms that are universally recognized as offensive.
+
+### Quarter 3: "I hear a lot of people complaining, particularly on reddit, about how 'everything is so PC now, you can't say anything'. No one cares what you say, unless you use an obviously offensive term or slur."
+
+- **Valence (0.6)**: The speaker expresses a decisive standpoint on the complaints, leaning toward a more favorable view of political correctness.
+- **Dominance (0.5)**: There’s a balance of opinions presented; while there is an assertion, it doesn’t dominate the narrative entirely.
+- **Intensity (0.7)**: The intensity is high as it addresses the frustration around complaints but remains somewhat measured.
+- **Concreteness (0.7)**: The argument refers to specific instances of complaints, making it more tangible and relatable.
+
+### Quarter 4: "I know a common argument against this view is that PC teaches people to be offended instead of to toughen up, but I think the idea that we shouldn't discourage slurs as a way to toughen people up is ridiculous. It isn't too much to ask to be civil."
+
+- **Valence (0.5)**: The tone is critical of the opposing view while advocating for civility, leading to a neutral overall sentiment.
+- **Dominance (0.7)**: The speaker asserts their position strongly against the opposing viewpoint, showcasing dominance in the argument.
+- **Intensity (0.8)**: There is significant intensity in challenging the notion of toughening up by allowing slurs, indicating strong feelings on the topic.
+- **Concreteness (0.6)**: The argument presents abstract ideas about civility and toughness, though it does touch on specific social concepts.
+
+### Summary of Ratings:
+
+1. **Quarter 1**: Valence (0.7), Dominance (0.4), Intensity (0.6), Concreteness (0.5)
+2. **Quarter 2**: Valence (0.5), Dominance (0.6), Intensity (0.8), Concreteness (0.9)
+3. **Quarter 3**: Valence (0.6), Dominance (0.5), Intensity (0.7), Concreteness (0.7)
+4. **Quarter 4**: Valence (0.5), Dominance (0.7), Intensity (0.8), Concreteness (0.6)
+

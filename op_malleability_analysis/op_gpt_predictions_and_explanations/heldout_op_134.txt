@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating score from 0.0 to 1.0 for each of the dimensions you requested—valence, dominance, intensity, and concreteness—broken down by the quarters of the argument's text. 
+
+### 1st Quarter:
+**Text:** "CMV: There is no media "agenda", just average people reporting on what sells. I see a lot of people talk about the media like it's a living organism. They accuse "the media" of purposefully hiding information (often powerful corporations/government secrets, or what have you), and the like."
+
+- **Valence:** 0.5 (Neutral; the tone is more descriptive than emotional)
+- **Dominance:** 0.6 (There is a sense of authority in presenting an opinion)
+- **Intensity:** 0.4 (The intensity is moderate; presenting observations)
+- **Concreteness:** 0.5 (Fairly concrete but relies on abstract concepts like "media agenda")
+
+### 2nd Quarter:
+**Text:** "These are just everyday employees. Average reporters/office workers just trying to churn out another day for a paycheque, just like the rest of us. They're no more intelligent (or dumber) than the rest of us, and they don't have an agenda."
+
+- **Valence:** 0.6 (A slightly positive portrayal of reporters as average people)
+- **Dominance:** 0.5 (More of a collective description rather than a strong assertion)
+- **Intensity:** 0.4 (Again, more descriptive, so intensity is low)
+- **Concreteness:** 0.6 (Concrete in depicting the everyday lives of reporters)
+
+### 3rd Quarter:
+**Text:** "They're just trying to find stories that their editor will approve; Their editor is just looking for stories that will be read; Advertisers are paying for highly consumed media."
+
+- **Valence:** 0.4 (Neutral, but acknowledges a system driven by profit)
+- **Dominance:** 0.5 (Fairly balanced; outlines motivations without strong assertion)
+- **Intensity:** 0.5 (Moderate focus on the mechanics of media operation)
+- **Concreteness:** 0.7 (Explicit in describing how the media ecosystem works)
+
+### 4th Quarter:
+**Text:** "That's it. Just a bunch of average folk, punching their timecard every day. They don't care about it, they're jaded about their 9-5 just like the rest of us. The [reporter making $36k/year](http://www.payscale.com/research/US/Job=News_Reporter/Salary) isn't trying to "mislead" the Western World. **tl dr;** I don't think there's a "media agenda" trying to hide corporate/government facts, or mislead us. They're just every day workers like us trying to get their job done, and reporting on things that sell."
+
+- **Valence:** 0.5 (Neutral, though slightly negative in tone about jadedness)
+- **Dominance:** 0.6 (A clear stance taken; asserts that they lack an agenda)
+- **Intensity:** 0.6 (Stronger conviction towards the end)
+- **Concreteness:** 0.8 (Concrete statements about the common life of a reporter; specific example)
+
+These scores provide an evaluation of the emotional and rhetorical dimensions of the argument as it progresses through each quarter.
+

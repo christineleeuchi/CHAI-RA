@@ -1,0 +1,80 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s an evaluation on a scale from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the provided argument:
+
+### Quarter 1:
+**Text:** "The information that you describe, tips like 'travel in well-lit, well trafficed areas,' 'be aware of your surroundings,' 'don't travel alone,' etc., are helpful for preventing other crimes like mugging, which is more likely to occur."
+
+- **Valence:** 0.5 (Neutral tone; acknowledges the utility of tips while setting up an argument against their application to rape.)
+- **Dominance:** 0.6 (Establishes a sense of authority by stating facts about crime prevalence.)
+- **Intensity:** 0.4 (Mildly intense; the argument is based on factual assertions rather than emotional appeals.)
+- **Concreteness:** 0.7 (Provides specific, tangible tips and establishes a clear contrast between different types of crime.)
+
+### Quarter 2:
+**Text:** "This advice as a way to prevent rape is not practical. When you give these tips to women as ways to prevent rape, you are giving useful information to half of your population for a situation that is not very common. (Also, the advice is really obvious. People are naturally uneasy when alone in the dark.)"
+
+- **Valence:** 0.3 (Negative tone; critiques the practicality and effectiveness of safety advice in the context of rape.)
+- **Dominance:** 0.5 (The speaker asserts their viewpoint but does so in a way that acknowledges common knowledge.)
+- **Intensity:** 0.5 (Moderately intense, especially when calling the advice "obvious," which diminishes the perceived value of the tips.)
+- **Concreteness:** 0.6 (Makes clear claims about the nature of the advice but could benefit from more specificity regarding its flaws.)
+
+### Quarter 3:
+**Text:** "Rape is overwhelmingly committed by someone the victim knows. The 'jumping out of the dark' type rape is rare compared to 'date' rape."
+
+- **Valence:** 0.7 (Mostly neutral; presents a factual statement that underscores the misperception surrounding rape.)
+- **Dominance:** 0.8 (Strong dominance; asserts statistical information that shapes the reader's understanding of the issue.)
+- **Intensity:** 0.4 (Less intense, focusing more on providing factual information rather than emotional arguments.)
+- **Concreteness:** 0.8 (Very concrete; relies on recognized statistics which bolster the argument's foundation.)
+
+### Quarter 4:
+**Text:** "You can't give tips on how not to be murdered; you can only teach people to think murder is wrong. Likewise, in order to prevent rape, you should teach people who have sex to be considerate of their partners' consent."
+
+- **Valence:** 0.6 (Positive focus on the solution, emphasizing education as a path forward.)
+- **Dominance:** 0.7 (Confidently asserts an alternative approach to preventing rape, shifting the responsibility from potential victims to offenders.)
+- **Intensity:** 0.6 (Moderately intense; carries a moral weight that may resonate strongly with readers.)
+- **Concreteness:** 0.5 (While it outlines a clearer strategy for prevention, it lacks specificity about how this teaching should be implemented.)
+
+These evaluations reflect the persuasive aspects of the argument and how each section contributes to the overall message.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the argument with suggested ratings for valence, dominance, intensity, and concreteness for each quarter of the text:
+
+### Quarter 1:
+**Text:** "Here's a different angle: No, anti-victim blaming culture is not suppressing rape prevention information. The common activist is smart enough to tell the difference between blaming the victim and telling people to be careful."
+
+- **Valence:** 0.7 (The text has a generally positive connotation, promoting awareness and distinction.)
+- **Dominance:** 0.6 (The speaker is assertive, presenting a counter-argument to a common belief.)
+- **Intensity:** 0.5 (The tone is moderate, not particularly emotional but clear.)
+- **Concreteness:** 0.7 (The argument presents clear distinctions between concepts.)
+
+### Quarter 2:
+**Text:** "The 'teach men not to rape' meme/campaign/trend is mainly focused on spreading education of consent in situations involving heavy drinking, drugs, and ambiguous/difficult to read situations."
+
+- **Valence:** 0.8 (This portion supports an educational initiative, promoting positive change.)
+- **Dominance:** 0.5 (The tone is informative; there's less assertion compared to the first quarter.)
+- **Intensity:** 0.4 (This text is factual and not very emotionally charged.)
+- **Concreteness:** 0.8 (The statement is clear and specific about the focus of the campaign.)
+
+### Quarter 3:
+**Text:** "As several people have already pointed out, rape is not very often a crime involving ambush and assault, at least not in this age." 
+
+- **Valence:** 0.5 (Neutral; it's an observational statement without emotional bias.)
+- **Dominance:** 0.4 (The speaker is referencing others' views, which lessens assertiveness.)
+- **Intensity:** 0.3 (The language is calm, with little emotional weight.)
+- **Concreteness:** 0.6 (The statement presents a specific observation, but its generalization may be debatable.)
+
+### Quarter 4:
+**Text:** "In summation, the only people for whom self-defense and rape prevention information is being suppressed are the ones spreading this information in toxic activist communities."
+
+- **Valence:** 0.4 (This part has a more negative connotation, potentially casting a critical view on certain activists.)
+- **Dominance:** 0.7 (The speaker strongly asserts that suppression is occurring within certain groups.)
+- **Intensity:** 0.6 (This portion is somewhat more passionate, expressing frustration.)
+- **Concreteness:** 0.5 (The conclusion is more generalized and may require broader evidence to substantiate.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence: 0.7, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.7
+- **Quarter 2:** Valence: 0.8, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.8
+- **Quarter 3:** Valence: 0.5, Dominance: 0.4, Intensity: 0.3, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.4, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.5
+
+Feel free to ask for any further clarification or adjustments!
+

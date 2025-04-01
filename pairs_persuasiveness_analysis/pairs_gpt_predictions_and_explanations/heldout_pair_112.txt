@@ -1,0 +1,75 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating for each of the specified categories for each quarter of the argument:
+
+### Quarter 1
+**Text:** The problem with putting MLK on the twenty dollar bill is that he already gets a disproportionate amount of the recognition and honor in the historical memory. I'm not saying that he doesn't deserve all the statues and holidays - he probably does - what I'm saying is that so many other people deserve a comparative amount of recognition. Harriet Tubman, Frederick Douglass, WEB Dubious, Booker T Washington, Ida B. Wells, A. Phillip Randolph, James Baldwin, Langston Hughes, Nora Zeale Hurston, Ralph Abernathy, Fred Shuttlesworth, Diane Nash, John Lewis, Medgar Evers, Bayard Rustin and a 1000 others all deserve recognition for their efforts in creating a freer America. 
+
+- **Valence:** 0.7 (The sentiment is generally negative regarding the current recognition of MLK compared to others.)
+- **Dominance:** 0.6 (The argument asserts a strong position that MLK receives undue recognition while others deserve it too.)
+- **Intensity:** 0.6 (There is a moderate intensity in emphasizing the need for recognition for others.)
+- **Concreteness:** 0.8 (The argument lists specific individuals, making it concrete and tangible.)
+
+### Quarter 2
+**Text:** Yet, it's always King we shine the spotlight. He already has monument on the national mall, a federal holiday, and [700 streets](http://en.wikipedia.org/wiki/List_of_streets_named_after_Martin_Luther_King,_Jr.) named after him. Compare this to Douglass, probably King's most worthy competitor in most awesome orator/ in US history, who has like [four](http://en.wikipedia.org/wiki/List_of_things_named_after_Frederick_Douglass#Streets_and_bridges) streets *and* bridges named after him. Even if wikipedia is severely undercounting, it is still illustrative of this point. 
+
+- **Valence:** 0.7 (The tone remains critical of the disproportionate focus on MLK.)
+- **Dominance:** 0.6 (The argument seeks to highlight the disparity in recognition, maintaining a strong position.)
+- **Intensity:** 0.7 (There’s a strong emphasis on the comparison between MLK and Douglass, enhancing intensity.)
+- **Concreteness:** 0.9 (The argument refers specifically to monuments, holidays, and statistics, making it very concrete.)
+
+### Quarter 3
+**Text:** By compacting the long march for freedom into one man, we've turned MLK into a mixture of a puppy dog and Jesus. He comforts us about America's trajectory on issues of racism. His memory assures us that the American Dream is not a lie for black people. That the promissory note has been cashed. In the popular memory, the United States had a problem with racism until MLK came and cleansed the America soul with his works and his sacrifice. By flattening the entire story down to one man, we not only forget the thousands (hundreds-of-thousands) other people who fought for civil rights from the founding of the country up until today. By erasing them from memory, we also erase the fact that so many people were needed to change the country. That our country was born with a cancer.
+
+- **Valence:** 0.8 (The sentiment is strongly negative towards the oversimplification of MLK's role.)
+- **Dominance:** 0.7 (The argument asserts a significant critique of the narrative surrounding MLK.)
+- **Intensity:** 0.8 (The metaphorical language increases intensity, and the highlighting of a broader context is impactful.)
+- **Concreteness:** 0.7 (While the ideas are abstract, they reference the historical movement and collective struggle, which adds some concreteness.)
+
+### Quarter 4
+**Text:** Finally, honoring MLK is kind of a slap in the face to the man. Towards the end of his life he was fighting hard for so that the poor would have better access to wealth. I don’t want to die and have to tell MLK "millions of people still don't have money, but at least it's money with your face on it. ㅠㅠ"
+
+- **Valence:** 0.9 (Highly negative towards the idea of honoring MLK in the context provided.)
+- **Dominance:** 0.8 (The argument strongly emphasizes the perceived injustice of this honor.)
+- **Intensity:** 0.9 (The emotional appeal and personal reflection create a very high intensity.)
+- **Concreteness:** 0.8 (There’s a specific reference to poverty and wealth which provides depth, along with a poignant personal reflection.)
+
+In summary:
+
+- **Quarter 1:** Valence 0.7, Dominance 0.6, Intensity 0.6, Concreteness 0.8
+- **Quarter 2:** Valence 0.7, Dominance 0.6, Intensity 0.7, Concreteness 0.9
+- **Quarter 3:** Valence 0.8, Dominance 0.7, Intensity 0.8, Concreteness 0.7
+- **Quarter 4:** Valence 0.9, Dominance 0.8, Intensity 0.9, Concreteness 0.8
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To rate the argument you provided, I'll break it down into four quarters and evaluate each based on valence, dominance, intensity, and concreteness.
+
+**Quarter 1: "I think this just comes down to *why* we want to put certain people on money. Are we going for the most famous? The ones who had the biggest impact, measured by total lives touched? Are we going for people of the best moral character, or the people with the most inspiring personal stories? Are we going for people whose story everyone already knows, or could we maybe use currency to spotlight heroes who don't get quite as much attention? Or should we just choose the best-looking historical figures?"**
+
+- Valence: 0.5 (This section is neutral, presenting various viewpoints without strong emotion either way.)
+- Dominance: 0.4 (It raises questions and opens a discussion but does not assert authority or dominance.)
+- Intensity: 0.4 (The tone is somewhat reflective, not intensely passionate.)
+- Concreteness: 0.6 (It presents clear categories but remains abstract in discussing criteria.)
+
+**Quarter 2: "I'm not sure that 'impact' or 'number of people helped' should necessarily be the sole metric by which we choose people for currency."**
+
+- Valence: 0.6 (A slightly positive stance on broadening the criteria for selection.)
+- Dominance: 0.5 (The speaker asserts their opinion but does not fully dominate the conversation.)
+- Intensity: 0.5 (Moderate intensity, reasonable but not fervent.)
+- Concreteness: 0.5 (Somewhat abstract, though the speaker clearly states an opinion.)
+
+**Quarter 3: "I'm not going to argue that Harriet Tubman had more of an impact on US history than MLK Jr., but I don't think that's the be-all and end-all of the discussion."**
+
+- Valence: 0.6 (Acknowledges MLK's impact positively while advocating for Tubman's recognition.)
+- Dominance: 0.5 (It's assertive but maintains a balanced tone, acknowledging both figures.)
+- Intensity: 0.5 (A measured tone with consideration for both perspectives.)
+- Concreteness: 0.5 (Talks about their impact in a relative sense but doesn't provide specific evidence.)
+
+**Quarter 4: "I think there's something to be said for choosing someone who doesn't already have a holiday and a monument on the National Mall. And while MLK is certainly more impressive than the vast majority of figures out there, I think Tubman still has a more awe-inspiring personal story--she may have had less of an impact, but she also started as a slave. That's kickass."**
+
+- Valence: 0.7 (Positive valence towards Tubman's story and the idea of inclusivity.)
+- Dominance: 0.6 (The speaker is asserting a strong personal belief about recognition.)
+- Intensity: 0.7 (The use of "kickass" conveys a high level of enthusiasm and admiration.)
+- Concreteness: 0.6 (Provides a specific reason for preference, adding weight to the argument.)
+
+Overall, the ratings reveal a thoughtful exploration of the complexities involved in choosing figures for currency, with certain sections demonstrating more emotional engagement and concrete reasoning than others.
+

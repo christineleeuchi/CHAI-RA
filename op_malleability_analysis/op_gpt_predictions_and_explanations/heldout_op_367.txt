@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here is the scoring for each of the categories (valence, dominance, intensity, and concreteness) for each quarter of the argument's text. The scores range from 0.0 to 1.0.
+
+### 1st Quarter
+**Text:** "CMV: Laws requiring paid maternity leave, in the absence of also requiring paternity leave, would be harmful to women especially those who don't want kids. So, first and foremost, I think it's unfortunate that the U.S. is one of the countries where both maternity leave and paternity leave are not universally granted by employers."
+
+- **Valence:** 0.6 (The statement has a generally negative tone regarding the implications of maternity leave laws.)
+- **Dominance:** 0.5 (The author expresses concern and presents their view, but not with overpowering authority.)
+- **Intensity:** 0.5 (There is a moderate level of intensity; the argument is serious but not emotionally charged.)
+- **Concreteness:** 0.6 (Concrete in discussing the U.S. context and roles of maternity and paternity leave.)
+
+### 2nd Quarter
+**Text:** "But I think that if we were to put a place a law mandating employers to give paid maternity leave, it would result in unfair hiring biases against women. Some employers would develop a preference for hiring men over women because, if you are purely concerned with profit as lots of employers are, why take the risk of hiring a lady who might take a lot of time from work while you can just not risk it and hire a man?"
+
+- **Valence:** 0.3 (The negative implications are strong here, suggesting harm to women.)
+- **Dominance:** 0.6 (The author takes a strong stand on how this law would impact hiring practices.)
+- **Intensity:** 0.7 (The argument is very intense as it engages with stereotypes and concerns of discrimination.)
+- **Concreteness:** 0.7 (Specific scenarios are described which makes the concerns feel tangible.)
+
+### 3rd Quarter
+**Text:** "There are already a lot of stereotypes about women being less dedicated to their jobs than men because they are 'more focused on kids'. Wouldn't a mandatory maternity leave just make this worse? It's particularly unfair to women who aren't planning on having kids because employers could be biased against them for expecting them to use something they won't ever even need in the first place!"
+
+- **Valence:** 0.4 (The tone remains negative, focusing on stereotypes and unfairness.)
+- **Dominance:** 0.5 (Expresses concerns but is less authoritative than the previous quarter.)
+- **Intensity:** 0.6 (The mention of stereotypes adds emotional weight.)
+- **Concreteness:** 0.6 (Cites specific biases and unfairness, making it more vivid.)
+
+### 4th Quarter
+**Text:** "If paternity leave were also mandated, then this would be less of a problem because men would be as likely (or nearly as likely) to take leave as well, making the 'expected value' of a man's labor to an employer the same as a woman's, and hopefully eliminating the bias."
+
+- **Valence:** 0.5 (Has a somewhat positive viewpoint about the potential for change if paternity leave is included.)
+- **Dominance:** 0.5 (Positions a solution but doesn't assert dominance over the issue.)
+- **Intensity:** 0.4 (The tone is less intense as it shifts to a potential solution rather than the problem.)
+- **Concreteness:** 0.5 (Describes a possible outcome, but the scenario is a hypothesis and less concrete.)
+
+### Summary of Scores for Each Quarter
+1st Quarter: Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6  
+2nd Quarter: Valence: 0.3, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.7  
+3rd Quarter: Valence: 0.4, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.6  
+4th Quarter: Valence: 0.5, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.5  
+

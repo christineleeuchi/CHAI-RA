@@ -1,0 +1,39 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a breakdown of the argument into four quarters, with scores for valence, dominance, intensity, and concreteness:
+
+### Quarter 1:
+"CMV: Game publishers are holding the franchises we love hostage and its only a matter of time other publishers follow suite. So, with konami doing everything in there power to ruin MGSV and now square enix pulling this shit."
+
+- **Valence**: 0.2 (The sentiment is largely negative, indicating frustration and anger.)
+- **Dominance**: 0.7 (The author expresses a strong opinion and a sense of urgency regarding the situation.)
+- **Intensity**: 0.8 (The language is charged, reflecting a high level of intensity in expressing concern.)
+- **Concreteness**: 0.5 (References to specific publishers and games provide clarity, but the general assertion remains abstract.)
+
+### Quarter 2:
+"You see, it wouldn't be a problem if I could just say boycotting would work. But guess what? It won't. And both konami and square enix knows this."
+
+- **Valence**: 0.3 (Negative sentiment continues, emphasizing a sense of defeat.)
+- **Dominance**: 0.6 (The author asserts a strong view about boycotting and the publishers' awareness of the situation.)
+- **Intensity**: 0.7 (The conversational tone adds to the emotional weight of the argument.)
+- **Concreteness**: 0.4 (The argument is rooted more in opinion than concrete evidence, making it less precise.)
+
+### Quarter 3:
+"As for konami? They're basically done with console gaming all-together so they couldn't care less what 'gamers' think about them at this point in time."
+
+- **Valence**: 0.2 (The negativity persists, suggesting a strong disdain for Konami's attitude toward gamers.)
+- **Dominance**: 0.7 (The author confidently discusses the perceived apathy from Konami, displaying authority over the view.)
+- **Intensity**: 0.8 (The emotional language continues, expressing anger and frustration.)
+- **Concreteness**: 0.5 (The statement is somewhat abstract but grounded by discussing the company's direction.)
+
+### Quarter 4:
+"Maybe I'm being to cynical and things will be okay? Because if I am, please convince me because things look very dire from my point of view."
+
+- **Valence**: 0.4 (A slight shift to a more contemplative tone, but still rooted in negativity.)
+- **Dominance**: 0.5 (The author opens up for discussion, indicating less dominance compared to previous sections.)
+- **Intensity**: 0.6 (While still intense, the tone now includes doubt and questioning, which lessens the fervor slightly.)
+- **Concreteness**: 0.5 (The conclusions are more introspective and open-ended, maintaining some specificity without clear answers.)
+
+---
+
+These scores reflect the overall sentiment and emotional engagement present in the argument, considering the language used and the ideas conveyed.
+

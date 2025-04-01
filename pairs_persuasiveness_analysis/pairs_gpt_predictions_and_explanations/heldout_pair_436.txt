@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s the rating for each quarter of the argument along the dimensions of valence, dominance, intensity, and concreteness:
+
+**1st Quarter: "It's one thing to notice a pic a friend posted on their wall. It is creepy when a guy targets someone he doesn't know well and he reads every single post put up for years. It's the obsession. It's the depth at which that one person digs through another's life."**
+- Valence: 0.3 (This part expresses a negative sentiment towards the behavior, hinting at discomfort and creepiness.)
+- Dominance: 0.5 (There’s a sense of control in calling someone out for obsessive behavior, but it’s not overly forceful.)
+- Intensity: 0.6 (The use of words like “creepy” and “obsession” adds a significant level of emotional weight.)
+- Concreteness: 0.7 (Refers to specific actions (reading posts) and concepts (obsession), providing a clear and relatable context.)
+
+**2nd Quarter: "Sure it's public. Technically your trash can at the curb can become public and be searched."**
+- Valence: 0.2 (This is more factual and neutral; it acknowledges public access but still carries a negative connotation.)
+- Dominance: 0.4 (It maintains a calm tone while making a comparison but does not exhibit dominance.)
+- Intensity: 0.4 (The metaphor is slightly intense, but the tone is less emotional.)
+- Concreteness: 0.5 (References a specific scenario (a trash can) but is more metaphorical than literal.)
+
+**3rd Quarter: "But it's *creepy* to know someone is digging through your scraps to find out things about you."**
+- Valence: 0.4 (Strongly negative sentiment about the behavior of digging into someone's past.)
+- Dominance: 0.5 (There is an assertion of discomfort and negativity toward the action.)
+- Intensity: 0.7 (The word “creepy” has a strong emotional impact, suggesting unease.)
+- Concreteness: 0.6 (Uses the metaphor of "scraps" to create an image, though it’s still somewhat abstract.)
+
+**4th Quarter: "And if he was a true friend, he would spend the time to get to know her or he'd ask her directly, rather than digging through every scrap of info he can find."**
+- Valence: 0.5 (Mixed sentiments; expresses a desirable quality in a friend but contrasts it with negative behavior.)
+- Dominance: 0.6 (Suggests an ideal standard of friendship, implying a judgment about the friend’s actions.)
+- Intensity: 0.6 (There’s a moral underpinning, which adds emotional weight, but is less intense than earlier sections.)
+- Concreteness: 0.7 (Uses specific actions (spending time, asking directly) to illustrate an ideal behavior, making the argument tangible.)
+
+Overall, this argument invokes clear feelings related to social norms and personal boundaries, using a blend of abstract reasoning and concrete examples.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the argument based on the criteria provided:
+
+### 1. **Valence**
+   - **Score: 0.3** (Neutral to Negative)
+     - The argument expresses discomfort and negativity towards the idea of others using information from personal social media, especially in a professional context. The use of "creepy" indicates a negative valence.
+
+### 2. **Dominance**
+   - **Score: 0.5** (Neutral)
+     - The argument reflects a balance between personal feelings and opinions about social media behavior. It asserts the speaker's discomfort while acknowledging the boss's perspective of friendship, leading to a neutral dominance score.
+
+### 3. **Intensity**
+   - **Score: 0.6** (Moderate)
+     - The expression of feelings, particularly the use of "creepy," indicates a moderate level of intensity regarding the discomfort with the situation. There's a clear emotional response tied to the experience.
+
+### 4. **Concreteness**
+   - **Score: 0.4** (Somewhat Abstract)
+     - While personal examples are given (the boss's behavior and how it made the speaker feel), the argument is somewhat abstract regarding the broader implications of social media behavior. It lacks concrete examples beyond personal experience, making it less tangible.
+
+### Summary of Scores
+- **Valence: 0.3**
+- **Dominance: 0.5**
+- **Intensity: 0.6**
+- **Concreteness: 0.4**
+

@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score breakdown for the provided argument based on the specified criteria:
+
+### Quarter 1:
+- **Valence:** 0.6 (The tone is somewhat negative as it discusses the potential harm caused by gambling establishments and alcohol, but it also acknowledges individual responsibility.)
+- **Dominance:** 0.5 (There's an assertive stance on the responsibilities of gambling establishments, presenting a balanced view among personal agency and societal implications.)
+- **Intensity:** 0.6 (The argument conveys a moderate level of urgency regarding the consequences of excessive alcohol consumption and gambling.)
+- **Concreteness:** 0.7 (The mention of specific behaviors and potential societal consequences lends a sense of tangibility to the discussion.)
+
+### Quarter 2:
+- **Valence:** 0.6 (Continues with a negative outlook, focusing on the potential repercussions of allowing harmful practices in gambling.)
+- **Dominance:** 0.6 (The argument strengthens its position by referencing laws in Nevada and implying a need for regulation.)
+- **Intensity:** 0.7 (Heightened concern about public safety and individual accountability is evident, especially with phrases like "ruin people's lives.")
+- **Concreteness:** 0.8 (Reference to actual laws provides substantial grounding to the argument.)
+
+### Quarter 3:
+- **Valence:** 0.5 (The tone remains critical, discussing the negative outcomes of behavior related to intoxication and consent, but acknowledges complexities.)
+- **Dominance:** 0.5 (The shift focuses on the moral implications rather than strict legal responsibility, showing a nuanced approach.)
+- **Intensity:** 0.6 (Conveyed seriousness in discussing the impacts of drunken behavior on individuals’ health and well-being.)
+- **Concreteness:** 0.7 (Examples of reported incidents and health issues provide a clearer picture of the consequences discussed.)
+
+### Quarter 4:
+- **Valence:** 0.5 (The discussion remains cautious, highlighting potential moral and societal implications without strongly favoring one side.)
+- **Dominance:** 0.6 (There's a clear call for consideration of societal effects in legislation, indicating a proactive stance.)
+- **Intensity:** 0.7 (A sense of urgency about preventing negative outcomes and ensuring moral behavior within society seems to intensify.)
+- **Concreteness:** 0.7 (The mention of real-life reports adds weight to the arguments made about the consequences of drunken behavior.)
+
+### Summary Ratings:
+- **Quarter 1:** Valence 0.6, Dominance 0.5, Intensity 0.6, Concreteness 0.7
+- **Quarter 2:** Valence 0.6, Dominance 0.6, Intensity 0.7, Concreteness 0.8
+- **Quarter 3:** Valence 0.5, Dominance 0.5, Intensity 0.6, Concreteness 0.7
+- **Quarter 4:** Valence 0.5, Dominance 0.6, Intensity 0.7, Concreteness 0.7
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here is a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument's text:
+
+1. **Quarter 1: "If I get drunk and blow off all my money, it's my problem."**
+   - **Valence**: 0.5 (Neutral; the statement acknowledges personal responsibility but does not express strong positive or negative emotions)
+   - **Dominance**: 0.6 (The speaker expresses a level of control over their actions)
+   - **Intensity**: 0.4 (Mild; the statement is straightforward and does not evoke high emotion)
+   - **Concreteness**: 0.7 (Relatively concrete; clear scenario presented)
+
+2. **Quarter 2: "Depends on how. For instance, if you enter a contract while drunk to give all your money away, the contract might be invalid."**
+   - **Valence**: 0.5 (Neutral; the response provides information without expressing strong feelings)
+   - **Dominance**: 0.5 (Average; presents a legal perspective without a personal standpoint)
+   - **Intensity**: 0.5 (Moderate; it provides a thoughtful nuance but lacks strong language)
+   - **Concreteness**: 0.8 (Very concrete; discusses specific legal implications)
+
+3. **Quarter 3: "If I get drunk and have sex, it's my problem."**
+   - **Valence**: 0.5 (Neutral; acknowledges responsibility without passionate language)
+   - **Dominance**: 0.6 (The speaker asserts their own accountability)
+   - **Intensity**: 0.5 (Moderate; while it states personal agency, it doesn't evoke strong feelings)
+   - **Concreteness**: 0.7 (Concrete; refers directly to the situation of being drunk and having sex)
+
+4. **Quarter 4: "Yes. Which is why having sex with someone who's drunk isn't rape. It's rape when the person is so wasted they cannot consent to sex."**
+   - **Valence**: 0.4 (Somewhat negative; touches on a sensitive topic but maintains a more clinical tone)
+   - **Dominance**: 0.7 (Assertive; clearly expresses a viewpoint regarding consent)
+   - **Intensity**: 0.6 (Moderate to high; the topic of consent is weighty and carries significance)
+   - **Concreteness**: 0.8 (Very concrete; directly addresses legal and moral implications of consent)
+
+These ratings capture the nuances of the argument in terms of emotional tone, assertiveness, degree of emotional engagement, and specificity of language.
+

@@ -1,0 +1,67 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Certainly! Here's a breakdown of the provided argument across the four dimensions: valence, dominance, intensity, and concreteness, measured on a scale from 0.0 to 1.0 for each quarter of the text:
+
+### Quarter 1:
+*"This is becoming increasingly one part of many facets of the military. Today, we spend an extraordinary amount of time trying to combat terrorism in its many forms across the world."*
+
+- **Valence:** 0.7 (Generally positive; acknowledges contemporary military efforts)
+- **Dominance:** 0.5 (Neutral; describes military strategies without showing clear control)
+- **Intensity:** 0.5 (Moderately intense; introduces the complexity of military operations)
+- **Concreteness:** 0.6 (Fairly concrete; presents a specific focus on terrorism)
+
+### Quarter 2:
+*"Sure, if you're engaging in counterinsurgency strategy, killing people and breaking things so your desired faction gets an advantage is one method you can employ."*
+
+- **Valence:** 0.3 (Negative; the phrase indicates violence and destruction)
+- **Dominance:** 0.6 (Somewhat dominant; implies a strong military approach)
+- **Intensity:** 0.7 (High intensity; the language is explicit and harsh)
+- **Concreteness:** 0.7 (Concrete; specific tactics are discussed)
+
+### Quarter 3:
+*"We found this out the hard way during the early stages of Iraq, obliterating the enemy but also obliterating civilians and their homes as well."*
+
+- **Valence:** 0.2 (Negative; condemns the collateral damage in military operations)
+- **Dominance:** 0.4 (Slightly dominant; reflects on a heavy consequence of military actions)
+- **Intensity:** 0.8 (High intensity; emotionally charged and stark language)
+- **Concreteness:** 0.8 (Very concrete; references historical events and specific outcomes)
+
+### Quarter 4:
+*"It's choice phrasing designed to be blunt and appeal to folks who view the military as a cosmetic addition to America's display of strength."*
+
+- **Valence:** 0.4 (Mixed; critiques military perception vividly but slightly positive in awareness)
+- **Dominance:** 0.5 (Neutral; reflects skepticism without clear control)
+- **Intensity:** 0.6 (Moderate to high intensity; conveys skepticism)
+- **Concreteness:** 0.5 (Moderate concreteness; critiques a framing but is somewhat abstract)
+
+### Summary
+The argument captures a nuanced perspective on military strategy while critically addressing its deeper aspects and implications, utilizing varying degrees of emotional content and factual grounding throughout the text.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for each quarter of the argument based on the categories of valence, dominance, intensity, and concreteness:
+
+**1st Quarter: "Historically, that's what they used to do, sure. The (legitimate*) purpose of the military is and has always been to defend the public from foreign threats..."**
+- **Valence**: 0.7 (The statement acknowledges the military's purpose but also hints at a certain skepticism regarding its current utility.)
+- **Dominance**: 0.5 (There's a balanced view here; while acknowledging historical roles, it sets the stage for a more complex argument.)
+- **Intensity**: 0.6 (A firm acceptance of the military's purpose but reflects a nuanced understanding rather than extreme emotion.)
+- **Concreteness**: 0.7 (It references specific historical examples and the military's function.)
+
+**2nd Quarter: "But those sorts of threats aren't very common any more, are they? Modern threats are a good deal less complicated..."**
+- **Valence**: 0.6 (A skeptical tone towards the current nature of threats is presented, implying a need for reassessment.)
+- **Dominance**: 0.6 (This section challenges the military's traditional role, asserting that modern threats require a different approach.)
+- **Intensity**: 0.7 (Strongly asserts that the nature of threats has evolved, indicating a higher emotional engagement.)
+- **Concreteness**: 0.6 (It introduces the theme of evolving threats, but less detailed than the first quarter.)
+
+**3rd Quarter: "Take Vietnam^. The military tried their standard kill-people-break-stuff routine..."**
+- **Valence**: 0.5 (It presents Vietnam as a failure of the military strategy, suggesting disappointment without overt negativity.)
+- **Dominance**: 0.7 (The argument strongly critiques the military’s methods in the context of the Vietnam War.)
+- **Intensity**: 0.8 (The critique of military strategy during Vietnam comes with a clear emotional tone and urgency.)
+- **Concreteness**: 0.7 (Using a historical example provides a solid reference point for the argument.)
+
+**4th Quarter: "This is why people make fun of Mike Huckabee: he's too stupid or dishonest..."**
+- **Valence**: 0.3 (Highly negative tone towards Huckabee, indicating contempt.)
+- **Dominance**: 0.8 (This section is dominant in asserting the author’s view that Huckabee fails to grasp military complexities.)
+- **Intensity**: 0.9 (Very intense language used to critique Huckabee, indicating a strong emotional reaction.)
+- **Concreteness**: 0.5 (Brings a specific person into the argument, but lacks the structural details of previous sections.)
+
+These scores reflect both the content and tone throughout the different segments of the argument.
+

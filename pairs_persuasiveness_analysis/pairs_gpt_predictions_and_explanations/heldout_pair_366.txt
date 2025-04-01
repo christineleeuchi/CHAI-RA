@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To assign ratings for valence, dominance, intensity, and concreteness for each quarter of the argument, I'll break down my assessment as follows:
+
+### Quarter 1: "These are good rules of thumb for 'civil behaviour' i.e. an etiquette, a how-to-act when in society, but they are not at the core of morality..."
+
+- **Valence: 0.5** - The tone is neutral, acknowledging the utility of the rules while simultaneously critiquing their depth. 
+- **Dominance: 0.4** - The argument asserts a viewpoint against the rules but does not strongly dominate the narrative; it addresses them respectfully rather than aggressively. 
+- **Intensity: 0.4** - The intensity is moderate; it does not convey a strong emotional appeal, but there is a clear conviction in the argument.
+- **Concreteness: 0.6** - The language used is fairly clear and specific regarding the distinction of the rules as etiquette rather than core morality.
+
+### Quarter 2: "How we treat each other is a secondary concern/consequence - how we treat ourselves is primary..."
+
+- **Valence: 0.6** - The sentiment appears more positive when emphasizing self-treatment as a primary concern without a negative evaluation of interpersonal treatment.
+- **Dominance: 0.5** - A stronger stance is taken here, asserting that self-treatment is fundamental to morality, suggesting a position of influence.
+- **Intensity: 0.5** - The declaration of self-treatment as "primary" shows a moderate intensity of belief in its importance.
+- **Concreteness: 0.7** - The argument is presented clearly and with some detail, making it easy to understand the core message.
+
+### Quarter 3: "The core of morality is that the individual has the capacity to choose..."
+
+- **Valence: 0.7** - The framing of individual choice as central to morality gives this part a more uplifting sentiment.
+- **Dominance: 0.6** - This portion commands more authority in the argument, clearly stating what constitutes the core of morality.
+- **Intensity: 0.7** - There's a strong assertion of values here, indicating a high intensity as it presents a foundational aspect of morality.
+- **Concreteness: 0.8** - The argument is well-defined and structured, effectively capturing the essence of morality with clear examples.
+
+### Quarter 4: "There are thousands of virtues (and vices) that have nothing to do with others..."
+
+- **Valence: 0.6** - This part maintains a positive outlook toward virtues, highlighting the importance of personal development.
+- **Dominance: 0.5** - While asserting the value of self-virtues, it does not completely overshadow the previous points, allowing for a balanced perspective.
+- **Intensity: 0.6** - The list of virtues provides a sense of strength and energy, though it maintains a rational tone.
+- **Concreteness: 0.9** - The mention of specific virtues and examples adds substantial clarity and detail to the argument, making it very concrete.
+
+### Summary Ratings:
+- **Quarter 1: Valence: 0.5, Dominance: 0.4, Intensity: 0.4, Concreteness: 0.6**
+- **Quarter 2: Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.7**
+- **Quarter 3: Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.8**
+- **Quarter 4: Valence: 0.6, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.9**
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument presented in each of the four categories—valence, dominance, intensity, and concreteness—I'll break down the argument into four quarters and assess each according to your specifications.
+
+### Quarter 1: "The Golden rule is obviously deeply flawed, because people want very different things."
+- **Valence:** 0.2 - This statement has a negative tone towards the Golden Rule, expressing a disagreement or opposition.
+- **Dominance:** 0.4 - The phrasing suggests a strong assertion of the author's position, but the word "obviously" can alienate those who might not agree.
+- **Intensity:** 0.5 - The intensity is moderate; it emphasizes a significant flaw but doesn’t convey extreme passion or urgency.
+- **Concreteness:** 0.3 - The argument is somewhat abstract, as it does not provide specific examples of the "very different things" people want.
+
+### Quarter 2: "Uncertainty. It is often hard to know what others want."
+- **Valence:** 0.1 - This part maintains a negative valence toward the Platinum Rule due to its inherent challenges.
+- **Dominance:** 0.5 - The statement stands confidently, presenting a clear limitation to the idea of the Platinum Rule.
+- **Intensity:** 0.4 - The discussion of uncertainty adds some intensity, but it remains somewhat neutral in expression.
+- **Concreteness:** 0.5 - The argument about uncertainty has a degree of concreteness; it addresses a real challenge but lacks specific scenarios.
+
+### Quarter 3: "What a person wants may require you doing an immoral act."
+- **Valence:** 0.1 - This is a negatively valenced statement that critiques the Platinum Rule's implications with a serious ethical concern.
+- **Dominance:** 0.6 - The assertion is strong; it addresses a significant ethical dilemma directly tied to the intention behind the Platinum Rule.
+- **Intensity:** 0.7 - The seriousness of discussing immoral acts gives this part a high intensity and urgency.
+- **Concreteness:** 0.6 - This quarter is relatively concrete, using the example of a heroin addict to illustrate the immorality of certain desires.
+
+### Quarter 4: "Conflict. Often the wants of one person may be in conflict with another."
+- **Valence:** 0.2 - The tone suggests a negative aspect of the Platinum Rule by highlighting an ethical conflict.
+- **Dominance:** 0.7 - This part asserts dominance by addressing a fundamental challenge in ethical decision-making.
+- **Intensity:** 0.6 - The conflict between desires adds a heightened sense of urgency to the argument, pointing to moral complexities.
+- **Concreteness:** 0.6 - The mention of conflicting wants provides a concrete illustration, but lacks further elaboration or examples.
+
+### Summary
+- **Quarter 1:** Valence: 0.2, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.3
+- **Quarter 2:** Valence: 0.1, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.5
+- **Quarter 3:** Valence: 0.1, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.2, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.6
+
+These scores reflect the effectiveness and depth of each part of your argument in addressing the flaws of the Golden and Platinum Rules in a moral context.
+

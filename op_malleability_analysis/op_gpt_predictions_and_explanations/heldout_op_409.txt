@@ -1,0 +1,39 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a score for each category (valence, dominance, intensity, and concreteness) for the four quarters of the argument, we'll break it down as follows:
+
+### Quarter 1: "CMV: I am afraid that being politically active might harm my future I live right near DC."
+- **Valence:** 0.3 (The sentiment is negative, as the speaker expresses fear.)
+- **Dominance:** 0.4 (The speaker feels a lack of control due to fear.)
+- **Intensity:** 0.5 (There’s a moderate level of intensity in expressing fear.)
+- **Concreteness:** 0.6 (The mention of living near DC adds a tangible element.)
+
+---
+
+### Quarter 2: "It's only a 30 minute drive and I'm always free to go any weekend."
+- **Valence:** 0.5 (Neutral; the speaker presents an opportunity but does not express strong positive or negative feelings.)
+- **Dominance:** 0.5 (The speaker expresses availability but is still dominated by fear in the first sentence.)
+- **Intensity:** 0.3 (Low intensity in this part; factual statement.)
+- **Concreteness:** 0.7 (Concrete information about proximity to DC and availability.)
+
+---
+
+### Quarter 3: "For some reason, I have this pathetic fear that being politically active might bite me in the arse someday. Like I'll somehow distance myself from the people around me by going to marches."
+- **Valence:** 0.2 (High negativity; the use of "pathetic" and fear suggests strong negative sentiment.)
+- **Dominance:** 0.6 (The speaker's fear is taking precedence over their desire to be active.)
+- **Intensity:** 0.7 (Strong intensity regarding emotional feelings toward fear and social distancing.)
+- **Concreteness:** 0.5 (Somewhat abstract, but talks about specific consequences.)
+
+---
+
+### Quarter 4: "In an age with no privacy (and as a person who heavily values privacy and anonymity), a simple picture taken by a stranger might bite me back. My family, church community, workplace, they might all view me differently if I decide to participate in certain marches. This fear is so absurd, but it's exactly what's stopping me from trying to be a part of anything."
+- **Valence:** 0.2 (Very negative, highlighting fears and potential social consequences.)
+- **Dominance:** 0.5 (Shows a struggle between desire for participation and fear of judgment.)
+- **Intensity:** 0.8 (High intensity of fear of social isolation and judgment.)
+- **Concreteness:** 0.6 (While discussing fears, it includes concrete references to social groups.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence: 0.3, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 2:** Valence: 0.5, Dominance: 0.5, Intensity: 0.3, Concreteness: 0.7
+- **Quarter 3:** Valence: 0.2, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5
+- **Quarter 4:** Valence: 0.2, Dominance: 0.5, Intensity: 0.8, Concreteness: 0.6
+

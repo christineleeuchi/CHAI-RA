@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### 1st Quarter: "If someone uses the 'backdoor' to my bathroom lock, I both know about it when it happens, and have, presumably, consented to it, and it is being done for my best interests."
+- **Valence**: 0.7 (The sentiment is generally positive regarding the 'backdoor' concept as a safety measure.)
+- **Dominance**: 0.6 (This portion is more informative, establishing the idea of consent and awareness, which has a moderate level of dominance.)
+- **Intensity**: 0.5 (The intensity is moderate, as it presents a neutral state of affairs without strong emotional language.)
+- **Concreteness**: 0.8 (The bathroom lock analogy is concrete and easy to visualize, making the argument more relatable.)
+
+### 2nd Quarter: "Government surveillance is done in secret."
+- **Valence**: 0.2 (The sentiment turns negative here, painting government surveillance in a bad light.)
+- **Dominance**: 0.5 (This is a factual statement about government surveillance, retaining a moderate dominance level.)
+- **Intensity**: 0.6 (The phrase "done in secret" carries a greater weight and invokes concern, increasing intensity.)
+- **Concreteness**: 0.4 (The idea of surveillance can be abstract; it lacks the concrete representation found in the previous quarter.)
+
+### 3rd Quarter: "We can't review their behaviour to ensure it is in line with our values and interests."
+- **Valence**: 0.3 (This continues the negative sentiment about government surveillance.)
+- **Dominance**: 0.6 (This section asserts a sense of control that is lost, contributing to the dominance of the argument.)
+- **Intensity**: 0.7 (There's a stronger emotional pull here, highlighting a key concern about oversight and accountability.)
+- **Concreteness**: 0.5 (While the concept is relevant, it remains somewhat abstract compared to more tangible ideas.)
+
+### 4th Quarter: "Most importantly, it is not done in our best interests. A bathroom may be breached if the occupant is having a heart attack, but there is absolutely no danger to me from my own communications."
+- **Valence**: 0.1 (This portion has a strong negative sentiment regarding government surveillance.)
+- **Dominance**: 0.7 (It dominantly emphasizes the dangers and flaws in government surveillance, particularly contrasting with the specific bathroom analogy.)
+- **Intensity**: 0.9 (It carries high emotional intensity, using a clear analogy to highlight a significant concern.)
+- **Concreteness**: 0.6 (While it refers back to a concrete analogy, the abstract nature of government interests versus personal safety makes it less concrete overall.)
+
+### Summary Scores:
+- **1st Quarter**: Valence: 0.7, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.8
+- **2nd Quarter**: Valence: 0.2, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.4
+- **3rd Quarter**: Valence: 0.3, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5
+- **4th Quarter**: Valence: 0.1, Dominance: 0.7, Intensity: 0.9, Concreteness: 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score from 0.0 to 1.0 for each dimension (valence, dominance, intensity, and concreteness) for each quarter of the argument's text:
+
+### 1st Quarter
+**Text:** "The arguments against surveillance are nearly always about indiscriminate, mass surveillance. Nobody really has a problem with targeted surveillance."
+- **Valence:** 0.5 (Neutral, as it points out a common argument but doesn't convey a strong positive or negative sentiment)
+- **Dominance:** 0.4 (The use of "nobody really has a problem" implies a certain authority, but it's still a generalization)
+- **Intensity:** 0.3 (The language is somewhat mild and doesn't evoke strong emotions)
+- **Concreteness:** 0.5 (The idea of "indiscriminate, mass surveillance" is concrete, but the term "targeted surveillance" is more abstract)
+
+### 2nd Quarter
+**Text:** "If the government has a warrant to search your house or listen to your phone calls, they can do so. But getting a warrant requires individualized probable cause to believe that you have committed a crime."
+- **Valence:** 0.6 (More positive, as it supports a legal framework for privacy protection)
+- **Dominance:** 0.7 (The statement conveys certainty and authority, emphasizing the legal aspect)
+- **Intensity:** 0.4 (The language is clear but lacks strong emotional charge)
+- **Concreteness:** 0.7 (Very concrete due to legal terms and specific processes described)
+
+### 3rd Quarter
+**Text:** "In the analogy, using a pin to open the door is an action that is only taken in extremis to violate the privacy of the occupant for some more important purpose."
+- **Valence:** 0.4 (A bit negative, as it speaks about violating privacy, but in a contextual sense)
+- **Dominance:** 0.5 (Moderate dominance since it presents a nuanced view of the analogy)
+- **Intensity:** 0.5 (Decently intense, as it discusses violation of privacy and extremis situations)
+- **Concreteness:** 0.6 (The analogy is concrete, though somewhat metaphorical regarding the idea of "extremis")
+
+### 4th Quarter
+**Text:** "Likewise, the government should only use its surveillance powers to violate privacy when there is a strong reason to target the particular person(s) being surveilled."
+- **Valence:** 0.7 (Positive, as it promotes a conditional and careful use of surveillance powers)
+- **Dominance:** 0.6 (The assertion conveys a sense of authority on the issue)
+- **Intensity:** 0.6 (Moderately intense, suggesting strong reasons for the use of surveillance)
+- **Concreteness:** 0.5 (Somewhat abstract, as it discusses the reasoning behind targeted surveillance rather than specific cases) 
+
+These ratings reflect the overall sentiment, authority, emotional charge, and clarity of the argument presented in each quarter.
+

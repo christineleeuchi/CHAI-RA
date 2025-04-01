@@ -1,0 +1,64 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To rate the argument based on valence, dominance, intensity, and concreteness, we'll break it down into four quarters and analyze each segment. Here's how I would rate each aspect:
+
+### Quarter 1: "You're still really young. I've known plenty of people who really didn't start dating until their 20's--including short guys."
+- **Valence:** 0.8 (Positive; offers reassurance and examples of others in similar situations)
+- **Dominance:** 0.4 (Slightly dominant; encouraging, but doesn't assert authority)
+- **Intensity:** 0.5 (Moderate; a gentle reminder that youth is on his side)
+- **Concreteness:** 0.6 (Fairly concrete; references known persons as examples)
+
+### Quarter 2: "I have plenty of short friends who make piss poor money (most of them are school teachers) who still found love."
+- **Valence:** 0.7 (Generally positive; highlights that financial status or height do not determine love)
+- **Dominance:** 0.5 (Equal footing; presents a viewpoint without asserting superiority)
+- **Intensity:** 0.6 (Moderate; suggests that love is possible irrespective of socioeconomic status)
+- **Concreteness:** 0.7 (Concrete; uses specific examples of friends)
+
+### Quarter 3: "Hell, I have short, fat friends who don't make much to any money who didn't start dating until much later in life who still found someone they fell in love with and happily married."
+- **Valence:** 0.7 (Positive; reinforces the message that love can be found later in life despite obstacles)
+- **Dominance:** 0.5 (Balanced; shares personal anecdotes without dominating the conversation)
+- **Intensity:** 0.6 (Moderate; emphasizes that various types of people find love)
+- **Concreteness:** 0.8 (Very concrete; more specific examples provided)
+
+### Quarter 4: "The only thing that would guarantee you to stay alone is if you continue with the attitude that you're somehow meant to be alone. Be happy, enjoy life, and take some ladies out."
+- **Valence:** 0.9 (Highly positive; motivational advice aimed at changing mindset)
+- **Dominance:** 0.6 (Moderately dominant; encourages action and change in thinking)
+- **Intensity:** 0.7 (Strong; calls for an emotional shift and proactive behavior)
+- **Concreteness:** 0.5 (Less concrete; more abstract due to emphasis on attitudes rather than concrete examples)
+
+### Summary of Ratings
+1. **Quarter 1:** Valence: 0.8, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.6
+2. **Quarter 2:** Valence: 0.7, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+3. **Quarter 3:** Valence: 0.7, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.8
+4. **Quarter 4:** Valence: 0.9, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5
+
+These ratings reflect the argument's overall positive encouragement while acknowledging the importance of mindset in shaping personal experiences related to love and relationships.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a rating score from 0.0 to 1.0 for each of the dimensions of the argument in four quarters.
+
+1. **Quarter 1: "I do not think a girl has expressed even the slightest interest in me."**
+   - **Valence:** 0.2 (The statement is neutral to slightly negative, expressing a lack of interest observed.)
+   - **Dominance:** 0.1 (The speaker expresses a feeling of inadequacy or lack of power in the social context.)
+   - **Intensity:** 0.4 (The statement reflects a personal concern but lacks strong emotion or urgency.)
+   - **Concreteness:** 0.8 (The statement is quite concrete as it references a clear belief or observation.)
+
+2. **Quarter 2: "Do you have female friends or at least female acquaintances?"**
+   - **Valence:** 0.3 (The question itself is neutral but implies potential shortcomings in social interactions.)
+   - **Dominance:** 0.2 (The speaker is positioning themselves as someone giving advice, which implies some level of authority.)
+   - **Intensity:** 0.3 (It presents a concern without strong emotional weight.)
+   - **Concreteness:** 0.7 (The idea of friends and acquaintances is tangible and relatable.)
+
+3. **Quarter 3: "To get the interest of a girl, you're going to actually have to talk to her."**
+   - **Valence:** 0.4 (The advice is constructive but indicates a need for change and effort.)
+   - **Dominance:** 0.5 (Instructive, indicating the speaker's perceived knowledge over the listener's situation.)
+   - **Intensity:** 0.6 (The statement carries a sense of urgency and importance in taking action.)
+   - **Concreteness:** 0.9 (It's a straightforward, actionable suggestion.)
+
+4. **Quarter 4: "They care about how guys look, but not as much as guys care about how girls look."**
+   - **Valence:** 0.5 (Neutral, common observation that reflects societal norms.)
+   - **Dominance:** 0.4 (The speaker presents a generalization about genders, asserting knowledge over the topic.)
+   - **Intensity:** 0.5 (Moderate assertion but lacks emotional weight.)
+   - **Concreteness:** 0.6 (While the statement reflects general observation, it can be seen as abstract due to generalizations about gender behavior.) 
+
+Overall, the ratings reflect a mix of personal sentiment, social norms, and advice-oriented content within the argument.
+

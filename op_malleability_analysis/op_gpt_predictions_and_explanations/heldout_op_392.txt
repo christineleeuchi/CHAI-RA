@@ -1,0 +1,43 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument you provided based on the criteria of valence, dominance, intensity, and concreteness, I will break down the argument into four quarters and provide scores for each criterion. 
+
+### Quarter 1:
+"CMV:The Nuremberg defense isn't that bad When the german leaders were put on trial after WWII, They claimed they were just following orders but it was decided that this was not good enough."
+
+- **Valence:** 0.3 (The tone is somewhat negative regarding the defense but isn't overtly aggressive.)
+- **Dominance:** 0.5 (The speaker presents a clear assertion but lacks overpowering authority.)
+- **Intensity:** 0.4 (There’s moderate engagement with the topic, but it can be more passionate.)
+- **Concreteness:** 0.5 (The reference to the Nuremberg trials is concrete, but some elements are abstract.)
+
+### Quarter 2:
+"Hitler could have had them and their children killed for refusing to obey orders."
+
+- **Valence:** 0.2 (This statement has a very negative valence as it discusses violence and consequence.)
+- **Dominance:** 0.6 (By bringing in the potential consequences, it adds weight to the argument.)
+- **Intensity:** 0.7 (The emotional weight of this statement is high, reflecting serious moral implications.)
+- **Concreteness:** 0.6 (This statement is a specific claim about potential actions that adds to overall clarity.)
+
+### Quarter 3:
+"Soldiers who refused orders were killed and their families received no help from the state and suffered penalties."
+
+- **Valence:** 0.1 (The valence is quite low as it describes harsh realities and punishment.)
+- **Dominance:** 0.5 (This provides a factual basis, gaining authority through the presentation of historical events.)
+- **Intensity:** 0.6 (The intensity is strong here due to the factual recounting of suffering and injustice.)
+- **Concreteness:** 0.7 (This is a highly concrete statement with specific details about consequences faced by soldiers.)
+
+### Quarter 4:
+"So why wasn't this a good defence? were they legally supposed to be martyrs? You can't legally force someone to allow themselves and their families to die/suffer badly even if it means saving others' lives."
+
+- **Valence:** 0.4 (There’s a questioning tone that indicates some frustration, but it remains open-ended.)
+- **Dominance:** 0.4 (The argument poses questions, which may lack assertiveness but encourages critical thinking.)
+- **Intensity:** 0.5 (The intensity is moderate as it reflects a philosophical inquiry into morality and law.)
+- **Concreteness:** 0.6 (The questions are relevant and provoke thought about specific legal and moral dilemmas.)
+
+### Summary of Ratings by Quarter:
+1. Quarter 1: Valence: 0.3, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.5
+2. Quarter 2: Valence: 0.2, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+3. Quarter 3: Valence: 0.1, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+4. Quarter 4: Valence: 0.4, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.6
+
+These scores reflect the characteristics of each part of the argument as requested.
+

@@ -1,0 +1,27 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a rating for each of the specified dimensions of the argument, broken down into quarters of the text:
+
+**1. Valence (0.0 to 1.0):** 
+- **Score: 0.1** 
+  - The argument expresses a strong negative sentiment towards NYC. Words like "despise," "filthy," "drab," "wretched," and "soul-crushing" contribute to this low valence score as they convey strong dislike and dissatisfaction.
+
+**2. Dominance (0.0 to 1.0):**
+- **Score: 0.8**
+  - The argument is assertive and confident in expressing the speaker's viewpoint. The use of phrases like "could not be more dead set" and "I can't understand the allure" suggests a strong sense of dominance in voicing personal opinions. The argument feels very much like a personal declaration about the city.
+
+**3. Intensity (0.0 to 1.0):**
+- **Score: 0.9**
+  - The use of hyperbolic language and emotional descriptors creates a high intensity. Phrases like "hellish experiences" and references to "paying through the nose" illustrate strong feelings. The passionate expression of views about various aspects of NYC contributes to this intensity score.
+
+**4. Concreteness (0.0 to 1.0):**
+- **Score: 0.6**
+  - The argument includes specific details regarding conditions in NYC, such as pollution, cost of living, crowd sizes, and climate. However, while these details are tangible, the overall expression is somewhat abstract due to the emotional framing. The description of experiences and observations adds a degree of concreteness, but not as strongly as the more factual elements.
+
+**Summary of Scores:**
+- Valence: **0.1** 
+- Dominance: **0.8** 
+- Intensity: **0.9** 
+- Concreteness: **0.6** 
+
+These scores illustrate a strong negative sentiment with assertive and passionate communication, providing a mix of both observational and experiential details about NYC.
+

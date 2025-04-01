@@ -1,0 +1,55 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a breakdown of the argument provided, with scores assigned for valence, dominance, intensity, and concreteness for each quarter of the text.
+
+### Quarter 1: "CMV: Creativity in 'the West' is stagnant This is the hackneyed opinion of someone who may be losing touch with the younger generation."
+- **Valence:** 0.3 (The sentiment is negative, indicating a problematic view of creativity.)
+- **Dominance:** 0.6 (The opinion asserts dominance by claiming to critique a widely held view.)
+- **Intensity:** 0.5 (The intensity is moderate; it's a critical statement but not extremely forceful.)
+- **Concreteness:** 0.4 (The argument is somewhat abstract, relying on the perception of others rather than a specific instance.)
+
+### Quarter 2: "**Please, show me something new.** I'm specifically addressing this view at what is loosely called 'the Arts.'"
+- **Valence:** 0.5 (The request is neutral but expresses a desire for something positive and innovative.)
+- **Dominance:** 0.4 (This part raises a call for action or an appeal to others but lacks assertiveness.)
+- **Intensity:** 0.6 (The plea for the new is earnest and slightly more intense.)
+- **Concreteness:** 0.5 (It is somewhat concrete as it specifies a field of interest, but still abstract in what 'new' means.)
+
+### Quarter 3: "I am aware of and enervated by technological and scientific progress. Everything new I see and hear today seems inherently 'revivalist' in nature."
+- **Valence:** 0.4 (This section is mixed; acknowledging progress is positive, but the revivalist tone is negative.)
+- **Dominance:** 0.5 (It shows some authority by acknowledging advancements but critiques their originality.)
+- **Intensity:** 0.6 (The sentiment is somewhat intense as it expresses frustration with the lack of true innovation.)
+- **Concreteness:** 0.6 (It references specific aspects of progress, making it somewhat tangible.)
+
+### Quarter 4: "Perhaps this is the nature of the new, that it builds on the past. And perhaps the nature of post-modernism is that it 'remixes' what has gone before. But surely, sometimes, there are 'leaps' you can point to, like the birth of rock n roll, or the explosion in graffiti/street art. **Where is the cutting edge, and what am I missing?**"
+- **Valence:** 0.5 (This section offers a balanced view, acknowledging both continuity and the potential for innovation.)
+- **Dominance:** 0.5 (Poses questions that challenge others to think critically; somewhat dominant.)
+- **Intensity:** 0.7 (There is a strong sense of urgency, especially in the concluding questions.)
+- **Concreteness:** 0.7 (References specific examples (rock n roll, graffiti) that lend to its arguments, making it more concrete.)
+
+### Summary of Scores
+
+- **Quarter 1:**
+  - Valence: 0.3
+  - Dominance: 0.6
+  - Intensity: 0.5
+  - Concreteness: 0.4
+
+- **Quarter 2:**
+  - Valence: 0.5
+  - Dominance: 0.4
+  - Intensity: 0.6
+  - Concreteness: 0.5
+
+- **Quarter 3:**
+  - Valence: 0.4
+  - Dominance: 0.5
+  - Intensity: 0.6
+  - Concreteness: 0.6
+
+- **Quarter 4:**
+  - Valence: 0.5
+  - Dominance: 0.5
+  - Intensity: 0.7
+  - Concreteness: 0.7 
+
+This scoring captures the nuances of the argument over its various segments, reflecting the complex feelings and reasoning presented.
+

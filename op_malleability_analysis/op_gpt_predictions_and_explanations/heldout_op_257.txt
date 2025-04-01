@@ -1,0 +1,45 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument based on valence, dominance, intensity, and concreteness for each quarter of the text, I'll break it down accordingly and provide a score from 0.0 to 1.0 for each category. 
+
+### Quarter 1:
+**Text:** "CMV: The amount of finger pointing and agenda molding in American politics has become disgustingly inappropriate and is senselessly preventing the solutions to the real issues."
+
+- **Valence:** 0.2 (Negative connotation regarding politics)
+- **Dominance:** 0.7 (Strong assertion about political behavior)
+- **Intensity:** 0.8 (Strong, emotionally charged language, especially "disgustingly inappropriate")
+- **Concreteness:** 0.4 (Some abstractions, but mentions "real issues")
+
+### Quarter 2:
+**Text:** "So this is an opinion I've had for a while, but after a recent bout of returning to watching certain news stations, it has been grinding my gears particularly of late."
+
+- **Valence:** 0.3 (Personal frustration expressed)
+- **Dominance:** 0.5 (Personal opinion without commanding authority)
+- **Intensity:** 0.6 (Emotional response "grinding my gears" indicates some intensity)
+- **Concreteness:** 0.5 (Reference to watching news stations adds some context, but still vague)
+
+### Quarter 3:
+**Text:** "To me it seems that any tragic event which is deemed worthy to be broadcasted semi-nationally to nationally becomes fodder for both sides of the political spectrum to either smear the opposition or further their own agenda to a point of being disrespectful of those involved."
+
+- **Valence:** 0.1 (Negative view of political exploitation of tragedies)
+- **Dominance:** 0.6 (Strong critique of both political sides)
+- **Intensity:** 0.7 (Strong language, phrasing like "fodder" adds depth)
+- **Concreteness:** 0.5 (Refers to events but remains somewhat abstract in examples)
+
+### Quarter 4:
+**Text:** "Along with values of disrespect, instead of actually addressing the issues at hand and working to form a solution to actually fix the issues at hand, both sides are so caught up in their own hot air that they refuse to work together and are actually being a detriment to any positive progress."
+
+- **Valence:** 0.0 (Very negative view of political discourse)
+- **Dominance:** 0.8 (Strong, definitive critique on political inaction)
+- **Intensity:** 0.9 (Very strong language, "hot air" and "detriment" indicate high intensity)
+- **Concreteness:** 0.4 (Discusses abstract ideas about solutions, less concrete examples)
+
+### Summary of Scores
+| Quarter  | Valence | Dominance | Intensity | Concreteness |
+|----------|---------|-----------|-----------|--------------|
+| Quarter 1| 0.2     | 0.7       | 0.8       | 0.4          |
+| Quarter 2| 0.3     | 0.5       | 0.6       | 0.5          |
+| Quarter 3| 0.1     | 0.6       | 0.7       | 0.5          |
+| Quarter 4| 0.0     | 0.8       | 0.9       | 0.4          | 
+
+These ratings reflect how the argument's component parts convey emotional weight, strength of assertion, clarity, and directness of examples.
+

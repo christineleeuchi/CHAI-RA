@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here are the ratings for the argument provided, broken down into four quarters of the text:
+
+### Quarter 1
+**Text:** "CMV: No matter how cool Bernie Sanders seems, he will accomplish none of his campaign promises because Congress."
+
+- **Valence:** 0.1 (The tone is mostly negative regarding Sanders' ability to deliver on promises.)
+- **Dominance:** 0.6 (The argument asserts a strong opinion that Sanders will not be successful.)
+- **Intensity:** 0.5 (The statement is assertive and clear about the consequences of Congress' role.)
+- **Concreteness:** 0.7 (The statement highlights a concrete limitation - the role of Congress.)
+
+### Quarter 2
+**Text:** "Bernie Sanders is running a campaign on promises like free college and getting money out of politics. Nearly everything I've heard his campaign promise requires congressional action."
+
+- **Valence:** 0.2 (Still leaning negative, emphasizing the challenges Sanders faces.)
+- **Dominance:** 0.5 (The focus on specific promises conveys a balanced perspective, though still slanted.)
+- **Intensity:** 0.6 (The use of "nearly everything" suggests a strong assertion about the feasibility of promises.)
+- **Concreteness:** 0.8 (Specific examples of campaign promises are concrete and easily understood.)
+
+### Quarter 3
+**Text:** "With 16 years in the House and 2 terms in the Senate Sanders should be familiar with the limits of each branch of government. This makes me think he knows he can't win so he is recklessly promising absurd things."
+
+- **Valence:** 0.1 (The perspective is quite negative, suggesting recklessness on Sanders' part.)
+- **Dominance:** 0.7 (The argument strongly asserts that Sanders understands the limits yet chooses to promise anyway.)
+- **Intensity:** 0.7 (Words like "recklessly" and "absurd things" convey strong feelings about his promises.)
+- **Concreteness:** 0.6 (While referencing Sanders' experience is concrete, the conclusion is more interpretive.)
+
+### Quarter 4
+**Text:** "The only way he can possibly accomplish anything he promises is if 1) He wins the presidential election, 2) Like-minded democrats win a majority in BOTH houses of congress. Which, while it would be cool, is only possible in some incredibly unlikely fantasy land."
+
+- **Valence:** 0.2 (The sentiment remains negative, offering a dismissive view of the feasibility of success.)
+- **Dominance:** 0.5 (It presents a considered but still critical view of the political landscape.)
+- **Intensity:** 0.6 (Words like "incredibly unlikely" add intensity to the argument about the difficulty of success.)
+- **Concreteness:** 0.7 (The formulation of conditions makes the argument clear and specific.) 
+
+These ratings account for the emotional tone, clarity, and assertiveness of the argument as presented.
+

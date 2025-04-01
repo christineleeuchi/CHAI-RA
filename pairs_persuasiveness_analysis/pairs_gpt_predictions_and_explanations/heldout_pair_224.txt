@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! I’ll provide a brief analysis and rating for each of the four dimensions: valence, dominance, intensity, and concreteness. 
+
+### Quarter 1:
+**Text:** "Academia has always been like that. Mind you, a lot of 'SJW's' are college students, they're used to this style of talk about social issues and mimic it on tumblr."
+
+- **Valence:** 0.5 (Neutral; presents observation without strong positive or negative sentiment)
+- **Dominance:** 0.4 (Moderate; suggests an informed perspective within a specific context without asserting superiority)
+- **Intensity:** 0.3 (Low; the tone is more observational and descriptive)
+- **Concreteness:** 0.5 (Moderate; references common behaviors but lacks specific examples)
+
+### Quarter 2:
+**Text:** "The way it's always been with social activism is that there's a sort of 'ivory tower' side and a more 'hands on' side to it."
+
+- **Valence:** 0.5 (Neutral; presents a structural viewpoint on activism without bias)
+- **Dominance:** 0.5 (Balanced; acknowledges different approaches without favoring one)
+- **Intensity:** 0.4 (Moderate; clearly defines two sides but doesn't express strong emotion)
+- **Concreteness:** 0.5 (Moderate; introduces concepts but could benefit from more specific examples)
+
+### Quarter 3:
+**Text:** "This is not a new thing at all, take socialism for example, you had the academic elite discussing about concepts with big words and citations to lofty philosophers, there was the side that came in contact with people and riled them up or informed them."
+
+- **Valence:** 0.4 (Slightly negative; suggests a criticism of the academic side’s focus)
+- **Dominance:** 0.6 (Stronger; asserts a historical perspective and contrasts two approaches)
+- **Intensity:** 0.5 (Moderate; acknowledges the depth of debate but maintains a rational tone)
+- **Concreteness:** 0.6 (Moderate; historical examples provide some tangible context)
+
+### Quarter 4:
+**Text:** "I think there are several problems with how 'SJW's' are handling activism, but their academic or pseudo-academic approach is not it. Refusing to educate others is regressive and a problem, yes of course, but the fact that advocacy includes complicated concepts and words is a nonissue."
+
+- **Valence:** 0.3 (Slightly negative; identifies a problem with activism but doesn’t fully condemn it)
+- **Dominance:** 0.5 (Balanced; recognizes the role of complexity in advocacy without claiming authority)
+- **Intensity:** 0.6 (Moderate to high; contains more personal opinion and critique)
+- **Concreteness:** 0.6 (Moderate; acknowledges both a critique and a defense of complexity in language)
+
+### Summary Ratings:
+- **Quarter 1:** Valence 0.5 | Dominance 0.4 | Intensity 0.3 | Concreteness 0.5
+- **Quarter 2:** Valence 0.5 | Dominance 0.5 | Intensity 0.4 | Concreteness 0.5
+- **Quarter 3:** Valence 0.4 | Dominance 0.6 | Intensity 0.5 | Concreteness 0.6
+- **Quarter 4:** Valence 0.3 | Dominance 0.5 | Intensity 0.6 | Concreteness 0.6
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's a rating for each of the specified dimensions across the argument divided into quarters. 
+
+### 1st Quarter: 
+- **Valence**: 0.6 - The tone is somewhat positive in suggesting that specialized language isn't unique to SJW discussions, but it acknowledges a potential frustration with unfamiliarity.
+- **Dominance**: 0.4 - The speaker seems to express a personal opinion, but there is a hint of challenge towards the original argument, indicating a somewhat assertive stance.
+- **Intensity**: 0.5 - The language is moderately strong with phrases like “not the slightest bit unique”, but it lacks extreme emotionality.
+- **Concreteness**: 0.7 - The reference to American football provides a concrete example to support the argument, helping ground the abstract concepts.
+
+### 2nd Quarter: 
+- **Valence**: 0.5 - The statement remains neutral, simply explaining that not knowing certain terms isn't unique to one field.
+- **Dominance**: 0.5 - There is an assertion that these words are not harder to learn than others, suggesting a balance of dialogue rather than outright dominance.
+- **Intensity**: 0.4 - The language here is somewhat subdued and factual, lacking passionate emphasis.
+- **Concreteness**: 0.6 - The reference to "specific area of discussion" is quite general, but still trustworthy in its assertion of terminology complexity.
+
+### 3rd Quarter: 
+- **Valence**: 0.4 - The suggestion that the complexity is due to genuine issues rather than a conspiracy gives a slightly negative tilt to common assumptions about SJW language.
+- **Dominance**: 0.6 - This part asserts a stronger stance that complexity exists independent of a social agenda, challenging the original view more firmly.
+- **Intensity**: 0.6 - The phrase "genuinely complex issues" adds a moderate level of intensity, stressing the importance of context in these discussions.
+- **Concreteness**: 0.5 - While discussing layers of meaning provides some depth, it remains abstract without specific examples.
+
+### 4th Quarter: 
+- **Valence**: 0.6 - A more positive spin on the idea of learning; it promotes agency and education, making it seem constructive.
+- **Dominance**: 0.3 - The final remarks suggest an openness to learning, indicating a less dominant posture.
+- **Intensity**: 0.5 - The argument maintains moderate strength, especially in calling the idea of complexity an issue of educational growth.
+- **Concreteness**: 0.7 - The emphasis on basic research and education as a framework for understanding gives this section a concrete foundation for argumentation.
+
+Each section of the argument presents a nuanced approach to the discussion around specialized language, highlighting complexity and the opportunities for learning rather than dues of elitism.
+

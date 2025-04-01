@@ -1,0 +1,33 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on valence, dominance, intensity, and concreteness, I’ll provide ratings for each quarter of the text you've provided.
+
+### First Quarter: "CMV: We are not better than the criminals we lock up in prison as we waste enormous amounts of resources on frivolous things while we could save lives"
+- **Valence (0.7)**: The statement has a somewhat negative tone, criticizing societal priorities and the use of resources.
+- **Dominance (0.6)**: The claim asserts a strong viewpoint, suggesting that society has moral shortcomings compared to criminals, which indicates dominance but not overwhelming authority.
+- **Intensity (0.7)**: The urgency of the phrase "waste enormous amounts of resources" suggests a strong feeling or concern about resource allocation.
+- **Concreteness (0.5)**: The argument is somewhat abstract at this point; it introduces concepts of morality and resource allocation without specific details.
+
+### Second Quarter: "My idea stems from the following analogy:"
+- **Valence (0.5)**: Neutral; this phrase simply introduces the analogy without an emotional weight.
+- **Dominance (0.4)**: This part does not assert dominance; it is simply a transition into presenting examples.
+- **Intensity (0.2)**: Very low intensity as it is effectively a transitional statement.
+- **Concreteness (0.4)**: This is fairly abstract as it does not present any concrete ideas yet.
+
+### Third Quarter: "Scenario 1 John is a rich businessman and Caroline a homeless girl that will die in few days if she is not given some money for food. John does an action (stabbing) that results in Caroline to die. John is therefore responsible for another person's death."
+- **Valence (0.8)**: Strong negative emotion; the scenario depicts a tragic event, emphasizing the moral responsibility of John.
+- **Dominance (0.7)**: High dominance; the scenario clearly depicts a wrongdoing and assigns blame.
+- **Intensity (0.8)**: High intensity due to the dramatic nature of the situation described.
+- **Concreteness (0.7)**: This scenario is concrete with specific characters and actions.
+
+### Fourth Quarter: "Scenario 2 Carl is a rich businessman and Jacob a homeless guy that will die in few days if he is not given some money for food. Carl does an action (ignoring Jacob's needs, spending his money on the last iPhone instead) that results in Jacob to die. Carl is therefore responsible for another person's death."
+- **Valence (0.8)**: Similar to the previous scenario, it carries a strong negative connotation regarding moral responsibility.
+- **Dominance (0.7)**: This part continues to assert a dominant moral viewpoint regarding inaction and its consequences.
+- **Intensity (0.8)**: The intensity is high as it highlights the dire consequences of Carl's choices.
+- **Concreteness (0.7)**: This scenario, much like the previous one, presents a vivid and concrete depiction of characters and their actions.
+
+### Summary Ratings
+- **Quarter 1**: Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5
+- **Quarter 2**: Valence: 0.5, Dominance: 0.4, Intensity: 0.2, Concreteness: 0.4
+- **Quarter 3**: Valence: 0.8, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.7
+- **Quarter 4**: Valence: 0.8, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.7
+

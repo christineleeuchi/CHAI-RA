@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the argument you provided, with ratings for valence, dominance, intensity, and concreteness for each quarter of the text:
+
+**Quarter 1: "Even if human 'enjoyment' trumps all other concerns for the animal itself (which is just a shitty perspective to have, imo, but to each their own)"**
+- **Valence: 0.3** (The overall tone is somewhat negative, highlighting discontent with the perspective of prioritizing human enjoyment over animal well-being.)
+- **Dominance: 0.4** (The speaker expresses a degree of criticism towards the opposing viewpoint, establishing their stance but still acknowledging others.)
+- **Intensity: 0.5** (The use of "shitty perspective" reflects a moderate level of emotional intensity.)
+- **Concreteness: 0.6** (The argument is somewhat abstract due to the focus on perspectives, but it does identify a clear point of disagreement.)
+
+**Quarter 2: "this person still took his 'enjoyment' of the animal from every person who would have 'enjoyed' observing the animal in its natural habitat."**
+- **Valence: 0.6** (The tone is more neutral to mildly negative, focusing on the impact on others.)
+- **Dominance: 0.5** (The statement asserts the negative consequences of the action, but not in an overly aggressive manner.)
+- **Intensity: 0.6** (There is a notable frustration evident regarding the loss of enjoyment for others.)
+- **Concreteness: 0.7** (This part of the argument presents a tangible claim about enjoyment taken from others.)
+
+**Quarter 3: "Especially for endangered species, if everyone decides it is their prerogative to kill the animal in question,"**
+- **Valence: 0.4** (The mention of endangered species adds a more serious tone, but it is still primarily descriptive.)
+- **Dominance: 0.6** (The speaker establishes a strong point regarding the implications of individual actions on a broader scale.)
+- **Intensity: 0.7** (The urgency of the situation regarding endangered species introduces a heightened emotional impact.)
+- **Concreteness: 0.7** (This statement is grounded in the reality of conservation issues, making it more concrete.)
+
+**Quarter 4: "there will soon be nothing left for future generations to enjoy at all, either through hunting or respectful observation."**
+- **Valence: 0.5** (The statement carries a warning tone, expressing concern for the future, but does not lean too heavily into negativity.)
+- **Dominance: 0.7** (This concluding statement is assertive, predicting dire consequences and reinforcing the speaker's position.)
+- **Intensity: 0.8** (The implications of future generations missing out generates a high level of emotional urgency.)
+- **Concreteness: 0.8** (The argument articulates a clear and specific outcome that can be envisioned, enhancing its concreteness.)
+
+These ratings reflect the emotional and conceptual elements present in each part of the argument based on your specified criteria.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the provided argument:
+
+### Quarter 1: "It's why we can morally justify continuing to eat meat despite rampant abuse of animals"
+- **Valence**: 0.5 (Neutral - presents a factual statement but can be interpreted positively or negatively based on beliefs about animal rights.)
+- **Dominance**: 0.6 (Moderate - asserts a personal moral stance that may challenge opposing views.)
+- **Intensity**: 0.5 (Moderate - expresses a significant point but does not convey extreme emotion.)
+- **Concreteness**: 0.4 (Somewhat abstract - refers to moral justification without specific examples.)
+
+### Quarter 2: "We don't eat lion meat, and this lion was killed for trophy hunting. Not for dinner. This is something completely different than hunting for meat to stay alive, or raise cows and chickens to eat."
+- **Valence**: 0.7 (Positive - presents a clear moral distinction that aligns with conservation principles.)
+- **Dominance**: 0.7 (Strong - clearly takes a stance and asserts a difference, potentially dominating the conversation.)
+- **Intensity**: 0.6 (Moderate to high - conveys strong emotion about the ethics of trophy hunting.)
+- **Concreteness**: 0.8 (High - uses specific examples to illustrate the point about lion hunting versus meat consumption.)
+
+### Quarter 3: "What makes it worse is that is an endangered animal. We don't eat endangered animals. This lion was in a wild life reservation, lured out, and then killed."
+- **Valence**: 0.8 (Positive - strong emphasis on the negative implications of killing an endangered species.)
+- **Dominance**: 0.8 (Strong - reinforces the moral argument against trophy hunting.)
+- **Intensity**: 0.7 (High - expresses significant concern over the treatment of endangered species.)
+- **Concreteness**: 0.9 (Very high - uses specific, factual details about the situation to support claims.)
+
+### Quarter 4: "When animals go extinct the natural cycle breaks down, and we as humans will know the effects. Which goes against your own 'a human's well-being and enjoyment always trump an animal's'-mantra."
+- **Valence**: 0.6 (Neutral to positive - argues logically against a viewpoint but acknowledges its premise.)
+- **Dominance**: 0.7 (Strong - challenges the previous belief while reinforcing the interconnectedness of animals and human well-being.)
+- **Intensity**: 0.6 (Moderate to high - stresses the consequences of extinction but balances it with logical reasoning.)
+- **Concreteness**: 0.7 (High - discusses broader implications and natural cycles, though slightly abstract.)
+
+These ratings reflect an analysis of the emotional and logical components of the argument as well as the clarity and specificity of the points presented.
+

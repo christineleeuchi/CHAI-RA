@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **First Quarter: "Are you arguing that college is affordable, or more affordable than people imply? Because while I would agree that there is likely some exaggeration, for many people it is completely unaffordable."**
+   - **Valence:** 0.6 (The tone is critical but acknowledges potential exaggeration.)
+   - **Dominance:** 0.5 (The speaker is questioning the argument but seems to also be open to discussion.)
+   - **Intensity:** 0.7 (The speaker expresses strong feelings about affordability.)
+   - **Concreteness:** 0.5 (It presents a scenario but lacks specific examples or data.)
+
+2. **Second Quarter: "Not everyone gets the best case scenario, and if you make less than $30,000 a year, then paying a minimum of a third of a year's pay on education is not feasible."**
+   - **Valence:** 0.7 (The message conveys a sense of concern regarding affordability.)
+   - **Dominance:** 0.6 (The argument is more assertive, emphasizing the difficulties of low-income individuals.)
+   - **Intensity:** 0.8 (The claim is strong and emotional, directly addressing the struggles of certain demographics.)
+   - **Concreteness:** 0.7 (Provides a concrete example of income and financial burden related to education.)
+
+3. **Third Quarter: "And this is without considering alternatives to college."**
+   - **Valence:** 0.5 (Neutral comment without strong positive or negative connotations.)
+   - **Dominance:** 0.4 (Less dominant; simply stating a fact without strong conviction.)
+   - **Intensity:** 0.4 (Mild in intensity; it doesn't carry much emotional weight.)
+   - **Concreteness:** 0.6 (Acknowledges alternatives, but does not elaborate on them.)
+
+4. **Fourth Quarter: "And I don't know how considering alternatives to college is an argument for the affordability of colleges; yes college is cheap if I do not go to it and take an apprenticeship instead, but I don't know what it would have to do with this discussion."**
+   - **Valence:** 0.4 (The tone is somewhat skeptical or dismissive regarding the relevance of alternatives.)
+   - **Dominance:** 0.5 (The argument tries to reclaim the focus on college affordability while questioning the relevance.)
+   - **Intensity:** 0.5 (Moderate intensity; shows uncertainty but questions the premise.)
+   - **Concreteness:** 0.5 (Expresses confusion but lacks specific examples or proposed solutions.) 
+
+These ratings reflect a blend of the emotional and logical components present in the argument.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To provide a rating score for each of the categories (valence, dominance, intensity, and concreteness) across the argument, I will break it down into quarters and analyze each part separately.
+
+**1st Quarter:**
+"My family made "too much" for FAFSA aide but too little to afford me much assistance with college prices."
+- **Valence:** 0.3 (The statement expresses frustration with financial assistance, indicating a negative tone.)
+- **Dominance:** 0.5 (The speaker appears to feel powerless in the situation regarding family income and assistance.)
+- **Intensity:** 0.6 (The feeling of being caught between income brackets implies strong feelings of unfairness.)
+- **Concreteness:** 0.4 (The concepts of FAFSA and family income are somewhat abstract without specific details.)
+
+**2nd Quarter:**
+"I went to a school where I was given a full academic scholarship, which included room and board."
+- **Valence:** 0.7 (This part has a more positive tone, emphasizing achievement through obtaining a scholarship.)
+- **Dominance:** 0.6 (The speaker asserts control over their academic choices, having secured a scholarship.)
+- **Intensity:** 0.5 (The excitement of receiving a scholarship is present but not strongly emphasized.)
+- **Concreteness:** 0.6 (The mention of a specific situation, a scholarship with room and board, adds clarity.)
+
+**3rd Quarter:**
+"In order to afford additional fees / books / transportation I still had to take out a Stafford loan every year."
+- **Valence:** 0.4 (This section returns to a negative sentiment as it highlights the necessity of taking out loans.)
+- **Dominance:** 0.4 (The use of loans indicates a lack of control over financial burdens.)
+- **Intensity:** 0.5 (There’s a moderate level of frustration associated with having to take out loans.)
+- **Concreteness:** 0.7 (The mention of specific costs (fees/books/transportation) makes this quite tangible.)
+
+**4th Quarter:**
+"On top of that, the government decided that the room and board part of my scholarship qualified as "income", and I then owed the IRS money come tax return time for each of my four years. I'll still be paying off these loans for a few years."
+- **Valence:** 0.2 (This part conveys significant negativity regarding taxation and debt.)
+- **Dominance:** 0.5 (The speaker feels powerless against governmental policies.)
+- **Intensity:** 0.8 (There’s a high emotional response to the financial burden imposed by taxes and lasting debt.)
+- **Concreteness:** 0.8 (Details about taxes and debts provide strong clarity and grounding to the argument.)
+
+Overall, the argument reflects a mix of experiences, with movement between positive and negative sentiments and varying levels of intensity and concreteness.
+

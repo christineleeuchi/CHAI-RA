@@ -1,0 +1,68 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument you've provided regarding the valence, dominance, intensity, and concreteness, I will break it down into four quarters and provide a rating score for each aspect on a scale from 0.0 to 1.0.
+
+### Quarter 1: "I agree with you until you wrote the word never."
+- **Valence**: 0.6 (The sentiment is somewhat positive, as it starts with agreement, but there's also a hint of negativity due to disagreement on the specific term.)
+- **Dominance**: 0.4 (The speaker is expressing disagreement, suggesting a lower degree of control in the conversation; they are reacting rather than leading.)
+- **Intensity**: 0.5 (This expresses moderate intensity, showing some passion for language choice, but it's not overly emotional.)
+- **Concreteness**: 0.6 (The statement is clear and specific about the disagreement concerning absolutes.)
+
+### Quarter 2: "Absolutes are kind of hard to defend."
+- **Valence**: 0.5 (Neutral sentiment; it's a factual statement that neither strongly supports nor opposes any view.)
+- **Dominance**: 0.5 (Balanced; the statement makes a claim but doesn’t strongly assert dominance over the argument.)
+- **Intensity**: 0.4 (The intensity is low as it presents a general observation without strong emotion.)
+- **Concreteness**: 0.7 (It's a clear assertion about the difficulties in supporting absolutes, making it concrete.)
+
+### Quarter 3: "People do have a finite ability to care about things."
+- **Valence**: 0.6 (A positive recognition of human limitations, although it remains somewhat neutral overall.)
+- **Dominance**: 0.6 (This asserts a strong point about human capability, showing some dominance in the argument.)
+- **Intensity**: 0.5 (Moderate intensity; it does reflect a basic principle but lacks strong emotional weight.)
+- **Concreteness**: 0.8 (Very concrete; it expresses a clear and well-understood concept.)
+
+### Quarter 4: "We simply can't care about every issue all the time. There might be times when there is really important stuff going on and people are spending all their energy and focus on things that aren't really that important."
+- **Valence**: 0.5 (A neutral expression of reality, possibly a bit critical but grounded in fact.)
+- **Dominance**: 0.7 (Stronger assertion about prioritization of issues, indicating a commanding stance.)
+- **Intensity**: 0.6 (There’s some intensity in the critique on prioritization, revealing concern about focus.)
+- **Concreteness**: 0.9 (Extremely concrete; it addresses prioritization of issues in a clear and direct manner.)
+
+### Summary Ratings
+- **Quarter 1**: Valence: 0.6, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 2**: Valence: 0.5, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.7
+- **Quarter 3**: Valence: 0.6, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.8
+- **Quarter 4**: Valence: 0.5, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.9
+
+These ratings reflect an overall assessment of the argument's language and emotional tone across different segments.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument provided, we'll rate each aspect—valence, dominance, intensity, and concreteness—on a scale from 0.0 to 1.0 for each quarter of the text:
+
+**1. First Quarter:**
+- Argues that concern over the lion's killing detracts from attention to more critical issues.
+- **Valence:** 0.6 (The overall tone is more critical, suggesting frustration with misappropriated attention.)
+- **Dominance:** 0.7 (The argument asserts a strong position about prioritization of issues.)
+- **Intensity:** 0.6 (The language conveys a sense of urgency, but it's relatively calm.)
+- **Concreteness:** 0.5 (Some specifics about the issues are mentioned, but it lacks detailed examples in this part.)
+
+**2. Second Quarter:**
+- Discusses the lack of argument regarding the lion’s death being tragic but highlights concerns about issue prioritization.
+- **Valence:** 0.5 (The tone is neutral, acknowledging tragedy but emphasizing a priority argument.)
+- **Dominance:** 0.6 (There's a clear stance taken, asserting the need for issue prioritization.)
+- **Intensity:** 0.5 (Moderate intensity; it expresses concern without overly emotional language.)
+- **Concreteness:** 0.6 (More concrete reference to police brutality and public discourse.)
+
+**3. Third Quarter:**
+- Emphasizes the point about finite capacity for caring about issues and how spotlighting certain issues can overshadow others.
+- **Valence:** 0.5 (The tone remains neutral but highlights a systemic issue without negativity.)
+- **Dominance:** 0.7 (Reinforces the argument about prioritization, with a strong assertion of limitations.)
+- **Intensity:** 0.6 (There’s a moderate sense of urgency reflecting a call for better allocation of attention.)
+- **Concreteness:** 0.7 (This section reinforces its argument with clear reasoning around the idea of capacity.)
+
+**4. Fourth Quarter:**
+- Concludes by reiterating that attention should be apportioned appropriately given finite resources.
+- **Valence:** 0.5 (Neutral, focuses on practical reasoning without negative sentiment.)
+- **Dominance:** 0.7 (Reinforces the earlier dominant argument about the need for prioritization.)
+- **Intensity:** 0.6 (The urgency continues but is reasonable rather than emotionally charged.)
+- **Concreteness:** 0.8 (Wraps up with a clear, solid point regarding the implications of media attention.)
+
+These scores highlight the complexity of the argument and the author's positioning while discussing the dynamics of public discourse on multiple societal issues.
+

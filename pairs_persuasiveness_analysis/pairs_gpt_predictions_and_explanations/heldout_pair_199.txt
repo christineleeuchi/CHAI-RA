@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's the rating score for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1: "**I think you might be doing the blind spot check wrong. You aren't supposed to scan the whole area. There is one specific spot, maybe 6 inches in diameter on each side that you are supposed to look at. It's a very fast process.**"
+
+- **Valence**: 0.5 (Neutral; slightly corrective)
+- **Dominance**: 0.6 (Moderate assertiveness)
+- **Intensity**: 0.5 (Mildly intense in expressing an error)
+- **Concreteness**: 0.7 (Concrete suggestions of a specific spot)
+
+### Quarter 2: "**The best way I can describe it is by relating it to video games. I don't know if you've ever played Counter-Strike, but there was a type of cheat called an aimbot. Whereas regular players would jump through a door and look around for players before starting to shoot, the aimbot already knew where the players were and automatically aimed the gun right at the other player's head.**"
+
+- **Valence**: 0.4 (Neutral; introduces a metaphor)
+- **Dominance**: 0.4 (Low assertiveness, more illustrative)
+- **Intensity**: 0.5 (Mildly intense through the comparison)
+- **Concreteness**: 0.8 (Very concrete metaphor relating to a video game)
+
+### Quarter 3: "**That's how you want your blind spot check to look. You look right at that one spot quickly and then go back to the road. You can take your time with it since you aren't wasting looks at places that are covered by your mirror.**"
+
+- **Valence**: 0.6 (Positive; offers a clearer method)
+- **Dominance**: 0.7 (Assertive; instructive tone)
+- **Intensity**: 0.6 (Moderate intensity in guidance)
+- **Concreteness**: 0.9 (Highly concrete and practical advice)
+
+### Quarter 4: "**Proper shoulder checks are irreplaceable. There is a very large blind spot in all cars, and many many accidents are caused by people not doing a proper shoulder check. My driver's ed instructor even made it a point that if we ever look at a mirror, we can't just move our eyes. We had to move our entire heads. It seemed stupid at the time, but I'm a much safer driver today because I made it a habit.**"
+
+- **Valence**: 0.7 (Positive; emphasizes safety)
+- **Dominance**: 0.6 (Assertive; reinforces importance)
+- **Intensity**: 0.7 (Moderate intensity regarding safety)
+- **Concreteness**: 0.8 (Concrete with real-world implications and experiences)
+
+Overall, the argument conveys the importance of correctly checking blind spots, with a mix of assertive suggestions and personal experience to illustrate the point.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating breakdown for each of the requested categories based on the provided argument:
+
+1. **Valence**:
+   - Score: **0.6**
+   - Explanation: The argument conveys a somewhat positive valence, suggesting solutions and ways to ease the process of checking blind spots. However, it also points out flaws and difficulties in the original perspective, creating a mixed emotional tone.
+
+2. **Dominance**:
+   - Score: **0.7**
+   - Explanation: The argument comes across as assertive, providing clear suggestions and alternative methods for checking blind spots. The speaker’s confidence in their recommendations indicates a strong sense of dominance over the topic.
+
+3. **Intensity**:
+   - Score: **0.5**
+   - Explanation: The intensity of the argument is moderate. While it addresses concerns and provides strategies, it does so with a practical tone rather than with strong emotional language or urgency. 
+
+4. **Concreteness**:
+   - Score: **0.8**
+   - Explanation: The argument contains specific suggestions and examples (e.g., turning head at a certain angle, adjusting speed on the highway), giving it a high level of concreteness. It provides clear, actionable advice rather than vague statements.
+
+Overall, the argument presents a practical approach to the concern of blind spot checking, with a mix of assertiveness and constructive guidance.
+

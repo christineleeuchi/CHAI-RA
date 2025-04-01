@@ -1,0 +1,29 @@
+Expected no, unlikely to change mind. GPT responded: Yes, I am likely to change my mindset if presented with strong counterarguments.
+Here are the scores for each of the requested dimensions based on the argument provided, divided into four quarters:
+
+**1st Quarter: "CMV: Social Justice Warriors are obnoxious and harmful to the very cause that they champion. So, here's the thing. I believe myself to be very liberal."**
+- **Valence:** 0.4 (The sentiment is moderately negative regarding SJWs but acknowledges a liberal stance.)
+- **Dominance:** 0.6 (The author asserts a clear opinion, indicating a certain level of dominance in the argument.)
+- **Intensity:** 0.5 (The language is somewhat strong but not overwhelmingly so.)
+- **Concreteness:** 0.5 (The statements are fairly clear but lack specific examples at this point.)
+
+**2nd Quarter: "I am for the ideas of Social Justice, but I am really sick of reading about 'trigger warning' this and 'safe space' that."**
+- **Valence:** 0.3 (The overall sentiment is negative towards specific concepts of social justice.)
+- **Dominance:** 0.5 (The author expresses a level of frustration, indicating a somewhat authoritative voice.)
+- **Intensity:** 0.6 (The frustration is expressed more intensely here.)
+- **Concreteness:** 0.6 (This quarter references specific terms and concepts, enhancing clarity.)
+
+**3rd Quarter: "I think that people who fall into the 'SJW' stereotype tend to be flavor of the week armchair activists who like to yell and scream about social issues they aren't even remotely connected to..."**
+- **Valence:** 0.2 (Strongly negative sentiment towards the stereotype of SJWs.)
+- **Dominance:** 0.7 (The author expresses a strong perspective with confidence.)
+- **Intensity:** 0.7 (The language is strong and conveys significant disapproval.)
+- **Concreteness:** 0.7 (The argument is specific, detailing a certain type of behavior associated with SJWs.)
+
+**4th Quarter: "Anyway, I would like to better understand these people so that I can engage with the ones in my sphere of influence..."**
+- **Valence:** 0.5 (A more neutral or potentially positive sentiment, showing a willingness to understand.)
+- **Dominance:** 0.4 (The author seems less dominant here as they seek to understand others' perspectives.)
+- **Intensity:** 0.4 (The language is more subdued and reflective, indicating lower intensity.)
+- **Concreteness:** 0.5 (The statements are clear but general, lacking strong specifics.)
+
+These scores reflect the varying tones and emphases throughout the argument, capturing shifts from critique to a desire for understanding.
+

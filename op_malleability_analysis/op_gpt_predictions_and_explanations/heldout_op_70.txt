@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide ratings for each quarter of the argument's text on the criteria of valence, dominance, intensity, and concreteness, I'll analyze each section accordingly.
+
+### First Quarter:
+**Text**: "CMV: Affirmative action doesn't help in the US anymore. With affirmative action dictating that a certain amount of students or workers have to be either women or an ethnic group that isnt white(or in the case of a few places there has to be a certain percentage of every race and sex including whites and males), it shuts out individuals who would be more qualified for the position, and so wastes resources, and reduces the quality of goods and services from companies that uphold affirmative action."
+
+- **Valence**: 0.3 (The argument expresses a negative view of affirmative action.)
+- **Dominance**: 0.6 (The author seems confident in their stance, presenting it as a prevailing issue.)
+- **Intensity**: 0.5 (The language is relatively strong but not overly aggressive.)
+- **Concreteness**: 0.4 (Some specific claims are made, but they lack detailed evidence or examples.)
+
+### Second Quarter:
+**Text**: "Not only this, but it puts the 'beneficiaries' at a disadvantage in education and the workplace. for example, if you took two students from the same class, where student A barely passed with a low C, and student B was at the top of the class with an A, then accepted student A over B just because of the color of their skin or what's between their legs, student A isn't exactly going to do well."
+
+- **Valence**: 0.4 (Continues the negative view but introduces a more analytical perspective.)
+- **Dominance**: 0.5 (The argument maintains confidence but appears more balanced with the hypothetical scenario.)
+- **Intensity**: 0.6 (The hypotheticals present a clearer picture of perceived injustice, slightly ramping up intensity.)
+- **Concreteness**: 0.5 (Example of students anchors the argument but lacks real-world statistics or broader evidence.)
+
+### Third Quarter:
+**Text**: "As put in [this] article, student B isn't very likely to be able to keep up with the rest of the class due to them lacking something the other members that got there through merit rather than just being handed a position in the class for their race or sex. This in turn can damage their confidence, and waste their time and money they could be otherwise using to actually progress in life rather than being given a shortcut only to find that they can't keep up, or in the case of them getting into a service or production position, the customers of said person will be getting a shoddy good or service thanks to affirmative action."
+
+- **Valence**: 0.4 (Remains negative while addressing potential consequences.)
+- **Dominance**: 0.5 (The author displays confidence but recognizes complexity.)
+- **Intensity**: 0.7 (The phrasing used, such as "shoddy goods and services," raises intensity significantly.)
+- **Concreteness**: 0.6 (Cites a source and gives potential outcomes, making the argument more concrete.)
+
+### Fourth Quarter:
+**Text**: "edit:nvm, i jumped into something without researching properly. edit: after looking into it more, it doesnt look quite as bad as i had initially thought, but even so, if it comes down to two applications being identical aside from the applicant's ancestry, it's still a pretty shoddy idea to just assume that because you share ancestry with the majority of the upper class that you're actually a member. there are plenty of whites squatting in rundown trailer parks while other whites live it up with the upper class. at this point my stance towards affirmative action depends on where and how it's implemented. so long as it does what it's actually supposed to, I agree with it now. though with how states have different laws, and how massive of a board there is to monitor, there's bound to be at least a few iterations that operate closer to what I had initially thought and what oversoul mentioned."
+
+- **Valence**: 0.5 (The author shows a willingness to adapt their view, balancing the negativity.)
+- **Dominance**: 0.4 (Here, the voice is less dominant, acknowledging a flaw in previous reasoning and showing uncertainty.)
+- **Intensity**: 0.5 (Less emotionally charged, reflecting contemplation rather than strong conviction.)
+- **Concreteness**: 0.5 (Introduces personal reflection while hinting at broader societal aspects, but remains less factual.)
+
+### Summary Ratings
+- **First Quarter**: Valence 0.3, Dominance 0.6, Intensity 0.5, Concreteness 0.4
+- **Second Quarter**: Valence 0.4, Dominance 0.5, Intensity 0.6, Concreteness 0.5
+- **Third Quarter**: Valence 0.4, Dominance 0.5, Intensity 0.7, Concreteness 0.6
+- **Fourth Quarter**: Valence 0.5, Dominance 0.4, Intensity 0.5, Concreteness 0.5
+

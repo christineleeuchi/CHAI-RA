@@ -1,0 +1,63 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating for each category—valence, dominance, intensity, and concreteness—I'll break down the argument into four quarters and analyze each one accordingly.
+
+**Quarter 1:**
+_"CMV:English should not be the international language I think English should not be the international language for these reasons:"_
+
+- **Valence:** 0.4 (Neutral; expressing a negative sentiment towards English being the international language)
+- **Dominance:** 0.5 (The speaker is asserting their opinion without an overpowering tone.)
+- **Intensity:** 0.3 (The statement is mild; it does not express strong feelings yet.)
+- **Concreteness:** 0.4 (The statement is straightforward but lacks specific examples.)
+
+**Quarter 2:**
+_"It's proven that is really hard to understand how to pronounce some words here /u/BrotherChe makes a really good point in another thread I saw...."_
+
+- **Valence:** 0.5 (Mixed; presents a reasonable critique of English pronunciation.)
+- **Dominance:** 0.6 (The argument is building in strength with references to others.)
+- **Intensity:** 0.5 (Moderate intensity, begins to express frustrations about the language.)
+- **Concreteness:** 0.6 (Cites a specific issue—pronunciation—though not in detail.)
+
+**Quarter 3:**
+_"Also the whole small scale system that English has does not even make sense like why a billion is a thousand of a million where in long scale it's a million of a million..."_
+
+- **Valence:** 0.4 (Mostly negative; critiques English and its numerical system.)
+- **Dominance:** 0.7 (The speaker feels strong about this logical inconsistency.)
+- **Intensity:** 0.6 (Frustration is more pronounced in this section.)
+- **Concreteness:** 0.7 (Provides a specific example of a logical issue in English.)
+
+**Quarter 4:**
+_"I know this seems biased like I am arguing that Spanish should be the international language and it's my native language, but it makes more sense if it were...."_
+
+- **Valence:** 0.6 (Positive; expressing preference for Spanish as an international language.)
+- **Dominance:** 0.5 (The speaker acknowledges bias but still provides a counterpoint.)
+- **Intensity:** 0.4 (Less intense than previous sections, reflects contemplation.)
+- **Concreteness:** 0.6 (Mentions bias and provides reasoning about language preference but could be more specific about benefits.)
+
+**Summary of Ratings:**
+
+1st Quarter: 
+- Valence: 0.4
+- Dominance: 0.5
+- Intensity: 0.3
+- Concreteness: 0.4
+
+2nd Quarter: 
+- Valence: 0.5
+- Dominance: 0.6
+- Intensity: 0.5
+- Concreteness: 0.6
+
+3rd Quarter: 
+- Valence: 0.4
+- Dominance: 0.7
+- Intensity: 0.6
+- Concreteness: 0.7
+
+4th Quarter: 
+- Valence: 0.6
+- Dominance: 0.5
+- Intensity: 0.4
+- Concreteness: 0.6 
+
+These ratings reflect the various dimensions of the argument presented by the author.
+

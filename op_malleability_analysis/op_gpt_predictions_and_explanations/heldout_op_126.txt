@@ -1,0 +1,45 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument based on valence, dominance, intensity, and concreteness, I'll analyze each quarter of the argument separately. The scores will reflect how strongly each aspect is represented.
+
+### Quarter 1:
+**Text:**
+"CMV: Major religions are mythology with good PR I believe what separates say Christianity from Norse or Greek mythology is that its better at convincing people it is true due to its institution, conquest, and capitalizing on the linguistic aspect such as the books spreading."
+
+- **Valence (0.5):** Neutral to slightly negative. The argument suggests that major religions are simply myths, which can be seen as critical.
+- **Dominance (0.6):** The speaker takes a strong position, asserting the viewpoint that major religions have effective PR.
+- **Intensity (0.5):** Moderate intensity. The speaker makes a comparative claim between religions and implies a strong belief without highly emotive language.
+- **Concreteness (0.6):** Relatively concrete, as it references specific aspects of Christianity as an institution and its historical context.
+
+### Quarter 2:
+**Text:**
+"I think that in maybe 100-200 years we might call Christianity Christian mythology or Islam Islamic mythology. It will go out of trend due to scientific discoveries and humanist/secular world views will replace it."
+
+- **Valence (0.4):** Predominantly negative. The argument suggests a decline in the relevance of major religions, which can be seen as pessimistic.
+- **Dominance (0.5):** Somewhat assertive in its predictions about the future of religions, but it's speculative.
+- **Intensity (0.6):** Moderate intensity due to the assertion of change in societal views and the future trajectory of religions.
+- **Concreteness (0.5):** Fairly concrete, but relies on predictions which are inherently uncertain.
+
+### Quarter 3:
+**Text:**
+"Most religions are made and written for older standards and we are already having this kind of cognitive dissonance over what it trulsy is. After a few generations people will stop forcing Christianity as the norm and people will not be determined to pursue it at all. I already see it in my home country and we will probably see it more in the US in the next 50 years."
+
+- **Valence (0.3):** Negative, suggesting that people will move away from traditional beliefs.
+- **Dominance (0.6):** Strong assertion about the decline of Christianity as the norm.
+- **Intensity (0.7):** High intensity, as the speaker expresses a belief in a significant societal shift.
+- **Concreteness (0.6):** Mostly concrete, mentioning observable trends and personal observations.
+
+### Quarter 4:
+**Text:**
+"What I personally think has made Christianity spread more than any other religion is that other religions while promising rewards or trying to justify one way of living has promised rewards such as life after death and also made it apply to everyone. For example "You get into heaven as long as you don’t do that thing we all hate anyways." There you got a justice system, promise of heaven, an authority. That is all you really need to make people follow you. And now of course it has moved into this either bigoted denial of how the world is "homophobic, creationist etc. or progressive one foot in one out "I’m Christian but never go to church and don’t do anything special but answer that I believe in God when asked."
+
+- **Valence (0.4):** Mixed. While it identifies the attractive aspects of Christianity, it also critiques modern adherence to it.
+- **Dominance (0.6):** The speaker firmly presents their view on the reasons for Christianity's spread and the current state of belief.
+- **Intensity (0.7):** High intensity due to strong language used to describe societal behaviors and divisions in the modern context of religion.
+- **Concreteness (0.5):** Moderately concrete, discussing specific beliefs and societal behaviors but with some generalizations.
+
+### Summary of Ratings:
+- **Quarter 1:** Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 2:** Valence: 0.4, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 3:** Valence: 0.3, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.4, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5
+

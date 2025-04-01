@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the argument regarding Princess Mononoke, scored on the requested criteria of valence, dominance, intensity, and concreteness for each quarter of the argument's text:
+
+**1st Quarter:**
+- **Valence (0.8)**: The overall tone is positive, expressing love for the movie and enjoying its qualities.
+- **Dominance (0.5)**: The speaker presents their perspective confidently but acknowledges varying opinions about other films, maintaining a balanced tone.
+- **Intensity (0.6)**: Expresses enthusiasm, especially for music and artwork, but it's a measured enthusiasm.
+- **Concreteness (0.7)**: The reference to fantastical elements suggests an acceptance of the film's world, which is a concrete starting point for building the argument.
+
+**2nd Quarter:**
+- **Valence (0.9)**: This segment praises the film's themes and its characters positively, indicating admiration for the complexity.
+- **Dominance (0.7)**: Strongly asserts opinions about themes and character depth, leaning more towards a position of authority.
+- **Intensity (0.8)**: There's more passionate engagement in detailing the film's themes, showing a vested interest.
+- **Concreteness (0.8)**: Specific examples of themes and character traits provide a solid foundation for the argument.
+
+**3rd Quarter:**
+- **Valence (0.85)**: Maintains a positive outlook while also discussing the story arc's impact on the viewer.
+- **Dominance (0.6)**: Discusses specific scenes with emotional resonance, indicating a level of personal reflection without undermining the film's integrity.
+- **Intensity (0.9)**: The emotional weight of the scenes affects the speaker deeply, marking a high level of intensity.
+- **Concreteness (0.9)**: Strong narrative points and specific events in the story enhance the argument's groundedness.
+
+**4th Quarter:**
+- **Valence (0.8)**: The concluding thoughts suggest appreciation for both films, maintaining a positive yet questioning tone towards rankings.
+- **Dominance (0.5)**: Defines a less authoritative position by questioning the film's ranking compared to other cinematic greats.
+- **Intensity (0.6)**: The intensity fades slightly, becoming introspective, but still appreciates the films.
+- **Concreteness (0.7)**: Mentions specific themes and comparisons with Pixar that remain relevant, though less detailed than earlier.
+
+Overall, the argument presents a thoughtful and passionate examination of Princess Mononoke, considering various facets of the film while remaining grounded in personal experience and emotion.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score for each section of the argument based on valence, dominance, intensity, and concreteness, I will analyze each quarter of the text, breaking it down accordingly:
+
+1. **First Quarter: "This type of CMV is pointless. Nobody is going to be able to convince you to be retroactively moved by a film."**
+   - **Valence:** 0.2 (Negative sentiment toward the argument being discussed.)
+   - **Dominance:** 0.7 (The speaker asserts a strong opinion, indicating a sense of control over the conversation.)
+   - **Intensity:** 0.6 (The use of "pointless" shows a degree of passion about the topic.)
+   - **Concreteness:** 0.5 (The statements are somewhat abstract but provide a clear stance.)
+
+2. **Second Quarter: "However, I can assure you that nobody is 'faking' their love for these movies, as you suggest."**
+   - **Valence:** 0.6 (Moderate positivity as the speaker defends the authenticity of others’ feelings.)
+   - **Dominance:** 0.6 (The speaker is countering a claim and asserting their perspective.)
+   - **Intensity:** 0.5 (The assurance provides some strength but is presented more calmly.)
+   - **Concreteness:** 0.7 (This section presents a specific rebuttal to the claim about faking emotions.)
+
+3. **Third Quarter: "It's not even as though there's some intellectual clout to be gained by claiming to like movies that are largely indistinguishable to non-fans from trashy mecha anime."**
+   - **Valence:** 0.4 (Some negative sentiment towards the notion of "intellectual clout.")
+   - **Dominance:** 0.5 (The speaker maintains a balanced approach, critiquing the idea.)
+   - **Intensity:** 0.4 (The tone remains critical but less fervent.)
+   - **Concreteness:** 0.6 (The analogy with "trashy mecha anime" adds clarity.)
+
+4. **Fourth Quarter: "Miyazaki's films have strong, rounded characters, beautiful imagery, fantastic music, and inventive, original plots (who the hell else has ever made a decent movie about a supernatural bathhouse?). That sounds like exactly what I look for in other films."**
+   - **Valence:** 0.8 (Very positive sentiment towards Miyazaki's films.)
+   - **Dominance:** 0.6 (The speaker is asserting preferences, indicating a moderate control over the discussion.)
+   - **Intensity:** 0.7 (The passionate description of the films demonstrates strong feelings.)
+   - **Concreteness:** 0.9 (This section is very concrete, providing specific examples and criteria for what makes the films appealing.)
+
+In summary:
+- **First Quarter:** Valence: 0.2, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.5
+- **Second Quarter:** Valence: 0.6, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.7
+- **Third Quarter:** Valence: 0.4, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.6
+- **Fourth Quarter:** Valence: 0.8, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.9
+

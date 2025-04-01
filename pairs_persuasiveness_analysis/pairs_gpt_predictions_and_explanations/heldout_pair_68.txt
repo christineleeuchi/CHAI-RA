@@ -1,0 +1,68 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s the rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1: "The only way to stop the Joker is to kill him"
+- **Valence:** 0.2 (Negative, as it presents a violent solution)
+- **Dominance:** 0.8 (Strong assertion that killing is the only option)
+- **Intensity:** 0.6 (Somewhat intense due to the gravity of the claim)
+- **Concreteness:** 0.5 (Moderately concrete; it's an absolute statement but lacks specific details)
+
+### Quarter 2: "Batman has more options than just killing the Joker."
+- **Valence:** 0.6 (Positive, introducing the idea of alternatives)
+- **Dominance:** 0.6 (Reframing the discussion, but not aggressively)
+- **Intensity:** 0.5 (Moderate; suggesting there are many options)
+- **Concreteness:** 0.7 (Fairly concrete; introduces the concept of alternatives)
+
+### Quarter 3: "He could, for instance, kick him in the spine and leave him a paraplegic. Or amputate his limbs."
+- **Valence:** 0.1 (Negative; presents violent alternatives)
+- **Dominance:** 0.7 (Strong imagery emphasizing the physicality of the alternatives)
+- **Intensity:** 0.8 (Very intense due to the graphic nature of the actions described)
+- **Concreteness:** 0.9 (Highly concrete; specific actions are mentioned)
+
+### Quarter 4: "Alternatively, Batman could use his considerable wealth to figure out how to get Joker tried in a state or nation that does execute its prisoners."
+- **Valence:** 0.5 (Neutral to positive; explores a legal approach)
+- **Dominance:** 0.5 (Balanced suggestion, neither overly assertive nor passive)
+- **Intensity:** 0.6 (Moderately intense since it involves legal actions with serious consequences)
+- **Concreteness:** 0.8 (Concrete; presents a clear potential strategy)
+
+### Summary:
+1. **Quarter 1:** Valence 0.2, Dominance 0.8, Intensity 0.6, Concreteness 0.5
+2. **Quarter 2:** Valence 0.6, Dominance 0.6, Intensity 0.5, Concreteness 0.7
+3. **Quarter 3:** Valence 0.1, Dominance 0.7, Intensity 0.8, Concreteness 0.9
+4. **Quarter 4:** Valence 0.5, Dominance 0.5, Intensity 0.6, Concreteness 0.8
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the scores for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### 1. **The only way to stop the Joker is to kill him.**
+- **Valence:** 0.8 (Strong agreement)
+- **Dominance:** 0.7 (The statement asserts a strong, definitive position)
+- **Intensity:** 0.8 (High urgency surrounding the issue)
+- **Concreteness:** 0.9 (Direct and clear statement)
+
+### 2. **Batman has a moral obligation to kill the Joker since the state can't or won't do it.**
+- **Valence:** 0.2 (Strong disagreement)
+- **Dominance:** 0.5 (Challenges the previously asserted viewpoint)
+- **Intensity:** 0.6 (Moderate intensity in refuting the obligation)
+- **Concreteness:** 0.7 (Fairly clear in stating Batman's purported moral position)
+
+### 3. **If you are against capitol punishment or killing in general, we obviously have an unbridgeable gap here, and cannot possibly come to an agreement.**
+- **Valence:** 0.6 (Neutral with acknowledgment of differing views)
+- **Dominance:** 0.5 (Stating a condition for agreement/selective audience)
+- **Intensity:** 0.5 (Moderate on the scale)
+- **Concreteness:** 0.6 (Somewhat abstract, as it discusses differing views generally)
+
+### 4. **He bares responsibility for everyone the Joker harms.**
+- **Valence:** 0.1 (Strong denial of shared responsibility)
+- **Dominance:** 0.6 (Challenges responsibility attribution)
+- **Intensity:** 0.5 (Moderate intensity in the rebuttal)
+- **Concreteness:** 0.7 (Constructs a clear argument against responsibility)
+
+### 5. **A much bigger point (and you said you know this) is that if Batman were to kill he'd basically become something similarly twisted to the Joker.**
+- **Valence:** 0.7 (Strong warning tone)
+- **Dominance:** 0.7 (Dominates the conversation with a moral perspective)
+- **Intensity:** 0.8 (High intensity regarding moral risks)
+- **Concreteness:** 0.8 (Concrete reference to a known story arc)
+
+This scoring may allow for a better understanding of the argument's position and the strength behind each point.
+

@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument in terms of valence, dominance, intensity, and concreteness, I'll break it down into four quarters and provide a score for each category:
+
+**Quarter 1:**
+"CMV: Bernie Sanders would make a bad president, despite the fact that I agree with him often. Although I agree with many of his political stances, and his critiques of the current system, I'm not entirely sure that he'd make a good president."
+- **Valence**: 0.4 (Neutral to negative sentiment towards Sanders as a president)
+- **Dominance**: 0.5 (Assertive in presenting the view, but acknowledges agreement with some of his positions)
+- **Intensity**: 0.5 (Moderately intense; expresses doubt without strong language)
+- **Concreteness**: 0.6 (Clear articulation of opinion but not very specific about the reasons)
+
+**Quarter 2:**
+"The way I see it, the job of the president of the United States is to represent the populous of the United States, and many of his more extreme views might appeal widely to a crowd on reddit, but are hardly representative of the entire political sphere of USA. Even if he were to somehow win a majority vote, he would be as unpopular in the south as Lincoln was."
+- **Valence**: 0.4 (Continues to express skepticism about representability)
+- **Dominance**: 0.6 (Strongly asserts the argument about representational issues)
+- **Intensity**: 0.7 (More intense due to historical comparison with Lincoln)
+- **Concreteness**: 0.7 (Provides specific reasoning for unpopularity)
+
+**Quarter 3:**
+"Furthermore, in order to get anything accomplished as a president, he needs to work fairly closely with Congress, and his current stance of 'attack anyone who receives donations from rich people' would prevent him from being able to play nicely. Finally, I think that as a president, his laser focus on the social problems of America would prevent him from focusing on the other issues that the president must contend with."
+- **Valence**: 0.3 (Negative assessment of Sanders' potential effectiveness)
+- **Dominance**: 0.7 (Strongly dominant; argues about the necessity of cooperation with Congress)
+- **Intensity**: 0.8 (High intensity as it argues against his suitability for the role)
+- **Concreteness**: 0.8 (Specific in outlining potential issues with his approach)
+
+**Quarter 4:**
+"Finally, as a 74 year old man, who will be 75 at the time of the election, I think the same critiques that applied to John McCain also apply to him - there's a fairly good chance that if he were elected, he would die, or become quite ill while still in office. For these reasons, I think he'd be better situated trying to solve these social/political problems in a different capacity."
+- **Valence**: 0.2 (Very negative; underscores concerns about age and health)
+- **Dominance**: 0.6 (Moderately dominant as it reinforces the argument with personal context)
+- **Intensity**: 0.9 (Highly intense; mortality is a strong and impactful argument)
+- **Concreteness**: 0.7 (Clear reasoning about age and its implications but somewhat speculative)
+
+In summary: 
+- Quarter 1: Valence 0.4, Dominance 0.5, Intensity 0.5, Concreteness 0.6 
+- Quarter 2: Valence 0.4, Dominance 0.6, Intensity 0.7, Concreteness 0.7 
+- Quarter 3: Valence 0.3, Dominance 0.7, Intensity 0.8, Concreteness 0.8 
+- Quarter 4: Valence 0.2, Dominance 0.6, Intensity 0.9, Concreteness 0.7
+

@@ -1,0 +1,38 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here are the rating scores for each aspect of the argument broken down by quarter of the text:
+
+1. **First Quarter: "If you ever get the chance to make them, go to conventions, or see really spectacular shows put together by people who are passionate, fireworks become most definitely worth the risk."**
+   - **Valence:** 0.8 (Positive sentiment about the experience of fireworks)
+   - **Dominance:** 0.6 (Suggests that this experience is valuable, but acknowledges potential risk)
+   - **Intensity:** 0.7 (Strongly enthusiastic about the value of the experience)
+   - **Concreteness:** 0.6 (Uses specific settings like conventions and shows to convey its point)
+
+2. **Second Quarter: "It's important to keep in mind though, if you ever find yourself working with different chemicals, making fireworks or shooting them, they absolutely do deserve the same respect to safety as guns or any other dangerous activity."**
+   - **Valence:** 0.4 (Neutral to somewhat negative due to the focus on risk)
+   - **Dominance:** 0.7 (Highlights the seriousness of safety in handling fireworks)
+   - **Intensity:** 0.6 (A cautionary tone about safety)
+   - **Concreteness:** 0.8 (Very clear and specific about safety measures)
+
+Overall, the argument presents a mixed sentiment, with a strong appreciation for the art of fireworks tempered by serious warnings about safety.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here are the ratings for each section of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **Valence**: 
+   - **Rating: 0.6** 
+   - The argument presents a somewhat neutral to positive view about the enjoyment others find in fireworks, acknowledging the subjectivity of enjoyment and the personal connection people may have to fireworks.
+
+2. **Dominance**:
+   - **Rating: 0.4**
+   - The tone is somewhat conversational and relaxed. While it does make a case for the enjoyment of fireworks, it also recognizes the original viewpoint and tries to provide a balanced perspective, suggesting that no one opinion dominates the discourse.
+
+3. **Intensity**:
+   - **Rating: 0.5**
+   - The intensity of the emotions expressed is moderate. There is a passionate defense of the joy some find in fireworks, but it's not overwhelmingly emotional; it remains grounded and reasonable.
+
+4. **Concreteness**:
+   - **Rating: 0.7**
+   - The argument uses relatable examples and anecdotes, such as personal experiences and comparisons to other hobbies (e.g., birdwatching), making it concrete and tangible for the reader. It connects personal experience to broader concepts of enjoyment and risk.
+
+Overall, the argument's ratings reflect a subjective perspective with a balanced, moderate tone, while acknowledging diverse viewpoints on the enjoyment of fireworks.
+

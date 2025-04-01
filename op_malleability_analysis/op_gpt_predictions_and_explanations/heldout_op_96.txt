@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the following aspects for each quarter of the argument, I’ll provide scores for valence, dominance, intensity, and concreteness on a scale from 0.0 to 1.0.
+
+### Quarter 1:
+**Text:** "CMV: My enjoyment of Bill Cosby's comedy has not decreased at all. Bill Cosby almost certainly raped a number of women."
+
+- **Valence:** 0.3 (Mixed emotions; enjoyment of comedy is positive, while the context of rape is obviously negative.)
+- **Dominance:** 0.4 (The author presents their perspective strongly, but acknowledges the severity of the allegations.)
+- **Intensity:** 0.5 (The argument has a moderate intensity, expressing enjoyment alongside serious claims.)
+- **Concreteness:** 0.5 (Specific example of enjoyment and a concrete allegation, yet somewhat abstract in its implications.)
+
+### Quarter 2:
+**Text:** "That's horrible. It's awful. It's inexcusable."
+
+- **Valence:** 0.1 (Very negative; all statements express intense disapproval.)
+- **Dominance:** 0.3 (The speaker is clearly condemning Cosby's actions, but this is more an emotional reaction than a strong argument.)
+- **Intensity:** 0.8 (High intensity; the statements convey strong feelings of outrage.)
+- **Concreteness:** 0.2 (Abstract feelings of horror and moral judgment, lacking specific context or examples.)
+
+### Quarter 3:
+**Text:** "It also has nothing to do with whether Bill Cosby is funny or has intelligent things to say about family life (within the boundaries of his comedy)."
+
+- **Valence:** 0.6 (Positive valence towards Cosby’s comedic content, while separating it from his personal actions.)
+- **Dominance:** 0.5 (The speaker asserts their viewpoint more confidently here.)
+- **Intensity:** 0.4 (Moderate intensity, arguing a clear division between the art and the artist.)
+- **Concreteness:** 0.6 (Clear argument about separating Cosby’s comedy from his actions, provides a specific standpoint.)
+
+### Quarter 4:
+**Text:** "I grew up listening to his comedy, I loved it then, and I love it now just exactly as much as I ever did. I don't care what personal faults, foibles, or felonies the man has. CMV and tell me why the art someone creates is degraded because of the artist's unrelated transgressions."
+
+- **Valence:** 0.7 (Affirmative feelings toward Cosby’s comedy, highlighting a positive personal connection.)
+- **Dominance:** 0.6 (The speaker confidently asserts their position and invites discussion.)
+- **Intensity:** 0.5 (A balanced intensity, mixing nostalgia with a challenge to the audience.)
+- **Concreteness:** 0.8 (Strongly articulated personal experience and a clear argument framing the issue of art vs. the artist.)
+
+These ratings offer a breakdown highlighting the complexity of the argument and its emotional and conceptual dimensions.
+

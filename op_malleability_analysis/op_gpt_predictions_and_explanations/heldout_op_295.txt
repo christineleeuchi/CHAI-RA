@@ -1,0 +1,33 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s my rating for each quarter of the argument on the requested dimensions:
+
+**1st Quarter:** 
+"CMV: Tips at restaurants should not be based upon a percentage of the cost of the meal. The old tipping debate. I generally side with those that want to end the mostly American practice of tipping about 20% percent of the cost of the meal. That may never happen."
+- **Valence:** 0.6 (The speaker expresses dissatisfaction with the current tipping system)
+- **Dominance:** 0.5 (A moderate assertion of opinion without dominance)
+- **Intensity:** 0.4 (The tone is reasonable but lacks strong emotion)
+- **Concreteness:** 0.5 (The statement is clear but somewhat abstract)
+
+**2nd Quarter:** 
+"What bothers me, is the idea that the server's time is as only as valuable as the cost of what's on the plate. If I get a $8 plate of eggs at Waffle House I am to tip about 2 dollars. If I am to get a $50 steak at the local trendy restaurant or steak house, I am to tip over $10?"
+- **Valence:** 0.7 (Stronger dissatisfaction is expressed)
+- **Dominance:** 0.6 (The argument is more assertive in questioning the value of time vs. cost)
+- **Intensity:** 0.7 (The frustration is more pronounced)
+- **Concreteness:** 0.7 (More specific examples help illustrate the point)
+
+**3rd Quarter:** 
+"I understand that *generally* at a more expensive restaurant I will spend more time there making the servers work a longer time on my needs. And they are usually expected to be more knowledgeable about the menu. And the bus has to make thing look better and the bartender has to know more cocktails...."
+- **Valence:** 0.5 (Neutral observations, neither particularly favorable nor unfavorable)
+- **Dominance:** 0.5 (Balanced acknowledgment of different factors at play)
+- **Intensity:** 0.5 (Moderate tone; reflects understanding but not strong emotion)
+- **Concreteness:** 0.6 (Some details provided, but still somewhat abstract)
+
+**4th Quarter:** 
+"But it seems to me, the tipping tradition has propped up a non-egalitarian system where the young and attractive can rake in a decent paycheck because expensive restaurants can be exclusive about hiring, and others, especially the older who probably did not really want to be stuck server their whole career, are left taking the 15% on my cheap dinner."
+- **Valence:** 0.8 (Strongly critical of the existing system)
+- **Dominance:** 0.7 (Forceful stance on social inequality in tipping)
+- **Intensity:** 0.8 (The argument presents a high level of concern and emotion)
+- **Concreteness:** 0.6 (References specific groups affected, but still involves some abstraction)
+
+Overall, the logic of the argument reflects frustration with the current tipping tradition, which is articulated with varying levels of intensity and clarity throughout the text.
+

@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for each of the four aspects of the argument you provided, evaluated in four quarters:
+
+### Quarter 1: "While the benefits you mention are certainly a good thing to take into consideration when talking about the ethics of zoos, I feel that as long as a zoo is in possession of an animal that has demonstrated a degree of intelligence on par with toddlers, as many different species have..."
+
+- **Valence**: 0.6 - The opening acknowledges the positive aspects of zoos but quickly pivots to a negative stance, indicating mixed feelings.
+- **Dominance**: 0.6 - The speaker is asserting their opinion with confidence, suggesting that the ethical consideration is paramount and should override other benefits.
+- **Intensity**: 0.5 - The intensity is moderate; the speaker expresses concern but does so in a measured way without extreme language.
+- **Concreteness**: 0.5 - The mention of "intelligence on par with toddlers" provides a specific comparison but remains somewhat abstract without specific examples initially.
+
+### Quarter 2: "Locking up a human toddler in a way too small cage just for education is an obvious no-go, so animals such as parrots, elephants, dolphins and chimpanzees which have all demonstrated high degrees of intelligence and emotions should never be kept in a cage."
+
+- **Valence**: 0.8 - This segment has a strong negative valence as it compares animal captivity to a morally unacceptable scenario involving children.
+- **Dominance**: 0.8 - The argument strongly asserts that intelligent animals deserve the same ethical considerations as humans, enhancing the moral authority of the statement.
+- **Intensity**: 0.7 - The use of "obvious no-go" is quite emphatic, emphasizing the inappropriateness of the act of keeping intelligent animals in captivity.
+- **Concreteness**: 0.7 - The reference to specific intelligent animals (parrots, elephants, etc.) decreases abstraction and makes the argument more tangible.
+
+### Quarter 3: "As long as they are, a zoo can *not* be considered ethical. Many of these animals are demonstrably miserable in captivity and will lead lives far inferior to the lives they would lead in either the wild or in wild-like conditions."
+
+- **Valence**: 0.9 - The claim that zoos can't be ethical is highly negative, presenting a strong condemnation of the practice.
+- **Dominance**: 0.9 - The speaker firmly asserts their position on the ethics of zoos, leaving little room for debate.
+- **Intensity**: 0.8 - The language is strong, highlighting the contrast between captivity and a better life in the wild, thus elevating emotional engagement.
+- **Concreteness**: 0.6 - While the argument is clear, it deals more with emotional and moral claims than specific examples of animals suffering.
+
+### Quarter 4: "Not to mention zoos break up family groups of animals which have demonstrated strong social bonds such as orcas and elephants, to sell the babies to other zoos. This is scarring the animals emotionally to the point where the animals will grief for long periods of time. This is not only heartbreaking but also unethical."
+
+- **Valence**: 1.0 - This section has a very strong negative valence, emphasizing the emotional trauma caused by the separation of family groups.
+- **Dominance**: 1.0 - The argument is assertive, clearly stating that such practices are unethical and deeply flawed.
+- **Intensity**: 0.9 - The emotional weight of terms like "scarring," "grief," and "heartbreaking" heightens the intensity significantly.
+- **Concreteness**: 0.8 - The references to specific animals (orcas, elephants) and their social behaviors provide concrete examples for the argument, making it more relatable and impactful.
+
+### Summary Ratings:
+- **Quarter 1**: Valence - 0.6 | Dominance - 0.6 | Intensity - 0.5 | Concreteness - 0.5
+- **Quarter 2**: Valence - 0.8 | Dominance - 0.8 | Intensity - 0.7 | Concreteness - 0.7
+- **Quarter 3**: Valence - 0.9 | Dominance - 0.9 | Intensity - 0.8 | Concreteness - 0.6
+- **Quarter 4**: Valence - 1.0 | Dominance - 1.0 | Intensity - 0.9 | Concreteness - 0.8
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of your argument according to the specified criteria of valence, dominance, intensity, and concreteness, rated from 0.0 to 1.0 for each quarter of the text:
+
+### First Quarter:
+**Text**: "I think the bottom line is if none of the animals held captive in the zoo are sentient/sapient/self aware/ then it can't be moral, but if only non sentient/sapient/self aware/ animals are held captive then it can be."
+
+- **Valence**: 0.6 (The argument presents a moral concern, which is somewhat negative, but also suggests a potential for justification if certain criteria are met.)
+- **Dominance**: 0.5 (The speaker presents a claim but doesn't assert authority; rather, they acknowledge a condition for moral consideration.)
+- **Intensity**: 0.7 (The dichotomy between moral and immoral captivities creates a strong emphasis on the moral implications.)
+- **Concreteness**: 0.5 (Concepts of sentience and sapience are abstract, but the argument's structure is clear.)
+
+### Second Quarter:
+**Text**: "Just think of it as though aliens kept you captive in their zoo. Are there any conditions that would justify that? Not really. But on the other side of the spectrum, it doesn't matter what you do with a fly."
+
+- **Valence**: 0.7 (The comparison to alien captivity and the subsequent negative implication creates a strong unfavorable sentiment toward captivity.)
+- **Dominance**: 0.6 (The speaker takes a more authoritative stance in comparing human experience with that of other animals, suggesting a moral high ground.)
+- **Intensity**: 0.8 (The hypothetical scenario evokes strong feelings and emphasizes ethical considerations powerfully.)
+- **Concreteness**: 0.6 (The illustration with aliens provides a concrete metaphor, though it remains somewhat abstract.)
+
+### Third Quarter:
+**Text**: "I know I could debate until the end of time with some people about which animals do and don't apply for person rights, and you could argue that since humans are not on the same page about that, then zoos are unethical, but the reality is that we can know which animals are at risk of deserving person rights, and which are not, and there are far fewer animals that do, than don't."
+
+- **Valence**: 0.5 (The acknowledgment of debate suggests a neutral stance mixed with frustration regarding consensus on animal rights.)
+- **Dominance**: 0.4 (The argument presents a more uncertain position, reflecting the complexity of the issue and recognizing differing views.)
+- **Intensity**: 0.5 (The intensity is moderate; the speaker recognizes ongoing debates without a strong emotional appeal.)
+- **Concreteness**: 0.6 (While some concepts are abstract, the discussion of 'animals at risk of deserving person rights' conveys a clear distinction.)
+
+### Fourth Quarter:
+**Text**: "So, zoos could still work. But no orcas, no dolphins, no otters, no cephalopods, no ravens, no parrots, no elephants, no monkeys or apes. And probably others I am not thinking of, or don't know about."
+
+- **Valence**: 0.6 (The conditional nature of zoos 'working' indicates a potential acceptance, but the specific exclusions take a somewhat negative stance.)
+- **Dominance**: 0.5 (The list shows a level of authority in defining criteria, but the inherent negativity towards certain animals softens this.)
+- **Intensity**: 0.7 (The specificity of excluded animals conveys a strong emotional response and concern for the welfare of those species.)
+- **Concreteness**: 0.9 (The explicit listing of animals is highly concrete, providing clear examples of the author's ethical boundaries.)
+
+Overall, the argument presents a nuanced perspective on the ethics of zoos, heavily influenced by the concept of animal sentience and welfare.
+

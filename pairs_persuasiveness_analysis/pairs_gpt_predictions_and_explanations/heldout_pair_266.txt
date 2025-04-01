@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here’s the rating for each aspect of the argument, with scores ranging from 0.0 to 1.0 based on the specified criteria:
+
+### 1. Valence (Positive or Negative): 
+- **Score: 0.6** 
+- **Explanation:** The argument expresses a generally positive view of the Constitution as being "sacrosanct," but it also implies a criticism of current laws that are “antiquated” or inadequate. The overall tone is more favorable toward the Constitution, but there’s an acknowledgment of issues in existing laws.
+
+### 2. Dominance (Power or Influence): 
+- **Score: 0.4**
+- **Explanation:** The argument presents a perspective that suggests reform (10-year audits) but does not strongly assert authority or dominance as the author invites dialogue on the necessity of changing laws rather than the Constitution itself. 
+
+### 3. Intensity (Emotional strength or forcefulness): 
+- **Score: 0.5**
+- **Explanation:** The argument is moderately intense; it asserts a strong opinion on the need for an audit of old laws and clearly presents specific examples, creating a sense of urgency without being overly aggressive.
+
+### 4. Concreteness (Specificity or Abstractness): 
+- **Score: 0.7**
+- **Explanation:** The argument includes concrete examples from Alabama's outdated laws, making a clear point about the types of issues that could be addressed. The mention of a systematic approach (10-year audits) adds to its concreteness, making it practical rather than abstract. 
+
+Overall, the argument is fairly balanced but leans towards constructive criticism and practical suggestions for dealing with outdated laws while maintaining respect for the Constitution itself.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide the requested ratings for each quarter of the argument, we need to break it down accordingly and evaluate each segment based on valence, dominance, intensity, and concreteness. 
+
+### Quarter 1: "You have assertions that it is poorly worded, however your complaint seems to be it's not written in a modern dialect of english."
+- **Valence (0.5):** Neutral; it presents an observation without strong positive or negative emotion.
+- **Dominance (0.4):** The speaker is asserting a viewpoint but is not in a position of power over the listener.
+- **Intensity (0.3):** Mildly intense; there is some critique but it's not forceful.
+- **Concreteness (0.6):** Fairly concrete in its observation about language use.
+
+### Quarter 2: "So we are going to rewrite it, are we going to use privileged white english, ebonics or spanglish?"
+- **Valence (0.3):** Some negativity as it questions the legitimacy of language privilege, but this could be interpreted as an intellectual challenge.
+- **Dominance (0.5):** The speaker is taking a stronger stance, challenging the assumptions of others.
+- **Intensity (0.7):** Higher intensity as it uses a rhetorical question to provoke thought.
+- **Concreteness (0.5):** Moderately concrete; it introduces specific language varieties but remains abstract in its implications.
+
+### Quarter 3: "Maybe we should write it to the english level of a 4th grader? What about the illiterate population, it should be a video-edition because paper is so antiquated."
+- **Valence (0.2):** Mostly negative; this mocks the idea of simplification in a way that seems dismissive.
+- **Dominance (0.6):** The speaker is in a dominant position, ridiculing the suggestion of simplification.
+- **Intensity (0.8):** High intensity; the tone is sarcastic and meant to provoke.
+- **Concreteness (0.7):** Very concrete; this part includes specific examples of language levels and medium (video versus paper).
+
+### Quarter 4: "If it is unclear in any regard, that can be handled with amendments. Translating it risks losing meaning. You ever play that game where someone whispers something in someones ear and it gets passed in a circle and when it comes back it's a totally new word/phrase?"
+- **Valence (0.4):** Mildly negative; it raises a valid concern but does so in a cautionary manner.
+- **Dominance (0.5):** Balanced; it proposes a solution while expressing caution.
+- **Intensity (0.6):** Moderately intense; the anecdote about the game adds a personal touch and a cautionary perspective.
+- **Concreteness (0.8):** Very concrete; the reference to a common game helps ground its argument in a tangible experience.
+
+### Summary of Ratings
+1. **Quarter 1:**
+   - Valence: 0.5
+   - Dominance: 0.4
+   - Intensity: 0.3
+   - Concreteness: 0.6
+2. **Quarter 2:**
+   - Valence: 0.3
+   - Dominance: 0.5
+   - Intensity: 0.7
+   - Concreteness: 0.5
+3. **Quarter 3:**
+   - Valence: 0.2
+   - Dominance: 0.6
+   - Intensity: 0.8
+   - Concreteness: 0.7
+4. **Quarter 4:**
+   - Valence: 0.4
+   - Dominance: 0.5
+   - Intensity: 0.6
+   - Concreteness: 0.8
+
+Feel free to ask if you would like further analysis or modifications!
+

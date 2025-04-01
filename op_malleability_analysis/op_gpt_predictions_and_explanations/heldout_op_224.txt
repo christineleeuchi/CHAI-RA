@@ -1,0 +1,60 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a breakdown of the ratings for each quarter of the argument:
+
+### 1st Quarter:
+*"CMV: The greeks are acting like entitled children. Hi, I'm new."*
+
+- **Valence:** 0.2 (Slightly negative, as it uses a derogatory term "entitled children.")
+- **Dominance:** 0.5 (The assertion of the viewpoint shows some confidence but is introductory.)
+- **Intensity:** 0.4 (The use of "entitled children" carries some emotional weight but is relatively mild in intensity.)
+- **Concreteness:** 0.1 (Highly abstract, not providing specifics to support the claim.)
+
+### 2nd Quarter:
+*"So the greeks are complaining about the EU's imposed austerity measures, the terms of their countries increasing debt problems, even going as far as to boycott german goods and compare them to nazi's."*
+
+- **Valence:** 0.3 (Neutral to slightly negative; describes actions without expressing much sympathy.)
+- **Dominance:** 0.6 (More assertive in presenting observations about Greek actions.)
+- **Intensity:** 0.5 (The mention of comparisons to Nazis raises the emotional stakes, which increases intensity.)
+- **Concreteness:** 0.5 (More concrete examples of actions being taken by Greeks are provided.)
+
+### 3rd Quarter:
+*"But they *have* been outspending their means, and are lashing out because they have gotten used to their improved quality of life under the euro and are now being threatened with having that QOL decreased."*
+
+- **Valence:** 0.4 (Slightly negative, pointing out irresponsible spending.)
+- **Dominance:** 0.7 (More confidently asserts that the Greeks' current predicament is self-inflicted.)
+- **Intensity:** 0.6 (Moderate intensity, as it discusses economic consequences and quality of life changes.)
+- **Concreteness:** 0.6 (Provides a specific context of the Greeks’ spending behavior and resulting threats to quality of life.)
+
+### 4th Quarter:
+*"Yes, its the government's fault and not the people's, but they can't reasonably refuse cuts to their public spending that they can no longer afford, and moreover, why blame the eurozone for trying to help, and not their own incompetent government? Edit: And striking, as if their country didn't have enough problems already?!"*
+
+- **Valence:** 0.4 (Mixed; acknowledges government failures but still criticizes Greek reactions.)
+- **Dominance:** 0.8 (Displays a strong, definitive stance on the issue, emphasizing the expectation of responsibility.)
+- **Intensity:** 0.7 (The rhetorical questions add emotional intensity; the critiques are sharper here.)
+- **Concreteness:** 0.7 (More concrete in terms of addressing governmental faults and the implications for citizens.)
+
+### Summary of Ratings:
+1st Quarter: 
+- Valence: 0.2 
+- Dominance: 0.5 
+- Intensity: 0.4 
+- Concreteness: 0.1 
+
+2nd Quarter: 
+- Valence: 0.3 
+- Dominance: 0.6 
+- Intensity: 0.5 
+- Concreteness: 0.5 
+
+3rd Quarter: 
+- Valence: 0.4 
+- Dominance: 0.7 
+- Intensity: 0.6 
+- Concreteness: 0.6 
+
+4th Quarter: 
+- Valence: 0.4 
+- Dominance: 0.8 
+- Intensity: 0.7 
+- Concreteness: 0.7
+

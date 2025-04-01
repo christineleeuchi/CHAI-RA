@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating for each aspect of the argument—valence, dominance, intensity, and concreteness—let’s break down the argument text into quarters and analyze them accordingly.
+
+### 1st Quarter:
+**Text Excerpt:** "I think work experience is valuable and would strongly encourage it much in the same way. That said, there are plenty of kids out there who are internally motivated and super disciplined. School *or* work, they'll excel."
+
+- **Valence:** 0.8 (The author expresses a positive view on work experience while acknowledging the capabilities of disciplined students.)
+- **Dominance:** 0.5 (The author presents their opinion while also recognizing the perspectives of others, maintaining a balanced tone.)
+- **Intensity:** 0.6 (The language is somewhat strong with "strongly encourage" but remains moderate.)
+- **Concreteness:** 0.7 (The ideas presented are relatively clear, referring to the intrinsic motivation of students.)
+
+### 2nd Quarter:
+**Text Excerpt:** "If we're talking about someone who has career ambitions that require college, it's arguably better for them to maximize their chances of success within that framework by focusing on advanced studies in HS to get into a better school that is paid for."
+
+- **Valence:** 0.7 (The author suggests a strategic approach to education, which carries a positive connotation of planning for success.)
+- **Dominance:** 0.6 (The argument is framed in a way that seems to prioritize academic preparation, but acknowledges different pathways.)
+- **Intensity:** 0.5 (The wording is more analytical than passionate, so it's moderate.)
+- **Concreteness:** 0.8 (The argument is clear and focuses on pragmatic educational strategies.)
+
+### 3rd Quarter:
+**Text Excerpt:** "There's just not enough of an attrition rate in college for me to look at your experience and decide that's a basis for teaching a series of life lessons that can come about through a myriad of contexts."
+
+- **Valence:** 0.5 (Neutral; the author critiques the reliance on work experience by comparing it to other contexts of learning.)
+- **Dominance:** 0.4 (The author disagrees with the main thesis about the lessons learned from work experience, indicating a less dominant position.)
+- **Intensity:** 0.5 (Moderate language that points out a concern but does not use strong emotional language.)
+- **Concreteness:** 0.6 (While the point is clear, it relies on an abstract comparison of contexts, slightly reducing clarity.)
+
+### 4th Quarter:
+**Text Excerpt:** "The primary reason to get a job in HS is to save up money and garner a little financial independence. If there's a reason to encourage it, that's the reason, and it *can* be outweighed by kids who demonstrate a higher probability of doing well in school to the point where it pays dividends."
+
+- **Valence:** 0.6 (Acknowledges the benefits of work while suggesting that academic success can be more beneficial in certain cases.)
+- **Dominance:** 0.7 (The author takes a clearer stance on the importance of financial independence, emphasizing it as a primary reason.)
+- **Intensity:** 0.6 (There's a clear rationale presented, with a moderate level of assertiveness.)
+- **Concreteness:** 0.7 (Clear reasoning regarding financial independence and academic success, though it leaves room for interpretation regarding weighing both.)
+
+### Summary of Ratings:
+- **Valence:** Average 0.65
+- **Dominance:** Average 0.53
+- **Intensity:** Average 0.53
+- **Concreteness:** Average 0.68 
+
+These scores reflect a primarily balanced argument that values work experience while also acknowledging the potential benefits of academic focus. The perspective is measured, advocating for a nuanced view of education and work.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here's a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **First Quarter: "I was a spoiled lazy kid because I never got a job. Had my priorities mixed up and flunked."**
+   - **Valence:** 0.2 (Negative sentiment towards the past behavior)
+   - **Dominance:** 0.3 (The speaker acknowledges their past but takes a more passive position)
+   - **Intensity:** 0.5 (Moderate emotional intensity about the consequences of their actions)
+   - **Concreteness:** 0.6 (Specific about personal experience)
+
+2. **Second Quarter: "I got a job in the real world, and it was painful, but humbling. If I had gotten a job at 18 (or sooner), I would've done much better in college and learned crucial life lessons sooner."**
+   - **Valence:** 0.4 (Mixed; painful but acknowledges growth)
+   - **Dominance:** 0.5 (More assertive, reflects on the importance of work)
+   - **Intensity:** 0.7 (Higher emotional intensity about regrets and learning)
+   - **Concreteness:** 0.7 (Specific examples of learning lessons)
+
+3. **Third Quarter: "Having your first job at 22 isn't okay."**
+   - **Valence:** 0.3 (Negative judgment; suggests a problem with late employment)
+   - **Dominance:** 0.6 (Assertive stance taken on the expectations of employment)
+   - **Intensity:** 0.4 (Moderate intensity but more declarative)
+   - **Concreteness:** 0.5 (Relatively clear but a generalized statement)
+
+4. **Fourth Quarter: "I didn't have my first job until 24, because I went straight through college and grad school, without working, to get an engineering master's. Now I'm five years into that job making $100k with a house, a wife, and my student loans paid off. I am very happy with the way my life is turning out, and I don't see why it should be my problem that you apparently needed a wake-up call from a retail job."**
+   - **Valence:** 0.6 (Positive outcome, satisfaction with life choices)
+   - **Dominance:** 0.7 (Strongly asserts a counterpoint to the previous argument)
+   - **Intensity:** 0.6 (High emotional intensity about personal success)
+   - **Concreteness:** 0.8 (Very specific details about life situation and achievements)
+
+These scores reflect the emotional and qualitative aspects of each part of the argument, showing both the personal reflection and contrasting viewpoints presented.
+

@@ -1,0 +1,89 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument based on the dimensions of valence, dominance, intensity, and concreteness, I’ll provide scores for each quarter of the argument as requested.
+
+### Quarter 1: "Sure, some people under 18 can't responsibly handle firearms. But the same can be said for PLENTY of people over 18."
+- **Valence**: 0.5 - This portion presents a neutral tone, acknowledging a concern without being overly negative or positive.
+- **Dominance**: 0.6 - The speaker asserts their opinion, suggesting that the point against minors should also apply to adults, establishing a dominant perspective.
+- **Intensity**: 0.4 - The language is somewhat mild, maintaining a calm but assertive stance without heavy emotional weight.
+- **Concreteness**: 0.3 - The argument is abstract, comparing two groups without providing specific examples or data.
+
+### Quarter 2: "You say 'we have to draw the line somewhere', but why at a specific age?"
+- **Valence**: 0.4 - There’s a hint of skepticism towards the opposing view, which adds a slight negativity, but it's still relatively neutral.
+- **Dominance**: 0.5 - This part challenges the opposing argument, asserting a questioning stance, which indicates an attempt to regain dominance in the discourse.
+- **Intensity**: 0.5 - The inquiry is straightforward and moderately assertive, indicating a desire to provoke thought without being aggressive.
+- **Concreteness**: 0.4 - The argument presents an abstract question, lacking specific examples but still encourages deeper consideration.
+
+### Quarter 3: "Why can't a parent who responsibly owns and handles firearms properly supervise their child?"
+- **Valence**: 0.6 - This statement has a positive connotation, emphasizing responsible parenting and supervision.
+- **Dominance**: 0.7 - The speaker is taking a strong position by advocating for parental responsibility and involvement, reinforcing their stance.
+- **Intensity**: 0.6 - The language is more compelling as it asserts an alternative viewpoint, promoting the idea of parental guidance.
+- **Concreteness**: 0.5 - The argument is somewhat concrete by mentioning parental supervision, though still lacks specific examples of how this might look in practice.
+
+### Quarter 4: "People teach their children to do all sorts of things that COULD be hazardous, from grilling to driving to woodworking to boating and on and on and on; what makes firearms unique? Or should we just make sure no one under 18 ever gets experience or guidance doing such things?"
+- **Valence**: 0.4 - The tone is mixed; it conveys frustration towards the inconsistency in reasoning but remains focused on seeking a logical answer.
+- **Dominance**: 0.6 - The speaker challenges the rationale against youth handling firearms, asserting a critical view of the logic used to create age restrictions.
+- **Intensity**: 0.7 - The use of "COULD be hazardous" and the repetition emphasizes urgency and concern, making the argument more intense.
+- **Concreteness**: 0.6 - The mention of various activities provides concrete examples, grounding the argument in real-life contexts that people can relate to. 
+
+Overall, the argument develops from a cautious acknowledgment of concerns about youth handling firearms to a more assertive position advocating for the potential for parental supervision and challenges the restrictions based on age.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To assess the provided argument using valence, dominance, intensity, and concreteness, I will rate each quarter of the argument on a scale from 0.0 to 1.0.
+
+### First Quarter:
+**Argument:** "People under 18 often hunt, not only for sport but to help feed their families."
+
+- **Valence:** 0.7 - The statement has a positive connotation as it presents hunting as a necessity for some families.
+- **Dominance:** 0.5 - The assertion is presented as a factual statement without an overpowering or submissive tone.
+- **Intensity:** 0.6 - The message is moderately strong, emphasizing the importance of hunting for food.
+- **Concreteness:** 0.8 - The reference to both sport and feeding families provides a tangible context.
+
+### Second Quarter:
+**Argument:** "People under 18 often have to defend themselves both from potential human harms and from wild animals if they live rural or remote areas."
+
+- **Valence:** 0.6 - The statement has a neutral to slightly negative connotation, reflecting a serious reality but not outright positivity.
+- **Dominance:** 0.6 - It asserts a level of authority about the necessity of self-defense for specific demographics.
+- **Intensity:** 0.7 - The message has a strong emphasis as it invokes the gravity of self-defense situations.
+- **Concreteness:** 0.7 - The mention of specific contexts (rural or remote areas) adds clarity and tangibility.
+
+### Third Quarter:
+**Argument:** "People under 18 are at the age that we TRAIN them in how to use things such as firearms safely."
+
+- **Valence:** 0.8 - This has a positive tone, suggesting training and safety of youth interaction with firearms.
+- **Dominance:** 0.5 - It presents a neutral stance that focuses on training without overpowering tones.
+- **Intensity:** 0.5 - The intensity is moderate, as it implies a necessary but routine process of training.
+- **Concreteness:** 0.7 - The reference to training provides a clear and specific concept.
+
+### Fourth Quarter:
+**Argument:** "Yes, there will be accidents, and those are often tragic, but blanket statements like yours will increase the volume of poorly trained or untrained individuals getting access to guns, not lower it."
+
+- **Valence:** 0.4 - The acknowledgment of accidents conveys a negative aspect, coupled with a defense of the argument.
+- **Dominance:** 0.8 - This part assumes a dominant position by challenging the opposing viewpoint directly.
+- **Intensity:** 0.9 - The intensity is high, particularly in the refutation of opposing opinions.
+- **Concreteness:** 0.6 - While it is clear in stating the effects of blanket statements, it’s more abstract in predicting consequences rather than providing tangible examples.
+
+### Summary Scorecard:
+1. **First Quarter:** 
+   - Valence: 0.7
+   - Dominance: 0.5
+   - Intensity: 0.6
+   - Concreteness: 0.8
+
+2. **Second Quarter:** 
+   - Valence: 0.6
+   - Dominance: 0.6
+   - Intensity: 0.7
+   - Concreteness: 0.7
+
+3. **Third Quarter:** 
+   - Valence: 0.8
+   - Dominance: 0.5
+   - Intensity: 0.5
+   - Concreteness: 0.7
+
+4. **Fourth Quarter:** 
+   - Valence: 0.4
+   - Dominance: 0.8
+   - Intensity: 0.9
+   - Concreteness: 0.6
+

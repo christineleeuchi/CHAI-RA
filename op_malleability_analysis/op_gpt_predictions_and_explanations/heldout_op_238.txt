@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument provided, I will assign ratings for valence, dominance, intensity, and concreteness for each quarter of the text. The scale runs from 0.0 (very low) to 1.0 (very high).
+
+### Quarter 1
+**Text**: "CMV: If you cheat on your SO, and he/she never finds out about it and your behaviour doesn't change, there is no harm done. Let me preface this by saying I'm currently single but I have cheated on an earlier relationship."
+
+- **Valence**: 0.6 (The sentiment is somewhat neutral to positive, as it presents a rational perspective on cheating.)
+- **Dominance**: 0.4 (The speaker presents their perspective assertively but does not fully dominate the discussion yet.)
+- **Intensity**: 0.5 (There is a moderate energy to the statement as it introduces a controversial subject.)
+- **Concreteness**: 0.4 (The terms used are somewhat abstract, as concepts of cheating and relationships are discussed in a theoretical manner.)
+
+### Quarter 2
+**Text**: "Here's my view: If I can 100% ensure that my SO will never ever find out I cheated, and my behaviour doesn't change, and I do not hurt the person I cheat with, there is literally and factually no harm done and it's therefore ethically acceptable."
+
+- **Valence**: 0.7 (The assertion that there is no harm done is a positive value judgment from the speaker’s perspective.)
+- **Dominance**: 0.6 (The speaker is clearly asserting their stance, creating a stronger sense of dominance in the argument.)
+- **Intensity**: 0.7 (The use of "100% ensure" and "literally and factually" suggests a high level of conviction.)
+- **Concreteness**: 0.5 (There is some specificity about conditions, but the central argument still hinges on abstract concepts of ethics and harm.)
+
+### Quarter 3
+**Text**: "I know there are people who find out, and I know there are people who change (= fall in love for example), but those are not the scenarios I wanna discuss."
+
+- **Valence**: 0.5 (This section maintains a neutral tone as the speaker acknowledges alternate perspectives without engaging deeply.)
+- **Dominance**: 0.5 (The speaker controls the dialogue by limiting the scope of the discussion, but it remains fairly balanced.)
+- **Intensity**: 0.3 (The tone is somewhat subdued; the speaker is distancing themselves from potential emotional consequences.)
+- **Concreteness**: 0.6 (Referring to specific scenarios adds some concrete context to the argument, despite being dismissive of them.)
+
+### Quarter 4
+**Text**: "One example: In an earlier relationship, I cheated on my SO with a girl I liked. I loved my girlfriend and I wouldn't want to ever hurt her, but I could 100% assure that she would never found out and for me it was just sex. After that, we were just as happy, she does not know 'til this day and we were just as happy until we split for something unrelated. So, if you assign it a value, my girlfriend was happiness(+-0), the other girl was happy(+2) and I was happy(+5), which gives you a clear net plus in happiness."
+
+- **Valence**: 0.8 (The personal anecdote and the conclusion drawn indicate a high positive valence in the speaker's view, portraying a happy outcome.)
+- **Dominance**: 0.7 (The speaker's personal experience provides strong support for their argument, thus reinforcing their dominance in the justification.)
+- **Intensity**: 0.8 (The description of feelings and values assigned incites a more passionate tone in the narrative.)
+- **Concreteness**: 0.8 (This section is very concrete, as it includes specific personal experiences that illustrate the argument effectively.)
+
+These ratings reflect an interpretation of the argument's components in each quarter, noting the emotional engagement and the clarity of the reasoning presented.
+

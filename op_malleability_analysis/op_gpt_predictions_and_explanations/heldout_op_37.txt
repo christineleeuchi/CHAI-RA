@@ -1,0 +1,62 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score from 0.0 to 1.0 for each of the categories—valence, dominance, intensity, and concreteness—I'll break down the argument into four quarters and analyze each section accordingly.
+
+### Quarter 1:
+**Text:** "CMV: Socialism is Undermined by Diversity I can only see socialistic systems (The harder variety that imposes 90% tax rates and such) work out in ethnically, culturally homogenous societies like the Nordic states, or certain Orthodox Jewish sects. My hypothesis is that extreme racial/cultural difference (Skin Color, Mutually Exclusive Religion, Colonial Grievances, etc.) between populations leads to self-segregation, behind-the-back othering/scapegoating, and lower interpersonal trust on average - the foundation for a socialistic society where all are to be treated equally."
+
+- **Valence (Neutral):** 0.4 — The tone is somewhat negative towards diversity in the context of socialism but doesn't express extreme disdain.
+- **Dominance (Authoritative):** 0.6 — The writer presents their viewpoint confidently and with authority.
+- **Intensity (Moderate):** 0.5 — The argument presents a strong viewpoint, but it's grounded in observation rather than extreme emotion.
+- **Concreteness (Abstract):** 0.3 — Concepts like "self-segregation" and "interpersonal trust" are abstract without providing specific examples.
+
+### Quarter 2:
+**Text:** "You might be willing to do business with the other group, but god forbid your family invite them over or get intimate with them. As long as visibly different groups with past antagonisms exist, people will judge members of the other group differently, at least with no other information available."
+
+- **Valence (Negative):** 0.5 — This section presents a negative view of interracial or intercultural intimacy.
+- **Dominance (Assertive):** 0.7 — The language is assertive and strong in presenting the viewpoint.
+- **Intensity (High):** 0.6 — The phrases used convey a strong sense of concern about social interactions.
+- **Concreteness (Specific):** 0.4 — The mention of business versus family interaction provides specific contrasts, but there's still an abstract element.
+
+### Quarter 3:
+**Text:** "I suspect the primary reason right-wing parties against the EU and Social Democracy are on the rise, is due to lower interpersonal trust brought on by 1.) The Continuing Employment Slump and 2.) Immigration, particularly from Africa and the Muslim world. As the economy continues to slug along in the midst of austerity, the natives are feeling a tad powerless, with the lower classes having to compete now with immigrant labor - leading to scapegoating and resentment. This is not a new phenomenon - the entire history of the industrial age is replete with labor-fueled resentment from the lower-class establishment toward foreigners trying to take their place."
+
+- **Valence (Negative):** 0.6 — The argument leans negative, citing resentment and scapegoating in economic contexts.
+- **Dominance (Analytical):** 0.6 — An analytical tone is maintained throughout this section, providing a reasoned argument.
+- **Intensity (Moderate):** 0.5 — The emotions are there but are more focused on socio-economic observations than personal feelings.
+- **Concreteness (Moderate):** 0.5 — While referencing specific groups and contexts, it remains somewhat abstract regarding individual experiences.
+
+### Quarter 4:
+**Text:** "Still, despite this - I can't help but get pissed when liberals rag on the native working class as "Rednecks" or "Bogans" (Or for black people trying to get ahead, "Uncle Toms") that supposedly vote against their own best interest by voting to halt immigration. This might be the only form of protectionism I can genuinely sympathize with."
+
+- **Valence (Somewhat Negative):** 0.7 — Emotion is higher, indicating frustration toward the liberal critique.
+- **Dominance (Personal):** 0.5 — While personal, it shows a conflict between individual feelings and broader commentary.
+- **Intensity (High):** 0.7 — The use of "pissed" conveys strong emotion and personal investment in the argument.
+- **Concreteness (High):** 0.6 — The mention of specific terms like "Rednecks," "Bogans," and "Uncle Toms" lends a tangible reality to the argument.
+
+### Summary of Ratings:
+- **Quarter 1:**
+  - Valence: 0.4
+  - Dominance: 0.6
+  - Intensity: 0.5
+  - Concreteness: 0.3
+
+- **Quarter 2:**
+  - Valence: 0.5
+  - Dominance: 0.7
+  - Intensity: 0.6
+  - Concreteness: 0.4
+
+- **Quarter 3:**
+  - Valence: 0.6
+  - Dominance: 0.6
+  - Intensity: 0.5
+  - Concreteness: 0.5
+
+- **Quarter 4:**
+  - Valence: 0.7
+  - Dominance: 0.5
+  - Intensity: 0.7
+  - Concreteness: 0.6
+
+These scores provide a nuanced evaluation of how values are expressed throughout the argument across different dimensions.
+

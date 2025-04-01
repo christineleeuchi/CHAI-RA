@@ -1,0 +1,46 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are my ratings for the specified attributes (valence, dominance, intensity, and concreteness) for each quarter of the provided argument:
+
+**First Quarter:**
+- **Valence:** 0.7 (The tone is overall positive towards Tubman's actions but raises questions about her recognition compared to others.)
+- **Dominance:** 0.6 (The argument asserts Tubman's significant contributions but does not overtly dismiss other figures yet.)
+- **Intensity:** 0.5 (The language is moderately strong but lacks extreme passion or urgency.)
+- **Concreteness:** 0.7 (Concrete facts are presented about Tubman's achievements and challenges, providing a clear image of her actions.)
+
+**Second Quarter:**
+- **Valence:** 0.8 (The focus remains positive on Tubman as her impact begins to be emphasized more.)
+- **Dominance:** 0.7 (The argument becomes stronger in favor of Tubman while comparing her influence to a broader context, asserting her exceptional contributions.)
+- **Intensity:** 0.7 (The language conveys a stronger sense of importance regarding her legacy.)
+- **Concreteness:** 0.7 (Specific numbers and descriptions paint a vivid picture of her impact.)
+
+**Third Quarter:**
+- **Valence:** 0.4 (The discussion about Schindler and challenges against King introduces a more critical tone.)
+- **Dominance:** 0.5 (This section attempts to diminish the reputations of other historical figures while still favoring Tubman.)
+- **Intensity:** 0.6 (Some strong language regarding the actions of King and Roosevelt can be felt, though it may diverge from the main focus.)
+- **Concreteness:** 0.6 (Specific examples are used to contrast Tubman with both Schindler and King, even as the main subject shifts slightly.)
+
+**Fourth Quarter:**
+- **Valence:** 0.5 (The closing remarks introduce criticisms of King and Roosevelt, complicating the emotional tone.)
+- **Dominance:** 0.6 (The argument aims to strongly advocate for Tubman's recognition over the other figures, but not without controversy.)
+- **Intensity:** 0.8 (The language becomes more passionate as the argument firmly states Tubman's worthiness and criticizes established figures.)
+- **Concreteness:** 0.5 (While critiques are made, the clarity may get lost without sufficient context for all cited figures.)
+
+These ratings reflect the strengths, weaknesses, and nuances in each segment of the argument about Harriet Tubman vs. other historical figures for currency representation.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a score rating for each of the dimensions of the argument you provided, broken down per quarter:
+
+1. **Valence**: 0.9  
+   The overall tone is highly positive, focusing on Tubman's bravery and significant contributions to the abolition of slavery and women's rights. There are minor criticisms of her methods ("threatened to shoot runaway slaves") but they serve to highlight her determination rather than detract from her overall valence.
+
+2. **Dominance**: 0.8  
+   The argument expresses a strong sense of admiration for Tubman while also making clear points about her impact. The use of "total badass," along with references to her bravery and the serious nature of her accomplishments, reflects a dominating affection for her legacy.
+
+3. **Intensity**: 0.85  
+   The argument conveys high intensity through emotive language and strong imagery (e.g., "biting down on a bullet," "forced people to confront the horror of slavery"). The various historical references (like the Raid at Harper's Ferry and comparisons to events like Pearl Harbor) amplify the emotional weight.
+
+4. **Concreteness**: 0.9  
+   The argument is very concrete, providing specific examples of Tubman's actions, her impact on history, and her personal experiences. The details about her speeches, her efforts for women's suffrage, and her daring actions during slavery contribute to a vivid and supportive narrative. 
+
+Overall, the argument strongly advocates for Harriet Tubman's significance while grounding its claims with compelling historical context and personal anecdotes.
+

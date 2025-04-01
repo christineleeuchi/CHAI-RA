@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Certainly! Here’s a rating for each aspect (valence, dominance, intensity, and concreteness) for each quarter of the argument.
+
+### Quarter 1: 
+"CMV: There's no need to buy expensive Vodka because it all tastes the same. Ever since I started drinking about 3 years ago, I've had a wide selection of different liquors and beers, most of which had characteristics that made them unique and different from one another."
+
+- **Valence**: 0.4 (The statement is relatively negative about expensive vodka, but acknowledges the diversity in other liquors)
+- **Dominance**: 0.5 (The speaker expresses their own experience and perspective, demonstrating some assertiveness)
+- **Intensity**: 0.3 (Moderate intensity; the argument is clear but not overly passionate)
+- **Concreteness**: 0.6 (References personal experience with various liquors adds a degree of detail)
+
+### Quarter 2:
+"With vodka though, I just don't see why people buy 30$ bottles if it's basically 40% ethanol and 60% water. Any impurities that might be in it are so small they might as well not be there."
+
+- **Valence**: 0.3 (Negative view on expensive vodka; dismissive of quality differences)
+- **Dominance**: 0.6 (Strong assertion of the speaker’s belief, reinforcing their point)
+- **Intensity**: 0.7 (Higher intensity; conveys strong skepticism about the value of expensive vodka)
+- **Concreteness**: 0.7 (Specific percentages provide a concrete basis for the claim)
+
+### Quarter 3: 
+"So far, I've had Absolut, Stolichnaya, Russian Standard and some cheap local brands, and even drinking the stuff straight, I wouldn't be able to tell one apart from the other. I'm just generally not a big fan of vodka."
+
+- **Valence**: 0.2 (Clearly negative towards vodka, reinforcing the argument)
+- **Dominance**: 0.5 (Maintains an assertion but feels somewhat less dominant due to a personal expression of preference)
+- **Intensity**: 0.6 (Expresses a strong personal perspective regarding vodka)
+- **Concreteness**: 0.8 (Mentions specific brands, which enhances clarity and detail)
+
+### Quarter 4:
+"Reddit, please change my view, as I'd like to be able to appreciate my friends bringing expensive bottles to parties."
+
+- **Valence**: 0.5 (Neutral plea, with a slight positive connotation regarding wanting to appreciate friends' choices)
+- **Dominance**: 0.4 (More of a request than a strong assertion, softening the dominance)
+- **Intensity**: 0.4 (Moderate intensity; it’s more a request than an impassioned argument)
+- **Concreteness**: 0.5 (Ends with a clear request but isn’t as concrete as earlier sections)
+
+These ratings reflect the subjective aspects of the argument and the speaker's perspective throughout the text.
+

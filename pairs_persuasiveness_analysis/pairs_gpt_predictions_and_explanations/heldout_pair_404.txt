@@ -1,0 +1,82 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the ratings for valence, dominance, intensity, and concreteness for each quarter of the argument provided:
+
+### Quarter 1:
+**Text**: "Your information about pack leaders, hierarchies, alphas, and dominance among dogs has been debunked."
+
+- **Valence**: 0.5 - Neutral; the statement does not express a positive or negative sentiment but asserts that previous information is incorrect.
+- **Dominance**: 0.6 - The statement is assertive and challenges the previous position on dog behavior, positioning the author as someone with new, credible information.
+- **Intensity**: 0.5 - Moderately intense; it’s a strong assertion but not overly emotional.
+- **Concreteness**: 0.6 - Fairly concrete; it presents a clear assertion of disbelief against prior information.
+
+### Quarter 2:
+**Text**: "One quote from a Time article: > The debate has its roots in 1940s studies of captive wolves gathered from various places that, when forced to live together, naturally competed for status."
+
+- **Valence**: 0.4 - Slightly negative; the implication is that the earlier studies were flawed and poorly conceived.
+- **Dominance**: 0.5 - The mention of past studies serves to assert a claim of authority, but it also relies on external sources.
+- **Intensity**: 0.5 - Moderate; it’s informative rather than aggressive.
+- **Concreteness**: 0.7 - High; it provides a specific historical reference to back up the argument.
+
+### Quarter 3:
+**Text**: "As it turns out, this research was based on a faulty premise: wolves in the wild, says L. David Mech, founder of the Minnesota-based International Wolf Center, actually live in nuclear families, not randomly assembled units..."
+
+- **Valence**: 0.5 - Neutral to slightly positive; this part of the statement seeks to clarify understanding.
+- **Dominance**: 0.7 - Strong as it cites a credible authority to reinforce the argument.
+- **Intensity**: 0.6 - Moderately intense; it asserts there was a misunderstanding, enhancing the argument's weight.
+- **Concreteness**: 0.8 - Very concrete; it includes specific details and expert testimony that bolster the claim.
+
+### Quarter 4:
+**Text**: "Furthermore, attributing your dog's behavior as a dominance/submission issue is very problematic. Here's a Huffington Post article on how it's a flawed theory of canine behavior..."
+
+- **Valence**: 0.4 - Negative; it critiques a viewpoint and presents it as incorrect.
+- **Dominance**: 0.7 - Assertive; it challenges a common belief and positions the author as someone knowledgeable about canine behavior.
+- **Intensity**: 0.6 - Moderately intense; the use of words like "problematic" injects some urgency into the claim.
+- **Concreteness**: 0.7 - Fairly concrete; references another source to substantiate its claim.
+
+### Summary:
+- **Quarter 1**: Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+- **Quarter 2**: Valence 0.4, Dominance 0.5, Intensity 0.5, Concreteness 0.7
+- **Quarter 3**: Valence 0.5, Dominance 0.7, Intensity 0.6, Concreteness 0.8
+- **Quarter 4**: Valence 0.4, Dominance 0.7, Intensity 0.6, Concreteness 0.7
+
+The overall trend shows a progression towards a more authoritative and evidence-based argument, bolstering the critique of previously held beliefs about dog behavior and societal hierarchy.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument you've provided regarding dogs and their reactions to stimuli, I'll break it down into four quarters and assign scores from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter.
+
+### Quarter 1:
+**Text**: "Dogs demonstrate the same reactions to stimulus as they do to people."
+- **Valence**: 0.5 (Neutral statement, but implies a connection between dog reactions and people's interactions)
+- **Dominance**: 0.4 (The statement presents a contrasting view to the idea that dog reactions are only instinctual, suggesting a certain level of understanding)
+- **Intensity**: 0.4 (Moderate intensity; it’s a simple assertion without strong emotional language)
+- **Concreteness**: 0.6 (The term "reactions to stimulus" can be somewhat abstract, but it provides a basis for tangible evaluation)
+
+### Quarter 2:
+**Text**: "That shows that they have some feelings about certain people."
+- **Valence**: 0.7 (Positive assertion; suggests that dogs have emotional responses)
+- **Dominance**: 0.3 (Less dominant; merely supports the previous statement but does not assert strong authority)
+- **Intensity**: 0.6 (Moderately intense claim; expresses a belief about emotional capacity)
+- **Concreteness**: 0.5 (It introduces feelings but lacks specific examples or definitions)
+
+### Quarter 3:
+**Text**: "For example, a dog gets a look at a leash and becomes excited and a bit raucous because it knows it’s going for a walk."
+- **Valence**: 0.8 (Highly positive; illustrates an enjoyable experience for the dog)
+- **Dominance**: 0.5 (Shows a strong observation, but it’s presented as a common behavior rather than a dominating idea)
+- **Intensity**: 0.7 (Vivid description; excitement conveys strong emotional response)
+- **Concreteness**: 0.9 (Very concrete; provides a specific, relatable example)
+
+### Quarter 4:
+**Text**: "A dog might demonstrate that same behavior when it sees its owner for the first time in a couple of days/weeks, clearly excited at the prospect of seeing its owner again."
+- **Valence**: 0.9 (Very positive; captures joy and affection, emphasizing a strong emotional bond)
+- **Dominance**: 0.4 (Offers an example but doesn’t assert dominance; rather, it promotes a shared experience)
+- **Intensity**: 0.8 (High intensity; conveys enthusiastic emotions associated with reunion)
+- **Concreteness**: 0.9 (Concrete; specific example that many can visualize and relate to)
+
+### Summary of Scores:
+- **Quarter 1:** Valence: 0.5, Dominance: 0.4, Intensity: 0.4, Concreteness: 0.6
+- **Quarter 2:** Valence: 0.7, Dominance: 0.3, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 3:** Valence: 0.8, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.9
+- **Quarter 4:** Valence: 0.9, Dominance: 0.4, Intensity: 0.8, Concreteness: 0.9
+
+These scores reflect how each statement contributes to the overall argument regarding dogs and their emotional reactions to stimuli, while considering valence, dominance, intensity, and concreteness in relation to your perspective on dogs in the initial mindset you provided.
+

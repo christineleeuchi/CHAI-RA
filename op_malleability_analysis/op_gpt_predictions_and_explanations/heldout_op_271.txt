@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument based on valence, dominance, intensity, and concreteness, I will break down the text into quarters and evaluate each aspect accordingly.
+
+### Quarter 1:
+**Text**: "CMV: When captured and convicted, SWAT 'pranksters' should receive extremely harsh sentences Although I'm conflicted about all aspects of Justice, Inc., I would be happy to see [this kid] rot in a cell for decades."
+
+- **Valence**: 0.1 (Negative sentiment towards the action taken by SWAT pranksters)
+- **Dominance**: 0.8 (Strongly expresses a desire for harsh consequences)
+- **Intensity**: 0.9 (Strong emotional response, particularly with "rot in a cell")
+- **Concreteness**: 0.7 (Specific about the punishment, but abstract in terms of the overall justice system)
+
+### Quarter 2:
+**Text**: "Making examples of people like this is the only deterrent I can think of for /b/tards who think terrorizing people, risking lives, and draining public resources for no reason is harmless and hilarious."
+
+- **Valence**: 0.2 (Negative towards the behavior of pranksters, but there's a hint of constructive intent)
+- **Dominance**: 0.75 (Positions the need to set a precedent as strong)
+- **Intensity**: 0.8 (Strong language regarding the impact of their actions)
+- **Concreteness**: 0.6 (Abstract ideas of deterrence and consequences, but with specific reference to behavior)
+
+### Quarter 3:
+**Text**: "It's hard for me to feel much sympathy when their /b/tard lives are permanently ruined, since they're practically never held accountable."
+
+- **Valence**: 0.3 (Negative towards the pranksters' situation but suggests a lack of pity)
+- **Dominance**: 0.6 (Acknowledgment of the lack of accountability, but with a sense of resignation)
+- **Intensity**: 0.7 (Emotional acknowledgment of their ruined lives, but more analytical)
+- **Concreteness**: 0.5 (Vague in terms of specific consequences but clear about overall sentiment)
+
+### Quarter 4:
+**Text**: "Am I being a dick about this? Are you sure?"
+
+- **Valence**: 0.4 (Self-reflective, uncertain of the negative stance)
+- **Dominance**: 0.3 (A more questioning, less assertive tone)
+- **Intensity**: 0.5 (Moderately intense, but lacks the previous definitive statements)
+- **Concreteness**: 0.4 (Abstract questioning of moral judgment without specific reference)
+
+### Summary of Ratings:
+- **Quarter 1**: Valence 0.1 | Dominance 0.8 | Intensity 0.9 | Concreteness 0.7
+- **Quarter 2**: Valence 0.2 | Dominance 0.75 | Intensity 0.8 | Concreteness 0.6
+- **Quarter 3**: Valence 0.3 | Dominance 0.6 | Intensity 0.7 | Concreteness 0.5
+- **Quarter 4**: Valence 0.4 | Dominance 0.3 | Intensity 0.5 | Concreteness 0.4
+

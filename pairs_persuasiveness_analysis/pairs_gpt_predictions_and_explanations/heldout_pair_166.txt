@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s the rating score from 0.0 to 1.0 for each of valence, dominance, intensity, and concreteness based on the argument provided:
+
+**1st Quarter of the Argument:**
+
+- **Valence:** 0.7 (The argument presents a perspective that could be seen positively, advocating for freedom of choice, but it acknowledges a concern about censorship.)
+- **Dominance:** 0.6 (It positions the speaker as knowledgeable about censorship, but does not exert strong authority over the audience.)
+- **Intensity:** 0.5 (The argument is firm but balanced, not overly emotional.)
+- **Concreteness:** 0.6 (The distinction between censorship and age limits is clear, though more examples would enhance clarity.)
+
+**2nd Quarter of the Argument:**
+
+- **Valence:** 0.8 (Reinforces the idea of parental choice positively, though it can still be contested.)
+- **Dominance:** 0.7 (More authoritative as it discusses societal norms regarding parental guardianship.)
+- **Intensity:** 0.6 (The language supports the argument but doesn’t evoke strong emotion.)
+- **Concreteness:** 0.7 (Clear definitions are provided regarding the roles of parents, aiding understanding.)
+
+**3rd Quarter of the Argument:**
+
+- **Valence:** 0.7 (Acknowledges age limits and their necessity, remaining balanced.)
+- **Dominance:** 0.5 (Provides information that supports the claim but doesn't strongly assert itself.)
+- **Intensity:** 0.5 (Neutral tone reflecting reasoned discussion.)
+- **Concreteness:** 0.8 (Specific examples (e.g., selling erotica) provide clarity.)
+
+**4th Quarter of the Argument:**
+
+- **Valence:** 0.7 (Supports the idea of interpretation and understanding positively.)
+- **Dominance:** 0.6 (Highlights the speaker's experience but does not strongly assert authority.)
+- **Intensity:** 0.5 (Calm and measured response, using personal experience.)
+- **Concreteness:** 0.7 (Describes personal observations that give weight to the argument while remaining specific.)
+
+Overall, the argument presents a well-structured view on the distinction between censorship and age limits, while addressing various facets of the discussion with a balanced tone.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each dimension of the argument presented in each quarter:
+
+### Quarter 1: "If you're reading a book you have to interpret what you're reading. If a six year old reads a rape scene and has no idea what a rape scene actually entails you're probably going to not really understand what that scene is trying to depict."
+- **Valence: 0.4** (Neutral to slightly negative due to the sensitive topic)
+- **Dominance: 0.5** (The argument presents a perspective that asserts the complexity of understanding, but it's also acknowledging the child's ignorance.)
+- **Intensity: 0.6** (The topic of rape carries significant weight, adding intensity to the statement.)
+- **Concreteness: 0.5** (Specific situation but abstract concept—reading and interpretation can be subjective.)
+
+### Quarter 2: "The kid is protected by not having any idea as to what he is reading, so the rape scene has no context for him. He probably is protected because he can't read the thing in the first place."
+- **Valence: 0.5** (Neutral, as it states a protective quality without any overtly negative or positive feelings.)
+- **Dominance: 0.6** (The argument becomes stronger as it highlights the protective factor of ignorance.)
+- **Intensity: 0.4** (Less intense, focuses on the concept of protection rather than graphic content.)
+- **Concreteness: 0.6** (More concrete as it discusses the specific scenario and the child's inability to understand.)
+
+### Quarter 3: "If I show the movie Hostel to a 6 year old the violence is already really dedicated for him. That kid just has to sit back and watch. He isn't protected by his ignorance. Everything is just laid out to see."
+- **Valence: 0.3** (Negative due to the explicit nature of content discussed; mentions a disturbing scenario.)
+- **Dominance: 0.7** (This quarter presents a stronger stance on the harmfulness of movies for young children.)
+- **Intensity: 0.7** (High intensity because of the graphic nature of the content being discussed.)
+- **Concreteness: 0.7** (Very concrete—specific reference to a widely known violent movie and the experience of watching it.)
+
+### Quarter 4: "Should 6 year olds be able to watch Hostel?"
+- **Valence: 0.2** (Negative, implies a controversial and troubling question regarding child exposure to violence.)
+- **Dominance: 0.8** (This question carries a strong impact, pressing for societal recognition of the issue.)
+- **Intensity: 0.8** (The question is provocative and likely to elicit strong responses.)
+- **Concreteness: 0.5** (Concrete as it poses a direct question, but abstract in terms of the implications of that question regarding societal norms.)
+
+These ratings reflect the emotional and conceptual dimensions of the argument considering its context and content.
+

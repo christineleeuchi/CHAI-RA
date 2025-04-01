@@ -1,0 +1,45 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument provided based on valence, dominance, intensity, and concreteness, we can break it into four quarters and evaluate each aspect accordingly.
+
+**1st Quarter: "CMV: Chopsticks are in no way superior to fork & knife. I love to eat Asiatic food but I could never really use the chopsticks thinking 'Wow, that is much better than usual cutlery.'"**
+
+- **Valence (0.3):** The sentiment is somewhat negative toward chopsticks, suggesting frustration or dissatisfaction. 
+- **Dominance (0.5):** The speaker feels a moderate sense of control in expressing their view but acknowledges the cultural context of chopsticks. 
+- **Intensity (0.4):** The intensity is moderate; the speaker is firm in their stance but doesn't exhibit extreme emotion. 
+- **Concreteness (0.5):** The argument presents a clear opinion and reasoning, but lacks detailed examples in this quarter.
+
+---
+
+**2nd Quarter: "Using chopsticks is at best a cultural exercise of contortion. Forks and knives are superior in every way I can imagine & in every situation."**
+
+- **Valence (0.2):** The negativity is more pronounced here, dismissing chopsticks outright as merely cultural rather than functional. 
+- **Dominance (0.7):** The speaker portrays a strong sense of authority over their argument, confidently stating that forks and knives are superior.
+- **Intensity (0.6):** The intensity increases as the speaker makes a definitive declaration regarding cutlery superiority.
+- **Concreteness (0.6):** The statement is clear and asserts a particular view but could benefit from further explanation of "every situation."
+
+---
+
+**3rd Quarter: "Including: rice that is sticky and particularly rice that isn't sticky. Versatility while eating different kinds of food. Eating with manners. Not having to fear the dreaded fall of food."**
+
+- **Valence (0.3):** Sentiment here is neutral, merely stating facts without strong emotional language. 
+- **Dominance (0.5):** The writer continues to assert superiority but does so with examples that remain simple and straightforward.
+- **Intensity (0.4):** The intensity is moderate; these examples underline their point but lack passion.
+- **Concreteness (0.7):** This quarter provides specific examples that make the argument more concrete and relatable.
+
+---
+
+**4th Quarter: "I hope some of you will be able to help me find arguments to coerce me into using those chopsticks :)"**
+
+- **Valence (0.4):** The valence is somewhat positive and open-ended, inviting discussion and input. 
+- **Dominance (0.4):** The speaker displays a degree of vulnerability and willingness to engage with counterarguments, reducing their dominance.
+- **Intensity (0.5):** Intensity is average, suggesting openness without strong emotional appeals.
+- **Concreteness (0.6):** There is a clear request for dialogue, making it concrete in its intention to explore differing perspectives.
+
+---
+
+Overall scores:
+- **1st Quarter:** Valence: 0.3, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.5
+- **2nd Quarter:** Valence: 0.2, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.6
+- **3rd Quarter:** Valence: 0.3, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.7
+- **4th Quarter:** Valence: 0.4, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.6
+

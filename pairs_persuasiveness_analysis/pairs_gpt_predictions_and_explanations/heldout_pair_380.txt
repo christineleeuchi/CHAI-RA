@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a breakdown of the argument based on the specified criteria: valence, dominance, intensity, and concreteness.
+
+### 1. **First Quarter: "Are all animal lives of equal value? If the answer is yes..."**
+- **Valence**: 0.6 (The argument presents a critical point that challenges the ethical considerations of zoos, which can evoke a positive reaction for those who value equality but may be neutral to negative for those who support zoos.)
+- **Dominance**: 0.7 (This introductory section asserts a strong position that sets the tone for the rest of the argument.)
+- **Intensity**: 0.6 (The tone is assertive but remains somewhat exploratory as it poses questions rather than making definitive claims.)
+- **Concreteness**: 0.5 (It presents abstract philosophical questions rather than concrete examples, but it lays a necessary groundwork for the discussion.)
+
+### 2. **Second Quarter: "Generally, the more endangered a species is..."**
+- **Valence**: 0.5 (This part is factual and less emotionally charged, presenting arguments that could resonate differently among readers.)
+- **Dominance**: 0.6 (It elaborates on the criteria for zoo selection, adding complexity to the discussion.)
+- **Intensity**: 0.4 (The tone is more analytical than passionate, focusing on logical reasoning.)
+- **Concreteness**: 0.6 (Introduces more context and examples related to endangered species, helping ground the argument.)
+
+### 3. **Third Quarter: "Considering that zoos are open to the public for general pleasure..."**
+- **Valence**: 0.4 (This section critiques the entertainment aspect of zoos, which might evoke a negative valence, but it’s relatively neutral in tone.)
+- **Dominance**: 0.5 (This mid-point suggests a shift in focus to the ethical implications of entertainment, allowing for a potentially dominant critique.)
+- **Intensity**: 0.5 (The intensity increases as it raises ethical questions, but it remains moderately toned.)
+- **Concreteness**: 0.5 (The argument refers to the purpose and function of zoos, making it tangible but still somewhat abstract.)
+
+### 4. **Fourth Quarter: "So a zoo is unethical, because it doesn't serve its purported purpose..."**
+- **Valence**: 0.8 (The conclusion strongly criticizes zoos and appeals to ethical considerations, likely resonating with animal rights advocates.)
+- **Dominance**: 0.9 (It provides a definitive stance on the matter, asserting clear dominance in argumentation.)
+- **Intensity**: 0.8 (The argument reaches a high intensity as it emphasizes the ethical issues surrounding zoos and contrasts them with wildlife preserves.)
+- **Concreteness**: 0.7 (Engages with specific comparisons and practical considerations, enhancing the overall clarity and impact of the argument.)
+
+Overall, this breakdown highlights the evolution of the argument throughout each quarter, with varying levels of emotional appeal and assertiveness.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the argument you provided, with ratings for valence, dominance, intensity, and concreteness for each quarter of the text. Each rating is given on a scale from 0.0 to 1.0.
+
+### Quarter 1:
+**Text**: "Philosophically, I would disagree with putting primates in zoos since, as our closest relatives, they are very intelligent and behave a lot like us to the point that I consider them people. Bonobos are also already not allowed in zoos because they fuck all the time."
+
+- **Valence**: 0.7 (The argument has a negative tone towards zoos, focusing on the moral implications of keeping intelligent animals in captivity.)
+- **Dominance**: 0.6 (The speaker expresses a strong personal belief and philosophical stance against the idea of keeping primates in zoos.)
+- **Intensity**: 0.7 (The use of the term "consider them people" conveys a high emotional engagement with the topic and asserts a strong point of view.)
+- **Concreteness**: 0.6 (The argument includes specific examples, such as bonobos, but relies heavily on philosophical and personal beliefs.)
+
+### Quarter 2:
+**Text**: "Piggybacking off my first point, there are also a lot of others that are intelligent enough to realize that life kinda sucks for them contained in a zoo all their lives. I can't imagine putting my cat or dog in one."
+
+- **Valence**: 0.8 (The tone is strongly negative toward the experience of animals in zoos, emphasizing their suffering.)
+- **Dominance**: 0.6 (The statement builds on the previous argument and maintains a consistent personal belief, but its assertiveness might be seen as slightly less dominant.)
+- **Intensity**: 0.8 (The phrase "life kinda sucks for them" and the comparison to pets conveys a high emotional charge and relatability.)
+- **Concreteness**: 0.7 (The mention of understanding animal dissatisfaction is more grounded, making it easier for readers to visualize the argument.)
+
+### Quarter 3:
+**Text**: "I would only agree with putting intelligent animals in zoos if it is primarily to preserve their species. A zoo is practically the only place where they would be given warmth and comfort."
+
+- **Valence**: 0.5 (This section presents a more neutral perspective, identifying a potential exception to the previous negative views, thus balancing out the overall tone.)
+- **Dominance**: 0.5 (While it presents a rationale for zoos, it doesn't assert a strong stance compared to earlier segments.)
+- **Intensity**: 0.6 (The concern for species preservation is moderately intense but not as emotive as previous segments.)
+- **Concreteness**: 0.7 (The argument is more specific as it discusses defined conditions under which zoos might be acceptable, providing a clear rationale.)
+
+### Quarter 4:
+**Text**: "Of course, the problem with all my points that that, where do we draw the line on intelligence? How do we know if an animal is dissatisfied with his/her life in the zoo? I'm not totally against zoos, but liveliness and health should come first for everyone in them."
+
+- **Valence**: 0.6 (This segment maintains a critical tone but introduces uncertainty and a balancing perspective, which slightly softens its overall negativity.)
+- **Dominance**: 0.4 (Doubts about where to draw the line on intelligence and dissatisfaction introduce a level of uncertainty that weakens the authoritative stance.)
+- **Intensity**: 0.5 (The questions posed reflect contemplation rather than strong emotional engagement.)
+- **Concreteness**: 0.7 (The questions invited for further consideration make the argument more thought-provoking and grounded in real ethical dilemmas.)
+
+### Summary of Ratings:
+- **Quarter 1**: Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+- **Quarter 2**: Valence: 0.8, Dominance: 0.6, Intensity: 0.8, Concreteness: 0.7
+- **Quarter 3**: Valence: 0.5, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+- **Quarter 4**: Valence: 0.6, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.7
+
+These scores reflect the emotional tone and logical structure of the argument presented.
+

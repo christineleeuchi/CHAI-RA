@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To provide a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness, here are the assessments:
+
+### Quarter 1:
+**Text:** "Police often go after out of town drivers because they can make more money off of them (for various reasons). If a cop is ordered to bust out of town plates before in-town plates, it is reasonable to assume that he will pull over a foreigner going 67 before a resident going 70 (in a 60 speed limit) right next to each other."
+
+- **Valence:** 0.4 (The sentiment is somewhat negative as it suggests unfair targeting.)
+- **Dominance:** 0.5 (The argument presents a clear opinion but also acknowledges a form of reasoning behind police behavior.)
+- **Intensity:** 0.6 (The tone is somewhat strong as it implies criticism of law enforcement practices.)
+- **Concreteness:** 0.6 (Specific examples are provided, which makes the argument more relatable.)
+
+### Quarter 2:
+**Text:** "What if the driver going 70 kills someone right after? Would you hold the police force responsible for this? Technically they pulled over a safer driver for an opportunity to make more money."
+
+- **Valence:** 0.3 (The sentiment is more negative due to the implication of consequences and responsibility.)
+- **Dominance:** 0.7 (The argument is more assertive about potential responsibility and moral implications.)
+- **Intensity:** 0.8 (This part contains a high emotional charge due to the discussion of safety and morality.)
+- **Concreteness:** 0.5 (The hypothetical scenario adds clarity but remains abstract regarding accountability.)
+
+### Quarter 3:
+**Text:** "Think about how much this kind of behavior could hurt society: In business we call optimizing our resources to make the most money in certain areas *targeting*. This is a kind of discrimination, but because businesses do not have a moral or legal obligation to market their services to the whole population, there is nothing wrong with it."
+
+- **Valence:** 0.5 (Neutral to negative sentiment, balancing criticism of police behavior with an analogy to business.)
+- **Dominance:** 0.6 (The argument is strong in drawing parallels but also acknowledges different standards for businesses and police.)
+- **Intensity:** 0.5 (Moderate intensity, as it discusses concepts without strong emotional undertones.)
+- **Concreteness:** 0.4 (While it introduces a concept, the connection to police forces is less tangible.)
+
+### Quarter 4:
+**Text:** "However, police forces are expected to offer their services to the whole population without discrimination, economic included. Bottom line: The two target areas of enforcement 'make society safest' and 'make the most money for police force' are not identical. So which area would you rather be enforced by your police?"
+
+- **Valence:** 0.6 (The sentiment is critical of police practices but also calls for reflection on societal values.)
+- **Dominance:** 0.7 (The language is assertive and poses a direct challenge to the reader.)
+- **Intensity:** 0.6 (There is a strong push for introspection regarding moral obligations.)
+- **Concreteness:** 0.5 (The concluding thoughts create a summarized view but still maintain some abstraction.)
+
+Overall, the argument portrays a critical stance on police practices concerning revenue generation versus community safety, balancing between emotional appeal and logical reasoning.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here is a rating score from 0.0 to 1.0 for each of the categories (valence, dominance, intensity, and concreteness) based on the argument presented in each quarter of the text:
+
+**Quarter 1: "Conflict of interest. The purpose of the police, in almost every area, is to protect and serve, not to protect, serve, and raise money. If police are getting more money from giving tickets to speeders than doing other duties, such as monitoring for phone usage in school zones or providing a presence in a neighborhood as a deterrent or pursuing other, more dangerous offenders, that's a problem."**
+- Valence: 0.7 (The tone is generally negative towards the conflict of interest)
+- Dominance: 0.6 (The speaker is asserting authority over what police priorities should be)
+- Intensity: 0.5 (Strong feelings are suggested about the priorities of police)
+- Concreteness: 0.6 (Specific examples are provided, making the argument more tangible)
+
+**Quarter 2: "I, personally, would much prefer my local police force to prioritize danger, and not have to worry that they'll be busy doing the easy jobs or the cash-grabbing jobs when they should be protecting and serving. I don't want my local police worrying about anything that isn't keeping the public safe and being fair in that enforcement."**
+- Valence: 0.8 (The speaker is expressing a clear preference for safety over revenue)
+- Dominance: 0.6 (The speaker is asserting their views on police priorities)
+- Intensity: 0.7 (Emotional language indicates a strong stance)
+- Concreteness: 0.5 (The priorities mentioned are somewhat abstract, with some examples)
+
+**Quarter 3: "And then there's the issue of discrimination. Will cops see a shitty, cheap car speeding and ignore it because they think the driver can't pay up, but pursue all the luxury cars and give them every conceivable charge in the interest of milking them? I mean, I'm less offended by the idea of discriminating against rich people than most other groups, but, again, if the cops are going after the money instead of the danger, I think that's a big problem for my safety as a citizen."**
+- Valence: 0.6 (The tone is critical of potential discrimination, which is negative)
+- Dominance: 0.5 (The argument expresses concern without asserting a strong authoritative stance)
+- Intensity: 0.6 (There is a strong concern for safety and fairness expressed)
+- Concreteness: 0.7 (The argument includes specific examples of discrimination, making it more concrete)
+
+**Quarter 4: "I think that's a big problem for my safety as a citizen."**
+- Valence: 0.8 (The statement is a strong negative opinion regarding safety)
+- Dominance: 0.7 (The speaker asserts a personal stance on the impact of police actions)
+- Intensity: 0.8 (The urgency of the concern for personal safety is apparent)
+- Concreteness: 0.5 (While it expresses a personal impact, it lacks specific detail compared to earlier sections)
+
+Overall, there's a consistent theme of concern for the role of police regarding safety and the conflicts of interest when it comes to revenue generation, with varying intensities and specifics across the different sections.
+

@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the argument based on the requested metrics: valence, dominance, intensity, and concreteness. I will assign a score from 0.0 to 1.0 for each quarter of the argument.
+
+### Quarter 1:
+*Argument: Your view seems to be based on the assumption that everyone who smokes tobacco is addicted to it and throws their waste everywhere. This is a flat out false stereotype about smokers. There are plenty of people who like to smoke every once in a while whether it be through a pipe, hookah, a cigar, cigarette, etc.*
+
+- **Valence**: 0.6 (The argument has a neutral to slightly negative tone as it addresses stereotypes against smokers, but there's a slight defensiveness.)
+- **Dominance**: 0.5 (The speaker is trying to counter a previous opinion, but they are also acknowledging that there are various forms of tobacco consumption.)
+- **Intensity**: 0.5 (The language is direct and assertive, but it's not overly charged or emotional.)
+- **Concreteness**: 0.7 (The argument uses specific examples of different tobacco products, which makes it more concrete.)
+
+### Quarter 2:
+*Argument: Yes, it's true that some people litter their cigarette butts everywhere they smoke, but that doesn't mean we should punish those who don't do so.*
+
+- **Valence**: 0.5 (The tone remains neutral, invoking a sense of fairness.)
+- **Dominance**: 0.6 (The speaker asserts that individuals should not be punished collectively for the actions of some.)
+- **Intensity**: 0.6 (The assertiveness increases in response to the argument against smokers, as it defends non-littering smokers.)
+- **Concreteness**: 0.5 (While still concrete, it becomes more abstract in terms of addressing punishment rather than specific behaviors.)
+
+### Quarter 3:
+*Argument: Aside from that, smoking can absolutely be relaxing. It essentially forces people to relax and take slow, deep breaths which can certainly be relaxing to some people. You may not find it relaxing, which is perfectly fine, but that doesn't mean others don't.*
+
+- **Valence**: 0.7 (The argument is positive, highlighting the relaxing aspects of smoking for some individuals.)
+- **Dominance**: 0.4 (The argument acknowledges differing opinions, weakening dominance slightly.)
+- **Intensity**: 0.6 (The claim about relaxation is stated strongly, though it has an air of accommodation.)
+- **Concreteness**: 0.6 (It provides the concrete idea of "slow, deep breaths" as a reason for relaxation.)
+
+### Quarter 4:
+*Argument: As for the negative health effects, yes tobacco is bad for people. Instead of banning it completely, why not continue to educate the public on the negative health effects of smoking and teach people not to use it consistently if they're going to smoke? In the U.S. where this approach towards tobacco has been used for years, tobacco use is at an all-time low. Since education instead of prohibition is obviously working to reduce the rate of tobacco use, why change the way we look at tobacco, especially when we have seen that prohibition generally doesn't stop people from using different substances?*
+
+- **Valence**: 0.8 (Here, the tone becomes very positive, advocating for education rather than prohibition.)
+- **Dominance**: 0.7 (The argument is strong, promoting a specific course of action and countering the prohibition mindset.)
+- **Intensity**: 0.7 (There is a fairly high intensity in the description of the effectiveness of education over prohibition.)
+- **Concreteness**: 0.8 (This section provides the concrete example of educational approaches in the U.S. and their results, making the argument very tangible.)
+
+### Summary of Scores:
+- **Quarter 1**: Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.7
+- **Quarter 2**: Valence: 0.5, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 3**: Valence: 0.7, Dominance: 0.4, Intensity: 0.6, Concreteness: 0.6
+- **Quarter 4**: Valence: 0.8, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.8
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a rating score from 0.0 to 1.0 for each of the four dimensions of the provided argument. 
+
+### 1. Valence
+- **Score: 0.5**
+- **Explanation:** The argument presents a mixed valence. It acknowledges the concerns about smoking and tobacco while simultaneously raising questions about the potential consequences and practicality of a ban, which lends a critical view toward the idea of outlawing tobacco. 
+
+### 2. Dominance
+- **Score: 0.6**
+- **Explanation:** The argument takes a dominant stance by questioning the feasibility of outlawing tobacco and highlighting historical precedents like Prohibition and the war on drugs. It seeks to assert a perspective that counters the initial viewpoint, emphasizing the need for detailed considerations and potential unintended consequences.
+
+### 3. Intensity
+- **Score: 0.4**
+- **Explanation:** The intensity is moderate; while the argument expresses skepticism about the practicalities and consequences of outlawing tobacco, it does not convey strong emotional language or urgency. The tone is more analytical than passionate, reflecting a desire for reasoned discourse rather than extreme conviction.
+
+### 4. Concreteness
+- **Score: 0.7**
+- **Explanation:** The argument provides specific references to historical events (Prohibition, war on drugs) and practical concerns (penalties, smuggling) that lend it a degree of concreteness. It seeks clarity on issues surrounding the implementation of a ban, which grounds the critique in real-world considerations.
+
+These scores represent a subjective assessment of the argument's characteristics based on the provided text.
+

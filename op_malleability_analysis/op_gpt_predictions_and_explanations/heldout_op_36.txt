@@ -1,0 +1,39 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a rating for each of the specified dimensions (valence, dominance, intensity, and concreteness) for each quarter of the provided argument:
+
+### Quarter 1
+**Text: "CMV: The public reaction to the Ashley Madison hacks are way out of line We don't know the situations of any of the people using this website. There is more than one configuration that can make for a stable marriage or LTR."**
+- **Valence:** 0.6 (The sentiment is somewhat positive as it seeks to defend individuals' circumstances.)
+- **Dominance:** 0.5 (The argument presents a balanced view but advocates strongly for empathy.)
+- **Intensity:** 0.5 (Moderately intense in its defense and assertion against public judgment.)
+- **Concreteness:** 0.4 (Somewhat abstract, focusing more on situations than specific examples.)
+
+### Quarter 2
+**Text: "What if you have a non-monogamous partner that consents to your extramarital activities, but you still felt the necessity to be discreet due to societal pressures? Or maybe your partner is unable to meet certain needs but still loves and wants you to find that satisfaction elsewhere? Or maybe, due to circumstance, you are temporarily stuck in an unhappy marriage but still have this crazy feeling that despite whatever mistakes you made to get into this situation, you are a human being and deserve to find happiness?"**
+- **Valence:** 0.8 (Highly positive as it advocates for individual happiness and understanding.)
+- **Dominance:** 0.5 (Presents potential scenarios without imposing a dominant view.)
+- **Intensity:** 0.7 (Intense in its exploration of complex emotional scenarios.)
+- **Concreteness:** 0.5 (Presents specific scenarios but remains somewhat theoretical.)
+
+### Quarter 3
+**Text: "There are really so many possibilities and to say that all of the people wronged met the end they deserved is to deny rational thinking so that it aligns nicely with our view of how the world should be."**
+- **Valence:** 0.3 (Negative sentiment toward moralistic judgments; critiques societal views.)
+- **Dominance:** 0.6 (More dominant in pushing back against sweeping judgments.)
+- **Intensity:** 0.6 (Strongly argues against a specific perspective.)
+- **Concreteness:** 0.4 (Some abstract concepts regarding morality and rational thinking.)
+
+### Quarter 4
+**Text: "I've never seen this website myself so I really can't say anything about the demographics of its userbase, but imagine being in a situation like this and having your private information stolen from you, seriously endangering your social and professional life (and that of your spouse's) while strangers on the internet as well as peers in real life jeer at you and call you scum and filth who deserved it in the first place."**
+- **Valence:** 0.5 (Mixed valence; empathetic toward victims, but negative about public reaction.)
+- **Dominance:** 0.4 (Less dominant, more illustrative of broader issues.)
+- **Intensity:** 0.8 (Very intense in its portrayal of distress and societal judgment.)
+- **Concreteness:** 0.7 (Concrete examples of potential harm and public perception.)
+
+### Summary of Ratings
+- **Quarter 1:** Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.4
+- **Quarter 2:** Valence: 0.8, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.5
+- **Quarter 3:** Valence: 0.3, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.4
+- **Quarter 4:** Valence: 0.5, Dominance: 0.4, Intensity: 0.8, Concreteness: 0.7
+
+These scores provide a nuanced understanding of the emotional and intellectual weight of the argument across its different parts.
+

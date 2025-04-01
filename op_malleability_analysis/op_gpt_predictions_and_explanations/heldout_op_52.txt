@@ -1,0 +1,45 @@
+Expected no, unlikely to change mind. GPT responded: Yes, I am likely to change my mindset if presented with strong counterarguments.
+To assess the argument based on valence, dominance, intensity, and concreteness, I'll provide scores from 0.0 to 1.0 for each of these metrics within each quarter of the provided text.
+
+**1st Quarter:**
+*"CMV:Most of the new jobs being created after the recession are low wage "McJobs" So I graduated from college in December of 2012 and started on my job search shortly thereafter."*
+
+- **Valence:** 0.3 (Negative sentiment due to concern about low-wage jobs.)
+- **Dominance:** 0.5 (The speaker feels powerless in the job market but is attempting to provide their perspective.)
+- **Intensity:** 0.6 (Moderate intensity in expressing dissatisfaction with available job opportunities.)
+- **Concreteness:** 0.4 (Generally concrete, mentioning a specific time frame and context, but lacks specific data or examples.)
+
+---
+
+**2nd Quarter:**
+*"While on the job search I noticed that there were way more minimum wage jobs than actual careers and that the actual middle class careers were really hard to get into because they were sought after by so many people."*
+
+- **Valence:** 0.2 (Strongly negative sentiment regarding the job market.)
+- **Dominance:** 0.6 (The speaker feels a strong sense of frustration regarding the job availability.)
+- **Intensity:** 0.7 (High intensity due to the perceived difficulty of finding a suitable job.)
+- **Concreteness:** 0.5 (More concrete with the mention of minimum wage jobs versus actual careers, but still anecdotal.)
+
+---
+
+**3rd Quarter:**
+*"Further backing my anecdotal evidence was the fact that the city I was living in during my job search built a new shopping mall and a new Walmart. Afterwards the politicians and several members of the community wrote letters to the newspaper boasting about all the new "jobs" that were created by the new shopping mall and Walmart and how much better the economy was doing."*
+
+- **Valence:** 0.4 (Some negativity towards perceived misleading information regarding job creation.)
+- **Dominance:** 0.5 (A sense of skepticism towards political narratives, indicating a struggle with dominant viewpoints.)
+- **Intensity:** 0.5 (Moderate intensity regarding the discrepancy between perception and reality.)
+- **Concreteness:** 0.6 (Concrete examples of the shopping mall and Walmart providing tangible context to the argument.)
+
+---
+
+**4th Quarter:**
+*"Additionally, there was a section in my newspaper about new businesses coming to the area - 82 to be exact. Each and everyone of these new "businesses" was a big box retail store, chain restaurant, or fast food restaurant. [...] I keep reading these doom and gloom articles about the low wage recovery and I believe them even though I hope they are false."*
+
+- **Valence:** 0.3 (Mixed feelings, as the speaker feels disillusioned but also expresses hope.)
+- **Dominance:** 0.4 (A sense of being overpowered by negative information regarding the economy.)
+- **Intensity:** 0.6 (High intensity in expressing concern over the future job landscape.)
+- **Concreteness:** 0.7 (Concrete details about the number of businesses and the types of jobs, lending credibility to the argument.)
+
+---
+
+Overall, this evaluation reflects a perspective that is skeptical of current economic conditions and job opportunities while providing a personal narrative enriched with concrete observations.
+

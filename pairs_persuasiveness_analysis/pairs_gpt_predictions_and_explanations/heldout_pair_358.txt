@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Based on the provided argument, here are the ratings for valence, dominance, intensity, and concreteness:
+
+1. **Valence**: 0.4  
+   - The argument has a mixed valence, expressing both positive sentiment (identifying as a committed socialist) and negative sentiment (criticizing extreme views on both the left and right). The expression of disdain towards certain social media behaviors and the phrasing indicates some negativity.
+
+2. **Dominance**: 0.6  
+   - The argument displays a moderate level of dominance in the author's voice. They express strong opinions and assert their perspective confidently, particularly when critiquing the extremes of both political sides. However, there's also an acknowledgment of understanding others' beliefs, which slightly lowers dominance.
+
+3. **Intensity**: 0.7  
+   - The intensity of the emotions conveyed in the argument is relatively high, especially when discussing the extremes of political behavior and social media interactions. The use of phrases like "echo chamber" and the comparison to shouting from the fringes contributes to a strong emotional appeal.
+
+4. **Concreteness**: 0.5  
+   - The argument includes both concrete examples (e.g., references to social media behavior and political positions) and abstract concepts (e.g., discussions of group identity and social norms). While there are some specific ideas raised, the overall delivery remains somewhat abstract, resulting in a middle-of-the-road score for concreteness.
+
+These ratings reflect how the argument communicates its underlying emotions, authority, strength, and clarity of ideas.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score from 0.0 to 1.0 for each of the specified dimensions—valence, dominance, intensity, and concreteness—divided into quarters of the argument's text. 
+
+### Quarter 1: 
+*“I was, am and will be a dyed-in-the-patchouli liberal. I was ecstatic that gays can get married now. I will call Caitlyn Jenner whatever SHE wants me to. I'm a big fan of Bernie Sanders.”*
+- **Valence:** 0.8 - The sentiments expressed are predominantly positive and supportive of liberal values and LGBTQ+ rights.
+- **Dominance:** 0.3 - The speaker is presenting personal beliefs but does not exert authority or superiority over others.
+- **Intensity:** 0.6 - The feelings of excitement and support convey some intensity but are mixed with a conversational tone.
+- **Concreteness:** 0.7 - The statements are personal and relatable but lack specific examples or depth beyond personal beliefs.
+
+### Quarter 2:
+*“I absolutely believe all fortysomething of Bill Cosby's accusers.”*
+- **Valence:** 0.5 - The statement reflects a strong belief but could be viewed as more neutral since it pertains to a serious topic of accusation.
+- **Dominance:** 0.4 - The speaker expresses a firm position but does not assert absolute authority, allowing for potential disagreement.
+- **Intensity:** 0.7 - The conviction of "absolutely believe" conveys a strong sentiment in a charged issue.
+- **Concreteness:** 0.6 - It refers to a specific topic but lacks detailed evidence or discussion about the accusations.
+
+### Quarter 3:
+*“One of these things is not like the others. (100% with you on those first four, btw). And herein lies the problem that you're talking about.”*
+- **Valence:** 0.4 - The phrase hints at a critique or contention, which reduces overall positive sentiment.
+- **Dominance:** 0.5 - The speaker positions themselves in a critical role, analyzing discrepancies but remains conversational.
+- **Intensity:** 0.6 - There is a moderate intensity as the speaker calls attention to perceived inconsistencies.
+- **Concreteness:** 0.5 - The statement is somewhat abstract, referring to the concept of divergence without detailed examples.
+
+### Quarter 4:
+*“The key is to step back from the labels, and from what you've been told to believe, and just start thinking about the foundational goals of social justice.”*
+- **Valence:** 0.6 - The tone is more constructive, aiming to encourage thoughtfulness and reflection in a slightly positive manner.
+- **Dominance:** 0.6 - The speaker positions themselves as an advisor, promoting a certain mindset, thus exerting some dominance.
+- **Intensity:** 0.5 - The message is significant but presented in a way that feels more thoughtful than fervent.
+- **Concreteness:** 0.7 - The statement is clear and actionable, articulating goals more definitively, even if somewhat abstract.
+
+These scores reflect the varying emotional, authoritative, passionate, and specific qualities of the argument across its segments.
+

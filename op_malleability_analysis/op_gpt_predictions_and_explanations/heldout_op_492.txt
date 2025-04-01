@@ -1,0 +1,33 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument in quarters based on valence, dominance, intensity, and concreteness, I'll provide a rating score from 0.0 to 1.0 for each element. 
+
+**Quarter 1: "CMV: The best thing for the US would be an election with *either* Trump or Sanders as the GOP/Democrat representatives. First of, I don't think that either Trump or Sanders should or necessarily could become the POTUS."**
+
+- **Valence:** 0.5 (Neutral; presents an opinion without strong positive or negative emotions)
+- **Dominance:** 0.3 (The speaker shows some assertiveness in their opinion but acknowledges limits)
+- **Intensity:** 0.4 (Moderate; shows a personal perspective but lacks strong emotional language)
+- **Concreteness:** 0.5 (Somewhat concrete as it discusses a specific scenario, but lacks detailed evidence)
+
+**Quarter 2: "But I feel that the two most likely and realistic candidates are Jeb Bush and Hillary Clinton, who are essentially the same people in terms of policy and representation of the status quo in US politics."**
+
+- **Valence:** 0.6 (Negative; suggests a discontent with the current candidates and the status quo)
+- **Dominance:** 0.5 (Decisive in asserting their view on Bush and Clinton being the same)
+- **Intensity:** 0.5 (Moderate; the sentiment is clear but not overwhelmingly emotional)
+- **Concreteness:** 0.6 (More concrete as it identifies specific individuals and a thesis on their similarity)
+
+**Quarter 3: "If Trump went up against Hillary he'd get beaten soundly, and if Sanders went up against Bush, he'd get beaten soundly as well. Whichever one (Bush/Clinton) wins is pretty much irrelevant to me, but what I think would be best would be if one of the parties was able to actually field an anti-establishment candidate."**
+
+- **Valence:** 0.4 (Slightly negative; expresses a lack of hope for either scenario)
+- **Dominance:** 0.6 (Confidently poses a prediction about the elections)
+- **Intensity:** 0.7 (Strongly conveys disillusionment with the current candidates)
+- **Concreteness:** 0.7 (Concrete in expressing specific matchup scenarios and desired outcomes)
+
+**Quarter 4: "Even if the election were lost, having one of those 'fringe' candidates represent their party would *force* the political aristocracy to recognize the fact that we are still in a democracy... Why wouldn't it be best if one of the two parties got a serious black eye because the people they represent were able to motivate outside of the party line they're being fed?"**
+
+- **Valence:** 0.5 (Balanced; acknowledges the potential benefit of a "fringe" candidate despite election loss)
+- **Dominance:** 0.8 (Strongly persuasive and assertive in arguing for the impact of representation)
+- **Intensity:** 0.8 (Emotionally charged argument advocating for change and empowerment)
+- **Concreteness:** 0.6 (Retains some ideas that are abstract, but presents a clear vision for political action)
+
+In summary, the ratings provide insight into how each quarter of the argument performs in terms of these linguistic features, with varying levels of valence, dominance, intensity, and concreteness throughout the text.
+

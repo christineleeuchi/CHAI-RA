@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure, here's a breakdown of the argument's text into four quarters, along with a rating score for valence, dominance, intensity, and concreteness for each quarter.
+
+### Quarter 1
+**Text:** "CMV: I was born in 1979. I do't believe there has been a single war in my lifetime that was fought to protect my freedom. Fairly simple premise. I'm 35 years old. I remember the Cold War. The first Gulf War. The Iraq War. War in Afghanistan, etc..."
+
+- **Valence:** 0.3 (The tone is somewhat negative, expressing skepticism about the wars and their purpose.)
+- **Dominance:** 0.5 (The speaker takes a position but is open to discussion, indicating a neutral dominance.)
+- **Intensity:** 0.4 (There is a mild intensity; the speaker feels strongly about the topic but does not express extreme emotions.)
+- **Concreteness:** 0.7 (The mention of specific wars makes the argument more tangible and concrete.)
+
+### Quarter 2
+**Text:** "I hear talk all the time about how soldiers are protecting our freedom and I swear I'm not being rhetorical when I say, 'Has any war fought in my lifetime protected my freedom or me and my family?'"
+
+- **Valence:** 0.4 (The aspect of questioning indicates skepticism but maintains respect for soldiers.)
+- **Dominance:** 0.6 (The speaker asserts a questioning stance, challenging the prevailing narrative.)
+- **Intensity:** 0.5 (The use of "I swear" adds intensity, reflecting the speaker's frustration.)
+- **Concreteness:** 0.6 (The question posed is specific and personal, making it more relatable.)
+
+### Quarter 3
+**Text:** "I have a huge respect for our military men and women. Regardless of why they're sent into battle, I believe that they deserve my respect. I want to respect the REASONS they are sent into battle, but with the knowledge I have, I just can't."
+
+- **Valence:** 0.7 (Positive tone with respect for military personnel, but mixed with internal conflict.)
+- **Dominance:** 0.5 (The speaker positions themselves as respectful yet conflicted, showing openness.)
+- **Intensity:** 0.6 (The intensity increases due to the internal struggle expressed.)
+- **Concreteness:** 0.5 (The argument is personal but somewhat abstract, especially in terms of "reasons" for war.)
+
+### Quarter 4
+**Text:** "I believe we use our military to protect the US's oil interests and quite honestly, there's a lot of money to be made in the private sector selling war machines and munitions."
+
+- **Valence:** 0.2 (Negative tone, suggesting manipulation and exploitation of military efforts for profit.)
+- **Dominance:** 0.7 (The speaker asserts a strong viewpoint regarding military use and corruption.)
+- **Intensity:** 0.8 (High intensity due to the strong accusations made about the motivations behind war.)
+- **Concreteness:** 0.6 (The argument references specific interests and industries, adding a level of detail.)
+
+### Summary
+- **Quarter 1:** Valence 0.3, Dominance 0.5, Intensity 0.4, Concreteness 0.7
+- **Quarter 2:** Valence 0.4, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+- **Quarter 3:** Valence 0.7, Dominance 0.5, Intensity 0.6, Concreteness 0.5
+- **Quarter 4:** Valence 0.2, Dominance 0.7, Intensity 0.8, Concreteness 0.6
+

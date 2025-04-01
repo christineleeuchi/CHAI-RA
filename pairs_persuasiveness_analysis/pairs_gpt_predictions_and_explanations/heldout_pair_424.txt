@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument based on valence, dominance, intensity, and concreteness for each quarter of the text, here is the analysis:
+
+### 1st Quarter
+**Text:** "This is only partly true. People don't talk about how much they hate paedophilia because it rarely comes up in day-to-day life, and because pretty much everyone hates it."
+
+- **Valence:** 0.8 (generally positive towards the principle that most people agree on hating paedophilia)
+- **Dominance:** 0.7 (the speaker is asserting a point, stating it with confidence)
+- **Intensity:** 0.6 (the intensity is moderate; while everyone "hates" it, there’s no strong emotional outpouring)
+- **Concreteness:** 0.7 (the argument is clear, referencing societal norms)
+
+### 2nd Quarter
+**Text:** "If someone asks you what the worst qualities in a potential date are, you're not gonna say 'paedophilia' because that kind of goes without saying. There's no reason to mention it."
+
+- **Valence:** 0.6 (the tone is pragmatic; it recognizes a common understanding without strong emotion)
+- **Dominance:** 0.5 (the argument is more explanatory than assertive)
+- **Intensity:** 0.5 (calm and rational, lacking strong feeling)
+- **Concreteness:** 0.8 (clearly articulated reasoning with tangible examples)
+
+### 3rd Quarter
+**Text:** "When someone complains about that arsehole Mike scratching their car, it's because they work with Mike every day and he consistently annoys them, not because they are a secret car-scratcher."
+
+- **Valence:** 0.7 (the speaker expresses mild contempt for an annoying individual, suggesting a common irritation)
+- **Dominance:** 0.6 (the speaker asserts their view about why people express hate toward proximate annoyances)
+- **Intensity:** 0.6 (the emotion is mild but frustrated, not overwhelmingly strong)
+- **Concreteness:** 0.9 (uses a clear, relatable example that illustrates the point well)
+
+### 4th Quarter
+**Text:** "It's true for certain things like homosexuality. I'm not a psychologist, but at a guess I'd say that's because homosexuality doesn't really affect you unless you're gay or someone you know is, so there's little reason to get angry about it otherwise. Again, that's just a guess. A couple of examples do not prove a rule. You'd probably hate paedophiles a lot more if someone molested your kid. This does not mean you are also a paedophile."
+
+- **Valence:** 0.5 (neutral to slightly negative towards hate, indicating complexity in feelings about issues)
+- **Dominance:** 0.6 (the speaker acknowledges limitations of their position, stating speculation and uncertainty)
+- **Intensity:** 0.6 (the statement carries a measured emotional weight; speculation is not intensely felt)
+- **Concreteness:** 0.7 (the speaker is using concrete examples (e.g., personal relevance) but presents them in a tentative way)
+
+### Summary Scores:
+- **1st Quarter:** Valence: 0.8, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.7
+- **2nd Quarter:** Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.8
+- **3rd Quarter:** Valence: 0.7, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.9
+- **4th Quarter:** Valence: 0.5, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.7
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide ratings for valence, dominance, intensity, and concreteness for each quarter of the argument, we can analyze the text as follows:
+
+1. **First Quarter**: 
+   - "You're already doing a lot of projecting. You're almost cold reading yourself."
+   - **Valence**: 0.2 (Negative; suggests criticism of the other person's reasoning)
+   - **Dominance**: 0.7 (High; asserts authority over the other's perspective)
+   - **Intensity**: 0.5 (Moderate; firm suggestion rather than aggressive)
+   - **Concreteness**: 0.4 (Somewhat abstract; relies on psychological concepts)
+
+2. **Second Quarter**: 
+   - "For all your examples you listed a reason that might have, have been the one because it matched your idea."
+   - **Valence**: 0.3 (Negative; implies inconsistency or bias in reasoning)
+   - **Dominance**: 0.6 (Moderate to high; challenges the validity of the other’s arguments)
+   - **Intensity**: 0.6 (Moderate; more assertive than the first quarter)
+   - **Concreteness**: 0.4 (Somewhat abstract; discusses reasoning without specific examples)
+
+3. **Third Quarter**: 
+   - "You connect a person who is into animal cruelty to someone who thinks mean spirited from time to time. Are those really connected or are they because you think that they are."
+   - **Valence**: 0.4 (Neutral to slightly negative; questioning the logic without strong emotional charge)
+   - **Dominance**: 0.5 (Moderate; questions without outright dismissal)
+   - **Intensity**: 0.5 (Moderate; rhetorical questioning)
+   - **Concreteness**: 0.5 (Fairly concrete; includes examples and asks for justification)
+
+4. **Fourth Quarter**: 
+   - "There is a very clear world where I can hate racists and not want to be a racist myself."
+   - **Valence**: 0.6 (Positive; presents a clear and accepted viewpoint)
+   - **Dominance**: 0.4 (Lower; offers a counterpoint rather than dominating the conversation)
+   - **Intensity**: 0.5 (Moderate; expresses a common belief)
+   - **Concreteness**: 0.7 (High; provides a relatable example that is clear and concrete)
+
+Overall, this analysis considers the emotional tone (valence), the level of authority or control asserted (dominance), the strength of the expression (intensity), and the clarity of representations (concreteness) present in each part of the argument.
+

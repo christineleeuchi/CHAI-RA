@@ -1,0 +1,33 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score for valence, dominance, intensity, and concreteness for each quarter of the argument, I'll first break down the text into four segments and then assess each based on the criteria provided. 
+
+**Quarter 1: "CMV: Fonts that have ambiguous lower case L and uppercase I should be phased out from use. Some of the most popular fonts today (Arial, Helvetica, etc) are ambiguous."**
+
+- **Valence:** 0.4 (The sentiment is slightly negative regarding the ambiguity of fonts, but it's not overly charged.)
+- **Dominance:** 0.6 (The speaker asserts an authoritative opinion about the need for change.)
+- **Intensity:** 0.5 (There is a moderate level of intensity in the concern expressed.)
+- **Concreteness:** 0.7 (The argument is clear and straightforward, discussing specific fonts.)
+
+**Quarter 2: "I can thus spell IIIinois without using the letter L, and it will slip by completely unnoticed."**
+
+- **Valence:** 0.3 (The statement conveys a negative implication about the issue but in a somewhat humorous or light-hearted way.)
+- **Dominance:** 0.4 (The focus is on a playful example rather than asserting dominance.)
+- **Intensity:** 0.4 (It's a playful observation rather than a strong emotional statement.)
+- **Concreteness:** 0.6 (The example given is concrete, illustrating a point, though it leans more toward a joke.)
+
+**Quarter 3: "Why is this a serious problem? Aside from the core value of having a discrete set of symbols to represent our written communication system (ie alphabet), the ambiguity can also lead to some serious problems. In computer security, usernames and websites can now be spoofed by this simple trick (eg by pointing someone to hotmaiI.com rather than to hotmail.com). Passwords may become confused or lost due to this simple affect as well."**
+
+- **Valence:** 0.5 (The argument highlights serious issues, so it has a neutral to slightly negative tone.)
+- **Dominance:** 0.7 (The speaker reinforces the need for urgency, indicating that this is a significant problem.)
+- **Intensity:** 0.7 (There’s a strong emphasis on the potential dangers posed by the ambiguity.)
+- **Concreteness:** 0.9 (The examples given about computer security are very concrete and relatable.)
+
+**Quarter 4: "We should therefore eschew these fonts. Since I know we won't, I really do want you to CMV."**
+
+- **Valence:** 0.4 (The conclusion shows mild frustration regarding the likelihood of change.)
+- **Dominance:** 0.5 (The speaker expresses a desire for action, but also acknowledges powerlessness.)
+- **Intensity:** 0.6 (There's a mixed feeling of determination and resignation in the statement.)
+- **Concreteness:** 0.5 (The call to action is less specific but still clear.)
+
+These ratings from 0.0 to 1.0 reflect assessments of the argument in terms of emotional valence (positive/negative), dominance (authoritativeness), intensity (strength of feeling), and concreteness (clarity of expression).
+

@@ -1,0 +1,68 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument based on the criteria of valence, dominance, intensity, and concreteness, we can break it down into four quarters and assess each aspect accordingly:
+
+### Quarter 1: "The thing is... an average/normal adult human is a *person*. An unborn fetus, while it may be 'human' doesn't meet the criteria for personhood in most situations."
+- **Valence**: 0.7 (The argument presents a clear stance that favors personhood as a significant distinction in value, which carries a sense of positive affirmation for the adult human and a negative implication for the fetus.)
+- **Dominance**: 0.6 (This statement establishes a framework for the argument by asserting the importance of personhood, but it reveals a more nuanced view that doesn't claim total dominance over the issue.)
+- **Intensity**: 0.6 (The assertion is firm but somewhat tempered; it's assertive in distinguishing between 'human' and 'person,' without being overly passionate.)
+- **Concreteness**: 0.5 (While it presents a conceptual argument, it lacks specific examples or evidence to fully anchor the claim about personhood criteria.)
+
+### Quarter 2: "Many popular arguments involve the idea that human life isn't necessarily valuable, but *personhood* is. And that whatever it is that people value about human life - it's really just personhood that they are actually valuing."
+- **Valence**: 0.7 (Again, this carries a positive valence toward personhood while implying a critique of arguments that equate human life with value.)
+- **Dominance**: 0.5 (The argument seeks to challenge prevalent views, but does not fully dominate the discourse around value versus personhood.)
+- **Intensity**: 0.6 (The language is confident but measured, indicating a thoughtful approach rather than one driven by intense emotion.)
+- **Concreteness**: 0.4 (This statement references broad popular arguments without providing specificity or data to support the distinction being made.)
+
+### Quarter 3: "Killing a child/adult (usually) involves killing them against their will/choice. That's usually considered murder. An unborn child has no will and is incapable of choice, however. This is an important distinction - and the one many think is the relevant distinction."
+- **Valence**: 0.8 (This section underscores a strong moral argument and presents a distinctly favorable view toward the notion of choice while questioning the status of the unborn.)
+- **Dominance**: 0.7 (It asserts a compelling reason for differentiating the moral weight of killing a person with choice versus an unborn entity without agency.)
+- **Intensity**: 0.7 (There is a heightened level of intensity in the moral rhetoric here, drawing a clear ethical distinction and emphasizing the importance of choice.)
+- **Concreteness**: 0.6 (This presents a definable ethical distinction which adds grounding to the discussion of will and choice, but it could benefit from examples illustrating this distinction further.)
+
+### Quarter 4: "You also can't attempt to maximize potential life... otherwise it would be 'wrong' to masturbate and waste sperm... in fact, it would be wrong for women not to be pregnant all the time after puberty. A woman who has only 2 kids vs having 12 kids is depriving 10 potential humans of life! But this is a nonsensical path down a road with a very silly end."
+- **Valence**: 0.8 (The argument presents a critical view of the concept of maximizing life, suggesting that it's an unreasonable position, which carries a clear sense of valuation against that idea.)
+- **Dominance**: 0.8 (The argument effectively dismantles the idea of potential life in a compelling way, dominating the discourse around that concept.)
+- **Intensity**: 0.9 (There is a high intensity in the critique of the absurdity of extending the argument, invoking strong imagery that emphasizes the ridiculousness of strict life-maximization.)
+- **Concreteness**: 0.7 (This part is concrete in its examples and makes abstract ideas relatable through absurd reasoning, illuminating the argument against maximizing life in a practical sense.)
+
+### Summary of Scores:
+**Quarter 1**: Valence 0.7, Dominance 0.6, Intensity 0.6, Concreteness 0.5  
+**Quarter 2**: Valence 0.7, Dominance 0.5, Intensity 0.6, Concreteness 0.4  
+**Quarter 3**: Valence 0.8, Dominance 0.7, Intensity 0.7, Concreteness 0.6  
+**Quarter 4**: Valence 0.8, Dominance 0.8, Intensity 0.9, Concreteness 0.7  
+
+These scores provide a quantitative measure of the qualities of the argument across its sections.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the given argument based on valence, dominance, intensity, and concreteness, we'll break it down into quarters and rate each aspect from 0.0 to 1.0.
+
+**Quarter 1: "Why do we disregard the life of the unborn child if the pregnancy was the result of a rape? Why does how the fetus was conceived influence the rights we give it? You can't hold the argument that human holds importance over anything else and then make an exception in the same paragraph."**
+- **Valence:** 0.6 (The emotional tone is somewhat neutral but leans towards eliciting a critical reflection on inconsistency, suggesting some frustration.)
+- **Dominance:** 0.7 (It asserts a strong challenge to the status quo and demands a response.)
+- **Intensity:** 0.7 (The rhetorical questions create an intense engagement with the subject matter.)
+- **Concreteness:** 0.5 (The argument raises abstract concepts about rights but does not provide concrete examples beyond the rhetorical questions.)
+
+**Quarter 2: "Furthermore, it seems like in society we ascribe rights to conscious beings, rather than those that are just alive."**
+- **Valence:** 0.5 (This part maintains a neutral tone while making a factual claim about rights and consciousness.)
+- **Dominance:** 0.6 (It presents a reasonable assertion about the belief system in society, which allows for a persuasive stance.)
+- **Intensity:** 0.5 (It has a moderate intensity since it's stating a general observation rather than an emotionally charged point.)
+- **Concreteness:** 0.6 (The argument about rights ascribed to conscious beings is more concrete but could benefit from specific examples.)
+
+**Quarter 3: "For example, it is legal to terminate the life of a brain dead patient?"**
+- **Valence:** 0.6 (This presents a potentially contentious issue, aiming to provoke thought and debate, which can invoke a stronger emotional response.)
+- **Dominance:** 0.7 (It sets a strong position by drawing a parallel between consciousness and rights.)
+- **Intensity:** 0.7 (This example is striking and heightens the emotional and ethical stakes.)
+- **Concreteness:** 0.8 (It provides a specific, widely understood example that helps clarify the argument's point about rights related to consciousness.)
+
+**Quarter 4: "A fetus is just a clump of cells, it doesn't think, have memories, or an identity. A woman does, a woman shouldn't be forced to carry a pregnancy to term because it carries a heavy, even in the modern day."**
+- **Valence:** 0.8 (This part carries a strong emotional weight, focusing on women's autonomy and rights.)
+- **Dominance:** 0.8 (It presents a clear position that emphasizes women's agency, making a strong appeal to prioritize women's rights.)
+- **Intensity:** 0.9 (The emotional appeal regarding women's choice and the implications of pregnancy creates a high-intensity environment.)
+- **Concreteness:** 0.7 (While it makes clear distinctions between a fetus and a woman, it could benefit from more concrete evidence or statistics to enhance its persuasiveness.)
+
+In summary:
+- Quarter 1: Valence 0.6, Dominance 0.7, Intensity 0.7, Concreteness 0.5
+- Quarter 2: Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+- Quarter 3: Valence 0.6, Dominance 0.7, Intensity 0.7, Concreteness 0.8
+- Quarter 4: Valence 0.8, Dominance 0.8, Intensity 0.9, Concreteness 0.7
+

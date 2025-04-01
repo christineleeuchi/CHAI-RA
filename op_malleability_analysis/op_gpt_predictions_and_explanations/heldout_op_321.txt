@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's the rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1:
+*"CMV: It is annoying when photographers place their logos like "Clearwater Photography" on pictures you pay them to take, because it devalues the picture for you the customer."*
+
+- **Valence**: 0.4 (Somewhat negative feeling)
+- **Dominance**: 0.6 (The speaker expresses a strong opinion)
+- **Intensity**: 0.5 (Moderate intensity in the annoyance expressed)
+- **Concreteness**: 0.5 (Some specific terms but overall abstract)
+
+### Quarter 2:
+*"My main complaints with this are that: 1. To be branding all your pictures make you seem amateur and unprofessional."*
+
+- **Valence**: 0.4 (Negative valence regarding professionalism)
+- **Dominance**: 0.5 (Assertive but not overwhelmingly dominant)
+- **Intensity**: 0.6 (Stronger intensity about professionalism)
+- **Concreteness**: 0.6 (Concrete reference to professionalism)
+
+### Quarter 3:
+*"2. It makes the picture less personal for the customer at their expense when you have your logo so large on their picture. 3. With all the publicity, you won't be known anyway since for every square mile of land, there are at least 5 amateur photographers or people with high-tech digital cameras."*
+
+- **Valence**: 0.4 (Ongoing negative feelings about personalization and market saturation)
+- **Dominance**: 0.5 (Continuing assertiveness)
+- **Intensity**: 0.7 (Higher intensity through personal and competitive aspects)
+- **Concreteness**: 0.7 (Specific ideas about customer experience and competition)
+
+### Quarter 4:
+*"4. It looks ugly in general, and does not belong in the picture, I can clearly where you put it even when you try to hide it by camouflaging it to the background. 5. And usually quite noticeable, especially when near the centre, beside the main object or person of the picture."*
+
+- **Valence**: 0.3 (Strongly negative; "ugly" suggests dislike)
+- **Dominance**: 0.6 (Clear assertion of opinion on aesthetics)
+- **Intensity**: 0.8 (High intensity regarding the ugliness and noticeability)
+- **Concreteness**: 0.8 (Very specific observations about the logos' placement and impact on aesthetics)
+
+These scores reflect the emotional and objective qualities of each part of the argument as presented.
+

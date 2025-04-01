@@ -1,0 +1,52 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating breakdown for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+**1st Quarter: "People will probably just become desensitized to the numbers."**
+- Valence: 0.4 (The statement is somewhat neutral to negative, suggesting concern about desensitization rather than positivity.)
+- Dominance: 0.6 (The speaker expresses an authoritative opinion about societal behavior, indicating a moderate level of control over the argument.)
+- Intensity: 0.5 (The phrase indicates a moderate level of concern without being overly dramatic.)
+- Concreteness: 0.4 (The concept of desensitization is abstract, lacking specific examples to ground it.)
+
+**2nd Quarter: "A long time ago $1000 was a huge sum of money, a year's salary even. Now, that is considered a relatively small amount of money to earn."**
+- Valence: 0.5 (This part is more informational and neutral, reflecting a change in perception without strong emotional language.)
+- Dominance: 0.5 (The speaker is recounting a general societal shift, which provides equal room for reflection from the audience.)
+- Intensity: 0.6 (The use of "huge" and "small" contrasts evokes some intensity regarding the discussion of value perception.)
+- Concreteness: 0.7 (This portion offers a concrete example that illustrates how monetary value is perceived over time.)
+
+**3rd Quarter: "Numbers in the thousands are too big for us to really feel and conceptualize."**
+- Valence: 0.4 (Somewhat negative, as it conveys a limitation in human emotional response to large numbers.)
+- Dominance: 0.5 (A neutral assertion that acknowledges a common human experience without asserting dominance.)
+- Intensity: 0.5 (Moderate intensity; while it presents an important point, it lacks strong emotional language.)
+- Concreteness: 0.6 (This is more concrete due to referencing "thousands," which relates to an observable phenomenon.)
+
+**4th Quarter: "Thus we will begin the desensitization process and this will probably end up having little effect on sentences."**
+- Valence: 0.3 (Negative expectancy about the outcome, suggesting a pessimistic view on the impact of sentences.)
+- Dominance: 0.5 (The statement presents a conclusion based on the previous reasoning, with a tone of resignation.)
+- Intensity: 0.6 (Conveys a significant concern regarding the future impact of desensitization, adding a bit of weight to the argument.)
+- Concreteness: 0.5 (The conclusion summarizes ideas, but still remains somewhat abstract about consequences.)
+
+Overall, the ratings reflect the argument's emotional tone, authority of the speaker, strength of emotion conveyed, and the clarity of the ideas presented through each segment.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the various dimensions of the argument, we can assess each quarter based on the criteria of valence (the emotional value), dominance (the perceived control or certainty), intensity (the strength of the emotion), and concreteness (the clarity and tangibility of the ideas presented). Here’s the breakdown:
+
+1. **Quarter 1: "People have intuitive sense of how long 5 years is, because you can think about what you've done over past 5 years."**
+   - Valence: 0.6 (Neutral to slightly positive; the statement seems factual and does not evoke strong emotions.)
+   - Dominance: 0.7 (There is a sense of control in understanding the time frame.)
+   - Intensity: 0.5 (Moderate; conveys a basic understanding without strong emotional appeal.)
+   - Concreteness: 0.8 (This statement is very concrete as it relates to personal experiences that people can easily reflect on.)
+
+2. **Quarter 2: "People support harsh prison sentences because they don't feel empathy for the perpetrator of the crime..."**
+   - Valence: 0.3 (Negative; the statement implies a lack of empathy, which can be viewed unfavorably.)
+   - Dominance: 0.6 (Suggests an understanding of public sentiment but highlights a negative aspect.)
+   - Intensity: 0.7 (Strong; the assertion regarding a lack of empathy evokes a strong emotional response.)
+   - Concreteness: 0.6 (Somewhat concrete but relies on generalization about public sentiments.)
+
+3. **Quarter 3: "...not because they don't grasp the magnitude of the punishment."**
+   - Valence: 0.4 (Slightly negative; challenges the perspective that people lack understanding, indicating a disconnect.)
+   - Dominance: 0.5 (Neither entirely dominant nor submissive; provides a counter-argument.)
+   - Intensity: 0.6 (Moderate; there’s a sense of challenge, but it’s more subdued than the previous segment.)
+   - Concreteness: 0.5 (A bit abstract since it addresses a reasoning rather than a tangible experience.)
+
+Overall, the argument tries to express complex social sentiments about criminal justice and empathy, which can both strongly resonate and be difficult to quantify solely by their textual descriptions.
+

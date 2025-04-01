@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a breakdown of the argument with ratings for valence, dominance, intensity, and concreteness for each quarter of the text:
+
+### 1st Quarter:
+"CMV: You don't need an opinion on something that doesn't affect you. I've held this notion for as long as I can remember."
+
+- **Valence:** 0.5 (Neutral; it states a personal belief without strong positive or negative connotations)
+- **Dominance:** 0.6 (The speaker asserts their opinion, which indicates some level of control over their perspective)
+- **Intensity:** 0.4 (Low intensity; the statement is declarative but not passionate)
+- **Concreteness:** 0.5 (Moderately concrete; the idea is clear but somewhat abstract)
+
+### 2nd Quarter:
+"If something doesn't affect you physically, or alter your own personal life in any way whatsoever, then you have no need to be opinionated on it."
+
+- **Valence:** 0.5 (Again neutral, as it does not have strong emotional content)
+- **Dominance:** 0.7 (This quarter has stronger assertiveness as it presents a rule-like structure)
+- **Intensity:** 0.5 (Moderate intensity; there’s a more definitive claim being made)
+- **Concreteness:** 0.6 (A bit more concrete with the focus on physical and personal impacts)
+
+### 3rd Quarter:
+"E.G. I'm not gay, so if someone is gay, I literally don't care at all. Because that doesn't do anything to me."
+
+- **Valence:** 0.3 (Negative; implies indifference or apathy toward others' identities)
+- **Dominance:** 0.5 (The speaker expresses a subjective opinion but does not impose it on others)
+- **Intensity:** 0.6 (Relatively high; the phrase "I literally don't care" adds force to the statement)
+- **Concreteness:** 0.7 (Very concrete; the example is specific and relatable)
+
+### 4th Quarter:
+"I'm a philosophy student. I can argue for and against things from a standard moral understanding, but past that, I can't say I'm really interested in things unless they ultimately alter my life in some way."
+
+- **Valence:** 0.4 (Mostly neutral with a slight negative connotation towards broader issues)
+- **Dominance:** 0.6 (The speaker establishes their academic background, which gives them authority)
+- **Intensity:** 0.5 (Moderate intensity; the statement reflects a calculated indifference)
+- **Concreteness:** 0.6 (Moderately concrete; the reference to being a philosophy student adds specificity)
+
+This breakdown aims to clarify how different components of the argument resonate emotionally and conceptually throughout the text.
+

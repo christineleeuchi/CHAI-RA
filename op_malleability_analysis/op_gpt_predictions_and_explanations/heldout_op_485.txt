@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument across the dimensions of valence, dominance, intensity, and concreteness, I'll provide ratings from 0.0 (low or negative) to 1.0 (high or positive) for each quarter of the text. 
+
+**1st Quarter:**
+"CMV: Self Driving cars will not be commercially available by 2040. I know according to /r/futurology self-driving cars are the next big thing, but I don't think we've extrapolated this one properly."
+
+- Valence: 0.5 (The argument expresses skepticism, indicating a neutral to slightly negative view on self-driving cars' future.)
+- Dominance: 0.7 (The author takes a clear stance, asserting that self-driving cars won't be commercially available, indicating a strong voice in the conversation.)
+- Intensity: 0.6 (The author firmly expresses doubt about the optimistic predictions, demonstrating moderate intensity.)
+- Concreteness: 0.5 (While there's acknowledgment of current technological discussions, the abstract nature of "extrapolating" reduces concreteness.)
+
+**2nd Quarter:**
+"I see car technology slowly chugging along, more of what we are seeing today, help reversing, parallel parking etc. I see this trend continuing and improving, I don't think the next generation of cars will suddenly allow us to go 65 mph on the highway while we’re sipping margaritas in the back seat."
+
+- Valence: 0.6 (The tone is somewhat positive about gradual improvements, yet dismisses drastic advancements.)
+- Dominance: 0.6 (The author presents their vision on the future of car technology, maintaining control over the narrative.)
+- Intensity: 0.5 (The argument describes a gradual evolution rather than a decisive or emotionally charged stance.)
+- Concreteness: 0.7 (References to specific features like reversing and parallel parking enhance the concreteness of the argument.)
+
+**3rd Quarter:**
+"Google had a project where they created a self driving car, they were pretty successful. I think it's great new technology, but I don't see it transferring it over to average consumers."
+
+- Valence: 0.7 (A balanced view; acknowledges success but remains critical of its practical application for everyday consumers.)
+- Dominance: 0.5 (The mention of Google's success is somewhat neutral, diluting the author's dominance in argument.)
+- Intensity: 0.6 (The author's skepticism is evident, maintaining moderate intensity in their position.)
+- Concreteness: 0.6 (The reference to Google's project provides a tangible example, enhancing the argument's concrete nature.)
+
+**4th Quarter:**
+"If you disagree with me up until this point, here's my biggest concession. The trend of car ownership will decrease at a faster rate than self-driving cars will increase. Meaning, by the time we have self-driving cars everywhere, no one will own a car, it will be a completely different paradigm."
+
+- Valence: 0.5 (Presents a somewhat neutral position about future car ownership and technology; it could be seen as positive or negative depending on perspective.)
+- Dominance: 0.7 (The author asserts a significant claim about future trends while providing a concession, showing a strong voice.)
+- Intensity: 0.7 (The formulation of a clear, possibly provocative assertion about the future car paradigm adds intensity.)
+- Concreteness: 0.6 (The mention of "car ownership" as a paradigm shift provides clarity, though it's still somewhat abstract.)
+
+In summary, the ratings for each quarter highlight the author's skepticism about self-driving cars reaching commercial viability by 2040, providing a nuanced but critical view of the subject.
+

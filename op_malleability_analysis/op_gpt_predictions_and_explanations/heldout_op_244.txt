@@ -1,0 +1,57 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument, I will break down your argument into four segments and analyze each aspect accordingly.
+
+### 1st Quarter
+**Text:** "CMV: The concept of segregating evolution into Micro and Macro Evolution shifts the burden of proof to those adding Micro/Macro to evolution. The idea that every spawn is different from its parent is well known."
+
+- **Valence (0.7):** The tone is generally positive towards the idea of evolution but critical of the classification into micro and macro.
+- **Dominance (0.6):** The argument asserts a clear stance, indicating that the categorization is misleading, but it does not strongly dominate the discourse yet.
+- **Intensity (0.5):** The intensity is moderate, using straightforward language to present an idea without extreme emotions.
+- **Concreteness (0.6):** It presents a concrete concept regarding the differentiation and burden of proof but could elaborate on the implications.
+
+### 2nd Quarter
+**Text:** "We know that mutations happen in a small scale and change every generation slightly. We call this change the Theory of Evolution. It is a fact change happens, and thus making the evolution a fact."
+
+- **Valence (0.8):** This segment carries a positive valence reinforcing the validity of evolution itself.
+- **Dominance (0.7):** It firmly establishes evolution as a fact, asserting its scientific basis strongly.
+- **Intensity (0.6):** The intensity is moderate to high here, emphasizing the acceptance of evolution.
+- **Concreteness (0.7):** The argument touches on scientific concepts (mutations, generations) providing concrete details that solidify the argument.
+
+### 3rd Quarter
+**Text:** "Opponents of evolution like to use the segregation of evolution into Micro/Macro to say that we cannot prove that Macro Evolution has been happening. It is now viewed that the burden is on those who accept evolution to prove the case for Macro Evolution. I think this is burden shifting is wrong."
+
+- **Valence (0.6):** The tone is somewhat negative toward opponents of evolution, highlighting a criticism without being overtly hostile.
+- **Dominance (0.7):** It strongly asserts that the burden of proof should not lie with proponents of evolution, thus reinforcing the author's position.
+- **Intensity (0.7):** The segment carries a moderate level of intensity as it addresses the perceived unfairness in the discussion about evolution.
+- **Concreteness (0.6):** While it discusses the implications of burden shifting, the argument could benefit from more specific examples.
+
+### 4th Quarter
+**Text:** "If we look at any other concept that has its principle subject change over time. We do not divide that subject into short and long term. Take Entropy for example. There is no micro and macro entropy. It is just entropy. If we demonstrate that entropy is happening over the course of a week, and there is no obvious blockade stopping this process, must we prove that it will continue into the next week? The next month? The next 100 years? If a boulder begins to roll down a hill, the burden of proof should shift to those who say the boulder will stop."
+
+- **Valence (0.7):** The comparison is neutral to positive, aiming to clarify the author's argument rather than attack.
+- **Dominance (0.6):** The use of analogy strengthens the author's point, but it may not be dominant enough to convince an opponent.
+- **Intensity (0.5):** The intensity wanes in this section, focusing more on logical reasoning than emotional appeal.
+- **Concreteness (0.8):** The analogy of entropy and the rolling boulder provides a strong and easily understandable concrete representation, lending clarity to the argument.
+
+### Summary Ratings
+- **1st Quarter:**
+  - Valence: 0.7
+  - Dominance: 0.6
+  - Intensity: 0.5
+  - Concreteness: 0.6
+- **2nd Quarter:**
+  - Valence: 0.8
+  - Dominance: 0.7
+  - Intensity: 0.6
+  - Concreteness: 0.7
+- **3rd Quarter:**
+  - Valence: 0.6
+  - Dominance: 0.7
+  - Intensity: 0.7
+  - Concreteness: 0.6
+- **4th Quarter:**
+  - Valence: 0.7
+  - Dominance: 0.6
+  - Intensity: 0.5
+  - Concreteness: 0.8
+

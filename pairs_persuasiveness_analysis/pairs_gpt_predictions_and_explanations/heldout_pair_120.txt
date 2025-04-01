@@ -1,0 +1,78 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the rating scores for each quarter of the argument regarding valence, dominance, intensity, and concreteness:
+
+### Quarter 1: 
+**Text: "You have a major unrecognized assumption. You assume that it is as easy as going down to some place and paying $10 to get an ID."**
+
+- **Valence:** 0.6 (The tone is somewhat confrontational but raises a valid point.)
+- **Dominance:** 0.5 (The argument makes a strong assertion but doesn’t establish absolute dominance.)
+- **Intensity:** 0.7 (The intensity is moderate to high as it challenges the reader's assessment.)
+- **Concreteness:** 0.5 (Somewhat concrete, but lacks specific examples yet.)
+
+### Quarter 2: 
+**Text: "If you do not have an address (that is, very poor) it is essentially impossible to get an ID."**
+
+- **Valence:** 0.7 (The argument has a more negative tone regarding the conditions faced by the poor.)
+- **Dominance:** 0.6 (Establishes a stronger claim about the difficulties faced in obtaining ID.)
+- **Intensity:** 0.8 (High intensity as it highlights a significant barrier to obtaining an ID.)
+- **Concreteness:** 0.6 (Some degree of concreteness with respect to the link between poverty and ID acquisition.)
+
+### Quarter 3: 
+**Text: "If you don't have a birth certificate, which is more likely if you are poor, (not born in a hospital, parents didn't keep good track of it, house burned down, got robbed, etc,) it is very difficult to get one, and essentially impossible to get any other ID until you do."**
+
+- **Valence:** 0.8 (The tone conveys a serious and critical view of the system hindering access to IDs.)
+- **Dominance:** 0.7 (This portion strongly emphasizes the barriers faced, reflecting a strong command of the argument.)
+- **Intensity:** 0.9 (It’s very intense, as it outlines multiple scenarios that underline serious consequences.)
+- **Concreteness:** 0.8 (High concreteness with specific examples provided, making it relatable.)
+
+### Quarter 4: 
+**Text: "These same factors are also one of the huge obstacles to escaping poverty. I have always wanted someone to film an experiment where they pretend their ID, cell phone and home don't exist, and try to get government assistance or a permanent job, because it seems largely impossible."**
+
+- **Valence:** 0.7 (The tone is critical but also reflects a desire for awareness, balancing negativity with constructive ideas.)
+- **Dominance:** 0.6 (The argument reflects thoughtful consideration rather than commanding dominance.)
+- **Intensity:** 0.7 (Moderate to high intensity, particularly in proposing a thought experiment to illustrate the challenges.)
+- **Concreteness:** 0.7 (Some concrete ideas and examples, especially with the suggestion of a real-world experiment.)
+
+### Summary Ratings:
+- **Quarter 1:** Valence 0.6, Dominance 0.5, Intensity 0.7, Concreteness 0.5
+- **Quarter 2:** Valence 0.7, Dominance 0.6, Intensity 0.8, Concreteness 0.6
+- **Quarter 3:** Valence 0.8, Dominance 0.7, Intensity 0.9, Concreteness 0.8
+- **Quarter 4:** Valence 0.7, Dominance 0.6, Intensity 0.7, Concreteness 0.7
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! Below is the rating score for each aspect of the argument based on the four specified criteria: valence, dominance, intensity, and concreteness.
+
+### Quarter 1:
+**Text:** "At the moment, in most states, the requirement to vote is to fill out a card asserting you are eligible. It is up to the state to show that you are not eligible. The burden of proof is on the state to prove whether you are or are not eligible."
+- **Valence:** 0.6 – The argument is relatively neutral as it states a fact about the current voting requirements.
+- **Dominance:** 0.5 – The statement presents a balanced view and doesn't strongly push for a position.
+- **Intensity:** 0.4 – The tone is factual, lacking urgency or strong emotional appeal.
+- **Concreteness:** 0.7 – The argument uses clear language and straightforward concepts about the current voting process.
+
+### Quarter 2:
+**Text:** "With a mandatory voter ID, you've moved the burden of proof onto the citizen to prove that they are eligible to vote. They have to have proof of a birth certificate, social security card, utility bill, or some other form of proof."
+- **Valence:** 0.7 – The tone here is more critical of voter ID requirements, suggesting a negative effect on citizens.
+- **Dominance:** 0.6 – There is a stronger assertion that changing the burden of proof is unfavorable for citizens.
+- **Intensity:** 0.6 – The language has a degree of urgency and highlights concerns for voter accessibility.
+- **Concreteness:** 0.8 – The examples provided (birth certificate, social security card) are specific and relatable.
+
+### Quarter 3:
+**Text:** "With elderly or poor people, they may not have these documents available, and voter ID has passed the burden of proof onto the voter."
+- **Valence:** 0.8 – This statement portrays the voter ID requirement negatively, particularly for vulnerable populations.
+- **Dominance:** 0.6 – It strongly emphasizes the challenges faced by specific groups.
+- **Intensity:** 0.7 – The language conveys a sense of urgency regarding the exclusion of elderly and poor individuals.
+- **Concreteness:** 0.7 – The mention of specific demographics enhances the argument and adds clarity.
+
+### Quarter 4:
+**Text:** "Having or not having an ID doesn't make a significant difference in voting lines. At least in my experience, the bottleneck is almost always the booths themselves, not the sign-in portion. If you want to make voting more accessible, move to a 24-hour voting period."
+- **Valence:** 0.5 – The overall tone is neutral, presenting an alternative solution to improve accessibility.
+- **Dominance:** 0.5 – This section maintains a balanced perspective and suggests improvements without being overly assertive.
+- **Intensity:** 0.5 – The suggestion for 24-hour voting is practical but lacks a strong emotional tone.
+- **Concreteness:** 0.7 – The argument presents a specific and actionable solution to increase accessibility.
+
+In summary:
+- **Quarter 1:** Valence: 0.6, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.7
+- **Quarter 2:** Valence: 0.7, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.8
+- **Quarter 3:** Valence: 0.8, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.7
+- **Quarter 4:** Valence: 0.5, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.7
+

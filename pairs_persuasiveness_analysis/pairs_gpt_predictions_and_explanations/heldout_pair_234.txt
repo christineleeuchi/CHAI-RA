@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for each of the four categories—valence, dominance, intensity, and concreteness—across the argument you provided, broken down by quarters:
+
+1. **Quarter 1: "There are a few problems with this, but I'll address what I believe to be the main problem with the idea."**
+   - Valence: 0.5 (Neutral tone, introducing a critique) 
+   - Dominance: 0.4 (The speaker is positioning themselves as a critical thinker but not aggressively authoritative) 
+   - Intensity: 0.3 (Mildly intense as the speaker aims to challenge an idea) 
+   - Concreteness: 0.4 (Somewhat abstract, as it doesn’t specify the problems yet)
+
+2. **Quarter 2: "You suggested this be done every 100 years or so. There's nothing inherently wrong with that amount of time, but rather having a set date in general."**
+   - Valence: 0.6 (Positive tone regarding the time frame, but critical of the rigidity) 
+   - Dominance: 0.5 (The speaker asserts their viewpoint without aggressive dominance)
+   - Intensity: 0.4 (Moderate intensity as the critique begins to take shape) 
+   - Concreteness: 0.5 (Somewhat concrete, defining the suggestion made by the other party)
+
+3. **Quarter 3: "Think about if, in today's political climate, everyone knew that in, say, 15 years the Constitution would have to be redone. Most politics for the next 15 years would be totally centered around each political party trying to gain the upper hand for the next rewrite."**
+   - Valence: 0.4 (Neutral to slightly negative, presenting a critical scenario) 
+   - Dominance: 0.6 (The speaker takes a strong position, arguing a clear point) 
+   - Intensity: 0.6 (More intense as it describes possible consequences in a vivid scenario) 
+   - Concreteness: 0.6 (More concrete as it showcases a hypothetical but relatable political situation)
+
+4. **Quarter 4: "The Constitution was designed to allow for amendments when we as a nation see that something needs to be changed or updated. And the Supreme Court exists to interpret the Constitution and its amendments. Adding this countdown timer to its revision would distract from the day-to-day policy making that is, in reality, more important to our government."**
+   - Valence: 0.5 (Neutral to positive tone, emphasizing the strengths of the current system) 
+   - Dominance: 0.7 (The speaker firmly establishes authority on the functioning of the Constitution)
+   - Intensity: 0.5 (Moderate intensity, reiterating established norms) 
+   - Concreteness: 0.7 (Concrete points about the Constitution, amendments, and the Supreme Court)
+
+Overall, these ratings suggest that the argument is positioned as a critical but grounded analysis of the proposal to revise the Constitution every 100 years, highlighting potential issues and reinforcing the existing framework while maintaining a predominantly neutral tone.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for the provided argument, based on valence, dominance, intensity, and concreteness:
+
+1. **Valence** (Emotional value/positive or negative tone): 
+   - **Score: 0.4**  
+   The argument has a somewhat negative tone towards the idea of revising the Constitution, suggesting it would be a waste of taxpayer money. It also implies skepticism about the effectiveness of such efforts, reflecting a negative outlook on the proposed changes.
+
+2. **Dominance** (Authority/persuasiveness): 
+   - **Score: 0.6**  
+   The argument presents a rationale based on personal experience and references established practices (amendments and case law), which lends it authority. However, it does not fully engage with the counterarguments, which may weaken its overall dominance in the conversation.
+
+3. **Intensity** (Strength of feeling or conviction): 
+   - **Score: 0.5**  
+   The intensity of the argument is moderate. While there is some conviction expressed, particularly in the assertion that revisions would be a “fruitless endeavor,” the argument also relies on examples and processes that imply a more reasoned approach.
+
+4. **Concreteness** (Clarity and specificity of the argument): 
+   - **Score: 0.7**  
+   The argument articulates specific points regarding amendments, case law, and the historical context of legal changes. It also provides a concrete example related to California's attempts at rewriting regulations, which enhances its specificity and clarity.
+
+These scores reflect the nuances present in the argument and its surrounding context.
+

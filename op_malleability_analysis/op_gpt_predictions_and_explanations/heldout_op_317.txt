@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's the rating score for valence, dominance, intensity, and concreteness for each quarter of the argument:
+
+### Quarter 1:
+**Text:** "CMV: for an average user of the site, the Ashley Madison hack is no worse than any other hack that reveals credit card information."
+
+- **Valence:** 0.5 (Neutral; it presents a comparison without strong emotional connotation)
+- **Dominance:** 0.4 (The argument positions itself without strong authority)
+- **Intensity:** 0.3 (Mild intensity; it simply states a viewpoint)
+- **Concreteness:** 0.5 (Moderate; it mentions a specific event but does not provide detailed examples)
+  
+### Quarter 2:
+**Text:** "There are 37 million users whose data will be leaked. To sort through all of those names would be highly tedious, especially for someone who doesn't have much reason to suspect their spouse of cheating."
+
+- **Valence:** 0.4 (Slightly negative due to the implication of tedious sorting)
+- **Dominance:** 0.5 (More assertive, presenting a factual statement)
+- **Intensity:** 0.4 (Moderate intensity through the description of the task)
+- **Concreteness:** 0.6 (More concrete due to the specific number of users and the situation described)
+
+### Quarter 3:
+**Text:** "Most of those 37 million will manage to go unnoticed, since no one would bother to search for them. Most of these users will not be caught by their spouses due to the high number of names to sort through (especially if they have common names)."
+
+- **Valence:** 0.3 (Somewhat negative, implying that many will escape notice, which may have a lighter emotional weight)
+- **Dominance:** 0.5 (Establishing the argument more firmly)
+- **Intensity:** 0.5 (Moderate intensity in discussing the implications for users)
+- **Concreteness:** 0.6 (Relatively concrete due to the explanation about the sorting and common names)
+
+### Quarter 4:
+**Text:** "The only people truly affected by the names of clients being leaked are celebrities, since there will certainly be tabloids combing through the list for them. For a typical user, the only negative impact this will have is that their credit card information will be leaked, making this hack no worse than, for example, the Target hack."
+
+- **Valence:** 0.2 (Negatively weighted, especially for users implicating a loss of privacy)
+- **Dominance:** 0.6 (Assertive in determining who is truly affected)
+- **Intensity:** 0.6 (High intensity as it frames a comparison using the Target hack)
+- **Concreteness:** 0.7 (Concrete due to detailed comparisons and implications for different user groups)
+
+### Summary Scores:
+- **Quarter 1:** Valence: 0.5, Dominance: 0.4, Intensity: 0.3, Concreteness: 0.5
+- **Quarter 2:** Valence: 0.4, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.6
+- **Quarter 3:** Valence: 0.3, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.2, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.7
+

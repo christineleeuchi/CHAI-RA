@@ -1,0 +1,118 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the rating scores for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1
+**Valence:** 0.6  
+*The argument begins with a somewhat negative tone, addressing the seriousness of PTSD and the inappropriateness of telling someone with a trigger to "get over it."*
+
+**Dominance:** 0.5  
+*The speaker presents their perspective with confidence, but acknowledges differing views, creating a neutral dominance level.*
+
+**Intensity:** 0.7  
+*The language used is impactful and conveys the severity of the situation, leading to a higher level of intensity.*
+
+**Concreteness:** 0.6  
+*While the argument is somewhat abstract regarding emotional experiences, it does reference PTSD, which is a concrete concept.*
+
+### Quarter 2
+**Valence:** 0.5  
+*This part continues with a moderately negative tone, emphasizing that individual experiences do not equate to universal understanding, keeping a more neutral valence.*
+
+**Dominance:** 0.5  
+*The speaker maintains personal authority but acknowledges that experiences vary widely among individuals.*
+
+**Intensity:** 0.6  
+*The argument builds intensity by drawing parallels to other mental health issues, thus reinforcing the seriousness of misunderstanding triggers.*
+
+**Concreteness:** 0.5  
+*While exploring the concept of individual trauma, the argument remains somewhat abstract without specific examples.*
+
+### Quarter 3
+**Valence:** 0.8  
+*This section has a strong negative valence as it details the severity of panic attacks and the intensity of experiences related to triggers.*
+
+**Dominance:** 0.7  
+*The speaker displays a strong dominance in this section, articulating their points with a clear emotional undertone that emphasizes urgency.*
+
+**Intensity:** 0.9  
+*The use of vivid descriptions (e.g., soldiers in fetal positions) heightens the intensity significantly.*
+
+**Concreteness:** 0.7  
+*The argument utilizes specific instances (soldiers, rape survivors) that make it more concrete and relatable to readers.*
+
+### Quarter 4
+**Valence:** 0.6  
+*The tone becomes more balanced as it acknowledges the existence of misuse of the term "triggers" while advocating for the plight of those genuinely affected.*
+
+**Dominance:** 0.6  
+*The speaker maintains authority yet demonstrates an understanding of nuance, leading to a balanced dominance.*
+
+**Intensity:** 0.7  
+*The concluding statements evoke concern for mental health, retaining a high level of intensity without veering into overwhelming territory.*
+
+**Concreteness:** 0.6  
+*The argument remains concrete by reinforcing the need for awareness regarding triggers while acknowledging that not all individuals respond the same way.* 
+
+### Summary
+Overall scores for each element:
+- **Quarter 1:** Valence (0.6), Dominance (0.5), Intensity (0.7), Concreteness (0.6)  
+- **Quarter 2:** Valence (0.5), Dominance (0.5), Intensity (0.6), Concreteness (0.5)  
+- **Quarter 3:** Valence (0.8), Dominance (0.7), Intensity (0.9), Concreteness (0.7)  
+- **Quarter 4:** Valence (0.6), Dominance (0.6), Intensity (0.7), Concreteness (0.6)
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the provided argument based on valence, dominance, intensity, and concreteness for each quarter, I'll break it down accordingly.
+
+### Quarter 1:
+**Text:** "What about soldiers with PTSD? Do they not have triggers?"
+- **Valence:** 0.5 (Neutral to slightly positive, questioning the initial argument)
+- **Dominance:** 0.3 (The speaker is asserting a counterpoint but is inviting discussion rather than dominating)
+- **Intensity:** 0.4 (Mild intensity; the rhetorical question elicits thought without strong emotion)
+- **Concreteness:** 0.6 (Raises a specific example, soldiers with PTSD)
+
+### Quarter 2:
+**Text:** "I agree with you that society has gone a little overboard with the idea of something 'triggering' someone else."
+- **Valence:** 0.6 (Positive agreement but with a slight negative undertone regarding societal trends)
+- **Dominance:** 0.4 (The speaker acknowledges the other side but is positioning their own view)
+- **Intensity:** 0.3 (Low intensity; more of an observational statement)
+- **Concreteness:** 0.5 (Refers to societal behavior but in a somewhat abstract way)
+
+### Quarter 3:
+**Text:** "And I also agree with you when you say we shouldn't have to tailor everything we do to make others feel comfortable."
+- **Valence:** 0.7 (Positive in terms of agreement with a more assertive stance)
+- **Dominance:** 0.5 (Stronger assertion of personal views)
+- **Intensity:** 0.4 (More assertive than previous parts but still moderate)
+- **Concreteness:** 0.4 (Discusses tailoring behavior but remains somewhat abstract)
+
+### Quarter 4:
+**Text:** "But that doesn't mean triggers don't exist or that they aren't real. There's a reason many soldiers can't watch certain movies or hear the sound of fireworks. PTSD is a very real mental disorder."
+- **Valence:** 0.8 (Strongly positive assertion of the reality of PTSD and triggers)
+- **Dominance:** 0.7 (The speaker firmly asserts their point, countering the previous views)
+- **Intensity:** 0.6 (High intensity; the speaker is passionate and assertive about the reality of the issue)
+- **Concreteness:** 0.9 (Very concrete; specific examples of triggers related to PTSD)
+
+### Summary of Scores:
+**Quarter 1:**
+- Valence: 0.5
+- Dominance: 0.3
+- Intensity: 0.4
+- Concreteness: 0.6
+
+**Quarter 2:**
+- Valence: 0.6
+- Dominance: 0.4
+- Intensity: 0.3
+- Concreteness: 0.5
+
+**Quarter 3:**
+- Valence: 0.7
+- Dominance: 0.5
+- Intensity: 0.4
+- Concreteness: 0.4
+
+**Quarter 4:**
+- Valence: 0.8
+- Dominance: 0.7
+- Intensity: 0.6
+- Concreteness: 0.9
+

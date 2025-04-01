@@ -1,0 +1,64 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To analyze the given argument based on the dimensions of valence, dominance, intensity, and concreteness, I will break it down into four quarters and provide a rating score from 0.0 to 1.0 for each dimension.
+
+### Quarter 1: "Even if you are completely right on all of your points people are still not morally obligated to watch."
+- **Valence**: 0.3 (The statement has a neutral tone, presenting a counter-argument but lacking emotional positivity or negativity.)
+- **Dominance**: 0.4 (The speaker expresses a personal viewpoint against the obligation to watch, indicating some assertion of control over the argument.)
+- **Intensity**: 0.2 (The statement is relatively mild in intensity, making a factual assertion without strong emotional language.)
+- **Concreteness**: 0.5 (The argument is somewhat concrete in its assertion of people not being obligated, but lacks specific examples.)
+
+### Quarter 2: "People are not obligated to understand what it is like."
+- **Valence**: 0.4 (This maintains a neutral tone but suggests a certain disconnection or apathy towards understanding, which could be seen as slightly negative.)
+- **Dominance**: 0.5 (This asserts a strong stance on the idea that obligation to understand is not present, reflecting a balanced power in the argument.)
+- **Intensity**: 0.3 (Still mild but slightly more intense than the previous quarter due to the implications of emotional detachment.)
+- **Concreteness**: 0.4 (This is a more direct assertion but still lacks specific examples or context to anchor it.)
+
+### Quarter 3: "It might be better if they did but they are not obligated."
+- **Valence**: 0.5 (This section introduces a comparative value ("it might be better"), making it more positive overall.)
+- **Dominance**: 0.4 (While it provides a counterpoint, the speaker still maintains a clear dominance by stating no obligation exists.)
+- **Intensity**: 0.4 (The phrase "it might be better" softens the claim but still adds a reasonable intensity regarding the moral consideration.)
+- **Concreteness**: 0.5 (This quarter is reasonably concrete, acknowledging a suggestion while maintaining the argument's central premise.)
+
+### Quarter 4: "Maybe we have a difference in moral philosophy but I personally believe you cannot be morally obligated to do something if not doing it doesn't actively hurt anybody."
+- **Valence**: 0.5 (This portion shows a more balanced perspective, recognizing a difference in moral philosophy which can be seen as positive.)
+- **Dominance**: 0.6 (The speaker asserts their belief, indicating strong personal moral authority over this viewpoint.)
+- **Intensity**: 0.5 (The assertion contains moderate intensity, particularly with the phrasing regarding moral obligation.)
+- **Concreteness**: 0.6 (This quarter articulates a specific belief and links it to the concept of harm, providing a clearer argument.)
+
+### Summary of Ratings:
+1. **Quarter 1**: Valence 0.3, Dominance 0.4, Intensity 0.2, Concreteness 0.5
+2. **Quarter 2**: Valence 0.4, Dominance 0.5, Intensity 0.3, Concreteness 0.4
+3. **Quarter 3**: Valence 0.5, Dominance 0.4, Intensity 0.4, Concreteness 0.5
+4. **Quarter 4**: Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+
+These scores reflect the varied emotional and logical elements across the argument as expressed in the four quarters.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument you’ve presented, we can assign scores for valence, dominance, intensity, and concreteness in each quarter of the text.
+
+**1st Quarter:**
+- **Valence (0.3)**: The tone is generally negative, as it opposes the idea of watching the videos.
+- **Dominance (0.5)**: The argument is assertive but acknowledges the opposing view briefly.
+- **Intensity (0.6)**: The argument has a moderate level of intensity, expressing concerns about the obligation to help victims.
+- **Concreteness (0.5)**: The argument presents a somewhat abstract idea (the obligation to help) without specific examples yet.
+
+**2nd Quarter:**
+- **Valence (0.2)**: This section presents a very negative view of the implications of watching the videos.
+- **Dominance (0.6)**: The speaker asserts their viewpoint strongly, suggesting that the original premise may be misguided.
+- **Intensity (0.7)**: The emotional weight increases as they critique the motivations behind ISIS’s publicity.
+- **Concreteness (0.4)**: The statements are somewhat abstract again, with more emphasis on the negative consequences without specific examples yet.
+
+**3rd Quarter:**
+- **Valence (0.2)**: The focus remains on the negative aspects of viewing the videos and their potential effects.
+- **Dominance (0.7)**: The argument strongly asserts that watching the videos could be harmful, reinforcing their position effectively.
+- **Intensity (0.8)**: There is a high emotional intensity here, reflecting outrage and concern over the potential outcomes.
+- **Concreteness (0.5)**: The mention of hostages, political responses, and recruitment provides some concrete examples, but it could be further elaborated.
+
+**4th Quarter:**
+- **Valence (0.1)**: The conclusion is quite negative, positing a world without terrorism publicity as ideal, which frames the argument pessimistically.
+- **Dominance (0.8)**: The tone is highly assertive, firmly opposing the viewing of the execution videos.
+- **Intensity (0.9)**: This is the most intense part of the argument, encapsulating strong feelings about the harmful nature of publicity surrounding terrorism.
+- **Concreteness (0.6)**: The vision of a world without publicized terrorism adds some concrete imagery to the argument.
+
+Overall, the scores reflect a strong opposition to the idea of watching execution videos, with a consistent theme of negativity and concern about the consequences of such actions.
+

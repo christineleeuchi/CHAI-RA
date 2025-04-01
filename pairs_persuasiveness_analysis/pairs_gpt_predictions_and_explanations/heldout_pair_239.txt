@@ -1,0 +1,80 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To rate the emotional and communicative properties of this argument (valence, dominance, intensity, and concreteness), I will break it down into quarters and assess each section according to the provided criteria.
+
+### Quarter 1:
+**Text:**
+It seems like you're under the impression that sympathizers believe these victims did nothing wrong. But that's not what they're saying. They're saying the reaction to what the victims did wrong was radically disproportionate, and that if the same scenario occurred with a white person it would have ended differently.
+
+**Ratings:**
+- **Valence:** 0.6 (The tone is assertive but expresses a frustration about misunderstandings; mostly neutral with a slight negative valence.)
+- **Dominance:** 0.7 (The speaker takes a strong position, asserting their point of view and challenging assumptions.)
+- **Intensity:** 0.5 (The intensity is moderate; it conveys strong feelings about injustice but does so in a reasoned manner.)
+- **Concreteness:** 0.8 (Addresses specific social justice issues and contrasts between racial treatment, providing clear points.)
+
+### Quarter 2:
+**Text:**
+Let's think of this in terms of three tiers: 1) punishment for the original crime; 2) punishment for resisting arrest or otherwise compounding the original crime; 3) straight up killing the person. Nobody is arguing (well, *most* people are not arguing) against #s 1 or 2. They are arguing against #3 exclusively.
+
+**Ratings:**
+- **Valence:** 0.5 (This section remains neutral as it lays out a framework for discussion; it’s analytical with no overt emotional charge.)
+- **Dominance:** 0.6 (The speaker establishes authority by outlining their argument in a structured way.)
+- **Intensity:** 0.4 (The intensity is low to moderate; it is more focused on explanation rather than emotional appeal.)
+- **Concreteness:** 0.9 (Very concrete, providing a clear framework with specific examples.)
+
+### Quarter 3:
+**Text:**
+There's an acknowledgment that these men did something wrong, and then something wronger, but that neither of those justifies getting shot. For example, Garner earned #1 for selling loose cigarettes, and #2 for swatting away the officer trying to handcuff him (even this is debatable, but I'll let it go for the sake of the bigger issue). But #3 shouldn't have even been on the table.
+
+**Ratings:**
+- **Valence:** 0.7 (This section takes a more emotional stance against the excessive punishment, highlighting a sense of injustice.)
+- **Dominance:** 0.5 (While it expresses an opinion, it also acknowledges an alternate perspective, lowering dominance slightly.)
+- **Intensity:** 0.6 (The intensity picks up here; there's a sense of moral indignation regarding the severity of the reaction.)
+- **Concreteness:** 0.7 (While it is still focused, it also introduces a bit of subjectivity and could benefit from even more examples.)
+
+### Quarter 4:
+**Text:**
+Is it a practical reality that they might have avoided death by being entirely submissive? Probably, sure. But most people aren't arguing against that either. Instead, they're arguing that 1) Changes need to be made to alter that practical reality and 2) An altogether *different* practical reality exists for white people. 
+
+**Ratings:**
+- **Valence:** 0.8 (This section expresses a strong emotional appeal, recognizing the injustice faced by marginalized communities.)
+- **Dominance:** 0.6 (The speaker asserts a point while also recognizing the complexity of the issue, fostering an inclusive dialogue.)
+- **Intensity:** 0.7 (The intensity is heightened as it touches upon societal disparities and calls for change.)
+- **Concreteness:** 0.6 (The argument remains grounded but introduces broader implications that abstract it slightly.)
+
+### Summary of Ratings
+- **Quarter 1:** Valence 0.6 | Dominance 0.7 | Intensity 0.5 | Concreteness 0.8
+- **Quarter 2:** Valence 0.5 | Dominance 0.6 | Intensity 0.4 | Concreteness 0.9
+- **Quarter 3:** Valence 0.7 | Dominance 0.5 | Intensity 0.6 | Concreteness 0.7
+- **Quarter 4:** Valence 0.8 | Dominance 0.6 | Intensity 0.7 | Concreteness 0.6
+
+These ratings represent an analysis of the argument's communication effectiveness and emotional value, providing insight into how it may be perceived by different audiences.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for each aspect of the argument divided into quarters:
+
+**1st Quarter:**
+- **Valence:** 0.6 (The argument begins with a somewhat critical tone towards the perception of invincibility, indicating a mix of validity and frustration.)
+- **Dominance:** 0.5 (The speaker asserts a counterposition to the initial claim but maintains a tone of reasoned argument.)
+- **Intensity:** 0.5 (There is a moderate level of intensity expressed; the speaker is passionate about the principles involved but isn't overtly aggressive.)
+- **Concreteness:** 0.7 (The reference to the Bill of Rights provides a tangible basis for the argument, making it clear and direct.)
+
+**2nd Quarter:**
+- **Valence:** 0.8 (The argument is more assertive and critical of the perceived privilege of certain demographics, indicating a strong negative valence towards systemic inequalities.)
+- **Dominance:** 0.7 (The speaker takes a more dominant stance, emphasizing their points about rights and behaviors with clarity and authority.)
+- **Intensity:** 0.6 (The intensity increases as the speaker addresses perceived inconsistencies in societal treatment, but still maintains a level of measured discourse.)
+- **Concreteness:** 0.6 (While specific scenarios are referenced, they are somewhat generalized rather than tied to specific instances or data.)
+
+**3rd Quarter:**
+- **Valence:** 0.5 (The tone becomes more analytical, exploring the rights people have without strong emotional bias, almost leveling out the valence.)
+- **Dominance:** 0.5 (The speaker engages with the legal framework, balancing their argument as they acknowledge legal processes.)
+- **Intensity:** 0.4 (Intensity decreases as the speaker shifts focus from emotion to logic and rights, becoming more neutral.)
+- **Concreteness:** 0.7 (The mention of non-compliance and the legal repercussions provides a clearer picture of the legal structure involved.)
+
+**4th Quarter:**
+- **Valence:** 0.8 (The argument concludes with a strongly critical view on perceived inequalities in rights based on race, imparting a high level of negative valence.)
+- **Dominance:** 0.8 (The speaker's dominance increases as they reference a clear moral stance against differential treatment.)
+- **Intensity:** 0.9 (The intensity peaks with passionate criticism of potential biases and inequalities in law enforcement.)
+- **Concreteness:** 0.6 (While the scenario is evocative and relatable, its abstract nature appeals more to moral philosophy than concrete cases.)
+
+Overall, the argument moves from a critique of perceptions of invincibility to a strong stance on equality and rights within law enforcement, exhibiting variations in emotional engagement and logical structure throughout.
+

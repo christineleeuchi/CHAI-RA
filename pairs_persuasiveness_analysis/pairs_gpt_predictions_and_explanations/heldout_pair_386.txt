@@ -1,0 +1,94 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each of the four dimensions (valence, dominance, intensity, and concreteness) for each quarter of the provided argument:
+
+### 1st Quarter
+**Valence:** 0.6  
+The valence is somewhat positive as the argument acknowledges the issues women face, but it also presents a critical perspective on mandatory maternity leave.
+
+**Dominance:** 0.5  
+The dominance is neutral, as the author is presenting their view while also acknowledging potential counterarguments.
+
+**Intensity:** 0.5  
+The intensity is moderate; the author conveys concern about the bias against women without being overly passionate.
+
+**Concreteness:** 0.6  
+The argument uses specific perceptions of employers to support points, making it fairly concrete.
+
+### 2nd Quarter
+**Valence:** 0.5  
+This section highlights bias against women, which is negative, yet it also recognizes that perceptions might not change.
+
+**Dominance:** 0.5  
+The dominance remains neutral as the author balances the discussion of biases and acknowledges not all employers act the same.
+
+**Intensity:** 0.5  
+The intensity continues to be moderate; the mention of expectations is serious but not overly charged.
+
+**Concreteness:** 0.5  
+While there are references to existing perceptions, this quarter lacks specific examples or strong evidence, making it less concrete.
+
+### 3rd Quarter
+**Valence:** 0.7  
+The valence shifts more positive as the author emphasizes the potential benefits of maternity leave for women.
+
+**Dominance:** 0.6  
+There’s an increase in dominance, as the author argues clearly that the overall effect would benefit women despite potential downsides.
+
+**Intensity:** 0.6  
+The intensity increases with a stronger emphasis on the benefits of maternity leave, emphasizing its importance for women.
+
+**Concreteness:** 0.5  
+This part is still somewhat abstract, discussing general benefits without specific examples or details.
+
+### 4th Quarter
+**Valence:** 0.8  
+The valence is definitively positive as the author advocates for maternity leave and emphasizes its critical benefits for women.
+
+**Dominance:** 0.7  
+The dominance is higher, showing a strong stance in favor of maternity leave alongside the acknowledgment of biases.
+
+**Intensity:** 0.7  
+The intensity peaks here, showcasing a more passionate defense of women's rights and the importance of maternity leave.
+
+**Concreteness:** 0.6  
+This quarter mentions specific pressures women face, adding to the concrete nature of the examples but still keeps some abstraction.
+
+These ratings reflect the varying aspects of the argument and how they are presented across its different parts.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Let's break down the provided argument into four quarters and evaluate each for valence, dominance, intensity, and concreteness.
+
+### Quarter 1:
+"Firstly, I think what you're describing is already happening, simply because women do get pregnant and, mandatory leave or not, will take time off work at some point because of it. There's not much way around it."
+
+- **Valence**: 0.5 (Neutral; acknowledges reality without strong positive or negative sentiment)
+- **Dominance**: 0.4 (Position is somewhat assertive, but it doesn’t strongly assert an opposing view)
+- **Intensity**: 0.4 (Mild intensity; the argument is factual rather than emotionally charged)
+- **Concreteness**: 0.6 (Fairly concrete; references a clear and observable fact about pregnancy and maternity leave)
+
+### Quarter 2:
+"Secondly, I agree that paid paternity leave should also be an option in the event of a mandatory paid maternity leave, if only for the sake of equality."
+
+- **Valence**: 0.8 (Positive; supports equality and fairness)
+- **Dominance**: 0.6 (Assertive in promoting an additional point about paternity leave)
+- **Intensity**: 0.5 (Moderate intensity; expresses a supportive idea but not with strong emotion)
+- **Concreteness**: 0.7 (Concrete; discusses a specific policy idea regarding paternity leave)
+
+### Quarter 3:
+"However, I don't think this will change the current hiring practices, simply because I believe males will be less likely to take these leaves than women."
+
+- **Valence**: 0.3 (Somewhat negative; expresses skepticism about the effectiveness of proposed changes)
+- **Dominance**: 0.5 (Neutral assertion; presents a personal belief rather than commanding the argument)
+- **Intensity**: 0.5 (Moderate; conveys skepticism but does not escalate emotionally)
+- **Concreteness**: 0.6 (Somewhat concrete; addresses the topic of hiring practices but is based on belief rather than strong evidence)
+
+### Summary of Ratings:
+| Aspect       | Quarter 1 | Quarter 2 | Quarter 3 |
+|--------------|-----------|-----------|-----------|
+| Valence      | 0.5       | 0.8       | 0.3       |
+| Dominance    | 0.4       | 0.6       | 0.5       |
+| Intensity    | 0.4       | 0.5       | 0.5       |
+| Concreteness | 0.6       | 0.7       | 0.6       |
+
+This quantification reflects the different emotional undertones, assertiveness, strength of feeling, and specificity of the arguments in each quarter of the text.
+

@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument provided in the context of valence, dominance, intensity, and concreteness, we can assess each quarter separately based on the content presented.
+
+### 1st Quarter: 
+“CMV: Tipping should not be expected I am strongly against tipping people for simply doing their job and it bothers me that tipping has become expected.”
+
+- **Valence (0.3)**: The tone is negative towards the concept of tipping, indicating dissatisfaction but not extreme anger.
+- **Dominance (0.6)**: The speaker expresses a strong opinion, indicating a degree of authority on the matter.
+- **Intensity (0.5)**: The feelings about the subject are significant but not extreme.
+- **Concreteness (0.4)**: Abstract concepts of expectation are discussed, though the argument's core stance is clear.
+
+### 2nd Quarter:
+“I will tip only if I feel like that person deserved it, whether they are working really hard or are just being really friendly and genuine.”
+
+- **Valence (0.5)**: This section has a neutral to positive tone, emphasizing the merit-based aspect of tipping.
+- **Dominance (0.5)**: The speaker asserts their criteria for tipping, showing a personal standard but without an authoritative tone.
+- **Intensity (0.4)**: While there is a clear preference expressed, it does not carry intense emotion.
+- **Concreteness (0.5)**: This segment presents a clear principle regarding tipping, though it remains somewhat abstract.
+
+### 3rd Quarter:
+“I understand that some workers don’t make much, but I am not their employer therefore how much they earn is not my responsibility and they should not rely on customers 'tips' to support their income.”
+
+- **Valence (0.2)**: There's a negative tone towards the expectation of tips, reflecting a lack of empathy for the workers’ situation.
+- **Dominance (0.7)**: The speaker strongly asserts their position on responsibility, demonstrating a level of authority.
+- **Intensity (0.6)**: This part carries a strong sentiment against the tipping system.
+- **Concreteness (0.6)**: The argument is rooted in a clear stance about economic responsibility and employer roles.
+
+### 4th Quarter:
+“TLDR: I feel like tipping should be optional, and not something that you should be guilted into doing. EDIT: Just to clarify, I am not trying to ban tipping at all. But, I would like to see people earning their tip instead of automatically receiving a tip. The whole point of tipping is to voluntarily pay more for exceptional service.”
+
+- **Valence (0.4)**: The overall tone is neutral, with a slight positive view on the concept of voluntary tipping.
+- **Dominance (0.6)**: The speaker clarifies their stance, reinforcing their opinion without overly aggressive language.
+- **Intensity (0.5)**: The speaker emphasizes their wish for a change in the tipping culture, indicating moderate passion.
+- **Concreteness (0.5)**: This section presents a straightforward summary of the argument while addressing concerns about tipping, making it relatively clear.
+
+### Summary of Scores by Quarter:
+- **1st Quarter: Valence 0.3 | Dominance 0.6 | Intensity 0.5 | Concreteness 0.4**
+- **2nd Quarter: Valence 0.5 | Dominance 0.5 | Intensity 0.4 | Concreteness 0.5**
+- **3rd Quarter: Valence 0.2 | Dominance 0.7 | Intensity 0.6 | Concreteness 0.6**
+- **4th Quarter: Valence 0.4 | Dominance 0.6 | Intensity 0.5 | Concreteness 0.5**
+
+These scores reflect the varying emotional and conceptual strengths throughout the argument, giving a comprehensive understanding of the author's perspective on tipping.
+

@@ -1,0 +1,81 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's my rating for each of the categories you asked about for each quarter of the argument:
+
+### Quarter 1:
+**Text:** "We don't make decisions based purely on 'logic' though, emotions play a role, too."
+
+- **Valence:** 0.6 (Generally positive, highlighting the importance of emotions)
+- **Dominance:** 0.5 (A neutral stance; acknowledging both logic and emotions)
+- **Intensity:** 0.5 (Mild intensity; it's a statement of observation)
+- **Concreteness:** 0.7 (Relatively concrete; discusses a clear concept about decision-making)
+
+### Quarter 2:
+**Text:** "It's the same reason you don't step in front of a little kid at a parade or bulldoze your way to the front of a line."
+
+- **Valence:** 0.5 (Neutral; discussing behavior without strong emotional charge)
+- **Dominance:** 0.5 (Balanced perspective on social norms)
+- **Intensity:** 0.6 (Moderately intense; evokes a sense of social etiquette)
+- **Concreteness:** 0.8 (Concrete examples make the argument more relatable)
+
+### Quarter 3:
+**Text:** "You might think it's simply the 'logical' to do, but -to me- being defiant towards a parking spot meant for pregnant women is not 'logical.'"
+
+- **Valence:** 0.4 (Some negative valence; suggesting that defiance is inappropriate)
+- **Dominance:** 0.7 (Stronger position taken against the action of taking the spot)
+- **Intensity:** 0.7 (High intensity; indicates strong feelings about the issue)
+- **Concreteness:** 0.7 (Clear in its stance and reasoning)
+
+### Quarter 4:
+**Text:** "What if, as you get out of the car, you run into your boss or an old friend? And they notice? Again, emotions play into this but that's because emotions play into everything, including the decisions we make."
+
+- **Valence:** 0.5 (Neutral to slightly positive; raises considerations about social perceptions)
+- **Dominance:** 0.6 (Position taken regarding social consequences)
+- **Intensity:** 0.8 (High intensity; evokes strong imagery and potential scenarios)
+- **Concreteness:** 0.7 (Somewhat concrete; suggests specific, relatable scenarios)
+
+Overall, these ratings reflect the emotional and practical components of the argument and its various parts.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score for the different dimensions—valence, dominance, intensity, and concreteness—I'll break the argument into four quarters, analyzing each portion of the text:
+
+### Quarter 1: 
+*Legal punishment isn't always the deterrent for behavioral choices. Sometimes -- like in this case -- the deterrent is not being an asshole or seen as an asshole. That's enough reason for most choices we make throughout the day.*
+
+- **Valence**: 0.7 (The tone suggests that positive social interactions and self-perception are significant motivators, though the mention of being an "asshole" has a negative connotation.)
+- **Dominance**: 0.5 (The speaker presents their view as equally valid to legal consequences but positions social perception as the primary influencer.)
+- **Intensity**: 0.5 (The argument conveys a moderate level of conviction about the importance of social perception.)
+- **Concreteness**: 0.6 (The argument is somewhat abstract, discussing deterrents without specific instances yet relatable to everyday choices.)
+
+### Quarter 2: 
+*There aren't always LEGAL consequences for cutting in line; flipping people off for no reason; taking a parking spot someone else was waiting for; or taking up the center of a narrow grocery store aisle and clogging up traffic, but not being a dick is enough of a reason to not do those things.*
+
+- **Valence**: 0.8 (The examples provided reinforce a positive moral stance against rudeness.)
+- **Dominance**: 0.6 (The speaker emphasizes social norms over legalities, arguing a moral superiority.)
+- **Intensity**: 0.6 (The examples add a stronger emotional appeal against rude behavior.)
+- **Concreteness**: 0.9 (Specific examples make the argument clear and relatable.)
+
+### Quarter 3: 
+*I think not parking in an expectant mother parking spot outside of Babies R Us falls under that category.*
+
+- **Valence**: 0.8 (The judgment here maintains the positive theme of avoiding rudeness.)
+- **Dominance**: 0.4 (The speaker is asserting opinion rather than dominance; it's more about personal belief than enforcing views.)
+- **Intensity**: 0.5 (This adds a personal touch but remains somewhat less forceful than earlier claims.)
+- **Concreteness**: 0.9 (This is a very clear example of the argument, rooted in a specific context.)
+
+### Quarter 4 (if you consider additional text or an implied conclusion): 
+*(Assuming a potential closing remark reinforcing the argument)*
+
+- **Valence**: 0.9 (A closing statement likely reiterating positive social values.)
+- **Dominance**: 0.5 (Restating the personal belief without a push for authority.)
+- **Intensity**: 0.7 (A concluding remark can elevate conviction.)
+- **Concreteness**: 0.7 (A strong conclusion helps reinforce but is slightly less concrete than examples.)
+
+**Final Ratings:**
+- Quarter 1: Valence 0.7, Dominance 0.5, Intensity 0.5, Concreteness 0.6
+- Quarter 2: Valence 0.8, Dominance 0.6, Intensity 0.6, Concreteness 0.9
+- Quarter 3: Valence 0.8, Dominance 0.4, Intensity 0.5, Concreteness 0.9
+
+(Note: The ratings for Quarter 4 will depend on interpretation since there was no explicit conclusion in the provided text.) 
+
+Overall, the argument has a generally positive valence, is concrete in its examples, and presents a moderate level of intensity and dominance.
+

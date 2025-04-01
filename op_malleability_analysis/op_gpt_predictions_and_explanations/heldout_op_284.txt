@@ -1,0 +1,45 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure! Here’s a scoring for each of the dimensions you provided, divided into four quarters of the text:
+
+### 1st Quarter:
+**Text:** "CMV: (USA) The Democratic Party would gain more than it would lose if it took a pro-gun rights stance I believe the Democratic Party is needlessly and counter-productively alienating potential voters by taking on gun control as a component of their political platform."
+
+- **Valence:** 0.6 (The argument starts positively, suggesting that adopting a pro-gun rights stance would yield gains, but the use of "needlessly" and "counter-productively" adds a slightly negative tone.)
+- **Dominance:** 0.5 (The speaker expresses a strong opinion but presents it as a personal belief without aggressive claims.)
+- **Intensity:** 0.6 (The argument carries some strong assertions about the consequences for the Democratic Party.)
+- **Concreteness:** 0.5 (While the claims are about political strategies, they're relatively abstract without specific evidence yet.)
+
+---
+
+### 2nd Quarter:
+**Text:** "1. Gun control (in the USA) is largely ineffective given Constitutional restrictions."
+
+- **Valence:** 0.7 (The claim is framed positively for gun rights supporters as indicating a limitation on control measures.)
+- **Dominance:** 0.6 (This asserts a strong opinion about the ineffectiveness of gun control under the Constitution.)
+- **Intensity:** 0.6 (The word "largely" suggests a fair amount of confidence in the claim.)
+- **Concreteness:** 0.7 (This statement is relatively straightforward and concrete in its premise regarding constitutional issues.)
+
+---
+
+### 3rd Quarter:
+**Text:** "2. All attempts at nationwide (and some state) gun control has yielded in significant sociopolitical blowback, where political capital was wasted by the Democrats and ultimately led to more people becoming gun owners and taking a stronger stance on the topic."
+
+- **Valence:** 0.5 (This statement indicates a negative outcome for gun control but could resonate positively for those who are pro-gun.)
+- **Dominance:** 0.8 (This is a strong assertion about political consequences and the tremendous impact of gun control measures.)
+- **Intensity:** 0.7 (The use of "significant sociopolitical blowback" demonstrates a robust assertion.)
+- **Concreteness:** 0.6 (Specific examples of consequences for Democrats are suggested, making the argument more tangible.)
+
+---
+
+### 4th Quarter:
+**Text:** "3. Being supportive of gun control measures does not logically follow given the Democratic Party's recent stance on Gay Marriage, War on Drugs, Voting Rights, Social Inequality, etc. It's almost hypocritical."
+
+- **Valence:** 0.4 (While it critiques gun control support, calling it "hypocritical" has a negative connotation.)
+- **Dominance:** 0.7 (This part clearly articulates a strong stance against the consistency of Democratic policies.)
+- **Intensity:** 0.7 (The use of "hypocritical" intensifies the argument by implying a moral or ethical failing.)
+- **Concreteness:** 0.6 (This point brings in specific examples, further grounding the argument.)
+
+---
+
+These ratings are subjective interpretations and may vary based on individual perspectives.
+

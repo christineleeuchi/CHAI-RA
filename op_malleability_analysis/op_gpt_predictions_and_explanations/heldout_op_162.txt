@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure! Here's a rating score from 0.0 to 1.0 for each of the four categories—valence, dominance, intensity, and concreteness—based on the provided argument.
+
+### Quarter 1
+**Text:** "CMV: The TSA was never meant to keep us safe After September 11th, the TSA was created because people were afraid and because the union needed jobs."
+
+- **Valence:** 0.3 (The statement has a negative view of the TSA)
+- **Dominance:** 0.6 (The speaker expresses a strong opinion about the TSA)
+- **Intensity:** 0.5 (Moderate intensity in the claim about the TSA's creation)
+- **Concreteness:** 0.4 (Some concrete historical context, but still somewhat abstract)
+
+### Quarter 2
+**Text:** "The government used fear from its citizens to support the creation of a pointless government agency after pressure from the unions who wanted more jobs."
+
+- **Valence:** 0.2 (Very negative perception of both the government and the unions)
+- **Dominance:** 0.7 (A strong assertion about the motivations behind the TSA's establishment)
+- **Intensity:** 0.6 (High intensity in describing the TSA as "pointless")
+- **Concreteness:** 0.5 (While there is a concrete claim, the term "pointless" is subjective)
+
+### Quarter 3
+**Text:** "I'm not saying that we don't need airport security, but we obviously do not need 47,000 TSA 'officers.'"
+
+- **Valence:** 0.4 (Neutral regarding airport security but negative about the number of TSA officers)
+- **Dominance:** 0.5 (The speaker asserts an opinion without being overly domineering)
+- **Intensity:** 0.5 (The word "obviously" implies a level of certainty, but it's not extreme)
+- **Concreteness:** 0.6 (Reference to a specific number gives a degree of concrete evidence)
+
+### Quarter 4
+**Text:** "Also, some important information to keep in mind is that the TSA has never once stopped a terrorist attack. This is the same reason that states build useless parking garages, for the unions who want work."
+
+- **Valence:** 0.2 (Negative perspective on TSA effectiveness and parking garages)
+- **Dominance:** 0.6 (The speaker firmly states an opinion about the TSA's effectiveness)
+- **Intensity:** 0.7 (High intensity in the claim that TSA has "never once stopped a terrorist attack")
+- **Concreteness:** 0.5 (Some concrete claims, but also relies on broad and subjective judgments)
+
+These ratings are meant to reflect the overall tone and weight of each quarter of the argument as presented.
+

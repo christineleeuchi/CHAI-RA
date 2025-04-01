@@ -1,0 +1,92 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument based on valence, dominance, intensity, and concreteness, I'll score each aspect on a scale from 0.0 to 1.0 for each quarter of the argument's text.
+
+### 1st Quarter: "Literally no one is going to disagree that programs that give people jobs will be better at finding people jobs than programs which don't focus on finding people jobs. It's a tautology. The reason we have safety net programs is because we want the right people in the right jobs."
+- **Valence:** 0.8 (Overall positive sentiment towards job placement programs.)
+- **Dominance:** 0.7 (Author expresses a confident stance, suggesting that it's a universally accepted truth.)
+- **Intensity:** 0.6 (The argument's strength is clear but lacks strong emotional language.)
+- **Concreteness:** 0.7 (The argument makes a clear, direct statement about job placement.)
+
+### 2nd Quarter: "The types of jobs that publicize position vacancies to programs that focus on job placement are usually minimum wage and temp positions, bottom of the barrel type jobs where the employer isn't concerned so much with finding the right person for the position as a body to fill a hole."
+- **Valence:** 0.5 (Neutral sentiment as it presents a critique of job placement programs.)
+- **Dominance:** 0.6 (The author provides observations that reflect a critical understanding of the limitations.)
+- **Intensity:** 0.5 (Moderate intensity, but the language is somewhat neutral.)
+- **Concreteness:** 0.8 (Concrete examples provided help to clarify the argument.)
+
+### 3rd Quarter: "If an accomplished accountant has a really unfortunate layoff when his company goes belly up, and can't find a comparable job for some time, it makes a hell of a lot more sense to give him a little cash to hold him over until he does find an equivalent position than to place him in meal assembly at Burger King where his skills will be completely wasted."
+- **Valence:** 0.8 (Positive sentiment towards cash assistance for skilled individuals.)
+- **Dominance:** 0.7 (The author asserts a clear preference for cash assistance based on logic.)
+- **Intensity:** 0.9 (Strong emotional language conveys the absurdity of misplacing talents.)
+- **Concreteness:** 0.8 (Specific scenario used effectively illustrates the argument.)
+
+### 4th Quarter: "Also, if safety net programs were defunded to provide for job placement and education programs, what would the really unfortunate people who don't have a cent to their name do to feed and house themselves and their families while attending daily classes or waiting for job placement?"
+- **Valence:** 0.6 (The sentiment is mixed, expressing concern for vulnerable individuals.)
+- **Dominance:** 0.6 (The author raises a valid concern but seems slightly less assertive in this part.)
+- **Intensity:** 0.7 (There is a sense of urgency in the questioning, but slightly less emotional language.)
+- **Concreteness:** 0.8 (Clear concerns articulated about the risks of defunding safety net programs.)
+
+These scores reflect an analysis of the different aspects of the argument provided in each quarter, taking into account the tone, strength, and clarity of the points being made.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Based on the described argument, here is the rating for each of the criteria: valence, dominance, intensity, and concreteness, across the four quarters of the argument's text.
+
+### First Quarter
+- **Valence:** 0.4  
+  The argument starts with a negative perception of welfare but acknowledges that the real experience is challenging, which reflects a mix of negative and hopeful sentiments.
+
+- **Dominance:** 0.5  
+  The speaker presents a clear viewpoint regarding the difficulties of living off welfare, positioning themselves as knowledgeable on the topic.
+
+- **Intensity:** 0.6  
+  There is a strong emotional undercurrent, particularly when discussing the societal perceptions and the struggles of individuals on welfare.
+
+- **Concreteness:** 0.5  
+  The argument begins to introduce the complexity of welfare without yet providing specific examples or data.
+
+### Second Quarter
+- **Valence:** 0.2  
+  The description of being a single person with mental illness and the difficulties of applying for welfare highlights a very negative situation. 
+
+- **Dominance:** 0.6  
+  The speaker's authority increases as they outline specific struggles, making a strong case for their viewpoint.
+
+- **Intensity:** 0.7  
+  The emotional weight is palpable here, with vivid descriptions of the struggles faced, evoking empathy and frustration.
+
+- **Concreteness:** 0.7  
+  This section provides actionable details about living off welfare, detailing the specific assistance available and the conditions attached.
+
+### Third Quarter
+- **Valence:** 0.3  
+  The argument illustrates severe systemic shortcomings, leaving a predominantly negative emotional tone as it conveys the harsh realities of the welfare system.
+
+- **Dominance:** 0.7  
+  The speaker's narrative becomes stronger by illustrating the bureaucratic difficulties, positioning them as an informed critic of the welfare system.
+
+- **Intensity:** 0.8  
+  The use of personal experience and specific examples increases the emotional intensity, making the argument more impactful.
+
+- **Concreteness:** 0.8  
+  The argument here is very concrete, as it outlines the specific workings of welfare programs and paints a clear picture of the hurdles faced by individuals.
+
+### Fourth Quarter
+- **Valence:** 0.1  
+  This section solidifies the notion that living on welfare is undesirable, culminating in a very negative perception.
+
+- **Dominance:** 0.8  
+  The assertiveness is strong as the speaker proclaims the desire for a better life among those on welfare, providing a robust critique of the system.
+
+- **Intensity:** 0.9  
+  The emotional impact peaks here, tapping into deep feelings of frustration, envy, and hopelessness experienced by those on welfare.
+
+- **Concreteness:** 0.9  
+  The argument concludes with very tangible descriptions of the realities facing individuals, further driving home the message of the argument.
+
+### Summary of Scores
+- **First Quarter:** Valence 0.4, Dominance 0.5, Intensity 0.6, Concreteness 0.5
+- **Second Quarter:** Valence 0.2, Dominance 0.6, Intensity 0.7, Concreteness 0.7
+- **Third Quarter:** Valence 0.3, Dominance 0.7, Intensity 0.8, Concreteness 0.8
+- **Fourth Quarter:** Valence 0.1, Dominance 0.8, Intensity 0.9, Concreteness 0.9 
+
+This breakdown reflects both the emotional weight and structured argumentation throughout the text, capturing the complexity of the issue being addressed.
+

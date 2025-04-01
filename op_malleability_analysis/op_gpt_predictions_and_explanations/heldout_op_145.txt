@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure, I'll provide a score for each of the specified dimensions for the four quarters of the argument. The scores will range from 0.0 (lowest) to 1.0 (highest) based on the characteristics of each quarter.
+
+### 1st Quarter:
+**Text:** "CMV: Prices like $599.99 are deceptive by nature and ought to be outlawed or boycotted. I can think of no reason to set such prices other than as a psychological trick to make something seem cheaper than it is."
+
+- **Valence:** 0.8 (The sentiment is generally negative towards the pricing strategy.)
+- **Dominance:** 0.6 (The speaker expresses a strong opinion, advocating for action.)
+- **Intensity:** 0.7 (The argument is passionate about pricing manipulation.)
+- **Concreteness:** 0.5 (The argument presents a concept but lacks specific examples or data.)
+
+### 2nd Quarter:
+**Text:** "The consumer gains little to nothing by buying the product for 1 cent cheaper. It doesn't really add up for that much, and it is outweighed for how much extra the consumer spends due to being misled. Stores wouldn't do it otherwise."
+
+- **Valence:** 0.9 (Strongly negative towards deceptive pricing practices.)
+- **Dominance:** 0.7 (The speaker is assertive in their belief that consumers are misled.)
+- **Intensity:** 0.8 (The argument conveys significant frustration with the pricing practice.)
+- **Concreteness:** 0.6 (The argument discusses consumer deception but could use more concrete examples.)
+
+### 3rd Quarter:
+**Text:** "I would find it hard to believe that the prices are caused by competition and market equilibrium (i.e. that it would be rationally cheaper to buy at the $599.99 store than the $600 store). It would be a huge coincidence if it turned out that the 'real market price' just happened to stop at that arbitrary .99 point. Furthermore, it appears that monopolies such as airport snack shops are doing it as well, and they have no competition."
+
+- **Valence:** 0.8 (Critical of pricing strategies and the business practices behind them.)
+- **Dominance:** 0.5 (The speaker presents arguments against common beliefs without asserting dominance.)
+- **Intensity:** 0.7 (The argument is analytical but shows skepticism.)
+- **Concreteness:** 0.7 (Includes examples like airport snack shops that add to the argument's tangibility.)
+
+### 4th Quarter:
+**Text:** "Therefore, I argue that it has no benefit to the consumer and it is done in bad faith. Of course, the consumer ought to be responsible when buying, but a practice like this very intentionally exploits such moments of minor inattention. This gives it grounds to be banned."
+
+- **Valence:** 0.9 (Very negative view of the pricing practice.)
+- **Dominance:** 0.8 (The speaker takes a strong stance advocating for regulation.)
+- **Intensity:** 0.8 (Emphasizes the moral implications of deceptive pricing.)
+- **Concreteness:** 0.6 (Addressing consumer responsibility but could use more specific instances of exploitation.)
+
+### Summary of Scores
+1st Quarter: Valence 0.8, Dominance 0.6, Intensity 0.7, Concreteness 0.5  
+2nd Quarter: Valence 0.9, Dominance 0.7, Intensity 0.8, Concreteness 0.6  
+3rd Quarter: Valence 0.8, Dominance 0.5, Intensity 0.7, Concreteness 0.7  
+4th Quarter: Valence 0.9, Dominance 0.8, Intensity 0.8, Concreteness 0.6  
+

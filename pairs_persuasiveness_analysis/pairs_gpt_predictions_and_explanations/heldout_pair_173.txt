@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the rating scores for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+**1st Quarter:**
+- **Valence:** 0.8 (The tone is positive regarding the importance of teaching personal finance.)
+- **Dominance:** 0.6 (The argument establishes a clear stance on the need for financial education.)
+- **Intensity:** 0.5 (The argument is moderate in intensity, presenting points without overly strong language.)
+- **Concreteness:** 0.7 (The mention of specific skills and concepts gives it a good level of concreteness.)
+
+**2nd Quarter:**
+- **Valence:** 0.9 (The argument maintains positive valence while emphasizing the necessity of understanding credit and financial terms.)
+- **Dominance:** 0.7 (The argument is assertive in suggesting these are critical life skills.)
+- **Intensity:** 0.6 (The intensity remains moderate, but there is a sense of urgency in teaching these concepts.)
+- **Concreteness:** 0.8 (Specific examples of financial concepts make it very concrete.)
+
+**3rd Quarter:**
+- **Valence:** 0.7 (The tone is still positive, though it shifts slightly to address concerns about current savings rates.)
+- **Dominance:** 0.6 (The argument seeks to counter potential objections to encouraging saving.)
+- **Intensity:** 0.5 (Moderate intensity, discussing statistical data without emotive language.)
+- **Concreteness:** 0.7 (Use of data and charts provides a solid basis for claims, increasing concreteness.)
+
+**4th Quarter:**
+- **Valence:** 0.8 (The emphasis on the benefits of compounding and retirement savings is optimistic.)
+- **Dominance:** 0.7 (The argument asserts the importance of early savings.)
+- **Intensity:** 0.6 (The intensity remains consistent, advocating for understanding the long-term benefits.)
+- **Concreteness:** 0.8 (The usage of specific financial vehicles and their implications solidifies the argument's concreteness.)
+
+Overall, the ratings suggest a strong argument for the teaching of personal finance and encouraging savings, with a well-structured approach and good levels of positivity and specificity.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the rating scores for each quarter of the argument you provided:
+
+**Quarter 1: "You seem to be conflating 'saving' with 'putting wads of cash under the mattress.'"**
+- Valence: 0.5 (Neutral/Moderate; it points out a misconception without overt negativity or positivity)
+- Dominance: 0.6 (Moderately assertive; it takes a corrective stance)
+- Intensity: 0.5 (Moderate; it expresses a mild disagreement)
+- Concreteness: 0.4 (Somewhat abstract; it discusses an idea rather than giving specific examples)
+
+**Quarter 2: "A saving account accrues interest (albeit very slowly), because it's not just a storage place for your money but rather a very very low-risk investment."**
+- Valence: 0.7 (Positive; it highlights the benefits of savings)
+- Dominance: 0.4 (Less dominant; it provides informative content rather than assertive claims)
+- Intensity: 0.6 (Moderate intensity; presents a clear positive assertion about savings)
+- Concreteness: 0.6 (Fairly concrete; it discusses a specific financial product and its functionality)
+
+**Quarter 3: "Investments are by definition driving economic growth."**
+- Valence: 0.8 (Positive; strong assertion about the importance of investments)
+- Dominance: 0.7 (Assertive; confidently states the role of investments)
+- Intensity: 0.7 (High intensity; emphasizes a key point regarding economic growth)
+- Concreteness: 0.5 (Somewhat abstract; it generalizes the concept of investments without specifics)
+
+**Quarter 4: "We should *absolutely* be teaching young people about investing, both for their own personal return and for the sake of communal economic growth."**
+- Valence: 0.9 (Very positive; expresses a strong advocacy for teaching investing)
+- Dominance: 0.8 (Highly dominant; presents a clear call to action)
+- Intensity: 0.9 (Very high intensity; strong language that emphasizes urgency)
+- Concreteness: 0.7 (Relatively concrete; clearly states what should be taught and the benefits)
+
+These ratings reflect the tone, assertiveness, emotional engagement, and clarity of each segment of the provided argument.
+

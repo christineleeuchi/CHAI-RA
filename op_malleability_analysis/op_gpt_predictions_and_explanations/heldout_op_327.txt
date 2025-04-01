@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's the rating for each of the specified dimensions for each quarter of the argument:
+
+### Quarter 1
+**Text:** "CMV: Donald Trump Isn't That Bad I've been hearing about how bad Trump is for the past few weeks, mostly from more liberal folks online."
+
+- **Valence:** 0.5 (Neutral; it starts with a controversial statement)
+- **Dominance:** 0.3 (Humble introduction; acknowledging various opinions)
+- **Intensity:** 0.3 (Mild; more of a preamble to the main argument)
+- **Concreteness:** 0.5 (Some specific context provided, but still general)
+
+### Quarter 2
+**Text:** "Now I agree he's very arrogant, especially in the most recent Republican debate that he participated in. I can't say I like his style, necessarily, but I recently watched this speech of his: https://www.youtube.com/watch?v=qXjz3qLufv8"
+
+- **Valence:** 0.4 (Mixed; acknowledges negative traits)
+- **Dominance:** 0.4 (Acknowledges opinions but introduces personal reflection)
+- **Intensity:** 0.6 (Moderate; expressing personal opinions about Trump's traits)
+- **Concreteness:** 0.6 (Refers to a specific event that adds substance)
+
+### Quarter 3
+**Text:** "Suddenly I can see why people like this guy and why he's leading the Republicans. He's a fresh face, and he doesn't act like a politician."
+
+- **Valence:** 0.7 (Positive; shifts to a favorable view of Trump)
+- **Dominance:** 0.6 (Assertive; making a strong statement about Trump's appeal)
+- **Intensity:** 0.7 (High; a clear shift toward support)
+- **Concreteness:** 0.5 (General observations without specific examples)
+
+### Quarter 4
+**Text:** "In that speech I linked to, a guy that stepped in for a minute said something along the lines of 'Trump is already rich, he's already powerful, he doesn't need to run for President. He's doing this because he wants to make America a better place.' Anyway, you can skin this cat a bunch of ways, but it seems that a lot of the reasons people had for not liking Trump really fall to the wayside when you actually listen to the guy talk."
+
+- **Valence:** 0.8 (Very positive; emphasizes altruistic motives for running)
+- **Dominance:** 0.7 (Confident assertion about the motivations behind Trump's actions)
+- **Intensity:** 0.8 (Strong; clear advocacy for understanding Trump)
+- **Concreteness:** 0.7 (Cites a specific quote, linking to evidence)
+
+These ratings reflect the progression of the argument as it moves from a neutral position to one that expresses more positive feelings about Trump.
+

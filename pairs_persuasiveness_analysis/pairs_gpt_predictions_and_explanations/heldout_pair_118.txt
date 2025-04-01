@@ -1,0 +1,80 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### 1st Quarter:
+**Text:** "Nobody is saying fetuses aren't alive. They are. They just should not be considered as *independent* organisms that are subject to moral principles."
+
+- **Valence:** 0.5 (Neutral; acknowledges both sides but emphasizes a view that may be contentious)
+- **Dominance:** 0.6 (A clear stance is taken which may feel assertive)
+- **Intensity:** 0.5 (Moderate emphasis on the point being made, but not overly strong)
+- **Concreteness:** 0.7 (Utilizes specific terminology regarding life and moral principles)
+
+### 2nd Quarter:
+**Text:** "My hand is 'alive' in the same sense as a fetus is, but that doesn't mean cutting it off is the same as killing a person or animal."
+
+- **Valence:** 0.4 (Some negativity as it contrasts fetal life with the value of a human life)
+- **Dominance:** 0.7 (Strongly asserts the comparison to make a point)
+- **Intensity:** 0.6 (Moderately intense due to the analogy and implications)
+- **Concreteness:** 0.8 (Very concrete analogy comparing a hand to a fetus)
+
+### 3rd Quarter:
+**Text:** "People often say fetuses develop into humans in time, therefore they are humans, but this does not account for the fact that they require the mother's body to do so."
+
+- **Valence:** 0.5 (Neutral; presents a counterargument without overly negative connotation)
+- **Dominance:** 0.5 (Defends a position rather thoroughly)
+- **Intensity:** 0.5 (Moderate intensity, stating facts without extreme emotional charge)
+- **Concreteness:** 0.8 (Uses specific biological concepts clearly)
+
+### 4th Quarter:
+**Text:** "When you have sex, you know it's a possibility to get pregnant, it's kind of like its part of the terms and conditions of sex, yeah it sucks but that's the reality. When you get in a car and drive somewhere, you know it's a possibility that some idiot may crash into you, regardless of how careful you are. Does that mean you implicitly 'accept' all the personal injuries and damages that result? If so, why should you get medical treatment to minimize these effects?"
+
+- **Valence:** 0.4 (Some negativity surrounding implications of accountability)
+- **Dominance:** 0.7 (Strongly asserts a controversial viewpoint)
+- **Intensity:** 0.6 (Quite intense as it addresses personal responsibility and consequences)
+- **Concreteness:** 0.9 (Very concrete, with clear and relatable analogies)
+
+These ratings are subjective interpretations of the argument provided based on its language, emotional tone, and clarity.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's a rating for each of the specified dimensions for each quarter of the argument:
+
+### Quarter 1:
+"I can't help but wonder why everyone just accepts that a fetus isn't alive, and are kind of ignoring the moral implications of what if it's not? It's not that I think the fetus is necessarily alive, it's more along the lines that I don't think that you can prove that it's not alive (I genuinely don't think we will ever be able to definitively prove it)."
+
+- **Valence:** 0.5 (Neutral, exploring a contentious topic)
+- **Dominance:** 0.4 (A questioning stance rather than assertive)
+- **Intensity:** 0.6 (Moderate intensity in expressing confusion and concern)
+- **Concreteness:** 0.5 (Abstract concepts discussed, but with references to specific ideas)
+
+### Quarter 2:
+"What do you mean by alive? From a biological perspective, a fetus is definitely alive, as is anything made up of cells. When you say alive, are you referring to consciousness?"
+
+- **Valence:** 0.6 (Framing the question could provoke defensiveness in some)
+- **Dominance:** 0.5 (Inquiring critically, but not dominating the conversation)
+- **Intensity:** 0.5 (Moderate, seeking clarification in a philosophical manner)
+- **Concreteness:** 0.7 (More direct in questioning biological definitions)
+
+### Quarter 3:
+"For me, whether or not it is 'wrong' to kill a fetus is basically dependent on whether or not the fetus values its own life (i.e. wants to stay alive/wants to not die). For me, this makes the question pretty clear cut throughout most of pregnancy. You need to be able to think (i.e. have a mind) to value your own life, and all evidence points to the necessity of brain activity in order to think. As a result, it is reasonable to assume that a fetus must have brain activity in order for it to value its own life (and by extension for it to be wrong to kill the fetus). Before about 24 weeks, a fetus doesn't have brain activity, so I assume that it doesn't value its life at least during those first 24 weeks, and that it is acceptable to kill it."
+
+- **Valence:** 0.7 (More assertive stance, leaning towards a conclusion about morality)
+- **Dominance:** 0.6 (Taking a clearer position in the debate)
+- **Intensity:** 0.8 (Strong intensity in the reasoning process)
+- **Concreteness:** 0.8 (Concrete arguments based on physical development and brain activity)
+
+### Quarter 4:
+"I feel as though people are arguing two completely different things, a persons right to do what they want with their body, and a fetus's right to live. I think that the ‘person's right to do what they want with their body’ argument is pretty ridiculous..."
+
+- **Valence:** 0.4 (Somewhat negative towards the opposing viewpoint)
+- **Dominance:** 0.7 (More dominance in responding to the counterarguments)
+- **Intensity:** 0.7 (High intensity in dismissing a competing argument)
+- **Concreteness:** 0.6 (Concrete but still abstract in considering ethical frameworks)
+
+### Overall Assessment:
+- The first quarter is more exploratory and questioning.
+- The second quarter introduces a clearer but still neutral exploration of definitions.
+- The third quarter showcases the author taking a solid stance on the debate.
+- The final quarter emphasizes a critical dismissal of opposing views, reflecting a stronger opinion.
+
+If you have any other specific inquiries or aspects you'd like to explore further, feel free to ask!
+

@@ -1,0 +1,78 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score for each of the terms you specified, based on the argument provided: 
+
+### Quarter 1:
+**Valence:** 0.5 (The argument presents a somewhat neutral stance by addressing both sides of the issue, but it leans towards a more negative view of the original argument about the selfishness of not having children.)
+
+**Dominance:** 0.6 (The speaker's perspective is asserted fairly strongly, particularly in relation to societal needs and economic impacts.)
+
+**Intensity:** 0.4 (The language used is relatively moderate with no extreme emotions; the speaker presents facts rather than invoking strong emotional responses.)
+
+**Concreteness:** 0.7 (The use of statistics about the numbers of children available for adoption vs. births makes the argument tangible.)
+
+### Quarter 2:
+**Valence:** 0.5 (Continues the neutral tone, focusing on factual data that keeps the argument balanced but can be perceived as slightly dismissive of the emotional aspects.)
+
+**Dominance:** 0.6 (Reinforces the speaker's stance on population and economic productivity, asserting the importance of children for societal structures.)
+
+**Intensity:** 0.5 (Maintains a steady intensity, providing factual support that backs the claims, though it doesn’t evoke strong sentiments.)
+
+**Concreteness:** 0.8 (Provides specific statistics on adoption and births which strengthens the argument’s foundation with concrete evidence.)
+
+### Quarter 3:
+**Valence:** 0.4 (This quarter begins to shift into a more critical tone towards those who do not have children, exhibiting a more nuanced belief in the necessity of producing new workers.)
+
+**Dominance:** 0.7 (The argument begins to assert dominance more clearly by stating that not having children could be seen as detrimental to society.)
+
+**Intensity:** 0.6 (The argument grows in intensity as it discusses the implications of declining population rates and the consequences for society.)
+
+**Concreteness:** 0.6 (While it discusses concepts related to economic impacts, the lack of specific statistical support in this quarter lowers the concreteness slightly.)
+
+### Quarter 4:
+**Valence:** 0.3 (The argument now presents a more strictly negative view towards people who choose not to have children, indicating a moral judgment.)
+
+**Dominance:** 0.8 (Very assertive in establishing the claim that not having children is “selfish,” moving away from a balanced view.)
+
+**Intensity:** 0.7 (A higher intensity, as the speaker connects personal choice to broader societal consequences, appealing to reader’s emotions about civic responsibility.)
+
+**Concreteness:** 0.5 (The argument lacks specific metrics and more abstract concepts are more prevalent in this segment, which makes it less concrete.)
+
+Overall, the ratings reflect an argument that transitions from presenting a balanced discussion to a firmer stance on the perceived selfishness of not having children, supported by economic and social arguments.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score for each aspect in four quarters of the argument.
+
+### Quarter 1: 
+**Text:** "The world has always revolved around people having children. It is innate in our biological make up to want to have children and raise them. If everyone felt like you did, we'd have an opposite problem. In fact, Japan does have that problem and the US could be not too far behind them some believe."
+
+- **Valence:** 0.7 (Overall positive perspective on parenthood)
+- **Dominance:** 0.6 (Assertive tone, establishing a perspective on the biological drive to have children)
+- **Intensity:** 0.5 (Moderate emotional engagement, invoking concerns about demographic trends)
+- **Concreteness:** 0.6 (References to societal trends gives it some grounding)
+
+### Quarter 2:
+**Text:** "While true plenty of children could use a good home, that doesn't take away the biological desire to have your own children and the good that can come of having your own. I can't see why you can't do both."
+
+- **Valence:** 0.6 (Positive view toward the role of biological parenthood)
+- **Dominance:** 0.5 (More of a counterargument seeking to balance the original argument)
+- **Intensity:** 0.4 (Mild emotional engagement)
+- **Concreteness:** 0.5 (General expressions about desire and benefits, not deeply rooted in specifics)
+
+### Quarter 3:
+**Text:** "I'm not so sure hunger is an overpopulation problem as much as a logistics or greed problem. We have plenty of food to feed everyone in the world now, we just don't distribute it correctly. You sound like a smart person, we could use smart genes being passed down into the pool. That is a helpful thing to society."
+
+- **Valence:** 0.6 (Neutral to slightly positive, focuses on rational thinking about resource distribution)
+- **Dominance:** 0.5 (Balanced position, not overly assertive)
+- **Intensity:** 0.4 (Moderate, discussing systemic issues and personal admiration)
+- **Concreteness:** 0.7 (More concrete idea regarding resource issues and mentioning "smart genes")
+
+### Quarter 4:
+**Text:** "Your last point is a strange one indeed. I'm atheist, not agnostic, but we'll leave that argument for another time and place. However, being as I am, I can really address your beliefs on that point as they're not mine, so I'd just leave it to say that's a really remote thing to concern yourself with over wanting to have kids. I love my kid. Not only does he look like me but he acts like me too, it's evident even though he's only 3. I think the bond we'll have when he's older is far stronger than anything I could achieve if I adopted a kid, who I could love equally, but I'm not sure the same bond would exist. Evolution has spent a long time perfecting things and there's a reason you _want_ to have a child, and why that child acts and looks like you."
+
+- **Valence:** 0.6 (Positive reflection on the bond with one's own child)
+- **Dominance:** 0.7 (Strong personal statement asserting the value of biological parenthood)
+- **Intensity:** 0.8 (High emotional engagement about love and parent-child relationship)
+- **Concreteness:** 0.6 (Combining personal anecdotes with evolutionary reasoning gives some depth) 
+
+Overall, the argument exhibits a blend of personal experience, societal observation, and biological reasoning, leading to a nuanced position on the desire and value of having biological children versus adopting.
+

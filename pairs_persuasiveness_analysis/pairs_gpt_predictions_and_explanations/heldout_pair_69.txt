@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument using the specified dimensions (valence, dominance, intensity, and concreteness), I will score each quarter of the argument separately. 
+
+**Quarter 1: "I actually think if there was no prison or capital punishment it would have very little effect on crime rates."**
+
+- **Valence:** 0.5 (Neutral; the statement poses a hypothesis without strong positive or negative sentiment)
+- **Dominance:** 0.4 (Not very assertive; suggests a personal opinion rather than a definitive stance)
+- **Intensity:** 0.4 (Moderate; expresses a belief but does not convey strong emotion)
+- **Concreteness:** 0.6 (Concrete; focuses on a specific idea regarding crime rates)
+
+**Quarter 2: "The few people who are truly serial offenders could just be put in hospitals and the rest will eventually be released from prison anyway and will be far crazier on release after spending decades in the pen."**
+
+- **Valence:** 0.3 (Negative; implies a bleak view of prison outcomes)
+- **Dominance:** 0.5 (Moderate; presents an opinion that carries weight but feels somewhat speculative)
+- **Intensity:** 0.6 (Fairly strong; conveys concern over the effects of imprisonment)
+- **Concreteness:** 0.7 (Concrete; discusses specific types of offenders and their potential outcomes)
+
+**Quarter 3: "If there's no official justice system, then there would be nothing to deter people from using violent revenge and angry mob justice when they feel that they have been wronged."**
+
+- **Valence:** 0.2 (Negative; highlights potential chaos and violence in the absence of formal justice)
+- **Dominance:** 0.6 (More assertive; presents a clear argument against the lack of a justice system)
+- **Intensity:** 0.7 (High; expresses strong concerns about vigilante justice)
+- **Concreteness:** 0.6 (Relatively concrete; discusses the implications of no justice system)
+
+**Quarter 4: "And vigilantes, mobs, and revenge seekers tend to be far more violent and hot-blooded than a dispassionate governmental legal system."**
+
+- **Valence:** 0.2 (Negative; indicates a concern for violence and lack of order)
+- **Dominance:** 0.7 (Assertive; makes a clear, strong comparison)
+- **Intensity:** 0.8 (High; expresses strong emotions about the potential for violence)
+- **Concreteness:** 0.6 (Concrete; makes a comparison to clarify the argument)
+
+**Summary of Scores:**
+- **Quarter 1**: Valence 0.5, Dominance 0.4, Intensity 0.4, Concreteness 0.6
+- **Quarter 2**: Valence 0.3, Dominance 0.5, Intensity 0.6, Concreteness 0.7
+- **Quarter 3**: Valence 0.2, Dominance 0.6, Intensity 0.7, Concreteness 0.6
+- **Quarter 4**: Valence 0.2, Dominance 0.7, Intensity 0.8, Concreteness 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument presented in separate quarters, I'll assign scores for valence, dominance, intensity, and concreteness as requested.
+
+**1st Quarter: "I think your love of rehabilitation and disgust with retributive systems would decrease if you or a loved one were the victim of a violent or otherwise intentionally harmful crime."**
+
+- **Valence:** 0.3 (The statement expresses a somewhat negative view towards the perspective of rehabilitation supporters, implying that such views are naive.)
+- **Dominance:** 0.5 (The speaker asserts their perspective as a counter to the recipient’s views, but it’s not overly forceful.)
+- **Intensity:** 0.6 (The argument has a moderately strong emotional undercurrent as it brings an emotional scenario into the discussion.)
+- **Concreteness:** 0.4 (The argument relies on a hypothetical situation that isn’t concrete; it's an abstract suggestion of what might happen in that scenario.)
+
+**2nd Quarter: "People act as though forgiveness and rehabilitation are so natural and obviously better when they have never become a player in the system that doles out punishment."**
+
+- **Valence:** 0.4 (This part carries a critical tone towards those who advocate forgiveness and rehabilitation.)
+- **Dominance:** 0.6 (The speaker asserts that there’s an ignorance among advocates, which adds a stronger authoritative tone.)
+- **Intensity:** 0.5 (There's a moderate intensity as it challenges the views of others and assumes a critical stance.)
+- **Concreteness:** 0.5 (It provides a more tangible critique by referring to people's experiences in the punishment system.)
+
+**3rd Quarter: "The instinct towards revenge as a concept of justice is hard wired..."**
+
+- **Valence:** 0.5 (This part presents a neutral to slightly negative view, implying that revenge is an innate tendency.)
+- **Dominance:** 0.7 (This is a strong assertion, positioning the viewpoint as a fundamental fact about human nature.)
+- **Intensity:** 0.7 (There’s a stronger emotional appeal as it discusses inherent qualities of human behavior.)
+- **Concreteness:** 0.3 (Though it claims to be a fact, it lacks empirical support in this context, making it more abstract.)
+
+**4th Quarter: "...and I don't think there has to be some consequentialist benefit in order to justify it."**
+
+- **Valence:** 0.2 (This carries a negative connotation towards consequentialism, implying it’s insufficient in discussing justice.)
+- **Dominance:** 0.6 (This is a personal conviction that asserts dominance over the previous thought process of justifying punishment through beneficial outcomes.)
+- **Intensity:** 0.5 (The argument is strong but not overly charged; it asserts a belief rather matter-of-factly.)
+- **Concreteness:** 0.4 (The argument is philosophical, which makes it somewhat abstract rather than concrete.)
+
+Overall, the argument is a mix of emotional appeal and critique of prevailing views on rehabilitation and punishment, exploring both instinctual and philosophical elements.
+

@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score for each of the dimensions (valence, dominance, intensity, and concreteness) across the quarters of the argument, let's break it down accordingly:
+
+### 1st Quarter: 
+"CMV: The ONLY thing that matters is what other people think or do. In today's society, we are taught to think that 'it doesn't matter what other people think, as long as you believe in yourself'. However, I find this to be completely false."
+
+- **Valence**: 0.3 (Negative tone due to the rejection of a common belief)
+- **Dominance**: 0.7 (Strong assertion that challenges societal norms)
+- **Intensity**: 0.6 (Emphatic with the use of "ONLY" and "completely false")
+- **Concreteness**: 0.4 (Abstract concepts about societal beliefs, but relatable to personal experience)
+
+### 2nd Quarter:
+"In a world where we work in teams, as a community, in cities and in countries, the entire description of yourself is based on how other people view you, rather than how you view yourself."
+
+- **Valence**: 0.2 (Continues negative sentiment regarding self-perception)
+- **Dominance**: 0.6 (Affirms the importance of external perceptions)
+- **Intensity**: 0.5 (Moderate emphasis on societal dynamics)
+- **Concreteness**: 0.5 (Provides contextual framing for personal identity)
+
+### 3rd Quarter:
+"For example, no matter how funny you think you are, funniness is only determined by how funny OTHER people find you. You may be able to change how funny you are, but only by taking into account of what other people think is funny."
+
+- **Valence**: 0.3 (Negative framing of self-assessment)
+- **Dominance**: 0.5 (Reasoned argument about the relativity of traits like humor)
+- **Intensity**: 0.4 (Slightly more subdued compared to earlier sections)
+- **Concreteness**: 0.6 (Specific example of humor makes the argument relatable)
+
+### 4th Quarter:
+"Furthermore, it is based on other people's decisions that get you to where you want to be. You can't sell a product without someone buying it. You can't get a job without someone hiring you. You do not exist until you are recognized to exist."
+
+- **Valence**: 0.1 (Very negative implications about existence and validation)
+- **Dominance**: 0.8 (Strong statements about dependency on others)
+- **Intensity**: 0.7 (Forceful conclusions about recognition)
+- **Concreteness**: 0.7 (Very concrete examples regarding products and jobs)
+
+### Summary of Ratings:
+1. **1st Quarter**: Valence 0.3, Dominance 0.7, Intensity 0.6, Concreteness 0.4
+2. **2nd Quarter**: Valence 0.2, Dominance 0.6, Intensity 0.5, Concreteness 0.5
+3. **3rd Quarter**: Valence 0.3, Dominance 0.5, Intensity 0.4, Concreteness 0.6
+4. **4th Quarter**: Valence 0.1, Dominance 0.8, Intensity 0.7, Concreteness 0.7
+
+These scores reflect the emotional tone, assertiveness, vividness, and specificity of each quarter of the argument presented.
+

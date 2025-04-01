@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument provided, let's go through it in four quarters and assign scores for each metric: valence, dominance, intensity, and concreteness.
+
+### Quarter 1 (Introduction and Initial Argument)
+**Text:** "CMV: What's the benefit / point of 'seniority' rule vs merit? (specifically around pay) This is of course often pointed out in unionized environment, I never get the point of 'seniority' rules, more specifically around pay and opportunities."
+
+- **Valence (0.5):** The tone is somewhat neutral but leans towards skepticism about seniority rules.
+- **Dominance (0.3):** There is a sense of challenge to established norms but not aggressive.
+- **Intensity (0.4):** Moderate intensity; the speaker feels strongly but maintains a level of inquiry.
+- **Concreteness (0.6):** Clear points are made, although they are somewhat abstract in nature.
+
+### Quarter 2 (Questioning the Justification for Seniority)
+**Text:** "Why should one be paid more simply because they have been around longer? Why can't we simply pay (and give raises / bonus, etc) simply based on merit?"
+
+- **Valence (0.6):** More assertive, with clear questioning of the status quo.
+- **Dominance (0.5):** The speaker is attempting to dominate the conversation with a challenging perspective.
+- **Intensity (0.7):** The questioning conveys strong feelings about fairness in compensation.
+- **Concreteness (0.5):** The argument is somewhat abstract but does present a clear comparison between merit and seniority.
+
+### Quarter 3 (Concerns About Motivation and Progress)
+**Text:** "Seniority seems like taking away any incentive of actually improving oneself and doing better. One simply need *to be there* (and probably do the minimum and don't do anything stupid to get fired)..."
+
+- **Valence (0.7):** Negative valence towards seniority; the speaker expresses frustration.
+- **Dominance (0.6):** This part displays a stronger attempt to assert a point of view against complacency.
+- **Intensity (0.8):** High intensity; the concern about societal progress is expressed passionately.
+- **Concreteness (0.7):** More concrete examples (e.g., "do the minimum") are provided, making the argument more relatable.
+
+### Quarter 4 (Example of Teachers and Final Thoughts)
+**Text:** "Take for example: teachers union where young teachers often having a lot of trouble getting jobs whereas there are a lot of old-soon-to-retire teachers who really don't give a sh*t anymore about their work..."
+
+- **Valence (0.8):** Strong negative valence; the speaker is critical of the current system.
+- **Dominance (0.7):** The argument dominates due to specific examples that highlight perceived injustices.
+- **Intensity (0.9):** Very intense, with strong emotional language used ("don't give a sh*t").
+- **Concreteness (0.8):** The use of a specific example (teachers union) adds significant concreteness and relatability to the argument.
+
+### Summary of Scores
+- **Quarter 1:** Valence (0.5), Dominance (0.3), Intensity (0.4), Concreteness (0.6)
+- **Quarter 2:** Valence (0.6), Dominance (0.5), Intensity (0.7), Concreteness (0.5)
+- **Quarter 3:** Valence (0.7), Dominance (0.6), Intensity (0.8), Concreteness (0.7)
+- **Quarter 4:** Valence (0.8), Dominance (0.7), Intensity (0.9), Concreteness (0.8)
+

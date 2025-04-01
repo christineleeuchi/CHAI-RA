@@ -8,7 +8,7 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 def predict_and_explain(op_mindset, counterargument):
     prediction = client.chat.completions.create(
-        model="ft:gpt-4o-mini-2024-07-18:personal::BG4r7eCl",
+        model="ft:gpt-4o-mini-2024-07-18:personal::BGHgrQnY",
         messages=[
             {
                 "role": "system",

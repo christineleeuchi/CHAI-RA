@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assess the argument based on the provided criteria, I'll break it down into quarters and evaluate each based on valence, dominance, intensity, and concreteness.
+
+### Quarter 1: 
+*"CMV: Burritos are better than sandwiches Now, I understand that there are places where sandwiches are the better option, namely in the land of toasted bread, but overall I feel that most any sandwich can be made better by becoming a burrito/wrap."*
+
+- **Valence**: 0.6 (Positive overall sentiment but acknowledges that sandwiches can be better in specific situations.)
+- **Dominance**: 0.5 (Presents a subjective view but allows for counterarguments.)
+- **Intensity**: 0.5 (Mildly strong opinion; the argument is not overly aggressive.)
+- **Concreteness**: 0.4 (Conceptually abstract; compares two food items without specifics yet.)
+
+### Quarter 2: 
+*"Burritos are much more transportable, being easily held in the hand and having an aspect ratio more close to that of the human mouth, are much easier to eat without making a mess."*
+
+- **Valence**: 0.8 (Strongly positive view on burritos for their practical attributes.)
+- **Dominance**: 0.7 (The point is clear and assertive, emphasizing the advantages of burritos.)
+- **Intensity**: 0.7 (The argument is compelling and somewhat passionate about the practicality.)
+- **Concreteness**: 0.8 (Specific features such as transportability and ease of eating are discussed.)
+
+### Quarter 3: 
+*"They are capable of holding a wider array of fillings, not being limited to things which will hold together under their own tensions, such as rice, beans, chopped lettuce, peppers and so on."*
+
+- **Valence**: 0.7 (Positive perspective on the versatility of burritos.)
+- **Dominance**: 0.6 (Provides a solid argument for burritos but is somewhat dependent on context.)
+- **Intensity**: 0.6 (Clear enthusiasm for burritos' versatility but not overly forceful.)
+- **Concreteness**: 0.9 (Very specific examples of fillings provided enhance the argument's clarity.)
+
+### Quarter 4: 
+*"Tortillas are "healthier" than equivalent bread (as required for filling security). Of course this is entirely dependent on the types etc, taking a 1 to 1, assuming your "average" tortilla/wrap is equivalent to 2 slices of bread, it's fewer calories in the tortilla (in general)."*
+
+- **Valence**: 0.6 (A positive claim about the health aspect, but also cautious and conditional.)
+- **Dominance**: 0.5 (Balanced argument but heavily relies on assumptions about average food types.)
+- **Intensity**: 0.6 (Moderate assertion about health benefits without being overly assertive.)
+- **Concreteness**: 0.7 (Provides a comparison but caveats about variability slightly lower the clarity.)
+
+These scores reflect an overall positive inclination towards burritos but also recognize the potential merit of sandwiches in certain contexts.
+

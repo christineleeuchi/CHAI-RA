@@ -1,0 +1,36 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assess the argument using the criteria of valence, dominance, intensity, and concreteness, I will score each quarter of the text from 0.0 to 1.0. 
+
+### Quarter 1:
+* **Valence:** 0.3 - The argument presents a negative perspective on the rise of minimum wage, expressing concern rather than positivity.
+* **Dominance:** 0.6 - The speaker asserts their position with a sense of authority as they describe their business operations and concerns.
+* **Intensity:** 0.4 - The argument has moderate emotional weight, mostly focused on a rational viewpoint rather than strong emotional appeals.
+* **Concreteness:** 0.5 - There are concrete details about the business and employees, but the abstract implications of a national policy aren't yet fully fleshed out.
+
+### Quarter 2:
+* **Valence:** 0.4 - While still negative, there's some neutrality in the description of the employees; it's recognizing their situation but also expressing concern for future hiring practices.
+* **Dominance:** 0.7 - The authoritative voice continues, stating clear preferences for hiring and the implications of paying higher wages.
+* **Intensity:** 0.5 - The tone becomes more passionate as it discusses the impact of wage increases, yet it maintains a logical basis.
+* **Concreteness:** 0.6 - Clear examples of job responsibilities and requirements provide a more tangible foundation.
+
+### Quarter 3:
+* **Valence:** 0.2 - The argument is increasingly negative, foreseeing negative consequences for inexperienced workers and how their job opportunities may diminish.
+* **Dominance:** 0.7 - The speaker remains in control, outlining logical consequences of raising wages on employment practices.
+* **Intensity:** 0.6 - The urgency of the situation is felt more here as it addresses potential harm to specific groups.
+* **Concreteness:** 0.7 - The mention of specific numbers (e.g., $15/hour) helps anchor the argument in tangible economic implications.
+
+### Quarter 4:
+* **Valence:** 0.3 - The speaker seeks understanding but still emphasizes their struggle, which has a somewhat negative framing.
+* **Dominance:** 0.8 - The speaker is quite assertive in defending their stance, emphasizing their efforts, responsibilities, and the rationale behind their perspective.
+* **Intensity:** 0.7 - There’s an emotional appeal as they reference personal sacrifice and burdens, which adds weight to their argument.
+* **Concreteness:** 0.6 - The content is relatively concrete in terms of personal experience, but it gets a bit abstract when discussing how people perceive them.
+
+### Summary of Ratings:
+
+**Quarter 1:** Valence 0.3 | Dominance 0.6 | Intensity 0.4 | Concreteness 0.5  
+**Quarter 2:** Valence 0.4 | Dominance 0.7 | Intensity 0.5 | Concreteness 0.6  
+**Quarter 3:** Valence 0.2 | Dominance 0.7 | Intensity 0.6 | Concreteness 0.7  
+**Quarter 4:** Valence 0.3 | Dominance 0.8 | Intensity 0.7 | Concreteness 0.6  
+
+This breakdown reflects how the argument develops through its different segments, impacting its overall reception.
+

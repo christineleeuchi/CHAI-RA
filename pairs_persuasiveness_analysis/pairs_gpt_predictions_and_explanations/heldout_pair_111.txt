@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument provided in terms of valence, dominance, intensity, and concreteness, I will break it down into four quarters and assess each quarter on a scale from 0.0 to 1.0 for each criterion.
+
+### Quarter 1:
+**Text**: "There is nothing about being a white man that makes abusive behavior a necessity. Homophobia, transphobia, fat-shaming, racism, sexism, blah-dee-blah, are all abusive behaviors."
+
+- **Valence (0.7)**: The statement carries a generally positive valence, asserting that being a white man doesn't inherently lead to abusive behavior.
+- **Dominance (0.5)**: The tone is assertive but doesn't dominate the discourse; it's more informational.
+- **Intensity (0.6)**: The intensity is moderate, as the argument asserts a clear position against abusive behaviors.
+- **Concreteness (0.5)**: The message is somewhat abstract, referring to "abusive behaviors" without specifying examples initially.
+
+### Quarter 2:
+**Text**: "Like, I see what you're saying, I really do, but the existence of the current troll culture (or 'dark side' of Reddit) stems out of the fact that Reddit and similar outlets have traditionally been echo chambers for harmful opinions."
+
+- **Valence (0.6)**: The valence is still positive, aiming to acknowledge a perspective while countering it with a critique.
+- **Dominance (0.6)**: This portion of the argument takes a more dominant stance, critiquing troll culture and the nature of Reddit.
+- **Intensity (0.7)**: The intensity increases as it discusses troll culture and its consequences.
+- **Concreteness (0.6)**: More concrete than the first part, it references specific cultural phenomena (troll culture, echo chambers).
+
+### Quarter 3:
+**Text**: "They didn't start out as being 'white male' opinions, but many young white men have adopted them because they've found a community that encourages that sort of behavior, and things just get worse from there."
+
+- **Valence (0.5)**: This section has a neutral valence, describing behaviors and their origins without strong positivity or negativity.
+- **Dominance (0.7)**: It asserts a strong viewpoint about community influences on behavior.
+- **Intensity (0.7)**: The intensity remains high as it implies negative consequences of this adoption of harmful behaviors.
+- **Concreteness (0.6)**: The argument becomes somewhat concrete by addressing the societal influences on individual behaviors.
+
+### Quarter 4:
+**Text**: "So the number of spaces for straight white males has not decreased significantly. The number of spaces for people of any sex/race/gender/orientation to act like total dillholes and abuse other groups of people has decreased, and if you're associating those opinions with whiteness and maleness, I have to fundamentally disagree."
+
+- **Valence (0.6)**: The valence is mostly neutral to slightly positive, as it counters a concern with factual assertions.
+- **Dominance (0.7)**: This section firmly positions the speaker’s stance against the notion of diminished spaces for straight white males.
+- **Intensity (0.8)**: The intensity is high due to the term "total dillholes" and the strong disagreement expressed.
+- **Concreteness (0.8)**: This final portion provides clear examples and numerical assertions regarding spaces and behaviors, making it concrete.
+
+### Summary Ratings:
+1. **Quarter 1**: Valence (0.7), Dominance (0.5), Intensity (0.6), Concreteness (0.5)
+2. **Quarter 2**: Valence (0.6), Dominance (0.6), Intensity (0.7), Concreteness (0.6)
+3. **Quarter 3**: Valence (0.5), Dominance (0.7), Intensity (0.7), Concreteness (0.6)
+4. **Quarter 4**: Valence (0.6), Dominance (0.7), Intensity (0.8), Concreteness (0.8)
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Based on the excerpt provided, here are the ratings for valence, dominance, intensity, and concreteness:
+
+1. **Valence (0.7)**: The argument has a positive valence as it advocates against racism, sexism, and harassment, and defends the idea that normal, well-adjusted individuals of any race and gender should not accept prejudice. However, there's acknowledgment of a negative perception towards "SJWs," which slightly lowers the overall positive sentiment.
+
+2. **Dominance (0.6)**: The statement expresses a viewpoint that challenges prevailing narratives about white men and racism. It asserts a position that counters the perceived dominance of negative stereotypes or behaviors associated with certain communities on Reddit, thus showing a certain level of dominance in the argument.
+
+3. **Intensity (0.8)**: The language used is quite strong ("freaking out over a bogeyman," "not okay with the sorts of prejudice"), indicating a high level of intensity in the feelings expressed about prejudice and the reaction to it. The emotional weight and urgency in the phrasing contribute to this high score.
+
+4. **Concreteness (0.5)**: While the argument addresses important social issues, it lacks specific examples or data to back up claims about "normal, well-adjusted people" and their stance against prejudice. The statement is somewhat abstract, leading to a moderate score for concreteness.
+
+Overall, the argument presents a passionate plea against bigotry while simultaneously calling for a reevaluation of perceptions around social justice movements, making it nuanced but less grounded in specific examples or evidence.
+

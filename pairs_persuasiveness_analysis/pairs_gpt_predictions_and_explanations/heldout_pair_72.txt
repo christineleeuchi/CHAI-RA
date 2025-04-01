@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the argument along the dimensions of valence, dominance, intensity, and concreteness, with scores from 0.0 to 1.0 for each quarter of the text:
+
+1. **Valence (the intrinsic attractiveness or aversiveness of a situation)**:
+   - **First Quarter**: 0.5 - The argument starts with a neutral tone, acknowledging the validity of concerns while suggesting a more critical perspective.
+   - **Second Quarter**: 0.4 - The tone turns slightly more negative as it critiques the lack of nuance in how issues are discussed, but there's still room for constructive conversation.
+   - **Third Quarter**: 0.3 - This section leans more towards the negative by highlighting the cynical motives behind publications’ choices, indicating a more critical stance.
+   - **Fourth Quarter**: 0.2 - The final part has a predominantly negative perspective as it discusses the exploitation of societal anger for profit, which can feel pessimistic.
+
+2. **Dominance (the extent to which the argument exerts control over the audience)**:
+   - **First Quarter**: 0.5 - The argument presents an alternative view that competes with the initial assumptions, displaying moderate dominance.
+   - **Second Quarter**: 0.6 - The author asserts their viewpoint with more confidence, which strengthens their dominance in the discourse.
+   - **Third Quarter**: 0.7 - This part exhibits a stronger dominance as it lays out the dynamics of media engagement, making a compelling case about the forces at play.
+   - **Fourth Quarter**: 0.7 - The conclusion reinforces dominance, bringing a critical understanding of the media's exploitation of social issues, suggesting a strong position.
+
+3. **Intensity (the degree of emotional engagement or strength of feeling)**:
+   - **First Quarter**: 0.4 - Some emotional engagement is present, but it remains mostly analytical.
+   - **Second Quarter**: 0.5 - There’s increased emotional engagement here, reflecting frustration about the discussion methods.
+   - **Third Quarter**: 0.6 - Stronger emotional elements emerge as the author discusses societal anger, conveying more intensity.
+   - **Fourth Quarter**: 0.7 - This section reflects heightened emotion, especially regarding frustration wrapped up in societal dynamics and media manipulation.
+
+4. **Concreteness (the degree to which the argument uses specific, tangible concepts rather than abstract ones)**:
+   - **First Quarter**: 0.6 - The argument introduces relatable examples but retains some abstract analysis.
+   - **Second Quarter**: 0.7 - More concrete comparisons between publication styles solidify understandings.
+   - **Third Quarter**: 0.8 - This section thrums with concrete examples of societal groups and their experiences, grounding the argument in real-world contexts.
+   - **Fourth Quarter**: 0.7 - Although still concrete, it also weaves in abstract concepts of fluctuating societal anger and media strategies.
+
+Overall Scores:
+- **Valence**: 0.4
+- **Dominance**: 0.6
+- **Intensity**: 0.5
+- **Concreteness**: 0.7
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's the rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1
+**Text:** *I was, am and will be a dyed-in-the-patchouli liberal. I was ecstatic that gays can get married now. I will call Caitlyn Jenner whatever SHE wants me to. I'm a big fan of Bernie Sanders.*I absolutely believe all fortysomething of Bill Cosby's accusers.*
+
+- **Valence:** 0.7 (The sentiment is generally positive; it expresses support for liberal values and social progress.)
+- **Dominance:** 0.4 (The speaker is asserting their identity and beliefs, but it's not overly aggressive.)
+- **Intensity:** 0.6 (The excitement for marriage equality and support for marginalized voices indicates a moderate level of intensity.)
+- **Concreteness:** 0.6 (The statements are concrete with specific references to political beliefs and figures.)
+
+### Quarter 2
+**Text:** *One of these things is not like the others. (100% with you on those first four, btw). And herein lies the problem that you're talking about. *Why* do you believe them, despite having only hearsay and no solid evidence to rely on?*
+
+- **Valence:** 0.2 (This portion brings a questioning and critical tone, which reduces the overall positivity.)
+- **Dominance:** 0.5 (The speaker is challenging the beliefs stated previously, taking a more assertive stance.)
+- **Intensity:** 0.5 (The intensity is moderate as the speaker is questioning perspectives without being overly aggressive.)
+- **Concreteness:** 0.5 (The argument is somewhat abstract, as it discusses belief and evidence rather than specific instances.)
+
+### Quarter 3
+**Text:** *Because you've conflated the idea of their victimhood with your own open-minded liberalness. You think that to question them would be to reject your *political* beliefs. That not taking them for their word would betray your principles. This is an ideological response; and psychologically speaking it is very similar to the reaction religiously devout people have to something that violates the rules of their religion...*
+
+- **Valence:** 0.1 (This section has a negative valence as it critiques ideological thinking and equates it to religious extremism, which carries a derogatory tone.)
+- **Dominance:** 0.6 (The speaker takes a strong position, asserting the idea that any questioning is equivalent to being a bad person.)
+- **Intensity:** 0.7 (The intensity is high as the language used is quite charged and assertive, indicating strong emotions.)
+- **Concreteness:** 0.3 (The abstract nature of psychological comparisons and ideologies makes it less concrete.)
+
+### Quarter 4
+**Text:** *The key is to step back from the labels, and from what you've been *told* to believe, and just start thinking about the foundational goals of social justice...*
+
+- **Valence:** 0.8 (This part is positive, as it encourages a more constructive and rational approach to social issues.)
+- **Dominance:** 0.3 (It adopts a more reflective stance and is less dominant than previous sections.)
+- **Intensity:** 0.5 (It has a moderate intensity, rallying for thoughtfulness but without aggressive language.)
+- **Concreteness:** 0.7 (The call for stepping back and considering foundational goals is concrete in terms of suggesting a clear action.)
+
+### Summary Ratings
+- **Quarter 1:** Valence 0.7, Dominance 0.4, Intensity 0.6, Concreteness 0.6
+- **Quarter 2:** Valence 0.2, Dominance 0.5, Intensity 0.5, Concreteness 0.5
+- **Quarter 3:** Valence 0.1, Dominance 0.6, Intensity 0.7, Concreteness 0.3
+- **Quarter 4:** Valence 0.8, Dominance 0.3, Intensity 0.5, Concreteness 0.7
+

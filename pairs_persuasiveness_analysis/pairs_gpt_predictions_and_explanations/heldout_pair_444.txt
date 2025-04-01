@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the argument you've provided, rated on a scale from 0.0 to 1.0 for each category: valence, dominance, intensity, and concreteness.
+
+### First Quarter: "Wakefield's claims were fraudulent..."
+- **Valence:** 0.9 (The argument is heavily negative toward Wakefield and his claims, emphasizing fraudulent behavior.)
+- **Dominance:** 0.8 (The statement asserts clear authority and control over the narrative surrounding Wakefield's credibility.)
+- **Intensity:** 0.7 (Strong language regarding fraud and loss of medical license heightens the emotional weight, though it's somewhat restrained.)
+- **Concreteness:** 0.8 (Cites specific actions (fraud, loss of license), making the argument tangible.)
+
+### Second Quarter: "Thompson's findings only showed an increased risk..."
+- **Valence:** 0.9 (Again, this portion is framed negatively, indicating that Thompson's work has been misrepresented.)
+- **Dominance:** 0.75 (There’s a clear assertion of expertise, but it doesn't dismiss Thompson entirely, which dampens authority slightly.)
+- **Intensity:** 0.7 (The language conveys skepticism and undermines the reliability of Thompson's findings, which is impactful.)
+- **Concreteness:** 0.85 (Refers to specific data limitations, enhancing the argument’s credibility.)
+
+### Third Quarter: "There is a vast medical consensus..."
+- **Valence:** 0.95 (Highly positive regarding vaccines; emphasizes overwhelming support for their safety and efficacy.)
+- **Dominance:** 0.9 (This part of the argument presents an authoritative stance against the opposing viewpoint, asserting the superiority of scientific consensus.)
+- **Intensity:** 0.8 (Uses strong contrast to deniers, implying ignorance among anti-vaccine advocates, which increases emotional reaction.)
+- **Concreteness:** 0.75 (General references to consensus lack specific examples but refer to widely accepted scientific viewpoints.)
+
+### Fourth Quarter: "Research some of the diseases these vaccines cured..."
+- **Valence:** 0.85 (Positive portrayal of vaccines and their benefits; addresses and counters fears.)
+- **Dominance:** 0.8 (The argument positions vaccines as necessary and beneficial, displaying control over the discussion.)
+- **Intensity:** 0.75 (Strong but measured, the language encourages research and understanding.)
+- **Concreteness:** 0.7 (While it implies the presence of data and research, it lacks specifics in this statement, reducing tangibility.)
+
+### Summary of Scores:
+- **Valence:** 0.89
+- **Dominance:** 0.83
+- **Intensity:** 0.76
+- **Concreteness:** 0.77
+
+This breakdown captures the argumentative style and emotional weight behind each segment concerning vaccines and the associated controversies.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here is an assessment of each quarter of the argument based on the requested criteria:
+
+### Quarter 1:
+**Text:** "Between whistle-blowers (William Thomson, Scott Cooper, Andrew Wakefield etc) and corruption within the vaccine industry, it seems like something sinister is afoot. There are countless horror stories and it seems like everyone just shuts up about these things and keeps thumping that vaccines are the greatest."
+
+- **Valence:** 0.2 (The tone is negative, suggesting distrust in vaccine efficacy and safety.)
+- **Dominance:** 0.6 (The speaker positions themselves as knowledgeable or aware of an issue that others are ignoring.)
+- **Intensity:** 0.7 (The use of phrases like "something sinister is afoot" conveys a strong emotional response.)
+- **Concreteness:** 0.4 (While specific names are mentioned, the argument lacks empirical evidence or clear examples to substantiate claims.)
+
+### Quarter 2:
+**Text:** "The problem with this argument is that it is open ended and not grounded in a fact or idea. It is as hard to dispute it as it is to dispute the comment 'I am scared.'"
+
+- **Valence:** 0.3 (Critiques the prior argument, suggesting inadequacy and fear but not overly aggressive.)
+- **Dominance:** 0.5 (Attempts to establish authority by critiquing the first argument.)
+- **Intensity:** 0.4 (The tone is more analytical and less emotive.)
+- **Concreteness:** 0.6 (Points out the lack of grounding in facts while providing a meta-assessment of the argument's structure.)
+
+### Quarter 3:
+**Text:** "Whistle-blowers are essential to keep groups honest. It doesn't mean that the whole system is better off gone. It only means that there are more flaws than an entity would otherwise acknowledge. I'm not familiar with everyone on the list, but considering that Obama immediately granted William Thompson immunity from any crimes for testifying clearly indicates that we're not looking at a conspiracy. He spoke out and he was encouraged to do so."
+
+- **Valence:** 0.5 (Neutral to slightly positive; acknowledges the role of whistle-blowers but argues against the conspiracy perspective.)
+- **Dominance:** 0.5 (Attempts to maintain a balanced viewpoint while addressing specific claims.)
+- **Intensity:** 0.3 (More factual and less charged than previous segments.)
+- **Concreteness:** 0.7 (References specific events and actions taken, adding clarity to the argument.)
+
+### Quarter 4:
+**Text:** "As /u/amazingmrbrock pointed out in what might be deemed the laziest CMV comment in history, there's more at stake than what you can plainly see. Specifically Herd Immunity. That means that we are communally protected from diseases because they are less prevalent..."
+
+- **Valence:** 0.6 (Positive about herd immunity and the community benefit of vaccination.)
+- **Dominance:** 0.6 (Presents a well-supported argument with a focus on collective responsibility.)
+- **Intensity:** 0.5 (While it's factual, there is a passionate undercurrent about the implications of vaccination.)
+- **Concreteness:** 0.8 (Clear explanation of herd immunity with a strong logical basis and statistics referenced.)
+
+---
+
+These ratings represent an assessment of the emotional tone, level of control or authority, strength of expression, and degree of specificity for each portion of the argument presented.
+

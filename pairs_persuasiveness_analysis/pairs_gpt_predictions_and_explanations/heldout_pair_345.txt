@@ -1,0 +1,92 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the argument, scored on a scale from 0.0 to 1.0 for each category: valence, dominance, intensity, and concreteness.
+
+### First Quarter
+**Text:** "Do what I did and take a break from the news for awhile. Like 3 months. Then come back to it. I realized what was going on then."
+
+- **Valence:** 0.5 (Neutral tone; suggesting a personal experience without strong positive or negative emotion)
+- **Dominance:** 0.4 (The speaker is offering advice, maintaining a degree of control in the conversation)
+- **Intensity:** 0.3 (Mild intensity; not very strong language used)
+- **Concreteness:** 0.6 (Specific actions suggested, but lacks concrete details about the outcome of taking a break)
+
+### Second Quarter
+**Text:** "Different portions of the media attempt to rile you up and get you angry. This earns them money."
+
+- **Valence:** 0.2 (Negative sentiment; accusing the media of manipulation)
+- **Dominance:** 0.5 (The speaker asserts an opinion on media behavior, using "attempt to rile you up")
+- **Intensity:** 0.6 (A stronger statement about the media's motives invokes emotional response)
+- **Concreteness:** 0.5 (Somewhat concrete as it refers to the media's financial incentive but lacks specifics)
+
+### Third Quarter
+**Text:** "There are no saints in this world. Everybody has an angle to help them in some way."
+
+- **Valence:** 0.1 (Very negative sentiment; general disillusionment)
+- **Dominance:** 0.4 (Speaker claims authority on moral dilemmas, but not asserting dominance)
+- **Intensity:** 0.5 (Moderate intensity with definitive language)
+- **Concreteness:** 0.4 (Abstract statement about human nature without strong examples)
+
+### Fourth Quarter
+**Text:** "Think about it. Snowden is in Russia right now after leaking secrets. What did that do? Hurt a spy program and angered people across the world. Now Snowden is safe in Russia and is with the Russian government. He works with them now and probably has no problem getting what ever he desires."
+
+- **Valence:** 0.2 (Negative perspective on Snowden's situation and manipulation)
+- **Dominance:** 0.5 (The speaker asserts their viewpoint in the examination of Snowden)
+- **Intensity:** 0.7 (Stronger emotional language, suggesting significant consequences and actions)
+- **Concreteness:** 0.7 (More concrete examples regarding Snowden's situation with clear implications)
+
+### Summary of Scores:
+- **First Quarter:** 
+  - Valence: 0.5
+  - Dominance: 0.4
+  - Intensity: 0.3
+  - Concreteness: 0.6
+
+- **Second Quarter:** 
+  - Valence: 0.2
+  - Dominance: 0.5
+  - Intensity: 0.6
+  - Concreteness: 0.5
+  
+- **Third Quarter:** 
+  - Valence: 0.1
+  - Dominance: 0.4
+  - Intensity: 0.5
+  - Concreteness: 0.4
+
+- **Fourth Quarter:** 
+  - Valence: 0.2
+  - Dominance: 0.5
+  - Intensity: 0.7
+  - Concreteness: 0.7
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To assess the argument you provided, I'll break it down into quarters and then rate it for valence, dominance, intensity, and concreteness.
+
+**Quarter 1:**
+"I wonder how many of these people who changed your mind are actually working for the police or government."
+- **Valence:** 0.4 (A mix of suspicion and skepticism)
+- **Dominance:** 0.4 (Implying a sense of questioning and doubt)
+- **Intensity:** 0.5 (Fairly intense due to the strong implications about motives)
+- **Concreteness:** 0.3 (Vague and speculative)
+
+**Quarter 2:**
+"I mean they have people who's full-time job is to create profiles on social media and maintain them and keep people's focus wherever they want it."
+- **Valence:** 0.3 (Negative connotation regarding manipulation and control)
+- **Dominance:** 0.5 (More authoritative in presenting the idea as fact)
+- **Intensity:** 0.6 (Moderately intense due to the implications of manipulation)
+- **Concreteness:** 0.5 (Somewhat concrete, but still abstract regarding specifics)
+
+**Quarter 3:**
+"Oh isn't technology lovely."
+- **Valence:** 0.2 (Sarcastic, conveying cynicism and skepticism)
+- **Dominance:** 0.2 (Low dominance, more of a rhetorical remark)
+- **Intensity:** 0.4 (Moderate intensity because of the sarcasm)
+- **Concreteness:** 0.3 (Abstract, referring generally to technology without specifics)
+
+**Quarter 4:**
+(Not applicable in this case, as the argument is relatively short and only comprises three sections.)
+
+**Summary Ratings:**
+- **Quarter 1:** Valence 0.4, Dominance 0.4, Intensity 0.5, Concreteness 0.3
+- **Quarter 2:** Valence 0.3, Dominance 0.5, Intensity 0.6, Concreteness 0.5
+- **Quarter 3:** Valence 0.2, Dominance 0.2, Intensity 0.4, Concreteness 0.3
+

@@ -1,0 +1,60 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating for each quarter of the argument based on the dimensions of valence, dominance, intensity, and concreteness:
+
+### 1st Quarter: "chopsticks are better for picking up smaller objects, like mussels, shrimp that's been cooked with the shell intact, picking the bones out of fish, etc."
+- **Valence:** 0.8 - Positive sentiment towards chopsticks for specific tasks.
+- **Dominance:** 0.6 - The argument presents a strong point in favor of chopsticks but is situational.
+- **Intensity:** 0.7 - The assertion is relatively intense, emphasizing specific advantages of chopsticks.
+- **Concreteness:** 0.9 - The examples are clear, relatable, and concrete.
+
+### 2nd Quarter: "most people (asian people included) in the newer generations don't know how to use chopsticks correctly anymore."
+- **Valence:** 0.4 - Generally neutral; states a fact that may imply declining skill.
+- **Dominance:** 0.5 - Offers a contrasting view; slightly weakens the previous premise.
+- **Intensity:** 0.5 - Moderate intensity; the statement is factual but not particularly strong.
+- **Concreteness:** 0.7 - The point is clear, though it lacks specific examples or evidence to back it up.
+
+### 3rd Quarter: "when i was young my father put a glass full of marbles in front of me and asked me to pick out the marbles with chopsticks or i get no food."
+- **Valence:** 0.7 - Slightly positive; the personal story adds a nostalgic and educational angle.
+- **Dominance:** 0.6 - Emphasizes a learning experience and the effectiveness of chopsticks.
+- **Intensity:** 0.6 - Engaging but less intense than other emotional appeals.
+- **Concreteness:** 0.9 - Provides a vivid and relatable personal anecdote.
+
+### 4th Quarter: "i pretty much learned the proper way in about an hour."
+- **Valence:** 0.7 - Positive sentiment about quickly mastering the skill.
+- **Dominance:** 0.6 - Reinforces the ease of learning but not very dominant on its own.
+- **Intensity:** 0.5 - Low to moderate intensity; it's more of a statement of fact.
+- **Concreteness:** 0.8 - Specific and clear conclusion regarding skill acquisition.
+
+Overall, this breakdown highlights the strengths and weaknesses of the argument based on the dimensions provided.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument based on the four dimensions (valence, dominance, intensity, and concreteness) for each quarter of the text, we will break it down as follows:
+
+### Argument Text
+**"Many Chinese (and other East Asian) dishes use meat in smaller pieces which still contain the bone. Chopsticks are superior for grabbing the bone and then eating the meat portion. Eating a Chinese-cut BBQ duck with a knife and fork is a much more frustrating exercise than simply picking up the piece by the bone."**
+
+### Quarter 1: "Many Chinese (and other East Asian) dishes use meat in smaller pieces which still contain the bone."
+- **Valence:** 0.6 (Generally positive, as it sets up a context for discussing chopsticks, but it's somewhat neutral.)
+- **Dominance:** 0.5 (Informative, not overly authoritative; presents a fact rather than an opinion.)
+- **Intensity:** 0.4 (Mild intensity; simply presenting information without strong emotional language.)
+- **Concreteness:** 0.7 (Specific observation about the size and nature of the dishes.)
+
+### Quarter 2: "Chopsticks are superior for grabbing the bone and then eating the meat portion."
+- **Valence:** 0.8 (Positive assertion highlighting the benefit of chopsticks.)
+- **Dominance:** 0.7 (Stronger language asserting superiority gives a more dominant tone to the argument.)
+- **Intensity:** 0.6 (Moderate intensity; expresses a clear advantage without exaggeration.)
+- **Concreteness:** 0.6 (Specific claim about chopsticks’ superiority, but could be supported with examples.)
+
+### Quarter 3: "Eating a Chinese-cut BBQ duck with a knife and fork is a much more frustrating exercise than simply picking up the piece by the bone."
+- **Valence:** 0.5 (Mixed; though it indicates frustration with forks and knives, it also highlights the ease of using chopsticks.)
+- **Dominance:** 0.6 (Assertive claim describing the frustration, indicating a personal perspective.)
+- **Intensity:** 0.7 (Heightened intensity through the word “frustrating,” evoking a stronger emotional response.)
+- **Concreteness:** 0.5 (Somewhat concrete, but relies on subjective experience and could benefit from more detailed examples.)
+
+### Summary:
+- **Quarter 1:** Valence: 0.6, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.7
+- **Quarter 2:** Valence: 0.8, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.6
+- **Quarter 3:** Valence: 0.5, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5
+
+This breakdown provides a nuanced view of each part of the argument in relation to valence, dominance, intensity, and concreteness.
+

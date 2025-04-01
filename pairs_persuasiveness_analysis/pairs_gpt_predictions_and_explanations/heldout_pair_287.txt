@@ -1,0 +1,117 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating for each of the categories—valence, dominance, intensity, and concreteness—using a score from 0.0 to 1.0 for each quarter of the argument's text.
+
+### Quarter 1 Analysis:
+**Text:** "We need 100 Bernies. 60 Bernies would be sufficient to be filibuster-proof. Now, for serious discussion. Saying he 'can’t follow up on any' is a bit of an overstatement. Can he do everything he'd like to do the way he'd like to? No. But can he make moves in the right direction? Sure."
+
+- **Valence:** 0.7 (The overall sentiment is positive, recognizing that progress is possible even with limitations.)
+- **Dominance:** 0.5 (The speaker acknowledges limitations but does assert some control over the potential for positive change.)
+- **Intensity:** 0.6 (There's a moderate urgency in advocating for more leaders like Sanders, but it’s balanced with a realistic approach.)
+- **Concreteness:** 0.6 (The mention of needing more Bernies implies practical, political discussions but lacks specific examples at this point.)
+
+### Quarter 2 Analysis:
+**Text:** "Let's look at his Agenda: 1. Rebuilding Our Crumbling Infrastructure ... Americans like highways."
+
+- **Valence:** 0.8 (The argument is highly positive about infrastructure and the potential support for it among the public.)
+- **Dominance:** 0.5 (It discusses an area where the government can act, but acknowledges the need for cooperation.)
+- **Intensity:** 0.7 (There’s strong enthusiasm for infrastructure, emphasizing public approval.)
+- **Concreteness:** 0.7 (Provides a clear example of Sanders' agenda and its potential public appeal.)
+
+### Quarter 3 Analysis:
+**Text:** "- 2. Reversing Climate Change ..."
+
+- **Valence:** 0.8 (The turning of climate change initiatives into jobs creates a positive framework.)
+- **Dominance:** 0.6 (Indicates confidence in the administration's ability to take action while acknowledging external factors.)
+- **Intensity:** 0.6 (The urgency of addressing climate change is present, though tempered by the realistic outlook.)
+- **Concreteness:** 0.6 (Specific actions relating to the EPA are mentioned, though more detail could enhance clarity.)
+
+### Quarter 4 Analysis:
+**Text:** ...
+- **Valence:** 0.5 (This section covers various points where action is limited by congressional power, softening the overall positivity.)
+- **Dominance:** 0.4 (Indicates significant limitations and a sense of frustration with congressional dynamics.)
+- **Intensity:** 0.5 (Moderate intensity, balancing acknowledgment of goals with the limitations imposed by Congress.)
+- **Concreteness:** 0.7 (More specific examples are presented regarding what can and cannot be done, making it clearer.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence 0.7 | Dominance 0.5 | Intensity 0.6 | Concreteness 0.6
+- **Quarter 2:** Valence 0.8 | Dominance 0.5 | Intensity 0.7 | Concreteness 0.7
+- **Quarter 3:** Valence 0.8 | Dominance 0.6 | Intensity 0.6 | Concreteness 0.6
+- **Quarter 4:** Valence 0.5 | Dominance 0.4 | Intensity 0.5 | Concreteness 0.7
+
+The scores reflect a generally positive view on Sanders’ agenda while maintaining a realistic perspective on the limitations posed by Congress.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a rating score from 0.0 to 1.0 for each aspect of the argument presented, divided into quarters:
+
+1. **Valence (emotional tone)**:
+   - **Quarter 1 Rating**: 0.6 
+   - **Explanation**: This part of the argument has a somewhat negative emotional tone, suggesting skepticism about Sanders' capabilities. It indicates a belief that he can dangerously pursue actions without Congressional support.
+
+2. **Dominance (assertiveness)**:
+   - **Quarter 1 Rating**: 0.7 
+   - **Explanation**: The argument asserts that Sanders is capable of significant actions without Congress, showing a strong position on the matter. It emphasizes his power to act unilaterally.
+
+3. **Intensity (strength of feeling)**:
+   - **Quarter 1 Rating**: 0.6 
+   - **Explanation**: There is a moderate level of intensity; while it expresses concern, it doesn’t convey extreme urgency or distress about the outcomes.
+
+4. **Concreteness (specificity and clarity)**:
+   - **Quarter 1 Rating**: 0.5 
+   - **Explanation**: The statement is moderately concrete, asserting a possibility but not providing specific examples or details on how these actions would manifest.
+
+---
+
+5. **Valence**:
+   - **Quarter 2 Rating**: 0.5 
+   - **Explanation**: As the argument shifts to claiming that Sanders' capability makes him worse, the emotional tone remains predominantly negative, though less intense.
+
+6. **Dominance**:
+   - **Quarter 2 Rating**: 0.6 
+   - **Explanation**: The speaker asserts a strong belief in the negative effects of Sanders’ potential actions, maintaining an assertive position.
+
+7. **Intensity**:
+   - **Quarter 2 Rating**: 0.6 
+   - **Explanation**: The intensity remains moderate as it expresses concern about potential consequences, indicating a serious stance without escalating to alarm.
+
+8. **Concreteness**:
+   - **Quarter 2 Rating**: 0.5 
+   - **Explanation**: There’s a continuation of moderate concreteness as the argument outlines consequences but lacks specificity about what “terrible things” might occur.
+
+---
+
+9. **Valence**:
+   - **Quarter 3 Rating**: 0.6 
+   - **Explanation**: The emotional tone maintains a negative perspective focusing on concern over the potential negative actions of Sanders.
+
+10. **Dominance**:
+   - **Quarter 3 Rating**: 0.7 
+   - **Explanation**: The speaker is assertive in contending that the negative elements outweigh any positives, solidifying a commanding stance.
+
+11. **Intensity**:
+   - **Quarter 3 Rating**: 0.7 
+   - **Explanation**: The intensity is higher as the argument goes into detailing what would happen under a Sanders presidency, showing strong feelings about potential outcomes.
+
+12. **Concreteness**:
+   - **Quarter 3 Rating**: 0.5 
+   - **Explanation**: While the argument touches on the detrimental aspects of Sanders’ policies, it does not provide specific examples or detailed scenarios.
+
+---
+
+13. **Valence**:
+   - **Quarter 4 Rating**: 0.4 
+   - **Explanation**: The tone becomes more critical, reflecting a clear negative view of Sanders' presidency and its implications.
+
+14. **Dominance**:
+   - **Quarter 4 Rating**: 0.8 
+   - **Explanation**: The final part of the argument strongly asserts an opinion that aligns with the view that Sanders brings more harm than good, emphasizing a definitive stance.
+
+15. **Intensity**:
+   - **Quarter 4 Rating**: 0.8 
+   - **Explanation**: There’s a high level of intensity as the speaker concludes with a strong belief that the negatives of Sanders overshadow the positives.
+
+16. **Concreteness**:
+   - **Quarter 4 Rating**: 0.4 
+   - **Explanation**: Although the argument concludes with strong statements, it lacks concrete details or examples that could make the points more relatable or clear.
+
+Overall, the argument appears well-structured, voicing concerns with a mix of emotional valence and assertiveness but lacking in concrete details throughout.
+

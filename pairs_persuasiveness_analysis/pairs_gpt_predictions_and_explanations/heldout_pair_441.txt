@@ -1,0 +1,94 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for each aspect of the argument, broken down by quarter of the text:
+
+### Quarter 1:
+**Valence:** 0.5  
+The sentiment is somewhat neutral, acknowledging the benefits of public transport while also recognizing that there are differing perspectives on transportation solutions.
+
+**Dominance:** 0.4  
+The speaker conveys a moderate level of authority on the topic but demonstrates a willingness to engage with multiple viewpoints.
+
+**Intensity:** 0.3  
+The emotional weight of this section is low; it presents a factual observation without strong feelings or urgency.
+
+**Concreteness:** 0.6  
+The mention of the investment in personal transport infrastructure provides a tangible example, but lacks specific data or examples to strengthen the argument.
+
+### Quarter 2:
+**Valence:** 0.4   
+This segment acknowledges the limitations of public transportation, which introduces a slightly negative sentiment regarding its applicability.
+
+**Dominance:** 0.5  
+The speaker asserts a balance of viewpoints, showing a fair level of confidence in understanding the complexities of transportation.
+
+**Intensity:** 0.4  
+While still measured, there is a little more weight in the discussion about the limitations of public transport, which adds a slight increase in intensity.
+
+**Concreteness:** 0.5  
+The mention of "widely-spaced, diffuse populations" introduces some specificity, yet it remains somewhat vague in terms of concrete evidence or examples.
+
+### Quarter 3:
+**Valence:** 0.3  
+This section turns more negative, focusing on the limitations of public transport for specific demographics, reflecting a concern for inclusivity.
+
+**Dominance:** 0.6  
+The point about disabilities is presented with authority, showing the speaker's personal stake in the argument, which enhances the perceived knowledge level.
+
+**Intensity:** 0.5  
+There is a moderate emotional weight regarding the challenges of transportation for people with disabilities, making this section more impactful.
+
+**Concreteness:** 0.7  
+The reference to a family member's experiences lends real-life concreteness to the argument, making it relatable and vivid.
+
+### Quarter 4:
+**Valence:** 0.5  
+The closing thoughts reflect a balanced acknowledgment of both public transportation and self-driving vehicles, maintaining a neutral stance.
+
+**Dominance:** 0.5  
+The speaker maintains a balanced perspective, encouraging a nuanced view rather than pushing for a singular solution.
+
+**Intensity:** 0.4  
+There is a calming quality to this section; it emphasizes a reasoned and rational approach rather than emotional conviction.
+
+**Concreteness:** 0.6  
+While it wraps up the discussion, this section refers primarily to the idea of self-driving vehicles, but lacks concrete examples to solidify the argument further. 
+
+Overall, the argument presents a balanced view on transportation issues, acknowledging both public transport benefits and the limitations that exist, particularly for marginalized populations.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! I'll evaluate the argument in four quarters. For each quarter, I'll provide a score for valence, dominance, intensity, and concreteness, using a scale from 0.0 to 1.0.
+
+### Quarter 1:
+**Text**: "One major point that I think you need to consider is personal preference. Like it or not, most people prefer the freedom to leave when exactly when they want, directly from their current location, and directly to their destination. These are things that public transportation requires compromises on, often quite significant compromises in the type of environment that most Americans live in."
+
+- **Valence**: 0.8 (Generally positive, emphasizes personal preference and freedom)
+- **Dominance**: 0.7 (Strongly asserts individual preference over public transportation)
+- **Intensity**: 0.6 (Moderately intense in highlighting the importance of personal choice)
+- **Concreteness**: 0.5 (Some abstract concepts about personal preference and compromises, but also some concrete ideas about freedom)
+
+### Quarter 2:
+**Text**: "With that in mind, even if you were somehow able to fund and construct the *perfect* public transportation system, I don't think you'd get anywhere near 100% adoption by the public. I live in a fairly public transportation 'friendly' city, by most standards, and while our system is far from perfect, it is fairly extensive. I find it personally more pleasant to take the bus when going downtown, rather than dealing with traffic."
+
+- **Valence**: 0.5 (Neutral tone, acknowledges limitations of public transportation)
+- **Dominance**: 0.6 (Highlights personal experience and anecdotal evidence)
+- **Intensity**: 0.5 (Calmly asserts skepticism about complete adoption but does show personal preference)
+- **Concreteness**: 0.7 (Concrete personal experience and specific scenario mentioned)
+
+### Quarter 3:
+**Text**: "By the way, while we have a relatively good public transit system, we have a really poor infrastructure for driving. Everyone here complains about the traffic, and it's only continuing to get worse. I only point this out to say that my city is probably close to a best case scenario for giving people incentive to use public transit."
+
+- **Valence**: 0.6 (Mixed feelings; recognizes some benefits but also expresses frustration with driving conditions)
+- **Dominance**: 0.6 (Claims the position that driving infrastructure could deter public transport usage)
+- **Intensity**: 0.6 (Moderate intensity with assertions about traffic and transit linkage)
+- **Concreteness**: 0.8 (Use of tangible examples related to the city’s infrastructure and public perceptions)
+
+### Quarter 4:
+**Text**: "If a relatively good public transit system loses out in peoples minds to a relatively poor private vehicle system, then I don't think our time is best spent making a good public transit system marginally better. There's a parallel argument that might make this point better. A lot of people choose to drive large trucks or SUVs either because they use the hauling capacity for work or leisure, or honestly, sometimes just because they want to..."
+
+- **Valence**: 0.5 (Neutral to slightly negative about the effectiveness of improving public transport)
+- **Dominance**: 0.6 (Establishes an argument against focusing solely on public transportation)
+- **Intensity**: 0.7 (Clear passion about practicality in choices people make, acknowledging reality)
+- **Concreteness**: 0.7 (Draws parallels with real-world examples of vehicle choices, concrete and relatable)
+
+Overall, this argument presents a nuanced perspective that recognizes the importance of personal choice and preferences, while also addressing practical challenges and real-world scenarios related to public transportation and individual vehicle use.
+

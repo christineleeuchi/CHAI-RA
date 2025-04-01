@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score for each of the categories (valence, dominance, intensity, and concreteness) for each quarter of the argument, let's break down the text into its four sections. 
+
+### Quarter 1 
+(“CMV: Continuous consciousness doesn't exist, and I am not the same person I was a second ago. This might be kinda hard to explain.”)
+
+- **Valence**: 0.2 (The statement challenges a commonly-held belief, which might create unease.)
+- **Dominance**: 0.3 (The speaker asserts a perspective, but acknowledges potential difficulty in explaining it.)
+- **Intensity**: 0.4 (The speaker expresses a significant claim about consciousness.)
+- **Concreteness**: 0.5 (The ideas are presented clearly, but the abstract nature of consciousness could be further specified.)
+
+### Quarter 2
+(“Our consciousness is our ability to perceive the world. It is what makes me me, and you you. However, consciousness is not some kind of magical unexplainable thing. There is no one physical object that can be called 'consciousness'. It is simply a result of how our brains are wired.”)
+
+- **Valence**: 0.5 (Moderate neutrality; clarifies the stance but challenges the notion of magical consciousness, which can be polarizing.)
+- **Dominance**: 0.5 (Establishes the speaker's view while describing a counterpoint to common beliefs.)
+- **Intensity**: 0.6 (Stronger in stating how consciousness operates, pushing against mysticism.)
+- **Concreteness**: 0.7 (Uses clear language and logic, making the concepts relatively concrete.)
+
+### Quarter 3
+(“There is no reason that we don't 'die' every few seconds, and get replaced with a new consciousness. However, because of our memories, we get the illusion that we are still the same person we have always been.”)
+
+- **Valence**: 0.3 (This suggests a disturbing idea that might unsettle readers, but is framed thoughtfully.)
+- **Dominance**: 0.4 (Claims authority on the subject but can be seen as radical to some.)
+- **Intensity**: 0.7 (High intensity due to the controversial implications of the claim about identity and consciousness.)
+- **Concreteness**: 0.6 (The argument is abstract but provides a familiar basis for understanding through the concept of memory.)
+
+### Quarter 4
+(“Both our body and our brain are changing all the time. Old cells get replaced with new. But even if that wasn't the case, we would probably still not have a continuous consciousness. For example, take the famous argument about teleportation. If you got zapped out of existence, but a completely perfect copy of you was built somewhere else, would you still be you? The answer is, probably not. So why would I believe that I am still the same person I was years ago, or even seconds ago? Especially with the brain changing itself over time, the chance of a continuous consciousness seems really low.”)
+
+- **Valence**: 0.3 (The content is thought-provoking and potentially existentially distressing, but it's reasoned.)
+- **Dominance**: 0.6 (The speaker asserts strong ideas and poses questions that assume an engaging role.)
+- **Intensity**: 0.8 (Very intense as it discusses deep and possibly unsettling philosophical concepts.)
+- **Concreteness**: 0.5 (While it uses hypothetical scenarios that readers can relate to, the overall idea remains abstract.)
+
+These scores reflect subjective interpretations of valence, dominance, intensity, and concreteness within the context of the argument presented.
+

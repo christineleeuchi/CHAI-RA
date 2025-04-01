@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here's a rating for each component based on the provided argument:
+
+**1. Valence (0.7)**  
+The tone of the argument is generally positive and reflective. The commenter appears to appreciate classical music and acknowledges the author's perspective while sharing personal experiences. However, there’s a hint of skepticism about the original argument, which tempers the overall positivity. 
+
+**2. Dominance (0.6)**  
+The commenter presents a counterpoint to the original argument, making their own perspective known. They assert that exposure and personal experience play a significant role in musical preferences, indicating some degree of authority over the topic. However, they also remain open to discussion, which tempers their dominance.
+
+**3. Intensity (0.5)**  
+The intensity of this argument is moderate. The commenter does express intriguing personal anecdotes and insights, but the language is more conversational and less forceful. There's no overwhelming passion or aggression, making it a measured response instead of a highly emotionally charged one.
+
+**4. Concreteness (0.8)**  
+The argument is quite concrete as it provides specific examples (like the influence of a parent playing music and personal experiences with classical music) that substantiate its claims. The references to personal backgrounds and specific artists (Requiem for a Dream and the Kronos Quartet) offer tangible details that strengthen the argument’s foundation.
+
+Overall, these ratings reflect the nuanced nature of the argument while considering its engagement with the initial proposition.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score for each of the dimensions in the argument you provided, divided into four quarters of the text:
+
+### Quarter 1: 
+*"I disagree with your hypothesis. I think a lot of things you list as differences aren't (it's very easy to feel a 'rhythm' in most classical music)..."*
+
+- **Valence**: 0.6 (The tone is somewhat negative, expressing disagreement, but not aggressively so.)
+- **Dominance**: 0.5 (The speaker is asserting their position but is still open to discussion.)
+- **Intensity**: 0.4 (The statement is moderate in intensity, primarily expressing disagreement without strong emotional language.)
+- **Concreteness**: 0.5 (The argument presents a specific counterpoint but lacks detailed examples.)
+
+### Quarter 2: 
+*"...and most the things you say aren't are (small) differences."*
+
+- **Valence**: 0.5 (Neutral tone, suggesting a balanced perspective rather than strong negativity.)
+- **Dominance**: 0.5 (The speaker maintains an equal stance, neither dominating the conversation nor appearing submissive.)
+- **Intensity**: 0.4 (The assertion is mild; the use of "small differences" reduces the intensity.)
+- **Concreteness**: 0.4 (Somewhat vague; it does not provide specific instances or examples to illustrate the point.)
+
+### Quarter 3: 
+*"...But in the end, I think the answer is *very* simple."*
+
+- **Valence**: 0.7 (A more positive and assertive sentiment, suggesting clarity and confidence in the forthcoming argument.)
+- **Dominance**: 0.6 (A stronger assertion of the speaker's view, indicating confidence.)
+- **Intensity**: 0.5 (The use of "very simple" emphasizes a clear perspective but isn't overly dramatic.)
+- **Concreteness**: 0.4 (An introduction to a new point, but still lacking in specifics.)
+
+### Quarter 4: 
+*"...It's not exclusive to classical music... it applies to *all* music that isn't 'popular'. It's just simply that most people aren't that into music in general and won't put the necessary effort (/time) in to 'get into' a genre outside their comfort zone..."*
+
+- **Valence**: 0.6 (A generally positive observation about music engagement, but with a hint of negativity regarding people's efforts.)
+- **Dominance**: 0.7 (Strongly asserts a broad observation about music and people's behavior, showcasing higher dominance.)
+- **Intensity**: 0.6 (The statement carries a thoughtful observation that emphasizes effort and willingness.)
+- **Concreteness**: 0.7 (This section provides a broader, tangible argument about music engagement that is relatable and applicable to many genres.) 
+
+Overall, this breakdown reflects the argument's tone, assertiveness, emotional weight, and specificity across its different segments.
+

@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a rating score from 0.0 to 1.0 for each of the four dimensions—valence, dominance, intensity, and concreteness—across each quarter of the argument's text:
+
+**Quarter 1:**
+"CMV: Ellen Pao shouldn't have quite her job and surrender to the internet mob I'm seeing this shit a lot nowadays. Internet people are angry about something, take their hate to social media and it ruins people's lives. I'm really sick of this. [Tyranny of shrill minority](https://www.youtube.com/watch?v=qMU47R094T4) is the term I really like. I'm sure majority of reddit will pat each other on the back how "they did it", how they overthrow a tyrant and reddit will be back to their good ol' days. What a load of shit. Reddit turned into a mob without any grounds to be so angry about Ellen Pao."
+
+- **Valence:** 0.1 (Very negative, expressing frustration and anger)
+- **Dominance:** 0.8 (Strongly assertive and opinionated)
+- **Intensity:** 0.9 (High emotional charge)
+- **Concreteness:** 0.6 (Uses specific examples but also abstract concepts)
+
+**Quarter 2:**
+"- Her lawsuit has nothing to do with reddit. You might not like it, but that's about it. Plenty of CEO's are dicks or plain abhorrent people, that have nothing to do with their ability to run a company. - She didn't fire Victoria"
+
+- **Valence:** 0.3 (Somewhat negative, but more factual)
+- **Dominance:** 0.7 (Still assertive, but with a more rational tone)
+- **Intensity:** 0.5 (Less emotionally charged than the first quarter)
+- **Concreteness:** 0.7 (More factual and less abstract)
+
+**Quarter 3:**
+"- Nobody knows why Victoria was fired. It's none of your business anyway - FPH definitely wasn't the first time reddit ban a subreddit, harassing and brigading people outside of the sub was always reason for ban, I would like to turn your attention to [this](https://i.imgur.com/A6ORPlL.png). Do you think this is okay? - Modtools were like this for ages. The old CEO that is taking her place is having more responsibility for the state of the modtools than Pao ever had."
+
+- **Valence:** 0.4 (More neutral, though still slightly negative)
+- **Dominance:** 0.6 (Assertive, but questioning)
+- **Intensity:** 0.4 (Moderate emotion)
+- **Concreteness:** 0.8 (Specific references to events and practices)
+
+**Quarter 4:**
+"- She tried to make reddit more advertiser friendly? And this should be like a negative thing? For a CEO? Really? The vitriol against her was absolutely disgusting with zero base to begin with. Reddit only showed how majority of people here like to bully people. Slow clap guys, you "did it""
+
+- **Valence:** 0.2 (Negative, expressing disdain for the vitriol)
+- **Dominance:** 0.7 (Still assertive, questioning the mob mentality)
+- **Intensity:** 0.8 (High emotional intensity, especially towards the end)
+- **Concreteness:** 0.5 (Mix of specific comments and more abstract criticisms)
+
+These ratings reflect the argumentative style, emotional tone, and the degree of specificity of each quarter of the argument.
+

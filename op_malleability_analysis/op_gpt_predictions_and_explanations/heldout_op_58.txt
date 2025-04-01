@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: Yes, I am likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on the requested dimensions—valence, dominance, intensity, and concreteness—I'll break it down into four quarters and provide a score for each aspect:
+
+### Quarter 1
+*Text: "CMV: if you eat meat you have no grounds to be upset about animals being tortured and abused in factory farms. Thats the fucking deal and either you know it or youre wilfully ignorant, and choose not to do a simple google search about the pain and suffering youre supporting."*
+
+- **Valence**: 0.1 (The overall tone is negative, accusing individuals of ignorance.)
+- **Dominance**: 0.7 (The speaker expresses strong authority over the subject, assertively conveying their perspective.)
+- **Intensity**: 0.9 (The use of strong language emphasizes the speaker's passionate stance.)
+- **Concreteness**: 0.6 (The argument references specific actions—eating meat, ignorance—but lacks detailed evidence.)
+
+### Quarter 2
+*Text: "They have to do regular mental health screenings on workers in normal abatoirs to make sure theyre not harbouring serial killers ffs can you even imagine the types of people who choose to work in *factory farms*? Can you even imagine how much torture and abuse flys under the radar and never makes it to the front page of reddit?"*
+
+- **Valence**: 0.2 (Continues to maintain a negative view on individuals involved in the industry.)
+- **Dominance**: 0.8 (The speaker persists in portraying a strong position that the audience should consider.)
+- **Intensity**: 0.85 (The speaker uses provocative language, again demonstrating high emotional intensity.)
+- **Concreteness**: 0.6 (The argument provides some concrete examples, but still relies on sensationalism.)
+
+### Quarter 3
+*Text: "It comes with the territory that by eating meat you are supporting torture and abuse of animals in many different ways and severities, there is no way around it, and yet you people act shocked when a post about it reaches the front page and pretend it matters to you."*
+
+- **Valence**: 0.3 (The negativity persists, but there's a slight acknowledgment of disbelief among others.)
+- **Dominance**: 0.75 (The speaker continues to assert their authority over the argument.)
+- **Intensity**: 0.8 (The insistence on guilt by association raises the emotional effect.)
+- **Concreteness**: 0.7 (This section is more straightforward, directly linking meat consumption to animal suffering.)
+
+### Quarter 4
+*Text: "And yes obviously it is possible to not consume factory farmed meat products but the amount of people who exclusively do that is so small that it doesnt really have any relevance to anything and its safe to assume almost everyone who will post in this thread eats mcdonalds and buys chicken from the supermarket."*
+
+- **Valence**: 0.4 (There is a slight acknowledgment of an alternative choice but framed in a dismissive way.)
+- **Dominance**: 0.6 (The authority lessens here, as it acknowledges a minority view.)
+- **Intensity**: 0.7 (While still strong, it lacks the urgency of previous sections.)
+- **Concreteness**: 0.8 (Identifies specific examples like "McDonald's" and "supermarket," making it quite tangible.)
+
+### Summary of Ratings
+- **Quarter 1**: Valence: 0.1, Dominance: 0.7, Intensity: 0.9, Concreteness: 0.6
+- **Quarter 2**: Valence: 0.2, Dominance: 0.8, Intensity: 0.85, Concreteness: 0.6
+- **Quarter 3**: Valence: 0.3, Dominance: 0.75, Intensity: 0.8, Concreteness: 0.7
+- **Quarter 4**: Valence: 0.4, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.8
+

@@ -1,0 +1,80 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument in terms of valence, dominance, intensity, and concreteness for each quarter of the provided text, here is my assessment:
+
+**1st Quarter: "Many if not most Uber cars do follow them, being licensed as for hire vehicles but not allowed to take street hails."**
+
+- **Valence (0.6)**: Neutral to slightly positive, acknowledging that some Uber cars comply with regulations.
+- **Dominance (0.4)**: The statement is somewhat neutral; it doesn’t assert strong dominance over the topic.
+- **Intensity (0.5)**: Moderate intensity; it presents a factual assertion without strong emotional appeal.
+- **Concreteness (0.7)**: Quite concrete, as it refers to specific regulations and the licensing of vehicles.
+
+**2nd Quarter: "But Uber does not follow the one regulation which matters, and they shouldn't have to: the medallion system."**
+
+- **Valence (0.5)**: Neutral; it simply states that Uber does not follow a specific regulation without strong positive or negative sentiment.
+- **Dominance (0.6)**: This introduces a stronger viewpoint, suggesting a notable conflict regarding the regulation.
+- **Intensity (0.6)**: Moderate intensity; it expresses a clear perspective on the regulation.
+- **Concreteness (0.6)**: Reasonably concrete, referring specifically to the medallion system.
+
+**3rd Quarter: "New York City has set an arbitrary cap on the number of for hire vehicles which can pick people up off the street. This cap does nothing except produce economic rents for those who own medallions, and is fundamentally unfair."**
+
+- **Valence (0.7)**: More negative toward the regulation, pointing out perceived flaws and unfairness.
+- **Dominance (0.7)**: Strongly dominant; the speaker asserts their position against the cap and its consequences.
+- **Intensity (0.8)**: High intensity; the language conveys a strong opinion on fairness and economic impact.
+- **Concreteness (0.7)**: Concrete, as it describes specific practices and their economic implications in a straightforward manner.
+
+**4th Quarter: "Vehicles which have passed safety inspections, have licensed drivers, and have accurate fare systems should be allowed to pick up passengers. Right now they are not unless they have a special permit from the government that you can't get because they stopped issuing new ones in the 30s."**
+
+- **Valence (0.8)**: Positive toward the idea of equal treatment for vehicles meeting safety standards, while negative toward the current system.
+- **Dominance (0.8)**: Very dominant; it lays out a clear argument for a change in policy.
+- **Intensity (0.9)**: High intensity; passionate about fairness and practical standards.
+- **Concreteness (0.9)**: Very concrete, providing specific details about safety inspections and the historical context of permits.
+
+**Summary of Ratings:**
+
+- **1st Quarter**: Valence (0.6), Dominance (0.4), Intensity (0.5), Concreteness (0.7)
+- **2nd Quarter**: Valence (0.5), Dominance (0.6), Intensity (0.6), Concreteness (0.6)
+- **3rd Quarter**: Valence (0.7), Dominance (0.7), Intensity (0.8), Concreteness (0.7)
+- **4th Quarter**: Valence (0.8), Dominance (0.8), Intensity (0.9), Concreteness (0.9)
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument based on the criteria of valence, dominance, intensity, and concreteness, we can break down the provided argument into quarters and evaluate each section accordingly:
+
+1. **Quarter 1**: "Taxi's ability to be hailed from the street is what usually separates them from other services, such as, black car services."
+   - **Valence**: 0.6 (The statement has a neutral to slightly positive tone, focusing on a characteristic of taxis.)
+   - **Dominance**: 0.5 (The statement presents an observable difference but does not assert a strong position.)
+   - **Intensity**: 0.4 (The language is factual and straightforward, lacking emotional weight.)
+   - **Concreteness**: 0.7 (The argument is quite concrete, referring directly to a distinguishable feature of taxis.)
+
+2. **Quarter 2**: "Uber cars cannot be hailed from the street."
+   - **Valence**: 0.5 (This is a factual statement without a strong positive or negative connotation.)
+   - **Dominance**: 0.5 (The statement presents a fact about Uber, but does not carry an authoritative weight.)
+   - **Intensity**: 0.3 (Very straightforward and lacks emotional undertones.)
+   - **Concreteness**: 0.8 (Highly concrete, as it describes a specific fact about Uber.)
+
+3. **Quarter 3**: "Thus they should not be regulated in the same manner as Taxis."
+   - **Valence**: 0.4 (This features a slight negative implication toward taxi regulations compared to Uber, but it’s still mild.)
+   - **Dominance**: 0.6 (The claim asserts a conclusion that could suggest a changing power dynamic in regulations.)
+   - **Intensity**: 0.5 (Moderate intensity as it makes a specific claim about regulation.)
+   - **Concreteness**: 0.6 (The assertion is somewhat concrete but relies on the previous two premises.)
+
+### Summary of Ratings
+- **Quarter 1**:
+  - Valence: 0.6
+  - Dominance: 0.5
+  - Intensity: 0.4
+  - Concreteness: 0.7
+
+- **Quarter 2**:
+  - Valence: 0.5
+  - Dominance: 0.5
+  - Intensity: 0.3
+  - Concreteness: 0.8
+
+- **Quarter 3**:
+  - Valence: 0.4
+  - Dominance: 0.6
+  - Intensity: 0.5
+  - Concreteness: 0.6
+
+These ratings reflect an analysis of the argument's qualities in terms of how it is presented in the text.
+

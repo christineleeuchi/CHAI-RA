@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on valence, dominance, intensity, and concreteness, I'll break down the text into four quarters and provide scores from 0.0 to 1.0 for each category in each quarter.
+
+### Quarter 1
+**Text:** "CMV: Parents should not allow their child to live transgender/ cross dress under the age of 12-13 I am friends with a woman on facebook who does drag. She has a young son (10) who she dresses up (I have to think she dresses him, as he is not old enough to attain his own clothes) as a girl."
+
+- **Valence:** 0.3 (Negative tone about the situation)
+- **Dominance:** 0.6 (Expressing control over the narrative that parents should decide)
+- **Intensity:** 0.5 (Moderately intense expression of concern)
+- **Concreteness:** 0.4 (Specific to the situation but vague on broader implications)
+
+### Quarter 2
+**Text:** "It has gotten to the point where she has made a fan page for him where she constantly posts pictures of him in his drag/ female attire."
+
+- **Valence:** 0.2 (More negative as it implies concern regarding parental actions)
+- **Dominance:** 0.5 (Implying a judgement on the mother's choices)
+- **Intensity:** 0.6 (Strongly expresses discomfort with the public nature of the posts)
+- **Concreteness:** 0.5 (Clear description of the situation)
+
+### Quarter 3
+**Text:** "Are children able to consciously make a decision like that, which will likely affect their entire schooling experience, at such a young age? Or is it a 'dress like mommy does' case, where the parent allows it because they are so affluent in that lifestyle?"
+
+- **Valence:** 0.4 (Questioning indicates some neutrality but reflects concern)
+- **Dominance:** 0.4 (Posing questions but not exerting control)
+- **Intensity:** 0.5 (Moderate intensity in questioning the child’s agency)
+- **Concreteness:** 0.7 (Specific questions, inviting thought and discussion)
+
+### Quarter 4
+**Text:** "I am all for gender equality, fluidity, and expressing yourself how you see fit. But I have a hard time believing that a child can choose that and they want to begin to pave their life after that when their brain is developing. It almost feels forced and that the parent is making that choice for them. It also kind of rubs me the wrong way that the parent posts all these public pictures of her son on Facebook in a fan page, none the less. Should he not be able to decide who sees his lifestyle choices? He obviously doesn't have a Facebook, being that he's 10, so I very seriously doubt that he was asked if its ok."
+
+- **Valence:** 0.3 (Balancing supportive views with critical concerns)
+- **Dominance:** 0.5 (Conveys a sense of personal opinion and judgement)
+- **Intensity:** 0.7 (High intensity as it expresses strong feelings about the situation)
+- **Concreteness:** 0.6 (Specific examples used but still somewhat abstract in the overarching argument)
+
+### Summary of Scores
+1. **Quarter 1:** Valence: 0.3 | Dominance: 0.6 | Intensity: 0.5 | Concreteness: 0.4
+2. **Quarter 2:** Valence: 0.2 | Dominance: 0.5 | Intensity: 0.6 | Concreteness: 0.5
+3. **Quarter 3:** Valence: 0.4 | Dominance: 0.4 | Intensity: 0.5 | Concreteness: 0.7
+4. **Quarter 4:** Valence: 0.3 | Dominance: 0.5 | Intensity: 0.7 | Concreteness: 0.6
+

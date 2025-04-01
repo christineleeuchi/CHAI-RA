@@ -1,0 +1,78 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the ratings for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1
+**Text:**
+"You are misinterpreting training as a guarantee that someone can do the job well. Plenty of people can pass tests, go through courses, etc and still have issues down the line. All that initial training and testing is to weed out people who are obviously not qualified and ensure there are standards of basic knowledge/skills employees possess to do the job properly."
+
+- **Valence:** 0.6 (The tone is somewhat critical but not overtly aggressive.)
+- **Dominance:** 0.7 (The speaker is assertive, challenging the listener's perspective.)
+- **Intensity:** 0.5 (The argument presents a moderate level of intensity in its delivery.)
+- **Concreteness:** 0.6 (The argument provides examples but could use more specific data or instances.)
+
+### Quarter 2
+**Text:**
+"Judging someone solely on such a short sighted and narrow view of their qualifications is simply not smart decision making, especially when other people's lives are at stake."
+
+- **Valence:** 0.7 (The tone is more accusatory, implying a failure in judgment.)
+- **Dominance:** 0.6 (There's a strong assertion about decision-making but slightly softer in tone.)
+- **Intensity:** 0.7 (Moderate to high intensity, emphasizing the seriousness of the implications.)
+- **Concreteness:** 0.5 (The statement is more abstract in discussing decision-making without specific examples.)
+
+### Quarter 3
+**Text:**
+"And your definition of 'mentally ill' simply isn't well developed enough to really be able to change your view on the issue. What disorders are you including? How can you make a meaningful statement about how violent they are if you are lumping a bunch of disorders together?"
+
+- **Valence:** 0.5 (The tone is critical but remains somewhat neutral in expression.)
+- **Dominance:** 0.6 (The speaker asserts an intellectual dominance by questioning the listener's definition.)
+- **Intensity:** 0.5 (This section is more analytic than emotional; moderate intensity.)
+- **Concreteness:** 0.8 (Clear questions are posed that require specific considerations, making it more concrete.)
+
+### Quarter 4
+**Text:**
+"Why are you only considering rate of violence when plenty of other issues that mental disorders could bring about would affect job performance. Also you need to realize that we are not all equal from a performance standpoint. In the real world, we have different abilities to handle stress, perform under time constraints, etc. The issue is not whether someone can pass a test or qualification on a single day, it is can they repeat the same task every day with little to no error. Someone with a mental illness may have more variation in performance because it is simply another variable taking away from one's ability to do a stressful job well."
+
+- **Valence:** 0.5 (The tone is analytical, slightly challenging but not overly aggressive.)
+- **Dominance:** 0.7 (The speaker asserts a clear understanding of performance metrics.)
+- **Intensity:** 0.6 (Moderately intense, as the real-world implications are emphasized.)
+- **Concreteness:** 0.7 (This section provides specific examples of performance issues, adding to its concreteness.) 
+
+**Summary of Ratings:**
+- Quarter 1: Valence: 0.6, Dominance: 0.7, Intensity: 0.5, Concreteness: 0.6
+- Quarter 2: Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.5
+- Quarter 3: Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.8
+- Quarter 4: Valence: 0.5, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.7
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To analyze the argument based on the specified criteria (valence, dominance, intensity, and concreteness), I will break it down into four quarters and assign a rating from 0.0 to 1.0 for each aspect for each quarter.
+
+### Quarter 1: "Well, I can see that, but in the case of police officers, what if the mental illness was one in which the person would be unable to make a rational split-second decision?"
+- **Valence:** 0.6 (The tone is somewhat neutral to slightly negative, as it raises a serious concern.)
+- **Dominance:** 0.5 (The speaker is positing a viewpoint but is not overly aggressive in asserting it.)
+- **Intensity:** 0.5 (The concern about mental illness is present, but it's not expressed in an extreme or highly passionate way.)
+- **Concreteness:** 0.6 (The argument mentions a tangible scenario regarding police work, making it somewhat concrete.)
+
+### Quarter 2: "Realistically, these are people who have stressful jobs and they don't know when or if they're going to face a violent criminal who might have a deadly weapon when they go to work every day..."
+- **Valence:** 0.7 (This quarter expresses concern for police officers, which adds a slightly positive tone towards their situation.)
+- **Dominance:** 0.6 (The speaker emphasizes the significance of the job stress, indicating it is a dominant factor.)
+- **Intensity:** 0.7 (The stress and unpredictability of the job are highlighted, showing a higher intensity in the argument.)
+- **Concreteness:** 0.7 (It includes specific details about the nature of police work, enhancing the argument's concreteness.)
+
+### Quarter 3: "...of course they're going to make the occasional mistake as it is."
+- **Valence:** 0.4 (This statement acknowledges the reality of mistakes, which could be seen as slightly negative.)
+- **Dominance:** 0.4 (It makes a relatively minor assertion regarding mistakes, lacking strong dominance.)
+- **Intensity:** 0.5 (The acknowledgment of human error is moderate in intensity.)
+- **Concreteness:** 0.5 (It's somewhat concrete but lacks specific examples and details.)
+
+### Quarter 4: "I think you mentioned training in other replies, but eventually the man with a mental illness is going to run up across a situation that hasn't been covered in training and that's when he might have a meltdown."
+- **Valence:** 0.5 (Neutral to slightly negative as it points out a potential failure in the system.)
+- **Dominance:** 0.6 (There is a strong suggestion that the training may not compensate for mental illness.)
+- **Intensity:** 0.6 (The term "meltdown" carries some intensity, indicating a significant concern.)
+- **Concreteness:** 0.6 (It references training and potential situations, adding concrete elements to the argument.)
+
+### Summary of Ratings
+- **Quarter 1:** Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 2:** Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.7
+- **Quarter 3:** Valence: 0.4, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.5
+- **Quarter 4:** Valence: 0.5, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.6
+

@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a scoring for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### First Quarter: Boxes stack neatly (if sizes match)
+- **Valence**: 0.6 (Positive aspect, but minor in significance)
+- **Dominance**: 0.4 (A small factor that doesn’t dramatically influence overall perception)
+- **Intensity**: 0.5 (Moderate impact; stacking is visually appealing, but not a priority for most)
+- **Concreteness**: 0.7 (Concrete idea; easy to envision)
+
+### Second Quarter: Cardboard can be used for crafts or educational purposes
+- **Valence**: 0.5 (Somewhat positive, but appeals to a niche audience)
+- **Dominance**: 0.3 (Not a major influence in the cereal choice decision)
+- **Intensity**: 0.4 (Mildly interesting, but limited impact)
+- **Concreteness**: 0.6 (Tangible concept, but less relevant for many consumers)
+
+### Third Quarter: Better reading material/activities on the back of the box
+- **Valence**: 0.7 (Positive) 
+- **Dominance**: 0.4 (Influences some consumers, but not universally)
+- **Intensity**: 0.6 (Some excitement for parents and children)
+- **Concreteness**: 0.7 (Easy to visualize and understand)
+
+### Fourth Quarter: Better prizes and entertaining ad campaigns
+- **Valence**: 0.8 (Very positive; appeals widely to children and nostalgic adults) 
+- **Dominance**: 0.6 (Can be a strong factor in choosing cereals, especially for families)
+- **Intensity**: 0.7 (Higher excitement level associated with prizes)
+- **Concreteness**: 0.7 (Clear, tangible concepts that can be easily imagined)
+
+Overall, the argument presents some valid points about boxed cereals, but they mainly appeal to certain consumer preferences. The scores reflect the varying degrees of importance and influence these aspects might have when comparing with bagged cereals.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s the rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **Valence (Positive or Negative Emotional Tone)**
+   - **Score: 0.4** 
+   - The argument has a somewhat negative tone towards bagged cereals, focusing on their downsides. However, it recognizes some pros of boxed cereals, keeping it from being overly negative.
+
+2. **Dominance (Authority or Control of Argument)**
+   - **Score: 0.6**
+   - The speaker expresses a strong opinion on the benefits of boxed cereal, particularly regarding storage and brand value. There’s a sense of authority in their assertion that these factors justify the higher price.
+
+3. **Intensity (Strength of Emotion or Conviction)**
+   - **Score: 0.5**
+   - The argument presents a moderate level of intensity. The speaker conveys conviction about the storage benefits and brand value but does so in a fairly matter-of-fact way rather than passionately.
+
+4. **Concreteness (Specificity and Tangibility of Ideas)**
+   - **Score: 0.7**
+   - This argument is fairly concrete. The mention of stacking as a storage benefit and the details about pricing and freshness provide tangible points for consideration, making it relatable and easy to understand.
+
+Overall, the argument provides a balanced view of boxed cereals while critiquing bagged cereals, exhibiting varying levels of emotion and specificity along the way.
+

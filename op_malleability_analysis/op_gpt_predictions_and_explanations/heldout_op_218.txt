@@ -1,0 +1,29 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To analyze the argument using the specified criteria—valence, dominance, intensity, and concreteness—let’s examine each quarter of the text individually and assign a score from 0.0 to 1.0.
+
+**Quarter 1: "CMV: I don't like tipping."**
+- **Valence:** 0.3 (Negative sentiment towards tipping)
+- **Dominance:** 0.4 (Expresses personal opinion, but not very strong or commanding)
+- **Intensity:** 0.5 (Moderately intense, straightforward dislike)
+- **Concreteness:** 0.8 (Clear and direct statement)
+
+**Quarter 2: "Leaving a tip feels so customary in certain places that it's become an incentive to do your job properly."**
+- **Valence:** 0.4 (Neutral to slightly negative, critiquing the tipping culture)
+- **Dominance:** 0.5 (More assertive in expressing a viewpoint)
+- **Intensity:** 0.6 (Moderately intense in discussing the implications of tipping)
+- **Concreteness:** 0.7 (Somewhat abstract because it's discussing cultural norms)
+
+**Quarter 3: "I understand that it's the service that they provide and not just the food, but isn't that exactly what they're paid for? To give a paying customer a good service?"**
+- **Valence:** 0.5 (Balanced view acknowledging both sides)
+- **Dominance:** 0.5 (Poses a rhetorical question, engaging the listener)
+- **Intensity:** 0.7 (Stronger intensity due to the challenge of the expectation to tip)
+- **Concreteness:** 0.8 (Specific discussion about job responsibilities)
+
+**Quarter 4: "Although I sympathize with their outrageously low wages, but why should I have to fork out more of my money that I'm already spending at a restaurant to subsidize young Jenny here, to get her up to normal living wage? Isn't that a governmental issue of poverty/low wages?"**
+- **Valence:** 0.2 (Negative view, especially towards the idea of tipping as a solution)
+- **Dominance:** 0.6 (Assertive in asking why the burden falls on the customer)
+- **Intensity:** 0.8 (High intensity, as it expresses frustration about personal financial responsibility)
+- **Concreteness:** 0.6 (Discusses specific individuals and general societal issues but remains somewhat abstract)
+
+Overall, these scores reflect the argument's shifting sentiment and engagement with the topic of tipping, service wages, and personal responsibility.
+

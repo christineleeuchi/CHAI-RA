@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided, I'll rate each quarter based on valence, dominance, intensity, and concreteness. Here's the breakdown:
+
+1. **First Quarter:** "If a cop pulls you over because you were speeding, are you really saying that you ignore the authority of the vehicle with the flashing lights behind you and just keep on driving."
+   - **Valence:** 0.6 (The tone suggests a challenge to authority, but it’s not overtly negative.)
+   - **Dominance:** 0.7 (Fragment emphasizes the power dynamics between the driver and police.)
+   - **Intensity:** 0.5 (There is a moderate intensity in questioning the action of ignoring authority.)
+   - **Concreteness:** 0.8 (The scenario is specific and relatable, involving a common situation.)
+
+2. **Second Quarter:** "Or, when they ask you to show lis. and registration are you just going to ignore what they say?"
+   - **Valence:** 0.6 (The tone is still questioning but leans towards the negative implications of ignoring requests.)
+   - **Dominance:** 0.7 (It reinforces the authority of the police by emphasizing compliance.)
+   - **Intensity:** 0.5 (Moderate intensity, questioning compliance with authority.)
+   - **Concreteness:** 0.9 (Asking for a license and registration is a very concrete and specific action.)
+
+Overall, the argument appears to emphasize authority and the expectation of compliance in a way that is largely grounded in real-world scenarios, thus making it impactful yet reasonable in its demand for acknowledgment of police authority.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's my assessment of the argument provided. I will rate each quarter of the argument on a scale from 0.0 to 1.0 for valence, dominance, intensity, and concreteness.
+
+**1st Quarter: "I'm not saying to go around saying the fuck the police and disobeying them for no reason. I'm saying only show deference when they are acting appropriately."**
+
+- **Valence: 0.6** (The sentiment is generally positive, promoting reasoned behavior, but there is still a trace of negativity toward blind obedience.)
+- **Dominance: 0.5** (The speaker seems to assert a balanced stance, advocating for measured responses towards authority.)
+- **Intensity: 0.5** (The emotional intensity seems moderate, reflecting both a reasoned approach and a critique of blind authority.)
+- **Concreteness: 0.7** (The argument is specific in the sense of conditional deference; it points to clear criteria for compliance.)
+
+**2nd Quarter: "I think the problem if everyone followed your view is that people could be misinformed about their rights and the law, or wrong about whether not the police are acting legally."**
+
+- **Valence: 0.5** (The tone is neutral to somewhat negative; it critiques the potential for misunderstanding without dismissing the argument outright.)
+- **Dominance: 0.6** (The speaker asserts that misunderstanding leads to problems, establishing a legitimate concern.)
+- **Intensity: 0.4** (Less emotionally charged; it presents a logical concern rather than a passionate argument.)
+- **Concreteness: 0.6** (The argument identifies specific issues that arise from misinformation about rights, making it fairly concrete.)
+
+**3rd Quarter: "Imagine a bunch of teens reeking of weed who refuse to comply with an exit vehicle request and argue because they believe that doing so is to consent to a search of their car."**
+
+- **Valence: 0.4** (The situation described has a somewhat negative connotation, highlighting a conflict and potential legal issues.)
+- **Dominance: 0.5** (The scenario illustrates a situation where authority is being questioned but lacks clear dominance; both sides feel justified.)
+- **Intensity: 0.6** (This section evokes a slightly higher emotional response through its depiction of a common conflict between youth and authority.)
+- **Concreteness: 0.8** (The hypothetical scenario is very specific, providing a clear real-world example of the argument.)
+
+**4th Quarter: "If you're not a lawyer, you likely don't know all the nuances of the law, and a challenge in court has the judge there to decide who is in the wrong. A personal challenge has no third party to decide but does have two individuals who probably both think they're in the right (and one is wrong)."**
+
+- **Valence: 0.5** (The tone remains neutral, highlighting the limitations of laypersons' understanding of legal matters.)
+- **Dominance: 0.6** (It stresses the importance of legal authority in deciding disputes, suggesting the speaker holds more knowledge in the legal domain.)
+- **Intensity: 0.5** (Moderate intensity, as it communicates a significant but rational concern about the decision-making process in conflicts with law enforcement.)
+- **Concreteness: 0.7** (While the phrasing is more abstract, it refers to specific roles in legal disputes, which lends it a degree of clarity.)
+
+In summary, these ratings reflect an analysis of the emotional content, authoritative stance, engagement, and specificity of the argument.
+

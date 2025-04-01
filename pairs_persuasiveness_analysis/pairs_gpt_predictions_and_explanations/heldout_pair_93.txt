@@ -1,0 +1,64 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **Quarter 1: "I don't have a good verbal argument for this... but compare Black Flag to The Bad Brains and you'll find tremendous differences."**
+   - **Valence (0.5)**: Neutral; there's a recognition of differences without strong positive or negative emotions attached.
+   - **Dominance (0.4)**: Low; the speaker feels somewhat unsure and isn't asserting dominance in the argument.
+   - **Intensity (0.3)**: Low; the language is mild and doesn’t convey strong emotions or excitement. 
+   - **Concreteness (0.6)**: Medium; while the speaker points to specific bands, they don’t provide concrete examples yet.
+
+2. **Quarter 2: "I think your rap analogy is pretty solid."**
+   - **Valence (0.7)**: Positive; the speaker expresses agreement and appreciation.
+   - **Dominance (0.5)**: Neutral; there’s a sense of collaboration rather than asserting superiority.
+   - **Intensity (0.4)**: Low to medium; the expression of opinion is supportive but not very charged.
+   - **Concreteness (0.5)**: Medium; while the argument is established, it relies on prior knowledge of rap.
+
+3. **Quarter 3: "I friggin love NWA and the Wu Tang but a LOT of people even ones who really like rap think most of the Wu Tang songs are weird and boring experimental nonsense... they've got over 100 tracks and maybe 20 of them are phenomenal while some of the others leave you scratching your head."**
+   - **Valence (0.6)**: Mixed; the speaker expresses love for the artists, but acknowledges criticism from others.
+   - **Dominance (0.5)**: Neutral; there's a personal opinion shared without dominance over the subject.
+   - **Intensity (0.6)**: Medium; the emotional word "friggin" enhances the intensity somewhat.
+   - **Concreteness (0.7)**: High; specific examples (NWA, Wu Tang, number of tracks) provide concrete details.
+
+4. **Quarter 4: "Mostly for Punk / hardcore you're listening for a hook that grabs you. A lot of it is emotional resonance... My War by Black Flag absolutely falls in the category of Fast, loud, no melody... but it grabs you and holds you for the whole song if you've ever had a period in your life where you were just pissed off... It's actually really similar to gangsta rap... it's about a feeling... often one of anger or trying to get over on 'the system.'"**
+   - **Valence (0.8)**: Positive; the speaker conveys a strong appreciation for emotional connection.
+   - **Dominance (0.6)**: Medium; the speaker asserts insights about the genre which shows confidence in their understanding.
+   - **Intensity (0.7)**: Medium to high; the emotional resonance discussed adds depth and passion to the argument.
+   - **Concreteness (0.8)**: High; specific references to a song and descriptions of the music lend a strong sense of reality to the argument.
+
+Overall, the argument presents a thoughtful exploration of punk/hardcore music in relation to rap, highlighting differences while also building on shared emotional experiences.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here's a breakdown of the argument you provided, along with ratings for valence, dominance, intensity, and concreteness for each quarter of the text:
+
+### 1st Quarter: "how did you learn to tell the difference between rap artists? Did you listen to a handle full of songs once and you were done?"
+- **Valence: 0.6** (Neutral, but slightly inviting curiosity)
+- **Dominance: 0.4** (Questioning, somewhat exploratory tone)
+- **Intensity: 0.5** (Moderate intensity; an inquiry into the listener's experience)
+- **Concreteness: 0.7** (Direct and specific about experiences with music)
+
+### 2nd Quarter: "Or did you spend a lot of time exploring different tracks from different artists?"
+- **Valence: 0.7** (Positive, encourages deeper exploration)
+- **Dominance: 0.3** (Less dominant, as it leads the listener to consider their own experience)
+- **Intensity: 0.6** (Moderate intensity; suggests an active investment in music)
+- **Concreteness: 0.8** (Concrete in suggesting a specific action: exploring tracks)
+
+### 3rd Quarter: "Invest as much time in punk as you have in rap and you might start to notice more of the nuance."
+- **Valence: 0.5** (Neutral, suggesting potential for discovery)
+- **Dominance: 0.5** (Balanced; encourages action but implies a bit of authority in the suggestion)
+- **Intensity: 0.6** (Moderate intensity; optimistic about finding nuance)
+- **Concreteness: 0.7** (Specific suggestion to invest time to gain understanding)
+
+### 4th Quarter: "That being said, you're in luck, because punk is long dead."
+- **Valence: 0.3** (Negative; suggests a dismissive or pessimistic view of punk's relevance)
+- **Dominance: 0.6** (More dominant in asserting a conclusion about punk)
+- **Intensity: 0.7** (Higher intensity; conveys a strong opinion)
+- **Concreteness: 0.6** (General statement about punk's status, somewhat abstract)
+
+### Summary Ratings:
+1st Quarter: Valence 0.6 | Dominance 0.4 | Intensity 0.5 | Concreteness 0.7  
+2nd Quarter: Valence 0.7 | Dominance 0.3 | Intensity 0.6 | Concreteness 0.8  
+3rd Quarter: Valence 0.5 | Dominance 0.5 | Intensity 0.6 | Concreteness 0.7  
+4th Quarter: Valence 0.3 | Dominance 0.6 | Intensity 0.7 | Concreteness 0.6  
+
+Feel free to ask if you have any further questions or if you'd like more detailed explanations!
+

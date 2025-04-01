@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To provide a rating score from 0.0 to 1.0 for each criterion of the argument presented, I'll break down the argument into four quarters and assess the valence, dominance, intensity, and concreteness for each part.
+
+### Quarter 1:
+**Argument:** "You're right, race should have no effect."
+- **Valence:** 0.2 (The statement is somewhat positive but lacks nuance and acknowledges a simplistic view.)
+- **Dominance:** 0.3 (The speaker asserts an opinion, but does not fully establish authority in the context of the argument.)
+- **Intensity:** 0.4 (It expresses a clear sentiment, but it is not highly passionate.)
+- **Concreteness:** 0.2 (The statement is abstract and lacks specific examples or details.)
+
+### Quarter 2:
+**Argument:** "Non-white people are at a disadvantage in many aspects of life. Standardized tests are biased towards white people..."
+- **Valence:** 0.8 (The statement acknowledges systemic issues, creating a negative view towards current inequities.)
+- **Dominance:** 0.7 (Establishes authority by presenting a well-supported argument regarding biases.)
+- **Intensity:** 0.7 (The wording conveys urgency and highlights the seriousness of the issues; fairly strong.)
+- **Concreteness:** 0.8 (Provides specific examples of disadvantages faced by non-white individuals.)
+
+### Quarter 3:
+**Argument:** "These disadvantages, to a large degree, are the direct result of racist laws and culture..."
+- **Valence:** 0.8 (Continues the negative tone focused on the impact of systemic racism.)
+- **Dominance:** 0.8 (The argument effectively builds on established knowledge of systemic racism, showing strong command of the topic.)
+- **Intensity:** 0.8 (The language used is impactful and conveys a strong message regarding the lasting effects of racism.)
+- **Concreteness:** 0.7 (Relevant historical context provided, though still general, strengthens the argument.)
+
+### Quarter 4:
+**Argument:** "You cannot ignore the disadvantages faced by others which have given you a great benefit... and call that unfair."
+- **Valence:** 0.9 (Strong negative tone addressing privilege and systemic inequity.)
+- **Dominance:** 0.8 (Assertive, making the speaker's point of view clear and compelling.)
+- **Intensity:** 0.9 (Very strong emotional appeal, effectively driving home the point about privilege.)
+- **Concreteness:** 0.6 (More abstract, focusing on awareness of privilege rather than specific examples.)
+
+### Summary:
+- **Quarter 1:** Valence 0.2 | Dominance 0.3 | Intensity 0.4 | Concreteness 0.2
+- **Quarter 2:** Valence 0.8 | Dominance 0.7 | Intensity 0.7 | Concreteness 0.8
+- **Quarter 3:** Valence 0.8 | Dominance 0.8 | Intensity 0.8 | Concreteness 0.7
+- **Quarter 4:** Valence 0.9 | Dominance 0.8 | Intensity 0.9 | Concreteness 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here is the rating for each aspect of the argument across the specified quarters:
+
+1. **First Quarter (If you don't do good in school...)**
+   - **Valence**: 0.4 (Neutral to slightly negative; the statement challenges the notion of individual responsibility without considering external factors.)
+   - **Dominance**: 0.5 (The speaker asserts a viewpoint but does not exhibit strong dominance over the discourse.)
+   - **Intensity**: 0.5 (Moderate intensity; the argument presents a firm stance but isn't overly emotional.)
+   - **Concreteness**: 0.6 (Some concrete ideas are presented, such as the mention of individual capacity and effort.)
+
+2. **Second Quarter (Some parents don't stress education...)**
+   - **Valence**: 0.7 (Positive; recognizes external factors affecting student success.)
+   - **Dominance**: 0.4 (The argument presents an observation about parental influence but remains subordinate to the initial claim.)
+   - **Intensity**: 0.5 (Moderate; while the point is significant, it lacks emotional weight.)
+   - **Concreteness**: 0.7 (More concrete examples of parental influence and its implications.)
+
+3. **Third Quarter (A 9 year old can't be expected...)**
+   - **Valence**: 0.6 (Positive; emphasizes the limitations of children in making decisions about education.)
+   - **Dominance**: 0.5 (Equal weight to the prior points, contributing to the overall discourse.)
+   - **Intensity**: 0.6 (Fairly intense; emphasizes the limitations of children which adds emotional weight.)
+   - **Concreteness**: 0.8 (Concretely illustrates the argument with clear examples of child development.)
+
+4. **Fourth Quarter (So you're saying that racial bias...)**
+   - **Valence**: 0.7 (Positive; strongly challenges the claim that racial bias is no longer a factor.)
+   - **Dominance**: 0.8 (High dominance; asserts a strong counterpoint to the previous claim about affirmative action.)
+   - **Intensity**: 0.9 (High intensity; presents a strong emotional charge in response to perceived misinformation.)
+   - **Concreteness**: 0.7 (Concrete correlation made between standardized tests, race, and socio-economic status.)
+
+These scores illustrate how different aspects of the argument fluctuate in their emotional tone, authority, intensity, and specificity throughout the passage.
+

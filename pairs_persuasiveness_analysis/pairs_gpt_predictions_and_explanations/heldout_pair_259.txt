@@ -1,0 +1,89 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's a rating for each aspect of the argument based on the provided text, broken down into quarters:
+
+### Quarter 1:
+**Valence: 0.5**  
+The tone is neutral, aiming to offer a perspective without strong positive or negative feelings.
+
+**Dominance: 0.4**  
+The argument presents a counterpoint to the original claim but does not aggressively dominate or assert authority.
+
+**Intensity: 0.3**  
+The intensity is low as it presents its point in a calm and rational manner without emotive language.
+
+**Concreteness: 0.6**  
+Refers to a specific type of person (friend using a wheelchair), anchoring the argument in a real-life scenario, making it somewhat concrete.
+
+### Quarter 2:
+**Valence: 0.6**  
+This part leans slightly more positive as it emphasizes a valid behavior of someone with a wheelchair, creating a sympathetic tone.
+
+**Dominance: 0.5**  
+The argument begins to take a stronger position by suggesting that there is a pattern of behavior affecting visibility.
+
+**Intensity: 0.4**  
+Maintains a moderate level of intensity, but not overly emotional.
+
+**Concreteness: 0.7**  
+The mention of specific behavior (shopping during less busy hours) adds to the concrete nature of the argument.
+
+### Quarter 3:
+**Valence: 0.5**  
+Continues with a neutral tone, focusing on the aspect of observation and perception.
+
+**Dominance: 0.5**  
+There’s a stronger assertiveness coming through by challenging the original perception of availability.
+
+**Intensity: 0.4**  
+Similar to previous sections; it discusses observation without heightened emotional language.
+
+**Concreteness: 0.5**  
+The argument discusses personal observation which abstractly involves the reader, but remains general regarding the overall context of time spent.
+
+### Quarter 4:
+**Valence: 0.5**  
+Again, a neutral tone that maintains a balanced view of the issue.
+
+**Dominance: 0.6**  
+In this portion, the argument firmly states that confirmation bias may influence the original viewpoint, enhancing its dominance.
+
+**Intensity: 0.5**  
+Adopts a more analytical tone which introduces a mixed level of intensity.
+
+**Concreteness: 0.6**  
+Discusses the concept of confirmation bias, which while somewhat abstract, ties back to a concrete idea of personal observation.
+
+### Summary Ratings:
+- Quarter 1: Valence 0.5, Dominance 0.4, Intensity 0.3, Concreteness 0.6
+- Quarter 2: Valence 0.6, Dominance 0.5, Intensity 0.4, Concreteness 0.7
+- Quarter 3: Valence 0.5, Dominance 0.5, Intensity 0.4, Concreteness 0.5
+- Quarter 4: Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument in terms of valence, dominance, intensity, and concreteness, I'll break it down into quarters and assign a score between 0.0 and 1.0 for each aspect for each quarter.
+
+**Quarter 1: "I must have heard soooo many stories from people who catch flak because they don't 'look disabled' just because they can walk the short distance from the handicapped spot to the store."**
+
+- **Valence:** 0.6 (The sentiment is somewhat negative towards the misunderstanding faced by people with invisible disabilities.)
+- **Dominance:** 0.4 (The speaker feels somewhat empowered to share these stories, but there's an underlying tone of frustration.)
+- **Intensity:** 0.7 (The use of "soooo many" conveys a high level of engagement and urgency in the statement.)
+- **Concreteness:** 0.5 (The example is anecdotal but lacks specific details or cases for greater clarity.)
+
+**Quarter 2: "Maybe they're just having a good day and probably half of them are going to make use of those scooter carts when they get into the store."**
+
+- **Valence:** 0.5 (This part has a neutral tone, suggesting understanding but also a hint of skepticism.)
+- **Dominance:** 0.4 (There's less assertiveness here, as the speaker is speculating rather than stating facts.)
+- **Intensity:** 0.5 (The language is moderate and doesn’t evoke strong emotion but still engages the reader.)
+- **Concreteness:** 0.6 (The mention of "scooter carts" provides a tangible element, but the hypothetical nature reduces specificity.)
+
+**Quarter 3: "Besides, most people don't know this, but most businesses that have an actual parking lot are required by the Americans with Disabilities Act to have a certain number of handicapped parking spots depending on the size of their parking lot."**
+
+- **Valence:** 0.7 (This portion has an informative tone, shedding light on a requirement that may help those who do not understand the reasoning behind accessible parking.)
+- **Dominance:** 0.6 (The speaker presents themselves as knowledgeable, thereby asserting greater authority in this part of the argument.)
+- **Intensity:** 0.4 (While informative, this section is more factual than emotional.)
+- **Concreteness:** 0.9 (The reference to the Americans with Disabilities Act adds a strong legal and factual basis to the claim.)
+
+**Quarter 4: (N/A)** - There are no more sentences after this, so we cannot evaluate a fourth quarter. 
+
+Overall, if the entire argument were to be averaged out, the scores would reflect a mix of personal anecdotes, factual information, and varying emotional undertones.
+

@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+**1st Quarter: "I am not going to argue that you make some really good points, and in theory I agree with you."**
+
+- **Valence:** 0.8 (Positive acknowledgment of the other person's points)
+- **Dominance:** 0.2 (Submissive tone; does not assert control)
+- **Intensity:** 0.4 (Moderate level of intensity)
+- **Concreteness:** 0.5 (Somewhat abstract as it is mostly agreeing)
+
+**2nd Quarter: "But, can you imagine what revising the Constitution would look like? The 2nd amendment fight would be brutal..."**
+
+- **Valence:** 0.3 (Skeptical and cautionary stance)
+- **Dominance:** 0.5 (Raises questions and challenges, but is not overly assertive)
+- **Intensity:** 0.7 (High intensity due to the strong language like "brutal")
+- **Concreteness:** 0.6 (Speculative, but provides concrete examples related to the amendments)
+
+**3rd Quarter: "And there is more! How about delineating the powers of the branches of government?..."**
+
+- **Valence:** 0.4 (Maintains a neutral to negative tone regarding the complexity of the issue)
+- **Dominance:** 0.6 (More assertive in questioning and seeking clarity)
+- **Intensity:** 0.6 (Medium-high intensity as it raises significant issues)
+- **Concreteness:** 0.7 (Specific examples are provided, improving clarity)
+
+**4th Quarter: "So, I agree with you. There is just no way to get it done."**
+
+- **Valence:** 0.2 (Negative conclusion implying hopelessness)
+- **Dominance:** 0.5 (Balanced, but indicates resignation)
+- **Intensity:** 0.5 (Moderate intensity, but the overall sentiment is downbeat)
+- **Concreteness:** 0.5 (Reiterates the former points without introducing new specifics)
+
+These scores reflect the emotional and cognitive aspects of the argument presented, indicating a mix of agreement, skepticism, and recognition of the challenges involved.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating for each of the requested dimensions based on the argument provided:
+
+1. **Valence**: 0.7 
+   - The argument expresses a positive valence towards the current state of the Constitution, emphasizing that it should remain unchanged. However, there is a slight negative undertone when addressing those who advocate for change, especially with the term "ignorant" used in reference to perspectives on the Second Amendment.
+
+2. **Dominance**: 0.6 
+   - The author presents a strong, assertive stance on their opinion about the Constitution, indicating a level of confidence in their argument. However, there is also an invitation for further discussion with the question posed at the end, which suggests a somewhat lower level of dominance compared to an argument that does not entertain counterpoints.
+
+3. **Intensity**: 0.5 
+   - The intensity of the argument is moderate. It conveys conviction but lacks highly emotive language or strong persuasive techniques. The author maintains a rational tone throughout and does not resort to extreme expressions of frustration or anger.
+
+4. **Concreteness**: 0.6 
+   - There are concrete references to specific aspects of the Constitution, particularly the Bill of Rights and the Second Amendment. However, the argument could benefit from more specific examples of why the existing amendments should not be changed or combined, leading to a somewhat lower score in concreteness.
+
+Overall, these ratings reflect the nuanced nature of the argument, balancing affirmations of the Constitution's value with acknowledgement of the need for accessible language.
+

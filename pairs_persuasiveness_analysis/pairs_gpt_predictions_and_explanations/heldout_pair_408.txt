@@ -1,0 +1,87 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's how I would rate the argument across the four categories of valence, dominance, intensity, and concreteness for each quarter of the text provided:
+
+### Quarter 1:
+**Text:**
+"What you're describing is genetic programming. Perhaps we will achieve sentience sooner than digitized humans. Doing it through genetic programming has a few issues, however."
+
+- **Valence:** 0.6 (The tone is somewhat skeptical about genetic programming but doesn't entirely dismiss it yet.)
+- **Dominance:** 0.5 (The argument establishes a position but doesn't assert strong authority yet.)
+- **Intensity:** 0.4 (The language is mild and exploratory rather than passionate.)
+- **Concreteness:** 0.5 (Using terms like "genetic programming" introduces some concrete ideas, but they aren't elaborated on in this section.)
+
+### Quarter 2:
+**Text:**
+"Consider consciousness. Have you figured it out? Yes? Good, I'm glad we had this discussion, turn in plans for your Nobel Prize and let the Singularity begin. No? That's disappointing. Oh well. Consciousness is very complex."
+
+- **Valence:** 0.3 (The tone becomes somewhat sarcastic, indicating skepticism about the understanding of consciousness.)
+- **Dominance:** 0.6 (The speaker takes a more assertive tone, questioning the audience's understanding.)
+- **Intensity:** 0.7 (The sarcasm adds emotional intensity.)
+- **Concreteness:** 0.4 (While consciousness is a concrete topic, the discussion is more abstract and sarcastic.)
+
+### Quarter 3:
+**Text:**
+"How do you test if something has met the parameters for intelligence? Solving intelligent tests? At one point, that test was Chess. We did it, we made computers that were very good at making Chess moves, but they had no idea what Chess was..."
+
+- **Valence:** 0.5 (This section maintains a neutral tone while conveying disillusionment with traditional measures of intelligence.)
+- **Dominance:** 0.7 (The argument provides a clear perspective on the inadequacy of existing tests, displaying authority over the topic.)
+- **Intensity:** 0.6 (There's a growing sense of frustration with measuring intelligence and a deeper exploration of its significance.)
+- **Concreteness:** 0.6 (References to specific examples like Chess and the Turing test provide concrete illustrations of the argument.)
+
+### Quarter 4:
+**Text:**
+"But back to genetic programming, eliminating what doesn't work and letting the best survive... So, genetic programming, in my non-expert opinion, is not a good approach to conscious AI."
+
+- **Valence:** 0.4 (The conclusion expresses skepticism towards genetic programming, but it's tempered by the phrase "in my non-expert opinion.")
+- **Dominance:** 0.8 (The speaker asserts strong viewpoints regarding the inadequacy of genetic programming.)
+- **Intensity:** 0.7 (The emotional charge is present, effectively underlining the ethical implications of the argument.)
+- **Concreteness:** 0.7 (This section is more structured in its argumentation, presenting practical considerations about resource use and ethics related to AI.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence 0.6, Dominance 0.5, Intensity 0.4, Concreteness 0.5
+- **Quarter 2:** Valence 0.3, Dominance 0.6, Intensity 0.7, Concreteness 0.4
+- **Quarter 3:** Valence 0.5, Dominance 0.7, Intensity 0.6, Concreteness 0.6
+- **Quarter 4:** Valence 0.4, Dominance 0.8, Intensity 0.7, Concreteness 0.7
+
+These assessments reflect how the argument evolves throughout the sections, transitioning from skepticism to a more assertive critique of genetic programming as a method for developing sentient AI.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To assess the argument based on the dimensions of valence, dominance, intensity, and concreteness for each quarter of the text, we can break it down as follows:
+
+**Quarter 1: "What is happening inside neural networks isn't that different from what is happening inside your brain. Connections are constantly made and destroyed based on input, trying to optimize how certain task is performed. Optimizing a neural network is more similar to 'learning' rather than 'evolving a brain'."**
+
+- **Valence (0.6):** The tone is somewhat neutral to slightly positive, as it compares neural networks to biological brains without outright dismissing either.
+- **Dominance (0.5):** The argument asserts a point (similarity between neural networks and brains), but it doesn't strongly dominate or refute opposing views.
+- **Intensity (0.4):** The language is moderate, presenting ideas without strong emotional weight or urgency.
+- **Concreteness (0.7):** The statement offers a clear depiction of neural network functions, making abstract concepts more tangible.
+
+**Quarter 2: "How intelligent a neural network can become is limited by its design. If I build a neural network, it will never become intelligent, even if I let it run for years. Just like you can train a raccoon for years but it will never become smarter than a raccoon."**
+
+- **Valence (0.5):** This section presents a more neutral stance, indicating limitations without negativity. The raccoon analogy is somewhat neutral but implies a cap on potential.
+- **Dominance (0.7):** The argument strongly asserts limitations on neural networks, presenting a dominant viewpoint about intelligence being design-dependent.
+- **Intensity (0.6):** The analogy of the raccoon provides a bit more emotional weight and relatability, making the argument more engaging.
+- **Concreteness (0.6):** The raccoon analogy helps illustrate the point, though the concept of intelligence itself remains abstract.
+
+**Quarter 3: "You will never get a point where sentient AI will 'emerge spontaneously'. We will have to create it ourselves. Our systems will become better and smarter with each design iteration, until one day they are good enough to be indistinguishable from what we call 'intelligence'."**
+
+- **Valence (0.4):** This part has a somewhat negative valence regarding the notion of spontaneous emergence, asserting it will not happen without human intervention.
+- **Dominance (0.8):** The argument here is very strong, firmly asserting control over the development of sentient AI.
+- **Intensity (0.7):** There is a passionate tone in the assertion of humans having to create intelligence, suggesting urgency.
+- **Concreteness (0.5):** The prediction of future development makes it somewhat abstract again, though there's the suggestion of iterative improvements.
+
+**Quarter 4: "At the end of the day simulating a brain requires little understanding of how it works, but needs A LOT of computational power. Even simulating realistically a couple of neurons takes supercomputers. Building something intelligent from the ground up will be more efficient, but then you need to know precisely how to create such a system (i.e., deep understanding of intelligence and sentience)."**
+
+- **Valence (0.5):** Neutral overall, although it hints at the challenges and complexities of each approach.
+- **Dominance (0.6):** Makes a case for efficiency in creation versus simulation; it's a balanced but affirmative perspective.
+- **Intensity (0.5):** The intensity is mild, presenting facts without stirring strong emotions.
+- **Concreteness (0.6):** The argument includes tangible elements regarding computational power and needs, though it remains complex.
+
+In summary, the scores for each dimension across the quarters are as follows:
+
+| Quarter | Valence | Dominance | Intensity | Concreteness |
+|---------|---------|-----------|-----------|--------------|
+| 1       | 0.6     | 0.5       | 0.4       | 0.7          |
+| 2       | 0.5     | 0.7       | 0.6       | 0.6          |
+| 3       | 0.4     | 0.8       | 0.7       | 0.5          |
+| 4       | 0.5     | 0.6       | 0.5       | 0.6          |
+

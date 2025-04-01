@@ -1,0 +1,56 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's the rating for each aspect of the argument in four quarters:
+
+1. **First Quarter: "Umm.. How does white guilt explain why white people do it?"**
+   - Valence: 0.2 (Neutral to slightly negative; it suggests confusion or frustration)
+   - Dominance: 0.3 (Somewhat submissive; it expresses uncertainty)
+   - Intensity: 0.4 (Moderately intense; there's a questioning tone)
+   - Concreteness: 0.5 (Somewhat abstract; raises a question rather than stating a solid fact)
+
+2. **Second Quarter: "Saggy pants aren't tolerable where I work regardless of race."**
+   - Valence: 0.5 (Neutral; it's a clear statement of a personal opinion)
+   - Dominance: 0.7 (More authoritative; asserting a rule or standard)
+   - Intensity: 0.6 (Moderately intense; presents a definitive stance)
+   - Concreteness: 0.8 (Concrete; specific context of a workplace is mentioned)
+
+3. **Third Quarter: "Saggy pants are tolerated in public because you don't get to decide what everyone else wears."**
+   - Valence: 0.6 (Slightly negative; implies frustration with societal norms)
+   - Dominance: 0.6 (Balanced; acknowledges a common situation while asserting a viewpoint)
+   - Intensity: 0.5 (Moderately intense; there's a clear assertion but not overly charged emotionally)
+   - Concreteness: 0.7 (Concrete; refers to public norms and choices)
+
+4. **Fourth Quarter: "Exposed boxer shorts is not obscene... Especially compared to a lot of other things people wear."**
+   - Valence: 0.4 (Neutral to slightly positive; attempts to rationalize a viewpoint)
+   - Dominance: 0.5 (Somewhat balanced; tries to justify a stance without being overly assertive)
+   - Intensity: 0.6 (Moderately intense; argues against the severity of the issue)
+   - Concreteness: 0.9 (Very concrete; directly addresses specific clothing and societal comparisons) 
+
+These ratings reflect different dimensions of the argument presented and the emotions and authority conveyed in each part.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument based on valence, dominance, intensity, and concreteness, I'll assess each quarter of the text separately:
+
+1. **Quarter 1: "Neither are miniskirts or shorts that ride up girls' asses. How could this be a result of white guilt?"**
+   - **Valence:** 0.3 (The statement has a negative valence as it critiques certain styles of dress, but it does not express overt hostility.)
+   - **Dominance:** 0.4 (There is a suggestion of superiority in the argument's framing, questioning the validity of emotions like 'white guilt,' but not in an overpowering way.)
+   - **Intensity:** 0.5 (The argument presents a moderate intensity, expressing frustration or confusion about the societal implications of clothing styles.)
+   - **Concreteness:** 0.4 (The mention of specific clothing items gives some concreteness, but it still feels abstract in discussing broader societal issues.)
+
+2. **Quarter 2: "By the way plenty of people call this out, publicly. Many businesses and public buildings have signs that don't allow it."**
+   - **Valence:** 0.6 (This part asserts a more positive stance by referencing public action against certain styles, which can be viewed as a proactive approach.)
+   - **Dominance:** 0.5 (It conveys some authority by highlighting that there are organizations enforcing dress codes, suggesting a collective societal expectation.)
+   - **Intensity:** 0.6 (The intensity is higher as it emphasizes a social consensus and active response to dress codes.)
+   - **Concreteness:** 0.7 (This section is concrete, citing specific actions taken by businesses and public spaces regarding clothing.)
+
+3. **Quarter 3: "So are you arguing that just saggy pants specifically should be a civil/criminal offense?"**
+   - **Valence:** 0.5 (This is a neutral tone questioning the specific focus on saggy pants, though it carries a hint of skepticism.)
+   - **Dominance:** 0.4 (It challenges the opponent's argument without asserting dominance but instead seeks clarification, staying conversational.)
+   - **Intensity:** 0.4 (The intensity is moderate, as it raises a critical question but lacks strong emotional weight.)
+   - **Concreteness:** 0.5 (The phrasing is direct and concrete, explicitly asking about the implications of the specific dress code.)
+
+Overall, based on these assessments, the ratings for each quarter are as follows:
+
+1. Quarter 1: Valence 0.3, Dominance 0.4, Intensity 0.5, Concreteness 0.4
+2. Quarter 2: Valence 0.6, Dominance 0.5, Intensity 0.6, Concreteness 0.7
+3. Quarter 3: Valence 0.5, Dominance 0.4, Intensity 0.4, Concreteness 0.5
+

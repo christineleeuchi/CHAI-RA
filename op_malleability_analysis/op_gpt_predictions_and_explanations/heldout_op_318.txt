@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assign ratings for valence, dominance, intensity, and concreteness for each quarter of the argument, I will analyze and rate each aspect on a scale from 0.0 to 1.0.
+
+### Quarter 1:
+> "CMV: I have no sympathy towards violent criminals at the point of crime I can never understand people when they lament about how they feel sorry for someone who just committed a violent crime."
+
+- **Valence**: 0.1 (The statement expresses a strong negative sentiment towards violent criminals.)
+- **Dominance**: 0.8 (The speaker asserts a strong position, suggesting a sense of authority in their perspective.)
+- **Intensity**: 0.7 (There is considerable intensity in the dismissive attitude toward sympathy for violent criminals.)
+- **Concreteness**: 0.5 (The argument is somewhat abstract as it discusses feelings and attitudes, but it relates to a concrete social issue.)
+
+### Quarter 2:
+> "I understand being sympathetic towards a non-violent thief who might be destitute, or a murderer who has done his time and apologized."
+
+- **Valence**: 0.5 (The sentiment is neutral; the speaker shows some understanding but contrasts it with their stance on violent criminals.)
+- **Dominance**: 0.5 (The speaker presents a balanced viewpoint here, not asserting strong dominance.)
+- **Intensity**: 0.3 (The intensity is low as the speaker is simply giving examples of when sympathy might be appropriate without fervor.)
+- **Concreteness**: 0.6 (This portion discusses specific examples that ground the argument but still lacks strong concrete terms directly related to violent crime.)
+
+### Quarter 3:
+> "But someone who has just done a horrible act of violence towards another person (and hasn't repented yet) doesn't deserve sympathy from anyone, unless they genuinely believe he/she is innocent, or committed the crime in self-defense."
+
+- **Valence**: 0.1 (Continuing the negative sentiment against those who commit violent acts, showing a strong rejection of sympathy.)
+- **Dominance**: 0.8 (Strongly dominant in asserting that violent criminals do not deserve sympathy.)
+- **Intensity**: 0.8 (High intensity is present in the language used, especially with phrases like "horrible act of violence.")
+- **Concreteness**: 0.7 (Relates directly to the concept of sympathy toward violent criminals in more explicit terms.)
+
+### Quarter 4:
+> "Another argument I hear is that the criminal was a 'victim of the circumstances', i.e. he was poor or grew up in a dysfunctional family. This is a totally reasonable argument if the crime is non-violent, but being poor or traumatized is not an excuse to kill somebody or even go beat someone up."
+
+- **Valence**: 0.2 (Negative sentiment is expressed, particularly against the justification of circumstances, but it’s somewhat nuanced.)
+- **Dominance**: 0.7 (The speaker is asserting their view that circumstances do not excuse violent behavior.)
+- **Intensity**: 0.7 (There’s significant intensity in rejecting the victim-of-circumstances argument, emphasizing personal responsibility.)
+- **Concreteness**: 0.8 (The argument discusses specific situations that make it more concrete, addressing the archetype of 'victims of circumstance' directly.)
+
+Overall, the ratings depict a strong, consistent negative sentiment towards violent criminals, heightened intensity in justification, and varying levels of dominance and concreteness across the argument.
+

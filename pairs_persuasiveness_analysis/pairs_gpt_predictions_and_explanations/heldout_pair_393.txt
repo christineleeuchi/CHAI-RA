@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score from 0.0 to 1.0 for each of the specified dimensions (valence, dominance, intensity, and concreteness) divided into quarters of the argument's text:
+
+### Quarter 1: 
+*"In 10 years a candidate runs for high office, say a senate seat. He runs on a platform of curtailing the police state, ending the war on drugs and reducing domestic spying."*
+
+- **Valence: 0.8** (Positive - suggests reform and progress)
+- **Dominance: 0.6** (Moderate - implies agency and control over the political message)
+- **Intensity: 0.5** (Moderate - basic assertion without strong emotions)
+- **Concreteness: 0.7** (Specific - refers to a future candidate's platform)
+
+### Quarter 2: 
+*"The NSA will have a database of the nude pictures he sent his girlfriend when he was 17. They will know about the fact he messed around with a guy when he was 19 and the fact that he had a crisis of faith in which he 'cursed god' in a private email that he deleted before sending at 22."*
+
+- **Valence: 0.3** (Negative - highlights potential personal attack and invasion of privacy)
+- **Dominance: 0.5** (Neutral - mentions power dynamics but doesn't elevate the agency of the subject)
+- **Intensity: 0.7** (High - evokes a strong reaction about personal information being exploited)
+- **Concreteness: 0.9** (Very Specific - provides distinct examples of personal information)
+
+### Quarter 3: 
+*"Allowing spying on this scale with little to no filter means granting domestic spy agencies even more severe power to tip the balance of political power in their favor, entrenching them even deeper."*
+
+- **Valence: 0.2** (Negative - suggests threats to democracy and civil liberties)
+- **Dominance: 0.8** (High - emphasizes the power of agencies over political processes)
+- **Intensity: 0.6** (Moderate to High - presents a serious concern about power dynamics)
+- **Concreteness: 0.6** (Moderate - while the concern is clear, it lacks specific instances)
+
+### Quarter 4: 
+*"Case and point: The FBI revealed Martin Luther King's infidelity to his wife. In the threat to reveal the information they tried to convince MLK to kill himself."*
+
+- **Valence: 0.1** (Very Negative - presents a grave moral violation)
+- **Dominance: 0.7** (High - indicates strong historical precedent of abuse of power)
+- **Intensity: 0.9** (Very High - elicits a strong emotional response and gravity of consequences)
+- **Concreteness: 0.8** (Specific - references a well-known historical event, enhancing its impact)
+
+These ratings provide a breakdown of how each part of the argument engages with emotional and cognitive responses.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating for each of the categories you requested for the different sections of the argument:
+
+### 1. "I don't necessarily 'have nothing to hide', but I don't expect that there is literally a person on a computer looking through what I post to Reddit, Twitter, and Facebook (or what porn I look at)."
+- **Valence:** 0.5 (Neutral to slightly positive; the speaker expresses some comfort but acknowledges a risk.)
+- **Dominance:** 0.4 (The speaker seems to reflect a personal opinion and perspective, but also indicates awareness of broader implications.)
+- **Intensity:** 0.5 (The argument feels moderate in intensity; it presents a personal viewpoint but discusses a significant concern.)
+- **Concreteness:** 0.6 (The argument is somewhat concrete as it references specific platforms.)
+
+### 2. "I think government spying still has an effect as a deterrent (terrorists can't use media to communicate, and therefore it makes terrorist activity harder to commit."
+- **Valence:** 0.4 (Slightly negative; the speaker supports the concept but seems to acknowledge an underlying concern.)
+- **Dominance:** 0.5 (This point has more strength since it proposes a specific belief about the effect of government surveillance.)
+- **Intensity:** 0.6 (This section has a higher intensity as it relates to a serious issue of terrorism.)
+- **Concreteness:** 0.5 (The argument is somewhat concrete due to its clear premise.)
+
+### 3. "There have been US citizens that have gone to fight for ISIS and local Islamic extremist attacks, and believe the US should be able to spy on their communications."
+- **Valence:** 0.5 (Neutral; while acknowledging a threat, the argument does not present a strong emotional tone.)
+- **Dominance:** 0.5 (The argument is balanced; it's presenting a common concern but doesn't dominate the conversation.)
+- **Intensity:** 0.5 (Moderate intensity, as it relates to national security concerns.)
+- **Concreteness:** 0.7 (The argument is concrete as it references specific context concerning ISIS and foreign fighters.)
+
+### 4. "I'm not worried about the government knowing my political views."
+- **Valence:** 0.3 (This section leans towards negative; it downplays the concerns of privacy.)
+- **Dominance:** 0.4 (This point has weaker dominance, as it attempts to dismiss privacy concerns entirely.)
+- **Intensity:** 0.3 (Low intensity; the speaker appears to be dismissive of the issue.)
+- **Concreteness:** 0.5 (Somewhat concrete in framing the discussion about political views, but not as strong as other sections.)
+
+These scores reflect the nuances in each part of the argument, considering the emotional tone, authority, and clarity of the ideas presented.
+

@@ -1,0 +1,44 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a score for each dimension (valence, dominance, intensity, and concreteness) across the four quarters of the argument, I'll rate them based on the emotional tone, assertiveness, strength of the argument, and clarity of the ideas presented.
+
+### Quarter 1:
+**Text Excerpt:** "CMV: /r/hiphopheads shouldn't have ban on discussions or posts regarding Lil Dicky. Lil Dicky’s debut album, *Professional Rapper*, debuted atop the Billboard Rap Album chart, and at number 7 on the Billboard 200, with sales of 22,000. It features guest spots from Snoop Dogg, Fetta Wap, Rich Homie Quan, Jace (from Two-9), and T-Pain."
+
+- **Valence:** 0.5 (Neutral/positive tone, presenting facts about Lil Dicky’s success.)
+- **Dominance:** 0.6 (Presents a strong opinion against the ban.)
+- **Intensity:** 0.5 (Moderate intensity with factual statements.)
+- **Concreteness:** 0.8 (Specific data regarding album sales and features, providing concrete evidence.)
+
+### Quarter 2:
+**Text Excerpt:** "Yet /r/hiphopheads, arguably the best place to discuss rap &amp; hip-hop on the internet, forbids all discussion (whether it be links or even discussion threads) regarding his music. If I’m not mistaken, there are two reasons for the ban:
+
+* Someone in his camp posted one of his videos to Reddit, and either LD or that someone asked their friends to upvote the video. This was claimed to be vote manipulation a or publicity stunt.
+* LD is making a mockery of the genre (a hip-hop Weird Al, so to speak) and isn’t a 'real' rapper."
+
+- **Valence:** 0.4 (Slightly negative tone towards the ban, criticism of LD.)
+- **Dominance:** 0.7 (Stronger assertion of the argument against the ban.)
+- **Intensity:** 0.6 (Higher intensity due to criticism of reasons for the ban.)
+- **Concreteness:** 0.7 (Presents specific reasons for the ban, though less concrete than the prior quarter.)
+
+### Quarter 3:
+**Text Excerpt:** "First, there’s never been proof (from what I can tell) that LD or his camp took part in malicious vote manipulation. It doesn’t seem at all like he’s rap’s /u/Unidan. Second, /r/HHH allows links and discussion threads for The Lonely Island. That alone should indicate at least a slight bias against LD’s music."
+
+- **Valence:** 0.4 (Critical tone towards the reasoning behind the ban.)
+- **Dominance:** 0.8 (Strong assertion of the argument, rebutting the ban's validity.)
+- **Intensity:** 0.7 (High intensity due to the strong defense of LD.)
+- **Concreteness:** 0.6 (Points out specific comparisons, though they are more subjective.)
+
+### Quarter 4:
+**Text Excerpt:** "I’m not an LD Stan or anything; if anything I lean towards some of [Fantano’s critisicms of him](http://www.theneedledrop.com/articles/2015/8/lil-dicky-professional-rapper). I’m just saying that the dude’s got the best-selling rap album in the country until Dre’s numbers come in for *Compton*. He clearly has fans, probably a bunch on /r/HHH, and obviously a bunch on Reddit as a whole. If you want to karma-earning links because of 'vote manipulation,' I disagree because of a lack of proof but I suppose that’s not ***that*** outrageous. But a complete ban (including discussion threads for fresh releases and albums) is overkill and unnecessary."
+
+- **Valence:** 0.5 (Neutral tone balanced with criticism of the ban.)
+- **Dominance:** 0.6 (Arguments are presented thoughtfully, asserting the unnecessary nature of the ban.)
+- **Intensity:** 0.4 (Lower intensity as it balances between agreement and critique.)
+- **Concreteness:** 0.7 (Appeals to specific sales figures, providing solid backing for the argument.)
+
+### Summary Scores:
+**Quarter 1:** Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.8  
+**Quarter 2:** Valence 0.4, Dominance 0.7, Intensity 0.6, Concreteness 0.7  
+**Quarter 3:** Valence 0.4, Dominance 0.8, Intensity 0.7, Concreteness 0.6  
+**Quarter 4:** Valence 0.5, Dominance 0.6, Intensity 0.4, Concreteness 0.7  
+

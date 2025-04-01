@@ -1,0 +1,43 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assess the argument provided, I will break it down into four quarters and assign a rating score from 0.0 to 1.0 for each of the specified attributes: valence, dominance, intensity, and concreteness.
+
+### Quarter 1:
+"CMV: Human labor will become as redundant as horse labor. Yesterday, there was this post in /r/futurology titled **[Technology has created more jobs than it has destroyed, says 140 years of data](http://www.theguardian.com/business/2015/aug/17/technology-created-more-jobs-than-destroyed-140-years-data-census)**. In the comments, a lot of people concluded that this means that in the future, technology will keep creating more jobs than it destroys. **I disagree**."
+
+- **Valence**: 0.3 (The sentiment is more negative due to disagreement with the optimistic view expressed by others)
+- **Dominance**: 0.5 (The speaker expresses their disagreement, establishing a level of authority on the topic)
+- **Intensity**: 0.4 (Moderately intense disagreement, but it does not convey extreme emotions)
+- **Concreteness**: 0.6 (Reference to the post and a clear stance against the majority opinion)
+
+### Quarter 2:
+"At the moment, a five year old kid can beat a computer in a lot of things. For example, having a conversation is very hard for AI. So there are still lots of simple jobs that cannot be done by technology."
+
+- **Valence**: 0.4 (Somewhat negative, highlighting limitations of technology)
+- **Dominance**: 0.4 (Weak dominance, as it's more an observation rather than a strong claim)
+- **Intensity**: 0.5 (Medium intensity in emphasizing current technology’s limitations)
+- **Concreteness**: 0.7 (Concrete examples provided, making the argument relatable and understandable)
+
+### Quarter 3:
+"As long as our civilization does not collapse, technology and AI will keep getting better. In the near future, self-driving cars will replace a lot of jobs."
+
+- **Valence**: 0.2 (The future prediction concerning job loss is negative)
+- **Dominance**: 0.6 (Stronger assertion about the future implications of technology)
+- **Intensity**: 0.7 (High intensity as it predicts significant societal changes)
+- **Concreteness**: 0.6 (Specific examples like self-driving cars add clarity)
+
+### Quarter 4:
+"This kind of stuff will keep happening until mechanical brains outperform human brains, at a similar or lower cost. When that happens, human labor will become as redundant as horse labor. **Change my view!**"
+
+- **Valence**: 0.1 (Very negative view on the future of human labor)
+- **Dominance**: 0.7 (Strong assertion of the argument’s conclusion)
+- **Intensity**: 0.8 (High intensity in the projected outcome for human labor)
+- **Concreteness**: 0.5 (The argument concludes with a concrete assertion but is somewhat abstract regarding mechanical brains)
+
+In summary:
+
+### Ratings:
+- **Quarter 1**: Valence 0.3, Dominance 0.5, Intensity 0.4, Concreteness 0.6
+- **Quarter 2**: Valence 0.4, Dominance 0.4, Intensity 0.5, Concreteness 0.7
+- **Quarter 3**: Valence 0.2, Dominance 0.6, Intensity 0.7, Concreteness 0.6
+- **Quarter 4**: Valence 0.1, Dominance 0.7, Intensity 0.8, Concreteness 0.5
+

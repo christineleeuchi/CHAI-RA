@@ -1,0 +1,86 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument based on the factors of valence, dominance, intensity, and concreteness, I'll break it down into four quarters and provide a score for each aspect.
+
+### Quarter 1: "If you require a certain number of hours, you're incentivizing being inefficient and sitting around as long as possible."
+- **Valence (0.7)**: The phrasing is somewhat negative, implying inefficiency and lack of productivity, but it does not express outright hostility.
+- **Dominance (0.6)**: The speaker assumes authority on the subject, suggesting that mandated hours lead to inefficiency, but does not completely dismiss the opposing argument.
+- **Intensity (0.5)**: The emotional weight is moderate; it raises a concern about inefficiency but does not convey strong emotional language.
+- **Concreteness (0.6)**: The argument presents a clear sense of what the implication of mandated hours could lead to—inefficiency; however, it lacks specific examples or data.
+
+### Quarter 2: "This wouldn't speed up the rate public works get done, it would slow it down."
+- **Valence (0.8)**: This part has a negative tone, straightforwardly arguing against efficiency.
+- **Dominance (0.7)**: The speaker confidently states that the proposed idea would lead to negative outcomes, asserting strong control over the argument.
+- **Intensity (0.6)**: There is a notable emphasis on the negative consequence of slowing down progress; however, it remains reasonably measured.
+- **Concreteness (0.7)**: This section effectively highlights a specific outcome (slowing down public works), increasing the argument's clarity.
+
+### Quarter 3: "(especially as random volunteers that change day to day are replacing people who actually know wtf they're doing because it's their job)."
+- **Valence (0.7)**: The use of "wtf" adds an informal and slightly dismissive tone, contributing a negative perspective on the effectiveness of volunteers compared to professionals.
+- **Dominance (0.6)**: The speaker reinforces their stance but acknowledges that professionals have experience, which may slightly lessen dominance.
+- **Intensity (0.7)**: The informal language ("wtf") boosts the emotional intensity, conveying frustration with the potential shortcomings of volunteers.
+- **Concreteness (0.8)**: This part offers a clear comparison between volunteers and professional workers, enhancing the argument's specificity.
+
+### Quarter 4: "Plus, you'd have to set up a huge, costly administration to monitor who did their public service. It would cost way more than just paying people minimum wage to do shit jobs, like we already do."
+- **Valence (0.8)**: The language conveys a strong negative view regarding the costs of implementing such a system compared to the current method.
+- **Dominance (0.8)**: The argument asserts a clear position that the costs outweigh the benefits, projecting strong confidence.
+- **Intensity (0.6)**: While the argument is pointed, it remains somewhat factual, with less emotion than previous parts but still maintains a critical tone.
+- **Concreteness (0.9)**: This section provides specific details about the costs and the comparison with current practices, making it very tangible.
+
+### Summary of Ratings:
+- **Quarter 1**: Valence (0.7), Dominance (0.6), Intensity (0.5), Concreteness (0.6)
+- **Quarter 2**: Valence (0.8), Dominance (0.7), Intensity (0.6), Concreteness (0.7)
+- **Quarter 3**: Valence (0.7), Dominance (0.6), Intensity (0.7), Concreteness (0.8)
+- **Quarter 4**: Valence (0.8), Dominance (0.8), Intensity (0.6), Concreteness (0.9)
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the given argument on a scale of 0.0 to 1.0 for valence, dominance, intensity, and concreteness, let's break it down into four parts:
+
+### Quarter 1:
+**Text:** "A person's time has value, so forcing them to use it for public service..."
+- **Valence:** 0.6 (The statement has a neutral to somewhat negative connotation, indicating that forcing individuals could be seen as a negative action.)
+- **Dominance:** 0.5 (This is a common perspective; it suggests a level of authority, but doesn't assert superiority over opposing views too strongly.)
+- **Intensity:** 0.5 (The claim presents a moderate intensity, as it emphasizes the value of time without being overly dramatic.)
+- **Concreteness:** 0.4 (The idea is somewhat abstract, relying on the notion of time value without specific examples.)
+
+### Quarter 2:
+**Text:** "...is forcing people to give up a valuable resource of their own which could be used for various other things that could benefit society."
+- **Valence:** 0.5 (The statement maintains a neutral valence but hints at drawbacks concerning resource allocation.)
+- **Dominance:** 0.4 (There is an implied opposition to mandatory service, but it isn't a dominating assertion.)
+- **Intensity:** 0.6 (The argument gains intensity by emphasizing the loss of a valuable resource, which sounds urgent.)
+- **Concreteness:** 0.5 (The concept of "valuable resources" is a bit abstract, though it begins to touch on potential benefits.)
+
+### Quarter 3:
+**Text:** "Also, most people probably don't have the necessary skills to do the things you would want them to do?"
+- **Valence:** 0.7 (This is a more critical view, suggesting a flaw in arguments for mandatory service.)
+- **Dominance:** 0.6 (The suggestion that many lack necessary skills asserts a stronger position against mandatory service.)
+- **Intensity:** 0.7 (There’s a higher intensity as it questions the practicality of the argument for public service.)
+- **Concreteness:** 0.6 (Introducing the idea of skills adds more concrete factors to consider, though it's still not highly specific.)
+
+### Quarter 4:
+**Text:** "How many people know how to repair roads, buildings, bridges, etc.?"
+- **Valence:** 0.5 (This part remains neutral but poses a challenge that may resonate negatively with advocates of public service.)
+- **Dominance:** 0.5 (It asserts doubt on the capabilities of citizens but doesn’t dominate the discussion.)
+- **Intensity:** 0.6 (The rhetorical question has a bit more weight, prompting the reader to consider the implications.)
+- **Concreteness:** 0.7 (This section is concrete, providing specific examples of tasks that would require specialized skills.)
+
+### Summary of Scores:
+- **Quarter 1:**
+  - Valence: 0.6
+  - Dominance: 0.5
+  - Intensity: 0.5
+  - Concreteness: 0.4
+- **Quarter 2:**
+  - Valence: 0.5
+  - Dominance: 0.4
+  - Intensity: 0.6
+  - Concreteness: 0.5
+- **Quarter 3:**
+  - Valence: 0.7
+  - Dominance: 0.6
+  - Intensity: 0.7
+  - Concreteness: 0.6
+- **Quarter 4:**
+  - Valence: 0.5
+  - Dominance: 0.5
+  - Intensity: 0.6
+  - Concreteness: 0.7
+

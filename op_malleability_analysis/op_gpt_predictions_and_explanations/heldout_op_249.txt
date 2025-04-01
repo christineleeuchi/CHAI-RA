@@ -1,0 +1,60 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument "CMV: The lid of the toilet serves no purpose" across four dimensions—valence, dominance, intensity, and concreteness—let's break it down into four quarters and assign a rating score from 0.0 to 1.0 for each dimension.
+
+### Quarter 1:
+**Text:** "CMV: The lid of the toilet serves no purpose. In my life never have I ever found the *top toilet lid* to be useful."
+
+- **Valence:** 0.2 (The statement has a negative valence as it expresses a lack of usefulness.)
+- **Dominance:** 0.4 (The speaker expresses a personal opinion strongly, but it lacks authority or evidence.)
+- **Intensity:** 0.3 (There’s a mild intensity as the speaker asserts their viewpoint.)
+- **Concreteness:** 0.6 (The language is relatively straightforward and references a physical object.)
+
+### Quarter 2:
+**Text:** "I've never touched any because **I don't acknowledge any use for it**:"
+
+- **Valence:** 0.2 (Continues the negative perspective about the utility of the toilet lid.)
+- **Dominance:** 0.5 (The speaker reaffirms their stance, showing a bit more authority due to personal experience.)
+- **Intensity:** 0.4 (The statement is more definitive about the speaker's lack of acknowledgment of utility.)
+- **Concreteness:** 0.5 (This quarter is still clear but not as tangible as the previous one.)
+
+### Quarter 3:
+**Text:** "1. It **doesn't stop odors** because it's not even remotely hermetical. 1. It **doesn't hush sounds** if used before flushing, explained in point 1. (Doesn't hush sound if used after flushing either)"
+
+- **Valence:** 0.1 (This section further critiques the object, emphasizing its perceived ineffectiveness.)
+- **Dominance:** 0.6 (The speaker presents specific reasons, increasing the assertion's authority.)
+- **Intensity:** 0.7 (The argument gains intensity as specific claims are made about the lid's failures.)
+- **Concreteness:** 0.8 (Concrete examples are provided here to support the argument.)
+
+### Quarter 4:
+**Text:** "1. After you leave the toilets there is **no mess that should be hidden**. 1. It's **usually dirty**, more so when you're not in your own place. 1. I've, very occasionally, used it to put things on the toilets, but again that is very rare and according to point 4, **not really the cleanest way to put things**. I **don't consider the top lid to be a shelf.**"
+
+- **Valence:** 0.1 (Continues with critical insights, maintaining a negative perspective.)
+- **Dominance:** 0.5 (There is a mix of personal experience and generalization about cleanliness.)
+- **Intensity:** 0.6 (There is a strong reaffirmation of the speaker's stance, but it is softened by personal anecdote.)
+- **Concreteness:** 0.7 (Specific examples and reasoning contribute to the tangible analysis of the lid's utility.)
+
+### Summary of Scores:
+1. **Quarter 1:**
+   - Valence: 0.2
+   - Dominance: 0.4
+   - Intensity: 0.3
+   - Concreteness: 0.6
+
+2. **Quarter 2:**
+   - Valence: 0.2
+   - Dominance: 0.5
+   - Intensity: 0.4
+   - Concreteness: 0.5
+
+3. **Quarter 3:**
+   - Valence: 0.1
+   - Dominance: 0.6
+   - Intensity: 0.7
+   - Concreteness: 0.8
+
+4. **Quarter 4:**
+   - Valence: 0.1
+   - Dominance: 0.5
+   - Intensity: 0.6
+   - Concreteness: 0.7
+

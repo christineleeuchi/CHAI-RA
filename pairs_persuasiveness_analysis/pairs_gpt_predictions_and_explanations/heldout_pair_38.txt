@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the rating scores from 0.0 to 1.0 for each aspect of the argument provided, divided into four quarters:
+
+**1st Quarter: "As a teacher, I agree with you. However, in my school law class, we discussed this issue at length and so I'll try to 'change your view' on one part regarding religion."**
+- Valence: 0.5 (Neutral; presents agreement but introduces a counterpoint)
+- Dominance: 0.3 (Offers a humble authority as a teacher but doesn't assert dominance)
+- Intensity: 0.4 (Mildly persuasive; shows intent to change the view without strong language)
+- Concreteness: 0.3 (Conceptually clear but lacks specific detail at this point)
+
+**2nd Quarter: "As other have noted, school is mandatory in the United States. (Ever since the Supreme Court case *Society of Sisters* in 1925) Sure, there are exemptions such as private tutoring or private school, but these are not feasible for all people. Without any doubt, there are people who, due to circumstance, can only attend public school and are mandated to do so by Federal law."**
+- Valence: 0.6 (Somewhat positive; emphasizes necessity and federal law)
+- Dominance: 0.4 (Presents a factual legal position which provides authority)
+- Intensity: 0.5 (Moderately strong emphasis on legal necessity)
+- Concreteness: 0.7 (Specific citations and facts add to the clarity)
+
+**3rd Quarter: "Now, courts have certainly tried to balance the liberty of the parents/student and the greater good in cases regarding education. One Constitutional issue that gets particular scrutiny is that relating to religion in First Amendment. First, there is the establishment clause, which basically says government cannot establish any sort of religion. Second, there is the free exercise clause which basically says government cannot prevent persons from freely practicing their religion."**
+- Valence: 0.7 (Positive; provides a balanced view acknowledging legal principles)
+- Dominance: 0.5 (Strong command of the legal framework, establishing credibility)
+- Intensity: 0.6 (Moderately strong emphasis on legal reasoning)
+- Concreteness: 0.8 (Very concrete; specific references to constitutional law)
+
+**4th Quarter: "Now, we look at the issue at hand. Some religions expressly prohibit vaccination, and forcing them to get a vaccination would almost certainly been seen as a violation of the free exercise clause. Therefore, I wish to change your view on just this point: Medical AND Religious exemptions must be considered, or else this idea (similar to Jerry Brown's new law in California) will be struck down by courts on First Amendment grounds."**
+- Valence: 0.8 (Strongly positive; directly highlights a significant legal concern)
+- Dominance: 0.6 (Assertive in presenting the importance of exemptions)
+- Intensity: 0.7 (Strong urgency in the argument about legal risks)
+- Concreteness: 0.7 (Cites specific implications and legal context that enhance clarity)
+
+These scores reflect the strength and clarity of the arguments presented in each section.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score for each quarter of the provided argument regarding valence, dominance, intensity, and concreteness:
+
+### Quarter 1:
+**Text:** "As much as I hate defending the anti-vaccine crowd, I think the problem with mandatory vaccination for public school is that school is also compulsory. Ever since No Child Left Behind, education has been mandatory for all children until 16 or 18 (can't remember). Now the same people who demandon't children be sent to school also demand that in order to go to school, they must be vaccinated."
+
+- **Valence:** 0.5 (Neutral; presents a legitimate concern but maintains a critical tone towards anti-vaccine sentiment)
+- **Dominance:** 0.6 (The speaker presents a clear stance, suggesting a level of authority in the argument)
+- **Intensity:** 0.5 (Moderate intensity; the tone is somewhat conflicted and critical)
+- **Concreteness:** 0.5 (Speaks to specific policies but lacks detailed evidence or examples)
+
+### Quarter 2:
+**Text:** "Now, now you might say, that's only for public schools, what about private schools and home/eschooling? There's a problem with that too. Roughly 40% of children in the US live in single parent home, which rules out the prospect of homeschooling and eschooling becomes unviable because it's illegal to leave your kids alone at home."
+
+- **Valence:** 0.4 (Negative; highlights limitations without wholly supporting either side)
+- **Dominance:** 0.7 (Strong claim concerning the impact of family structures on education options)
+- **Intensity:** 0.6 (Higher intensity as it introduces serious societal implications)
+- **Concreteness:** 0.7 (Provides statistical data which adds to the argument’s validity)
+
+### Quarter 3:
+**Text:** "You also have a large percentage of the population who can't afford or don't have access to private schools. The amount of overlap here has the potential to be very high, especially in poor neighborhoods."
+
+- **Valence:** 0.5 (Neutral; while it highlights a problem, it does not explicitly take an emotional stance)
+- **Dominance:** 0.6 (Contextualizes the argument effectively, adding to the perspective on accessibility)
+- **Intensity:** 0.5 (Moderate intensity; discusses socio-economic issues but in a restrained manner)
+- **Concreteness:** 0.6 (References socioeconomic factors but could provide more specific examples)
+
+### Quarter 4:
+**Text:** "So, now we have a segment of the population for whom public school is the only option. What are the odds that some of these people do not want their kids vaccinated, for whatever reason (ignorance usually, but that's not the point)? Pretty high. So now the question becomes, are we willing to fine and or imprison parents because they don't want their kid to get a vaccine and therefore won't send them to school? Personally, that is not something I'm willing to do, so I'm against mandatory vaccination in order to go to school."
+
+- **Valence:** 0.6 (Somewhat negative; expresses concern for punitive actions against parents)
+- **Dominance:** 0.7 (The argument is presented assertively, establishing the speaker's position clearly)
+- **Intensity:** 0.7 (High intensity; raises ethical considerations regarding punishment)
+- **Concreteness:** 0.6 (Arguments are clear but could benefit from more empirical support)
+
+Overall, the argument presents a nuanced perspective on mandatory vaccination, considering the implications of public school policies, especially in relation to socioeconomic factors.
+

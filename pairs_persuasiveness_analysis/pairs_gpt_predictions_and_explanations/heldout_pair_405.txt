@@ -1,0 +1,59 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating for each of the four dimensions—valence, dominance, intensity, and concreteness—across the specified sections of the argument:
+
+### Quarter 1: "In a vacuum, getting rid of CoonTown is undeniably a good thing."
+- **Valence**: 0.8 (Positive - the statement is clear in its approval of getting rid of CoonTown.)
+- **Dominance**: 0.5 (Moderate - the statement is assertive, but it’s not paired with an authoritative directive.)
+- **Intensity**: 0.7 (High - the use of "undeniably" adds strong emphasis.)
+- **Concreteness**: 0.6 (Somewhat abstract - it's a general statement about something inherently negative.)
+
+### Quarter 2: "*However*, nothing occurs in a vacuum."
+- **Valence**: 0.1 (Neutral to Negative - the use of "however" indicates a shift away from a positive assertion.)
+- **Dominance**: 0.6 (Moderate - there’s an assertiveness in presenting a counterpoint.)
+- **Intensity**: 0.4 (Moderate - the statement is straightforward but lacks strong emotional weight.)
+- **Concreteness**: 0.5 (Moderate - it introduces a philosophical perspective but is somewhat abstract.)
+
+### Quarter 3: "CoonTown played by reddit's rules..."
+- **Valence**: 0.3 (Neutral - reflects discomfort over moderation policies, indicating a negative outlook.)
+- **Dominance**: 0.5 (Moderate - the argument denotes a critical view but primarily describes past actions.)
+- **Intensity**: 0.5 (Moderate - the underlying concern is evident but less forceful.)
+- **Concreteness**: 0.7 (More concrete - references clear policy context and actions taken by Reddit.)
+
+### Quarter 4: "Most redditors concerned with speech issues..."
+- **Valence**: 0.2 (Negative - expresses discomfort and foreboding.)
+- **Dominance**: 0.4 (Weak to Moderate - it conveys concern but lacks assertiveness about future actions.)
+- **Intensity**: 0.6 (Moderate to High - expresses a tangible concern for the implications.)
+- **Concreteness**: 0.8 (High - grounded in the sentiment of the Reddit community and specific implications for the future.)
+
+### Summary
+Scores reflect a combination of the argument's emotional tone (valence), the speaker’s assertiveness (dominance), the forcefulness of the opinions expressed (intensity), and the specificity of ideas presented (concreteness). These ratings may vary depending on subjective interpretation but aim to capture the essence of the argument.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here is the rating score for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **First Quarter: "the main response to it from neutral people has been that it sets a bad precedent"**
+   - **Valence:** 0.3 (Neutral with a slight negative connotation)
+   - **Dominance:** 0.4 (Some authority in stating the observation, but not dominant)
+   - **Intensity:** 0.3 (Moderate intensity in the statement)
+   - **Concreteness:** 0.5 (Fairly concrete in stating a perceived belief)
+
+2. **Second Quarter: "I think there are quite a few such people, and very vocal, on reddit."**
+   - **Valence:** 0.4 (Slightly positive as it acknowledges vocal supporters)
+   - **Dominance:** 0.5 (Confident assertion of the belief)
+   - **Intensity:** 0.4 (Moderate intensity)
+   - **Concreteness:** 0.6 (Somewhat concrete as it suggests a notable presence)
+
+3. **Third Quarter: "But the vast, vast majority of people see coontown and similar things as horrible and don't even think about any 'bad precedent' aspect to this topic."**
+   - **Valence:** 0.7 (High positive valence expressing strong disapproval of hate)
+   - **Dominance:** 0.6 (Strong assertion of majority opinion)
+   - **Intensity:** 0.8 (High intensity due to strong language like "horrible")
+   - **Concreteness:** 0.6 (Quite concrete, though it relies on generalization)
+
+4. **Fourth Quarter: "So I think you're right to be happy that coontown was banned, but wrong in that most people probably agree with you."**
+   - **Valence:** 0.6 (Positive acknowledgment of the ban, but mixed with disagreement)
+   - **Dominance:** 0.5 (Balanced view but asserting a counterpoint)
+   - **Intensity:** 0.5 (Moderate intensity as it poses a contradiction)
+   - **Concreteness:** 0.5 (Somewhat concrete but relies on speculation about others' opinions)
+
+Overall, the argument presents a mix of agreement and counterpoint with a focus on perception and opinions within Reddit, while maintaining a predominantly positive regard for the banning of coontown.
+

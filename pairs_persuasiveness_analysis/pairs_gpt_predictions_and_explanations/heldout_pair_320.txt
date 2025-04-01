@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for each aspect of the argument broken down into quarters:
+
+### Quarter 1: "My problem with your view is that it supposes a lot of things about other people, which might not necessarily even be true."
+- **Valence**: 0.3 (This portion expresses disagreement and skepticism, which carries a somewhat negative tone.)
+- **Dominance**: 0.4 (The speaker is asserting their perspective as a critique against the other’s view.)
+- **Intensity**: 0.5 (The argument presents a firm stance, suggesting a moderate level of intensity.)
+- **Concreteness**: 0.4 (The argument is somewhat abstract, discussing assumptions about others without specific examples.)
+
+### Quarter 2: "People process things in different ways, and have different senses of morality and duty."
+- **Valence**: 0.5 (This part is more neutral, acknowledging diversity in human experience without strong negative or positive emotions.)
+- **Dominance**: 0.4 (The speaker is making an observation about human nature, which is informative rather than dominating.)
+- **Intensity**: 0.4 (The tone is moderate; it presents an observation instead of a highly charged emotion.)
+- **Concreteness**: 0.6 (The concepts of processing and morality are relatively concrete in understanding, though still abstract.)
+
+### Quarter 3: "Whereas you feel that watching these videos fills you with a sense of empathy and urgency to help the victims, others might feel the complete opposite."
+- **Valence**: 0.4 (This contrasts two perspectives without strong negative or positive leaning, so it maintains a neutral to slightly negative valence.)
+- **Dominance**: 0.5 (The speaker asserts the validity of differing perspectives, which indicates strength in their position.)
+- **Intensity**: 0.5 (There is a balanced intensity here, reflecting the conflict of feelings towards the same action.)
+- **Concreteness**: 0.6 (This portion illustrates clear emotional responses, making it more tangible for the audience.)
+
+### Quarter 4: "A moral obligation is nothing but a personal sense of duty, and you cannot decide what the correct one to have is for anyone but yourself."
+- **Valence**: 0.3 (This portion has a critical tone towards imposed morality, thus leaning towards the negative.)
+- **Dominance**: 0.6 (The speaker firmly establishes their viewpoint about personal morality, showing stronger dominance.)
+- **Intensity**: 0.6 (This segment has a higher intensity due to the assertive declaration regarding moral obligation.)
+- **Concreteness**: 0.5 (The argument is relatively clearer, but the concept of morality remains somewhat abstract.)
+
+Overall, the argument presents a nuanced critique of the original view, emphasizing individual experiences and moral perspectives.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each of the categories—valence, dominance, intensity, and concreteness—across the four quarters of the provided argument:
+
+**Quarter 1:**
+- **Valence: 0.6** (The argument introduces a negative subject but aims at a positive outcome—the obligation to help victims.)
+- **Dominance: 0.4** (The author is partially asserting their viewpoint but also anticipates a counter-argument.)
+- **Intensity: 0.5** (Moderately intense as it confronts a significant moral issue.)
+- **Concreteness: 0.6** (References specific actions and obligations but lacks empirical examples.)
+
+**Quarter 2:**
+- **Valence: 0.3** (Shifts to a negative viewpoint about the publicity given to ISIS and its consequences.)
+- **Dominance: 0.7** (The argument becomes more assertive, challenging the initial viewpoint.)
+- **Intensity: 0.6** (The emotional intensity increases as it discusses the implications of media and recruitment.)
+- **Concreteness: 0.7** (Concrete claims regarding effects of terrorism and recruitment are presented.)
+
+**Quarter 3:**
+- **Valence: 0.2** (Emphasizes negative consequences and suggests harmful outcomes of viewing the videos.)
+- **Dominance: 0.8** (Strongly asserts a viewpoint against watching the videos as it discusses negative repercussions.)
+- **Intensity: 0.7** (The emotional weight is heavy as it discusses the irrational responses driven by fear.)
+- **Concreteness: 0.7** (Offers specific examples of political and social changes driven by terrorism.)
+
+**Quarter 4:**
+- **Valence: 0.1** (Primarily negative outlook on the implications of watching execution videos.)
+- **Dominance: 0.9** (Dominates the argument by effectively articulating the harm caused by the promotion of such videos.)
+- **Intensity: 0.8** (High emotional intensity as it calls for fundamental changes and highlights pain and suffering.)
+- **Concreteness: 0.8** (Provides a clear vision of an alternative world and articulates specific negative consequences of the current approach.)
+
+Overall, this argument holds a critical stance against the idea of watching execution videos, advocating instead for a more compassionate and less sensational approach to discussing terrorism. The ratings reflect the evolving nature of emotional and intellectual engagement throughout the argument.
+

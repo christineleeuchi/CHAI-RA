@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating for each quarter of the argument, assessing valence, dominance, intensity, and concreteness:
+
+### Quarter 1
+**Text Excerpt:** "Fiction isn't a waste of time anymore than reading nonfiction. Unless it's relevant to the profession you're in 99% of the knowledge you gain from nonfiction will be no more applicable in your daily life than what you might learn from fiction."
+
+- **Valence: 0.7** (The tone is somewhat positive and defensive of fiction.)
+- **Dominance: 0.5** (The speaker asserts their viewpoint but does not come across as overly authoritative.)
+- **Intensity: 0.6** (There is a moderate level of expressiveness in the argument against the initial claim.)
+- **Concreteness: 0.5** (While there are concrete ideas, it lacks specific examples or evidence.)
+
+### Quarter 2
+**Text Excerpt:** "I enjoy fiction and nonfiction equally, but I realize the goal in either case is mostly entertainment."
+
+- **Valence: 0.6** (The statement has a neutral-to-positive tone, suggesting appreciation for both forms.)
+- **Dominance: 0.4** (This feels more like a personal reflection rather than a strong assertion of authority.)
+- **Intensity: 0.5** (The wording is calm and reasonable, lowering the intensity.)
+- **Concreteness: 0.5** (It conveys an idea but lacks specific examples to illustrate the enjoyment.)
+
+### Quarter 3
+**Text Excerpt:** "It's fine to have a preference, but I don't see how you expect anyone to change your view, anymore than we could make you like broccoli if you just hated it."
+
+- **Valence: 0.4** (The statement is more neutral and slightly critical of the original viewpoint.)
+- **Dominance: 0.6** (The assertion about preferences suggests a strong stance on the matter.)
+- **Intensity: 0.7** (The analogy comparing this to liking broccoli adds intensity to the argument.)
+- **Concreteness: 0.6** (The example is relatable and concrete, providing a clear point of reference.)
+
+### Quarter 4
+**Text Excerpt:** "If managing your time is a big concern, there are always audiobooks. Listen while you drive, do chores, etc."
+
+- **Valence: 0.5** (Neutral tone, suggesting a practical solution without strong emotional appeal.)
+- **Dominance: 0.5** (Offers a logical suggestion but not in a commanding way.)
+- **Intensity: 0.4** (Less emotional intensity; it’s more about providing alternatives.)
+- **Concreteness: 0.6** (The suggestion of audiobooks is a concrete, actionable idea that enhances the argument.)
+
+These ratings reflect the complexity of the argument and its emotional impact, as well as the clarity and applicability of the points raised.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s an evaluation of the argument based on the requested rating scores:
+
+1. **Valence (0.0 to 1.0)**: 0.8  
+   The argument has a positive valence, as it emphasizes the value and importance of fiction in culture and creativity. It frames reading fiction as enriching and necessary for a well-rounded understanding of humanity. However, it does contain a critical stance toward a non-fiction-only approach, which slightly lowers its overall positive tone.
+
+2. **Dominance (0.0 to 1.0)**: 0.7  
+   The argument employs assertive language and presents clear claims about the merits of fiction compared to non-fiction. It argues that cultural knowledge and imagination are enhanced by fiction. Still, it acknowledges the role of non-fiction, which tempers its dominance slightly.
+
+3. **Intensity (0.0 to 1.0)**: 0.6  
+   There is a moderate level of intensity in the argument. It passionately argues for the value of fiction and positions it as integral to cultural literacy. However, it lacks more emotional language or exclamatory assertions that could push the intensity higher.
+
+4. **Concreteness (0.0 to 1.0)**: 0.7  
+   The argument presents concrete examples from literature (e.g., "Don Quixote," "Odyssey," "Lord of the Rings") and discusses the broader implications of cultural knowledge. While it is somewhat abstract in discussing imagination, the use of examples helps anchor the claims in a more tangible context.
+
+Overall, these scores indicate that the argument is strong in its appeal and well-structured, though it could benefit from more emotional engagement and varied examples to enhance its effectiveness.
+

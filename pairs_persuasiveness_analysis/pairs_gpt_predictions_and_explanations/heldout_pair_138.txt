@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+**First Quarter of Argument:**
+- **Valence:** 0.5 - The statement has a neutral to slightly negative valence as it describes the unpredictability of children and the challenges faced by parents.
+- **Dominance:** 0.4 - The author is presenting their perspective as a parent, but they acknowledge the unpredictability of children, indicating a personal experience rather than trying to dominate the conversation.
+- **Intensity:** 0.5 - The intensity is moderate; while it expresses a genuine concern, it doesn't escalate to strong emotions.
+- **Concreteness:** 0.6 - The argument includes specific examples of situations like routine disruptions, which helps provide clarity.
+
+**Second Quarter of Argument:**
+- **Valence:** 0.3 - The tone shifts slightly negative, reflecting annoyance towards other parents and behavior in public spaces.
+- **Dominance:** 0.5 - The author takes a more assertive stance regarding their annoyance with other parents, suggesting a level of dominance in their feelings of frustration.
+- **Intensity:** 0.6 - The emotional intensity increases as they express frustration with parents who ignore their children's behavior.
+- **Concreteness:** 0.5 - While it shows frustration, it remains somewhat vague and relies on generalization about other parents without specific examples.
+
+**Third Quarter of Argument:**
+- **Valence:** 0.2 - The overall tone becomes more negative, especially regarding judgment from others, reflecting anger and defensiveness.
+- **Dominance:** 0.6 - The author strongly asserts their right to handle their children as they see fit, showcasing a stronger dominant presence in the argument.
+- **Intensity:** 0.7 - The intensity escalates significantly as emotions of anger and defensiveness become clearer, especially with phrases like "I'll punch your teeth out."
+- **Concreteness:** 0.5 - While there are some specifics about needing to manage two children, it becomes less concrete as it leans into emotional reactions rather than providing further situational specifics.
+
+**Fourth Quarter of Argument:**
+- **Valence:** 0.1 - The valence is distinctly negative, emphasizing the anger and frustration with the possibility of violence against children.
+- **Dominance:** 0.7 - The author feels strongly in favor of defending their children against potential harm, asserting dominance in that defensive posture.
+- **Intensity:** 0.8 - Very high intensity, as the author expresses strong feelings surrounding the consequences of other people’s actions towards children with special needs.
+- **Concreteness:** 0.6 - The mention of developmental and mental disorders introduces a concrete aspect, but the argument is largely focused on emotional response rather than specific scenarios.
+
+These scores reflect the overall emotional tone, the power dynamics in the argument, and how specific and vivid the elements of the argument are.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+**First Quarter:**
+- **Valence:** 0.3 (The statement is generally negative concerning hitting, establishing a low valence.)
+- **Dominance:** 0.5 (The argument presents a balanced view, maintaining that hitting is not justified but does acknowledge the impact of poor behavior.)
+- **Intensity:** 0.6 (Expresses strong opposition to violence against children and emphasizes the importance of the child's emotional state.)
+- **Concreteness:** 0.4 (Though clear in its message about hitting, the abstract nature of moral principles reduces concreteness.)
+
+**Second Quarter:**
+- **Valence:** 0.5 (Mixed sentiments are presented; expressing understanding of the need for scolding while acknowledging potential backlash from parents.)
+- **Dominance:** 0.6 (Shifts toward the idea that verbal reprimands are acceptable, asserting a more authoritative stance.)
+- **Intensity:** 0.5 (Moderate intensity; the argument encourages taking action but acknowledges emotional repercussions for involved parties.)
+- **Concreteness:** 0.5 (Discusses specific actions like verbal scolding, which gives it some degree of concreteness.)
+
+**Third Quarter:**
+- **Valence:** 0.4 (The argument maintains a disapproving tone towards parents who do not manage their children but suggests a practical resolution.)
+- **Dominance:** 0.5 (Calls for authority figures like waiters to intervene, empowering assertiveness in dealing with disruptive behavior.)
+- **Intensity:** 0.7 (Represents a stronger call to action, advocating for proactive measures to address misbehaving children.)
+- **Concreteness:** 0.6 (Suggests a clear form of action – asking parents to control their child, adding to its concreteness.)
+
+**Fourth Quarter:**
+- **Valence:** 0.4 (Offers both criticism of abusive methods and a suggestion for potential solutions, creating a mildly positive ending.)
+- **Dominance:** 0.6 (Encourages a balance between confronting poor behavior and understanding the child's perspective.)
+- **Intensity:** 0.5 (Moderate level of intensity; reflectively discusses the struggle of children learning to behave properly.)
+- **Concreteness:** 0.5 (Talks about the importance of schooling in behavior correction but remains somewhat abstract.) 
+
+These scores reflect the complexity and varying degrees of the argument presented throughout the different quarters.
+

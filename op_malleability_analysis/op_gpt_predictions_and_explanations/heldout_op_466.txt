@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument provided in terms of valence, dominance, intensity, and concreteness for each quarter of its text, we can break it down as follows:
+
+### Quarter 1: "CMV: Students should not be evaluated through creative projects for certain subjects In English class for example, I often get group projects where we have to portray certain things in a 'creative way.'"
+
+- **Valence**: 0.4 (The statement reflects a negative perspective regarding evaluations in creative projects, but is somewhat neutral in tone.)
+- **Dominance**: 0.6 (The speaker expresses a clear opinion and seeks to challenge the current evaluation system.)
+- **Intensity**: 0.5 (The speaker feels strongly about the issue but hasn't yet provided deep emotional implications.)
+- **Concreteness**: 0.5 (The argument begins to introduce specific examples but lacks detail at this point.)
+
+### Quarter 2: "This usually involves creating a painting/drawing, or a video/mini movie. The problem is, I have pretty much no drawing ability or acting ability."
+
+- **Valence**: 0.3 (The tone conveys frustration about personal limitations in creativity, leaning towards negative.)
+- **Dominance**: 0.5 (The expression of personal limitations shows an attempt to assert a viewpoint, but it's more about personal experience.)
+- **Intensity**: 0.6 (The speaker's frustration is clearer here, expressing a stronger emotional viewpoint.)
+- **Concreteness**: 0.6 (The mention of specific forms of creative expression (painting/drawing, video) adds concreteness.)
+
+### Quarter 3: "As much as teachers say that it doesn't matter if you're good at drawing/acting or not, in the end, it always does! An elaborate oil painting on something will always get higher marks than a sketch with stick figures."
+
+- **Valence**: 0.2 (The argument emphasizes unfairness and frustration, leaning negatively.)
+- **Dominance**: 0.7 (The speaker argues firmly against the current grading practices, asserting the importance of artistic skill.)
+- **Intensity**: 0.8 (This part has strong emotions tied to the perceived injustice in evaluation, conveying high intensity.)
+- **Concreteness**: 0.7 (Concrete examples (oil painting vs. stick figures) make the argument more tangible.)
+
+### Quarter 4: "I understand that spending more time is justifiable for getting higher marks, but I don't think having good drawing/acting skills is for ENGLISH class. Why should I have to draw and act for English, shouldn't I be doing those in Art and Drama class?"
+
+- **Valence**: 0.4 (The paragraph conveys disagreement and frustration but also recognizes a point about dedication.)
+- **Dominance**: 0.8 (The speaker asks rhetorical questions that assert their position clearly.)
+- **Intensity**: 0.7 (There is an underlying emotional response to having to engage in unrelated skills in English class.)
+- **Concreteness**: 0.6 (Questions about the appropriateness of evaluation methods in different subjects provide some specificity.)
+
+### Summary
+- **Quarter 1**: Valence 0.4, Dominance 0.6, Intensity 0.5, Concreteness 0.5
+- **Quarter 2**: Valence 0.3, Dominance 0.5, Intensity 0.6, Concreteness 0.6
+- **Quarter 3**: Valence 0.2, Dominance 0.7, Intensity 0.8, Concreteness 0.7
+- **Quarter 4**: Valence 0.4, Dominance 0.8, Intensity 0.7, Concreteness 0.6
+

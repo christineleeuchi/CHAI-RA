@@ -1,0 +1,29 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument:
+
+**Quarter 1: "CMV: I am a father who hates Father's Day. I am a husband and father of two. I love my wife, and I love my children, but I am not a fan of Father's Day."**
+- **Valence:** 0.3 (Mixed feelings; love for family but negative feelings toward Father's Day)
+- **Dominance:** 0.7 (The speaker expresses a strong personal stance regarding Father’s Day)
+- **Intensity:** 0.6 (The use of "hate" conveys strong emotion)
+- **Concreteness:** 0.5 (There is a mix of personal experience and abstract sentiment)
+
+**Quarter 2: "I feel the 'holiday', if one can call it that, forces people to adopt a tradition that bills itself very similarly to a birthday...which I already have once a year."**
+- **Valence:** 0.2 (Negative sentiment towards the holiday)
+- **Dominance:** 0.6 (The speaker is asserting their viewpoint strongly)
+- **Intensity:** 0.5 (Moderate intensity in critique, with emphasis on being forced into tradition)
+- **Concreteness:** 0.6 (Specific comparison to birthdays adds clarity)
+
+**Quarter 3: "If you want to appreciate someone it should be done on an individual basis and *not* based on some yearly Hallmark Holiday. Yes, I feel the same about Mother's Day, but I'll be damned if I don't go through the motions."**
+- **Valence:** 0.4 (A mix of frustration with social expectations, yet some acceptance)
+- **Dominance:** 0.5 (A balancing act of asserting and also recognizing societal norms)
+- **Intensity:** 0.6 (The phrase "I'll be damned if I don't" conveys a strong response)
+- **Concreteness:** 0.5 (Abstract concept of appreciation mixed with personal acknowledgment)
+
+**Quarter 4: "I feel much the same way about many of the other 'appreciation days' (e.g. Administrative Professionals Day, Thank a Mailman Day, etc.). You are thanking someone for doing what they *chose* to do. Society should not force an expectation on others to give you praise for the things you choose to do or become."**
+- **Valence:** 0.3 (Continued negative sentiment towards societal expectations)
+- **Dominance:** 0.6 (The speaker is speaking broadly about societal norms and critique)
+- **Intensity:** 0.5 (Consistent passion but generalizes to other appreciation days, reducing sharpness)
+- **Concreteness:** 0.7 (Uses specific examples to illustrate the point, adding clarity)
+
+These ratings are subjective, as different readers may interpret the emotions, strength, and clarity differently, but they reflect the overall tone and content of each section of the argument.
+

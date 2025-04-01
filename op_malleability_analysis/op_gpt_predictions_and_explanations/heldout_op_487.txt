@@ -1,0 +1,45 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument in terms of valence, dominance, intensity, and concreteness on a scale of 0.0 to 1.0 for each quarter of the text, here is the assessment:
+
+### Quarter 1:
+*"CMV: Drones used as weapons to kill should be banned just like chemical and biological agents are. War is never pretty, nor should it be taken lightly, but all this talk about 'the war of the future' being fought with robots and remote control drones is just inhumane, in both uses of the term."*
+
+- **Valence**: 0.2 (The language is negative towards drones used as weapons.)
+- **Dominance**: 0.6 (The argument positions itself strongly against the use of drones, asserting a clear stance.)
+- **Intensity**: 0.7 (The use of the word "inhumane" conveys strong emotion and moral weight.)
+- **Concreteness**: 0.5 (The argument includes general terms without specific examples of impact.)
+
+### Quarter 2:
+*"yes It takes humans off the front lines, and saves their lives, but it makes for a one sided battle, with heavy casualties on the other side. That's all fine and good when it's "the good guys" using them to stop the "bad guys", but look at the other side."*
+
+- **Valence**: 0.1 (Continues a negative portrayal of drones, emphasizing the casualties on the opposing side.)
+- **Dominance**: 0.7 (The argument strongly emphasizes the consequences of drone warfare.)
+- **Intensity**: 0.6 (It discusses casualties, enhancing the emotional aspect of the argument.)
+- **Concreteness**: 0.4 (While it references "one sided battle" and "heavy casualties," it remains somewhat abstract without specific examples.)
+
+### Quarter 3:
+*"flying machines that can be sent anywhere at any time to shoot and bomb targets. If you shoot one down, there is no victory, they just send more, with no real loss because the pilot is miles away in a tent with a joystick."*
+
+- **Valence**: 0.2 (The description of drones emphasizes their potential for destruction.)
+- **Dominance**: 0.5 (There's a focus on the mechanics of drone warfare, asserting a significant point but less emphatically.)
+- **Intensity**: 0.8 (The language conveys a sense of futility and relentless aggression.)
+- **Concreteness**: 0.6 (The mention of specific actions with drones adds some concreteness to the argument.)
+
+### Quarter 4:
+*"If both sides end up with drone technology, war will just revert into guerrilla style ambush style attacks, with both sides sending drones to attack the other sides bases, cities and civilians. All the positive reasons for using drones are equally valid when used as a negative reason. Chem and Bio weapons are banned because they cause mass casualties with very little risk to the side using them, and the opposition can't really fight back against it. Drones are the same."*
+
+- **Valence**: 0.3 (Cautions about the negative implications of drone warfare, coupled with a critique of its use.)
+- **Dominance**: 0.8 (The argument is assertive, explaining the cyclical nature of warfare with drone technology.)
+- **Intensity**: 0.7 (Comparisons to guerrilla warfare and chemical weapons elevate emotional intensity.)
+- **Concreteness**: 0.7 (References to "bases, cities, and civilians" provide tangible points that ground the argument.)
+
+### Summary Table:
+| Quarter      | Valence | Dominance | Intensity | Concreteness |
+|--------------|---------|-----------|-----------|--------------|
+| Quarter 1    | 0.2     | 0.6       | 0.7       | 0.5          |
+| Quarter 2    | 0.1     | 0.7       | 0.6       | 0.4          |
+| Quarter 3    | 0.2     | 0.5       | 0.8       | 0.6          |
+| Quarter 4    | 0.3     | 0.8       | 0.7       | 0.7          |
+
+These scores reflect the varying nuances of the argument as presented in each quarter, with higher values indicating stronger characteristics in that category.
+

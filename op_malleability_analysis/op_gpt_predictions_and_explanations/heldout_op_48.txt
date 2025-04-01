@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a scoring for each aspect (valence, dominance, intensity, and concreteness) for the four quarters of the argument:
+
+### First Quarter
+**Text:** "CMV: r/cmv top replies are not usually disagreeing points of view Hey, I have been using this subreddit for around 2 years now, and I have some qualms about the community."
+
+- **Valence:** 0.4 (Somewhat negative regarding the community)
+- **Dominance:** 0.5 (Expressing personal experience but not asserting strong authority)
+- **Intensity:** 0.5 (Mildly intense; not overly emotional but conveys dissatisfaction)
+- **Concreteness:** 0.7 (Clear statement about experience with the subreddit)
+
+### Second Quarter
+**Text:** "Most of the top replies (the ones that are expected to change the view of the OP) usually disregard and ignore the original view."
+
+- **Valence:** 0.3 (Negative; indicates frustration)
+- **Dominance:** 0.6 (Stronger statement regarding the behavior of top replies)
+- **Intensity:** 0.6 (A bit more intense due to the use of "disregard" and "ignore")
+- **Concreteness:** 0.8 (Specific observation about the nature of replies)
+
+### Third Quarter
+**Text:** "Right now there is a thread about bikers being assholes. The top reply is someone saying, 'not all bikers, there are some exceptions'"
+
+- **Valence:** 0.4 (Neutral to slightly negative; acknowledges the opposing view)
+- **Dominance:** 0.5 (Maintains a balanced view, neither asserting nor denying)
+- **Intensity:** 0.5 (Moderate; presents a common argument but keeps a mild tone)
+- **Concreteness:** 0.7 (Specific example provided, making it relatable)
+
+### Fourth Quarter
+**Text:** "I keep finding this issue, people find one little exception and then suddenly that's the most popular post. I rarely find a top post that addresses the whole of the OP, but rather takes one part out, nit picks it and that's what rises to the top."
+
+- **Valence:** 0.2 (More negative as it expresses consistent frustration)
+- **Dominance:** 0.7 (Strongly states a viewpoint on the community behavior)
+- **Intensity:** 0.7 (Intense expression of dissatisfaction)
+- **Concreteness:** 0.9 (Very clear and specific about the issue being discussed)
+
+These scores reflect the varying emotions and clarity within each segment of the argument while acknowledging the overall critical perspective of the community's behavior.
+

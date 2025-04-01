@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score from 0.0 to 1.0 for each of the following dimensions: valence, dominance, intensity, and concreteness for each quarter of the argument provided.
+
+### Quarter 1:
+**Text:** "If you don't have a desire to exceed professionally, continue the path you are on. I'm going to be brutally honest with you in hopes you'll change your thought process and make you realize you aren't the shining star of intelligence and superiority you think you are."
+
+- **Valence:** 0.3 (The sentiment is generally negative as it begins with a dismissive tone.)
+- **Dominance:** 0.8 (The speaker assumes a position of authority and control over the listener’s perspective.)
+- **Intensity:** 0.7 (The phrase "brutally honest" suggests a high level of emotional intensity.)
+- **Concreteness:** 0.5 (The argument is somewhat abstract but grounded in personal experience.)
+
+### Quarter 2:
+**Text:** "I was in your shoes in high school. I saw people around me busting their ass for good grades, struggling with exams, participating in extra-curricular activities, all in efforts to get into a good university. I could skate by in high school by doing the bare minimum, ace exams without studying, and after having my ego inflated by teachers over the years I simply felt I was better than everyone else."
+
+- **Valence:** 0.2 (There's a negative undertone reflecting on past ego and current realization of arrogance.)
+- **Dominance:** 0.6 (The speaker shares personal experience, which somewhat levels the power dynamic but still presents an authoritative view.)
+- **Intensity:** 0.6 (The reflection is intense, focusing on both past arrogance and current humility.)
+- **Concreteness:** 0.7 (The mention of specific experiences makes this section more concrete and relatable.)
+
+### Quarter 3:
+**Text:** "It's easy to have a sense of superiority in high school which you clearly have by saying you'd excel at a top university when you can't put in the basic time and effort to complete basic high school responsibilities."
+
+- **Valence:** 0.2 (Continues with a negative tone, emphasizing the listener's apparent arrogance.)
+- **Dominance:** 0.7 (Once more, there's an authoritative stance as the speaker critiques the listener's attitude.)
+- **Intensity:** 0.8 (The argument is quite intense, emphasizing the consequences of neglecting responsibilities.)
+- **Concreteness:** 0.5 (It remains clear but relies on evaluation rather than tangible examples.)
+
+### Quarter 4:
+**Text:** "Successful individuals aren't people who are smart with a thirst for knowledge. They're people who are not only smart, but driven in ways you couldn't possibly fathom. Successful people have motors. They do what needs to get done, regardless of how they feel about the task..."
+
+- **Valence:** 0.5 (The sentiment shifts slightly to a more neutral tone discussing success but still has a cautionary message.)
+- **Dominance:** 0.6 (There's an element of authority in defining what successful individuals are like.)
+- **Intensity:** 0.7 (The use of strong imagery like "people who have motors" indicates a high-intensity message.)
+- **Concreteness:** 0.6 (The argument uses vivid descriptors that bring the concept of success into focus, though still somewhat abstract.)
+
+Overall, these scores reflect how each quarter of the argument conveys feelings, authority, emotional weight, and clarity in conveying its overall message.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score for the argument based on valence, dominance, intensity, and concreteness:
+
+1. **First Quarter of the Argument:**
+   - **Valence:** 0.4 (The tone is skeptical and somewhat negative towards the individual's potential for excelling at a top university.)
+   - **Dominance:** 0.6 (The speaker presents themselves as more knowledgeable or experienced, implying a certain level of authority over the subject.)
+   - **Intensity:** 0.5 (There's a moderate intensity in the skepticism expressed, though it does not come across as overly aggressive.)
+   - **Concreteness:** 0.3 (The mention of "boring stuff" and "meaningless requirements" is vague; it lacks specific examples or detail.)
+
+2. **Second Quarter of the Argument:**
+   - **Valence:** 0.3 (The statement suggests a negative view of traditional schooling and the belief that learning useful information is not the primary goal.)
+   - **Dominance:** 0.5 (The speaker asserts their perspective on what education is about, but acknowledges that there are differing views.)
+   - **Intensity:** 0.4 (There is a moderate intensity as the speaker challenges the notion of what education is for.)
+   - **Concreteness:** 0.4 (The mention of "learning how to learn" offers some specific insight, but lacks detailed examples.)
+
+3. **Third Quarter of the Argument:**
+   - **Valence:** 0.5 (The tone is somewhat more neutral here, presenting opportunities rather than outright criticism.)
+   - **Dominance:** 0.4 (The speaker balances their authoritative stance with a message that emphasizes the value of being well-rounded, acknowledging that hard work is subjective.)
+   - **Intensity:** 0.5 (The intensity increases with the recognition that there is a balance to be found between effort and success.)
+   - **Concreteness:** 0.5 (While there are statements about “rounded” students and the importance of recommendations, it could benefit from specifics on what that entails.)
+
+4. **Fourth Quarter of the Argument:**
+   - **Valence:** 0.6 (The tone is more encouraging, highlighting the possibility of change and improvement.)
+   - **Dominance:** 0.5 (The speaker encourages self-reflection while maintaining a supportive stance, though they are still assertive.)
+   - **Intensity:** 0.6 (There is a stronger call to action which adds to the intensity of the message.)
+   - **Concreteness:** 0.6 (The advice to "just do the minimum" and the assertion of “there’s still time to change” are concrete suggestions for improvement.)
+
+These scores reflect an analysis of the argument's components in the context of the provided text.
+

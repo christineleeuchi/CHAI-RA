@@ -1,0 +1,29 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument's valence, dominance, intensity, and concreteness for each quarter of the provided text, let's break it down accordingly: 
+
+### Quarter 1: "CMV: While white people will never be able to understand what it means to be a minority, that doesn't mean we cannot be critical of their actions."
+- **Valence**: 0.4 (The sentiment is somewhat neutral; it acknowledges a limitation but asserts a critical stance.)
+- **Dominance**: 0.6 (The speaker is asserting an opinion, indicating a level of confidence.)
+- **Intensity**: 0.5 (The statement has moderate intensity regarding the topic's emotional impact.)
+- **Concreteness**: 0.5 (The argument is somewhat abstract, addressing concepts of understanding and criticism rather than specific examples.)
+
+### Quarter 2: "I recently got in an argument with a friend regarding the BLM (Black Lives Matter) interruption of Bernie Sanders speech. I argued that while I understand their frustration, I still hold its unacceptable to break the law the way BLM did."
+- **Valence**: 0.3 (The sentiment is negative regarding the actions of BLM due to the law-breaking focus.)
+- **Dominance**: 0.7 (The speaker expresses a strong opinion and is presenting a counterargument.)
+- **Intensity**: 0.6 (The emotional engagement is higher, especially regarding legal ramifications and societal issues.)
+- **Concreteness**: 0.6 (This section presents a specific instance (the interruption) to discuss broader implications.)
+
+### Quarter 3: "My friend argued back that since both of us are white, we can never understand the situation and the anger these representatives of BLM feel. Therefore, she argued, we cannot criticize their actions since we cannot and can never understand their perspective."
+- **Valence**: 0.5 (It presents a balanced argument that recognizes the friend's perspective; it lacks strong negative or positive sentiment.)
+- **Dominance**: 0.4 (The friend's argument is framed as a rebuttal, suggesting a lower dominance compared to the speaker's opinion.)
+- **Intensity**: 0.5 (There is moderate intensity, as it discusses the complexity of understanding racial issues.)
+- **Concreteness**: 0.5 (The argument is still somewhat abstract, focusing on perceptions of knowledge and understanding rather than factual occurrences.)
+
+### Quarter 4: "In response to the article, I essentially argued that while I do feel for minorities in the U.S, violence is neither a morally sound or pragmatic way to go about change. I also felt that the argument presented (we are not minorities, therefore we will never be able to understand, therefore we cannot criticize) is fundamentally unsound."
+- **Valence**: 0.2 (The overall sentiment is negative towards the justification of violence.)
+- **Dominance**: 0.8 (The speaker strongly asserts their viewpoint, showcasing high confidence in their perspective.)
+- **Intensity**: 0.7 (This section has a high intensity, especially regarding moral judgments and critiques.)
+- **Concreteness**: 0.6 (The argument is somewhat specific in its condemnation and reference to abstract moral considerations.)
+
+These scores are subjective and may vary based on the interpretation of the argument's tone and content.
+

@@ -1,0 +1,84 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument in terms of valence, dominance, intensity, and concreteness, I will consider it in quarters based on the provided text. Here's the breakdown:
+
+### 1st Quarter:
+"I don't think there is some single entity controlling all media like some Orwellian dystopia,"
+
+- **Valence**: 0.3 (Neutral to slightly negative; the statement refutes a negative concept but lacks positive reinforcement)
+- **Dominance**: 0.5 (A balanced assertion indicating a stance without aggressive dominance or submission)
+- **Intensity**: 0.4 (Moderate intensity, as it counters a strong idea without extreme emphasis)
+- **Concreteness**: 0.4 (Abstract reference to Orwellian dystopia, leaving some ambiguity)
+
+### 2nd Quarter:
+"but I think we have a lot of evidence of journalists of similar political leanings discussing and colluding about stories in ways that would qualify as pushing an agenda."
+
+- **Valence**: 0.4 (Slightly negative because it implies deceit and collusion, but not extremely harsh)
+- **Dominance**: 0.6 (Suggests a stronger assertion of belief in journalistic collusion, reflecting a more dominant viewpoint)
+- **Intensity**: 0.6 (Higher intensity by asserting the validity of evidence and collusion)
+- **Concreteness**: 0.6 (More concrete due to specific references to evidence and journalistic behavior)
+
+### 3rd Quarter:
+"Take the [JournoList scandal],"
+
+- **Valence**: 0.5 (Neutral; serves as a reference point without strong emotional charge)
+- **Dominance**: 0.5 (Neutral mention as it serves to support the argument rather than dominate it)
+- **Intensity**: 0.5 (Neutral intensity; referencing an event without significant emotional emphasis)
+- **Concreteness**: 0.7 (Concrete reference to a specific event that is known and can be researched)
+
+### 4th Quarter:
+"where Ezra Klein of the Washington Post basically ran a private forum of hundreds of journalists who discussed and agreed upon talking points to support President Obama during his initial campaign and later into his presidency."
+
+- **Valence**: 0.4 (Slightly negative, implying an unethical behavior among journalists)
+- **Dominance**: 0.7 (This presentation of details gives authority and dominance to the argument)
+- **Intensity**: 0.7 (High intensity as it details collusion and implies wrongdoing)
+- **Concreteness**: 0.8 (Very concrete, with specific names and clear actions described)
+
+### Summary of Scores:
+1. **1st Quarter**: Valence 0.3, Dominance 0.5, Intensity 0.4, Concreteness 0.4
+2. **2nd Quarter**: Valence 0.4, Dominance 0.6, Intensity 0.6, Concreteness 0.6
+3. **3rd Quarter**: Valence 0.5, Dominance 0.5, Intensity 0.5, Concreteness 0.7
+4. **4th Quarter**: Valence 0.4, Dominance 0.7, Intensity 0.7, Concreteness 0.8
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating for each of the four dimensions—valence, dominance, intensity, and concreteness—broken down for each quarter of the argument's text:
+
+### 1st Quarter:
+**Text:** "You're missing it by that much when you say 'reporting on things that sell'. It may seem like media's job is to produce stories, but the media's real job is to produce an audience for advertisements. That is how the media gets paid."
+
+- **Valence:** 0.4 (Mixed; slightly critical of the original viewpoint)
+- **Dominance:** 0.6 (Suggests a strong position on the issue)
+- **Intensity:** 0.5 (Moderate; sets up the argument without excessive emotional language)
+- **Concreteness:** 0.5 (Somewhat abstract but begins to define the media's role)
+
+### 2nd Quarter:
+**Text:** "So the media's real customer isn't you, it's corporations that buy air time for advertisements. And this gives those corporations a huge amount of control, because if the corporation doesn't like what the media is doing, it will pull its ads, and the media company won't get paid for that content."
+
+- **Valence:** 0.5 (Neutral on influence but critical of the media's role)
+- **Dominance:** 0.7 (Clear assertion of the media's dependence on advertisers)
+- **Intensity:** 0.6 (Stronger language to indicate the control that corporations have)
+- **Concreteness:** 0.7 (Provides clear and specific details about the relationship between media and advertisers)
+
+### 3rd Quarter:
+**Text:** "Thus the media companies pretty much have to do what the advertisers tell them. Now, whether or not the $36K per year reporter has an agenda doesn't even factor into all of this. The corporations don't deal with the reporters, they deal with the people making multiple hundreds of thousands of dollars, who control the media company's editorial policy."
+
+- **Valence:** 0.4 (Critical of the media's structure, implying power dynamics)
+- **Dominance:** 0.8 (Strongly asserts the influence of high-level executives over content)
+- **Intensity:** 0.6 (Clear language on the relationship but remains relatively calm)
+- **Concreteness:** 0.6 (Specific reference to different levels within the media hierarchy)
+
+### 4th Quarter:
+**Text:** "Of course, the purpose of these advertisements is to get people to spend money on products and services. So the corporations that make these advertisements want to make sure that the government does things that are favorable to them -- tax breaks, military procurement, protection from imports, food and drug approval -- to help them sell these products and services."
+
+- **Valence:** 0.5 (Neutral with a focus on the objectives of corporations)
+- **Dominance:** 0.5 (Balanced view; recognizes the impact without heavily critiquing government)
+- **Intensity:** 0.7 (A strong statement about the interests of corporations)
+- **Concreteness:** 0.8 (Very clear, provides specific examples of corporate objectives)
+
+### Summary
+- **1st Quarter:** Valence 0.4, Dominance 0.6, Intensity 0.5, Concreteness 0.5
+- **2nd Quarter:** Valence 0.5, Dominance 0.7, Intensity 0.6, Concreteness 0.7
+- **3rd Quarter:** Valence 0.4, Dominance 0.8, Intensity 0.6, Concreteness 0.6
+- **4th Quarter:** Valence 0.5, Dominance 0.5, Intensity 0.7, Concreteness 0.8
+
+These scores reflect the varying tones and emphases throughout the argument.
+

@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the rating scores for each quarter of the argument presented, based on valence, dominance, intensity, and concreteness:
+
+### 1st Quarter:
+*"This says a lot more about you than it does American Men. I'm guessing you're pretty young and don't have a lot of experience."*
+
+- **Valence:** 0.3 (The tone is somewhat critical and dismissive, which casts a negative light on the person being addressed.)
+- **Dominance:** 0.7 (The speaker asserts their perspective as more valid, aiming to dominate the conversation.)
+- **Intensity:** 0.6 (The language conveys a degree of intensity in criticizing someone's perspective.)
+- **Concreteness:** 0.4 (The argument references the other person's experience vaguely but lacks specific examples.)
+
+### 2nd Quarter:
+*"I'm not saying that is bad. Just that you're POV seems to not be very informed."*
+
+- **Valence:** 0.4 (Although it tries to soften the critique, it remains somewhat negative.)
+- **Dominance:** 0.6 (The speaker maintains a dominant position by asserting that the other person's viewpoint is uninformed.)
+- **Intensity:** 0.5 (Moderate intensity as it continues to push back against the initial argument.)
+- **Concreteness:** 0.5 (This part introduces a claim about the other person's knowledge but doesn’t provide specific evidence.)
+
+### 3rd Quarter:
+*"Physical appearance is subjective and sooner or later everyone gets a shot at someone out of their league."*
+
+- **Valence:** 0.6 (This statement is more positive as it suggests potential and subjective perceptions.)
+- **Dominance:** 0.5 (It introduces an alternative perspective without strongly asserting dominance.)
+- **Intensity:** 0.4 (Less intense than previous sections, providing a more hopeful viewpoint.)
+- **Concreteness:** 0.6 (This part is clearer and presents a specific opinion that can be understood and discussed.)
+
+### 4th Quarter:
+*"The porn thing is a two way street. Men and women are both influenced by pornography. Basically if you find the right person, you can be truly gratified... Even if you're fat!"*
+
+- **Valence:** 0.7 (Positively framed, suggesting mutual influence and hopefulness for gratification.)
+- **Dominance:** 0.5 (Balanced perspective, not overtly dominating but providing an equalizing view.)
+- **Intensity:** 0.5 (Moderate intensity, providing a practical viewpoint.)
+- **Concreteness:** 0.7 (Concrete arguments presented about the influences of pornography and the possibility of gratification.)
+
+These scores reflect the argument's tone and structure, assessing how each section engages with the original premise on personal experience and expectations in relationships.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score from 0.0 to 1.0 for each of the dimensions (valence, dominance, intensity, and concreteness) based on the argument you provided:
+
+1. **Valence** (emotional tone, positive or negative): 
+   - Score: 0.2 
+   - Reason: The argument has a predominantly negative tone as it discusses a lack of gratification and hints at dissatisfaction with women in relation to men’s sexual experiences.
+
+2. **Dominance** (assertiveness and control in the argument): 
+   - Score: 0.7 
+   - Reason: The argument conveys a strong and assertive standpoint, suggesting that the author's experience is definitive. There is a sense of authority in stating what "experience" tells them.
+
+3. **Intensity** (strength of the argument’s emotion or force): 
+   - Score: 0.6 
+   - Reason: The argument expresses significant frustration or disappointment regarding sexual encounters and relationships, giving it a high level of intensity despite the somewhat factual tone.
+
+4. **Concreteness** (specificity and clarity of the argument): 
+   - Score: 0.5 
+   - Reason: The argument presents two specific claims regarding women’s sexual desire and willingness to make sacrifices. However, it lacks supporting evidence or examples, leading to a moderate level of concreteness.
+
+Overall, this analysis reflects the emotional tone and clarity present within the argument while recognizing its assertiveness and underlying negativity.
+

@@ -1,0 +1,42 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument in quarters based on valence, dominance, intensity, and concreteness, we can break it down as follows:
+
+### Quarter 1
+"CMV: I believe that psychedelics are a not a tool for self-improvement, but rather a way to buy into our own delusions. Let me get this straight. I've had my fair share of psychedelic experiences, with the goal to improve, to learn more about myself. I have buyed into the movement that got accelerated by people like Terence McKenna, Joe Rogan, Steve Jobs and many more, that psychedelics might change the world and are a key to enlightenment (for lack of a better term)."
+
+- **Valence:** 0.2 (The tone is mostly negative as it challenges a widely held belief about psychedelics)
+- **Dominance:** 0.5 (The writer presents their beliefs confidently but acknowledges previous acceptance of alternative views)
+- **Intensity:** 0.6 (The personal experiences presented add a level of emotional intensity to the argument)
+- **Concreteness:** 0.4 (While personal experiences provide some grounding, the argument remains abstract and philosophical)
+
+### Quarter 2
+"While I have always claimed that psychedelics have done something for me, I think that this is gradually changing. I cannot come up with many things they have done for me, except teach me the value of meditation."
+
+- **Valence:** 0.3 (The writer expresses disappointment or disillusionment, which is a negative sentiment)
+- **Dominance:** 0.4 (The individual reflects on their personal experience, showing some vulnerability)
+- **Intensity:** 0.5 (The personal shift in perception adds a moderate level of intensity)
+- **Concreteness:** 0.6 (The mention of meditation as a tangible benefit adds some concreteness to the argument)
+
+### Quarter 3
+"I believe that we are mostly lying to ourselves. That we use drugs like LSD to have fun, with the pretext that they help us grow. But they are called hallucinogens for a reason. They allow us to have delusions that vary in intensity based on the person and the dosage. We can then use those delusions for good or for bad, to mold our view of reality as we want it."
+
+- **Valence:** 0.1 (This part is strongly negative, critiquing the use of psychedelics)
+- **Dominance:** 0.7 (The author presents a strong and assertive stance)
+- **Intensity:** 0.8 (The claims about self-deception and delusions intensify the emotional weight of the argument)
+- **Concreteness:** 0.5 (While the argument is abstract, it describes the nature of hallucinogens in a reasonably straightforward manner)
+
+### Quarter 4
+"But I constantly find myself having to reevaluate the ideas that I've come up with on trips, and find out that they are incomplete or wrong. For some people it works, and for others it is just a waste of time."
+
+- **Valence:** 0.2 (Acknowledges that for some it can be beneficial but remains critical)
+- **Dominance:** 0.5 (The writer expresses a personal struggle and recognizes differing experiences)
+- **Intensity:** 0.4 (There is a sense of reflection, resulting in somewhat lower emotional intensity)
+- **Concreteness:** 0.6 (The recognition of differing outcomes provides a clearer perspective)
+
+### Summary
+The argument can be rated as follows:
+- **Quarter 1:** Valence 0.2, Dominance 0.5, Intensity 0.6, Concreteness 0.4
+- **Quarter 2:** Valence 0.3, Dominance 0.4, Intensity 0.5, Concreteness 0.6
+- **Quarter 3:** Valence 0.1, Dominance 0.7, Intensity 0.8, Concreteness 0.5
+- **Quarter 4:** Valence 0.2, Dominance 0.5, Intensity 0.4, Concreteness 0.6
+

@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the argument's valence, dominance, intensity, and concreteness for each quarter of the text, rated on a scale from 0.0 to 1.0:
+
+### Quarter 1:
+**Text:** "There are few historical events/movements with a single cause. More often than not, there are a number of factors that all added up, or a number of cases where if x hadn't happened, then y wouldn't have. (For example, the Treaty of Versailles in itself didn't 'cause' WWII. If Hitler hadn't been born, or of Churchill rather than Chamberlain had been PM in the early 30's, history would have been different)."
+- **Valence:** 0.7 (The argument is generally positive towards complex analysis but acknowledges uncertainty)
+- **Dominance:** 0.5 (Presents an analytical perspective without a strong authoritative tone)
+- **Intensity:** 0.6 (The tone conveys a moderate level of conviction)
+- **Concreteness:** 0.8 (Makes clear, historical references that illustrate the point)
+
+### Quarter 2:
+**Text:** "ISIS is no different. Without the Sunni/Shia divide, or many of the upheavals of the Arab Spring, ISIS as we know it wouldn't have happened."
+- **Valence:** 0.6 (Neutral but slightly negative towards the factors contributing to ISIS)
+- **Dominance:** 0.5 (Maintains an analytical tone without overreaching in authority)
+- **Intensity:** 0.7 (The argument asserts a strong stance that these factors are critical)
+- **Concreteness:** 0.8 (Utilizes specific historical references that add weight to the argument)
+
+### Quarter 3:
+**Text:** "But without the invasion of Iraq (which in many ways precipitated the Arab Spring) it wouldn't have happened either. Or the impact of Israel, which probably only still exists due to US intervention. Or the vast sums of money flowing in from oil. Or Iran, which exists in its current state due to the fallout from western support of the Shah."
+- **Valence:** 0.5 (Neutral, as it lists factors without a strong positive or negative bias)
+- **Dominance:** 0.6 (Presents a more assertive tone by listing key factors)
+- **Intensity:** 0.8 (The argument offers a compelling case for numerous influences on the situation with intensity)
+- **Concreteness:** 0.9 (Each factor is specific and established, giving a robust grounding to the argument)
+
+### Quarter 4:
+**Text:** "If the Middle East had remained a poor desert, abandoned and ignored by the post-colonial West, there wouldn't be an ISIS. Did Bush cause ISIS? Of course not. But would it be what it is now without him? Doubtful. A strong Saddam and a strong Assad would probably have prevented it from happening. Could Obama have prevented ISIS? Sure, but at a cost that I don't think we'd have wanted to pay, in terms of military and money. He didn't cause it, but I think if the US were willing to ignore world (and domestic opinion), it would have had the means to stop them. But that doesn't equal responsibility."
+- **Valence:** 0.4 (Slightly negative towards the effects of US intervention but recognizes complexities)
+- **Dominance:** 0.7 (Conveys authority in discussing the implications of actions taken)
+- **Intensity:** 0.9 (Strong belief in the potential impact of specific factors, conveying urgency)
+- **Concreteness:** 0.8 (Cites direct examples and hypothetical scenarios, making for a well-rounded argument)
+
+These scores reflect the nuances in each quarter of the argument while acknowledging the complexity of the issues surrounding the topic of ISIS and its multifaceted causes.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! I'll break down the argument into four quarters and provide a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each one.
+
+### Quarter 1
+**Text**: "Okay, personally I find it more arrogant to suggest that the actions of our government have no effect on other nations."
+- **Valence**: 0.5 (Neutral tone with some negative sentiment towards the opposing view)
+- **Dominance**: 0.3 (Expresses a personal belief but does not strongly assert authority)
+- **Intensity**: 0.4 (Moderate intensity, showing personal frustration)
+- **Concreteness**: 0.5 (Vague reference to "arrogance" without specific examples)
+
+### Quarter 2
+**Text**: "We have the largest military in the history of the world, by far."
+- **Valence**: 0.3 (Slightly negative, implies concern about military power)
+- **Dominance**: 0.7 (Strong statement of fact asserting the significance of military power)
+- **Intensity**: 0.6 (Strong intensity, emphasizing the size of the military)
+- **Concreteness**: 0.7 (Concrete fact about the military size)
+
+### Quarter 3
+**Text**: "There are U.S. military bases all over."
+- **Valence**: 0.3 (Slightly negative, suggests a global presence that could be viewed unfavorably)
+- **Dominance**: 0.6 (Assertive claim about the U.S. military presence)
+- **Intensity**: 0.5 (Moderate to strong emphasis on military bases)
+- **Concreteness**: 0.8 (Concrete and factual statement)
+
+### Quarter 4
+**Text**: "Have you ever seen War of the Worlds? Despite what you may think of that movie, imagine the humans in that movie are the people of the middle east, and the U.S. is the aliens. When you fuck with the way other countries operate, they get pissed."
+- **Valence**: 0.2 (Negative sentiment towards U.S. actions and their impact)
+- **Dominance**: 0.5 (Uses a metaphor to assert a perspective)
+- **Intensity**: 0.8 (High intensity, especially with the use of strong language)
+- **Concreteness**: 0.6 (Concrete metaphor but less clear in its implications)
+
+### Summary of Ratings
+1. **Quarter 1**: Valence 0.5, Dominance 0.3, Intensity 0.4, Concreteness 0.5
+2. **Quarter 2**: Valence 0.3, Dominance 0.7, Intensity 0.6, Concreteness 0.7
+3. **Quarter 3**: Valence 0.3, Dominance 0.6, Intensity 0.5, Concreteness 0.8
+4. **Quarter 4**: Valence 0.2, Dominance 0.5, Intensity 0.8, Concreteness 0.6
+
+These scores attempt to capture the emotional and persuasive qualities of each part of the argument.
+

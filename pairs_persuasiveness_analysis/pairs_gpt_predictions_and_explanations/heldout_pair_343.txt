@@ -1,0 +1,41 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here is the rating for each of the requested dimensions based on the provided argument, divided into quarters:
+
+1. **Valence (0.6)**: The argument has a positive tone, emphasizing the enjoyable aspects of using a controller, particularly through the sensory experience it provides. The reference to "added enjoyment" suggests that the feelings associated with using a controller are pleasurable.
+
+2. **Dominance (0.4)**: The argument presents a personal opinion about the benefits of using a controller, indicating some authority in the experience shared. However, it does not strongly assert dominance over the topic, as it leaves room for differing views and emphasizes that it's hard to fully explain the value of the controller's feedback.
+
+3. **Intensity (0.5)**: The intensity of the argument is moderate. While it conveys the importance of the tactile sensations provided by the controller, it does not use particularly strong language or emotional descriptors. The experience is described as "cool," which reflects a level of enthusiasm but remains somewhat understated.
+
+4. **Concreteness (0.7)**: The argument is fairly concrete, as it provides specific examples (vibrations during explosions and silent takedowns) to illustrate its points. These specifics help ground the argument in real experiences, making it relatable and understandable. 
+
+Overall, the argument clearly describes the experiential benefits of using a controller, thus enhancing its effectiveness, while remaining open to other perspectives.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the valence, dominance, intensity, and concreteness of the argument provided, we can break it down into quarters and evaluate each part separately. Here are the ratings for each category, using a scale from 0.0 to 1.0:
+
+### Quarter 1: "Well, driving on mouse and keyboard is terrible."
+- **Valence:** 0.2 (Negative sentiment towards mouse and keyboard for driving)
+- **Dominance:** 0.4 (The author is expressing a personal opinion, which conveys some authority but is subjective)
+- **Intensity:** 0.5 (The use of the word "terrible" conveys a strong emotion)
+- **Concreteness:** 0.6 (The statement is direct but lacks specific examples or evidence)
+
+### Quarter 2: "If you've ever played GTA or a similar game with a controller, then switched to mouse and keyboard, you probably threw your mouse through your computer in a fit of rage."
+- **Valence:** 0.1 (Continues the negative sentiment; the imagery of throwing a mouse conveys frustration)
+- **Dominance:** 0.5 (Engages the audience with a relatable experience but remains subjective)
+- **Intensity:** 0.7 (Very intense imagery with "threw your mouse through your computer in a fit of rage")
+- **Concreteness:** 0.8 (Specific examples of a game and relatable emotional reaction make it concrete)
+
+### Quarter 3: "If you want more use out of your controller, get GTA V and drive around a lot."
+- **Valence:** 0.6 (More positive suggestion, encouraging use of a controller)
+- **Dominance:** 0.5 (Offers advice but still hinges on subjective experience)
+- **Intensity:** 0.4 (Less intense than previous segments, more about practical advice)
+- **Concreteness:** 0.7 (Clear recommendation with a specific game and action to take)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence: 0.2, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 2:** Valence: 0.1, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.8
+- **Quarter 3:** Valence: 0.6, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.7
+
+Feel free to ask if you need further analysis or another argument examined!
+

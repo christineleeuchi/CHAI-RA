@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the provided argument in terms of valence, dominance, intensity, and concreteness, I'll break it down into four quarters and give a score (from 0.0 to 1.0) for each criterion:
+
+### Quarter 1: 
+**Text**: "CMV: Free college will result in less receiving a college education, not more. Under Sander's plan, the Federal and State Governments would cover the cost of tuition at public universities. I worry that the economic-educational landscape of the country can't support this concept."
+
+- **Valence**: 0.6 - The statement has a negative connotation about free college, expressing concern rather than positivity about the initiative.
+- **Dominance**: 0.5 - The speaker expresses apprehension and a standpoint that questions the feasibility of Sanders' plan, but does not present an authoritative claim or overwhelming confidence.
+- **Intensity**: 0.5 - The concern is moderate; there’s worry expressed, but not extreme frustration or alarm.
+- **Concreteness**: 0.5 - While the argument communicates a clear viewpoint, it lacks specific examples or data to support the claim about the economic landscape.
+
+### Quarter 2: 
+**Text**: "Sanders makes reference to Northern European countries when discussing his plan, noting how college education there is free (or close). While this is true, it fails to mention that admissions in those schools is extremely competitive. Meaning only the best students attend college and only the best of the best attend graduate school."
+
+- **Valence**: 0.7 - This quarter has a more positive mood; it acknowledges the existence of a successful system abroad while highlighting the comparisons unfavorably for the US context.
+- **Dominance**: 0.6 - The argument challenges Sanders' plan by emphasizing the competitive nature of admissions in other countries, positioning the speaker as critical of a particular aspect of the proposal.
+- **Intensity**: 0.6 - The criticism of the comparative aspect introduces a stronger conviction.
+- **Concreteness**: 0.7 - It provides a specific example of Northern European education systems, thereby adding to the argument's clarity.
+
+### Quarter 3:
+**Text**: "Here in the US a BS degree is rapidly becoming what a high school diploma was to previous generations, the basic level of education. Anyone with a halfway decent high school GPA can go to college in the US. If money (or a willingness to take on debt) is no longer a way to "Gate Keep", lower tier public Universities will be forced to drastically raise standards or close their doors (such as where I went, East Carolina University)."
+
+- **Valence**: 0.6 - This portion continues the largely critical viewpoint, though it acknowledges the situation somewhat matter-of-factly rather than with overt negativity.
+- **Dominance**: 0.7 - Here, the argument is more assertive as it discusses the implications of the current educational landscape, showing a stronger position.
+- **Intensity**: 0.7 - The analogy comparing a BS degree to a high school diploma is a strong statement, reflecting a heightened concern for the future.
+- **Concreteness**: 0.8 - Specific examples (like East Carolina University) contribute to the persuasiveness of the argument and provide clearer imagery.
+
+### Quarter 4:
+**Text**: "Unless we make a High School diploma valuable by itself again, free college is doomed to fail. Sidenote: If I'm wrong than the issue of spiraling costs needs to be addressed in such a way that public universities don't become the same as public schools (generally regarded as bad)."
+
+- **Valence**: 0.5 - This part proposes a solution but maintains a pessimistic stance on free college's viability.
+- **Dominance**: 0.6 - It asserts a conclusion and points toward a potential solution, establishing a moderate sense of authority.
+- **Intensity**: 0.6 - The conclusion shows commitment, yet it is somewhat tempered by the sideline about spiraling costs.
+- **Concreteness**: 0.5 - While it mentions specific issues, it lacks detailed exploration of how to enhance high school education.
+
+### Summary Scores:
+- **Quarter 1**: Valence 0.6, Dominance 0.5, Intensity 0.5, Concreteness 0.5
+- **Quarter 2**: Valence 0.7, Dominance 0.6, Intensity 0.6, Concreteness 0.7
+- **Quarter 3**: Valence 0.6, Dominance 0.7, Intensity 0.7, Concreteness 0.8
+- **Quarter 4**: Valence 0.5, Dominance 0.6, Intensity 0.6, Concreteness 0.5
+
+These scores reflect the overall tone, strength, engagement level, and clarity of each section of the argument.
+

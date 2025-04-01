@@ -1,0 +1,39 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure! Below, I’ve rated each quarter of the argument based on valence, dominance, intensity, and concreteness on a scale from 0.0 to 1.0.
+
+### 1st Quarter:
+**Text:** "CMV: Fireworks are really boring, have little to do with celebrating independence, and are not worth the risk. A friend of mine held a Fourth of July event, and spent upwards of $500 on fireworks. I've seen professional displays, choreographed and set to music, which were pleasant enough, but after a few minutes, what else is there but more of the same?"
+
+- **Valence:** 0.2 (Negative, expresses disinterest and boredom)
+- **Dominance:** 0.5 (Moderately confident expression of opinion)
+- **Intensity:** 0.6 (Strong sense of frustration about the fireworks)
+- **Concreteness:** 0.5 (Specific examples and experiences referenced)
+
+### 2nd Quarter:
+**Text:** "But this private display, ergh. One, two, three tubes, willows, spinners, blah blah blah. An hour and a half of this? I got good and buzzed, and gave myself time to sober up, and still it went on and on and on. No pace, no art, just whistle, bang, pretty lights. And I drove home, and saw dozens of similar displays, all the same."
+
+- **Valence:** 0.1 (Very negative, conveys significant frustration)
+- **Dominance:** 0.6 (Shows a strong personal stance against the displays)
+- **Intensity:** 0.8 (High level of annoyance and disdain)
+- **Concreteness:** 0.7 (Specific descriptions of the fireworks display)
+
+### 3rd Quarter:
+**Text:** "These people are just enjoying the bang and zoom and pretty lights, they are not commemorating anything. And I've seen all kinds of stories, people injured, even killed, by these things, which in my opinion offer little or no excitement or entertainment."
+
+- **Valence:** 0.1 (Highly negative, criticizes mindset and consequences)
+- **Dominance:** 0.7 (Strong personal viewpoint and concern for safety)
+- **Intensity:** 0.8 (High concern for the risks involved)
+- **Concreteness:** 0.6 (Mix of anecdotal evidence and personal opinion)
+
+### 4th Quarter:
+**Text:** "_____
+
+> *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*"
+
+- **Valence:** 0.5 (Neutral, informative tone)
+- **Dominance:** 0.5 (Moderate authority, standard reminders)
+- **Intensity:** 0.0 (No significant emotional or intensity)
+- **Concreteness:** 0.8 (Very concrete, detailed instructions and guidelines)
+
+These scores reflect the emotional and thematic qualities present in each section of the argument.
+

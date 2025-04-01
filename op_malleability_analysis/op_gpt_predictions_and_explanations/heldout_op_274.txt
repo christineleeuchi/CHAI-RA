@@ -1,0 +1,39 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument in terms of valence, dominance, intensity, and concreteness, I will provide ratings from 0.0 (low) to 1.0 (high) for each quarter of the text. 
+
+### First Quarter:
+*"CMV: It's disrespectful to make comments on someone being "so hot" when in a relationship This goes for both men and women."*
+- **Valence:** 0.6 (The sentiment is negative regarding disrespect but neutral overall.)
+- **Dominance:** 0.7 (The author asserts their perspective strongly.)
+- **Intensity:** 0.5 (The argument's intensity is moderate; it is an opinion but presented with some conviction.)
+- **Concreteness:** 0.5 (The argument is somewhat abstract, addressing general behavior rather than specific incidents.)
+
+### Second Quarter:
+*"I've started to feel like I'm unsuitable for a relationship because my ideals are not very normal."*
+- **Valence:** 0.4 (There’s a negative sentiment regarding personal self-worth.)
+- **Dominance:** 0.4 (The author expresses uncertainty about themselves, indicating less dominance over the subject.)
+- **Intensity:** 0.6 (The feeling of being unsuitable carries a significant emotional weight.)
+- **Concreteness:** 0.5 (Vague references to "ideals" make this moderately abstract.)
+
+### Third Quarter:
+*"This has caused problems with a long term significant other on many occasions and I've been thinking about breaking it off, not because of her but because I feel like my ideals are correct so I don't feel like I should be the one to change."*
+- **Valence:** 0.3 (The sentiment is negative due to relationship troubles.)
+- **Dominance:** 0.6 (The author displays assertiveness about their ideals, though conflicted.)
+- **Intensity:** 0.8 (The emotional weight is high due to the potential breakup.)
+- **Concreteness:** 0.6 (The mention of a long-term partner and specific feelings adds some specificity.)
+
+### Fourth Quarter:
+*"One such ideal is that it isn't okay for men or women to comment on someone in the vein of "oh my god (s)he is so hot!" as it's extremely disrespectful to the other person in the relationship. I'm not talking like you can't acknowledge someone's looks at all, obviously there are beautiful and handsome people in the world, but there's a major difference between "holy shit she's hot as hell" and "yeah she's beautiful" the former of which I see as disgusting."*
+- **Valence:** 0.5 (Balanced between negative feelings about specific comments and neutral acknowledgment of beauty.)
+- **Dominance:** 0.8 (Very assertive in the stance taken on the issue.)
+- **Intensity:** 0.9 (High intensity due to strong emotional language; "disgusting" heightens it.)
+- **Concreteness:** 0.7 (More concrete as specific examples of comments are provided to illustrate the argument.)
+
+### Summary of Ratings:
+- **First Quarter:** Valence 0.6, Dominance 0.7, Intensity 0.5, Concreteness 0.5
+- **Second Quarter:** Valence 0.4, Dominance 0.4, Intensity 0.6, Concreteness 0.5
+- **Third Quarter:** Valence 0.3, Dominance 0.6, Intensity 0.8, Concreteness 0.6
+- **Fourth Quarter:** Valence 0.5, Dominance 0.8, Intensity 0.9, Concreteness 0.7
+
+This analysis breaks down the argument into its emotional and cognitive components, capturing the complexity of the author's feelings and convictions throughout the text.
+

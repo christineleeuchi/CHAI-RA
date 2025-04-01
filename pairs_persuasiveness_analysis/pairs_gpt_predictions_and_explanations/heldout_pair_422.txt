@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a breakdown rating for each quarter of the argument you provided based on valence, dominance, intensity, and concreteness:
+
+1. **First Quarter: "Well how far into spending money should we take this whole thing? Should we not spend money researching vaccines and coming up with any sort of cure? Because if you necessitate the treatment of diseases or chronic illness to the old and not the young, it kind of undermines the whole point of making an equitable and healthy society anyway."**
+   - **Valence:** 0.6 (The tone questions the premise but encourages a more equitable outlook, so it's somewhat positive.)
+   - **Dominance:** 0.5 (The speaker is presenting a challenge to the original argument, establishing themselves as an equal voice.)
+   - **Intensity:** 0.5 (There is a moderate level of intensity due to the questioning nature.)
+   - **Concreteness:** 0.5 (The argument is somewhat abstract but discusses a real concern regarding equity in healthcare.)
+
+2. **Second Quarter: "Here's some perspective: I was born with a terrible amount of allergies. I was a kid who missed plenty of school days and even became hospitalized over the respiratory infections as a result of my allergies."**
+   - **Valence:** 0.5 (Sharing a personal experience adds a neutral perspective; it does not strongly sway positive or negative.)
+   - **Dominance:** 0.4 (The speaker positions themselves as a recipient of care, which may reduce some authoritative dominance.)
+   - **Intensity:** 0.4 (This segment is more anecdotal and reflects personal experience without heightened emotion.)
+   - **Concreteness:** 0.7 (This part is quite concrete, as it describes specific experiences.)
+
+3. **Third Quarter: "After many attempts at finding the cause, eliminating the allergen, doctors found an effective treatment for me."**
+   - **Valence:** 0.8 (This is a very positive sentiment as it describes a successful medical intervention.)
+   - **Dominance:** 0.6 (The speaker asserts authority through personal success, reinforcing the importance of medical research.)
+   - **Intensity:** 0.6 (Positive tone indicates some emotional intensity but is more factual.)
+   - **Concreteness:** 0.8 (Very concrete due to the specific mention of treatment success and medical processes.)
+
+4. **Fourth Quarter: "Now, by your logic, one of those times I was in the hospital, it would have been wise to just give up. The cause of my illness and the severity to which it affected my life couldn't be easily identified. But luckily, science and medicine kept steadily chugging along and they were able to identify the source of my condition (a rare and newly discovered thing) which has led to me living a full and vibrant life."**
+   - **Valence:** 0.9 (Highly positive due to the successful outcomes of treatment and the support of science.)
+   - **Dominance:** 0.7 (The speaker takes a strong stance against giving up on treatment, establishing authority based on personal experience.)
+   - **Intensity:** 0.7 (There is a notable intensity in the affirmative tone of living a full life due to medical advancements.)
+   - **Concreteness:** 0.6 (Discusses tangible outcomes but is blended with reflection on the situation, making it somewhat abstract.)
+
+In summary, the ratings reflect a progression from questioning the original argument to a strong affirmation of the importance of individual cases and medical progress.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the rating scores for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### First Quarter
+**Valence: 0.6** - The tone is somewhat neutral but leans towards advocating for the recognition and representation of chronically ill individuals.  
+**Dominance: 0.4** - The argument presents a moderate degree of dominance, as it challenges the notion that government should not support chronically ill individuals.  
+**Intensity: 0.5** - The intensity is moderate; the argument briefly highlights the struggle of the chronically ill but does not evoke strong emotional reactions.  
+**Concreteness: 0.5** - The argument is somewhat abstract, discussing the need for recognition without providing specific details or examples beyond the general concept of illness.
+
+### Second Quarter
+**Valence: 0.7** - The focus on suffering and civil unrest introduces a more poignant emotional appeal.  
+**Dominance: 0.5** - The argument asserts a balanced tone, discussing potential consequences but does not overpower the opposing views.  
+**Intensity: 0.7** - This section of the argument has a higher intensity due to the descriptions of suffering and the historical context provided.  
+**Concreteness: 0.6** - While still somewhat abstract, references to civil unrest derive from historical precedents, making it more concrete.
+
+### Third Quarter
+**Valence: 0.5** - This section presents a debate about GDP growth, which is more analytical and less emotional.  
+**Dominance: 0.6** - The argument has a stronger sense of dominance as it critiques the opposing viewpoint about GDP and government expenditure.  
+**Intensity: 0.4** - The intensity drops here, as the argument shifts to a more technical financial discussion rather than a subject that evokes strong feelings.  
+**Concreteness: 0.7** - The discourse includes specific examples like stimulus checks and explains how government funding interacts with GDP, making it a more concrete argument.
+
+### Fourth Quarter
+**Valence: 0.4** - The comparison of chronic illness management to euthanization and aging introduces a controversial and darker perspective, which could alienate readers.  
+**Dominance: 0.7** - This section strongly challenges the opposing viewpoint and asserts a clear position against the logic of euthanasia based on chronic illness.  
+**Intensity: 0.8** - There is heightened intensity here due to moral implications and potential consequences for various minority groups, provoking strong emotional responses.  
+**Concreteness: 0.6** - The argument makes specific examples of chronic illnesses and draws parallels with senior citizens, providing a clearer frame of reference for readers.
+
+These scores reflect how each quarter's arguments might evoke emotional responses and their effectiveness in making a point.
+

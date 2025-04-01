@@ -1,0 +1,47 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a breakdown of the argument in terms of valence, dominance, intensity, and concreteness, scored from 0.0 to 1.0 for each of the four quarters of the text:
+
+### Quarter 1:
+**Text:**
+"CMV: I think both religion and science suffer from dogmatic worldviews. Background: In a nutshell, I had a Christian upbringing. Went through a few years basically as an Atheist until I had an existential crisis and turned to Buddhism.”
+
+- **Valence:** 0.4 (Neutral, some personal reflection but overall a negative view of both subjects)
+- **Dominance:** 0.2 (Self-reflective; does not aim to assert authority)
+- **Intensity:** 0.5 (Moderate intensity as it introduces a personal journey and strong opinions)
+- **Concreteness:** 0.5 (Some personal experiences shared but can be abstract in nature)
+
+### Quarter 2:
+**Text:**
+“**Religion**: This has been talked about endlessly, but I feel like many of the issues at least with the Abrahamic religions (the Crusades, terrorism, gay rights, etc.) comes down to a belief in an objective right vs wrong. Even though I've met plenty of Christians who actively question their faith and interpretation of the Bible, the Abrahamic faiths still come down to external rules that are at odds with human nature, particularly sexuality. Just look at how intrusive Sharia Law can be.”
+
+- **Valence:** 0.2 (Mostly negative due to the criticism of religion)
+- **Dominance:** 0.6 (More assertive in presenting an opinion on the subject)
+- **Intensity:** 0.7 (High intensity with pointed examples and criticism)
+- **Concreteness:** 0.6 (Uses concrete examples like the Crusades and Sharia Law)
+
+### Quarter 3:
+**Text:**
+“**Science**: While my teenage Atheist-leaning side of me would like to think that there is a huge gap between religion and science, science did arise out of Christianity after all, and its dogmatic leanings still show today. [Here's a banned TED talk by Rupert Sheldrake](https://www.youtube.com/watch?v=JKHUaNAxsTg) on a so-called "science delusion" (a play on the "God Delusion"). While I do not agree with him entirely, I think he poses a very important point. The materialist worldview it has come to is very limiting compared to the original intent of the scientific method.”
+
+- **Valence:** 0.3 (Negative view of scientific dogma but acknowledges its origins)
+- **Dominance:** 0.5 (Balanced discussion but still critical of scientific beliefs)
+- **Intensity:** 0.6 (Moderate to high intensity as it presents specific viewpoints)
+- **Concreteness:** 0.5 (Includes reference to a specific talk but remains a bit abstract)
+
+### Quarter 4:
+**Text:**
+“My view is that while we can be taught, it is up to us to learn through our own experiences and choose whether or not to accept the said teachings, as opposed to blind faith. However, I feel this is a dangerous view to have as it is not only is a rebellious one, but also heavily degrades my respect for the Abrahamic religions and a good chunk of the scientific community. I'd really like to see the other side of this.”
+
+- **Valence:** 0.5 (Neutral to mildly negative; emphasizes personal agency but critiques both sides)
+- **Dominance:** 0.4 (Expresses a personal reflection without a strong authoritative stance)
+- **Intensity:** 0.7 (High intensity as it discusses the subjective journey and the perceived risks of that view)
+- **Concreteness:** 0.6 (Relatively concrete as it talks about personal learning and the implications of challenging beliefs)
+
+### Summary of Scores:
+- **Quarter 1:** Valence 0.4, Dominance 0.2, Intensity 0.5, Concreteness 0.5
+- **Quarter 2:** Valence 0.2, Dominance 0.6, Intensity 0.7, Concreteness 0.6
+- **Quarter 3:** Valence 0.3, Dominance 0.5, Intensity 0.6, Concreteness 0.5
+- **Quarter 4:** Valence 0.5, Dominance 0.4, Intensity 0.7, Concreteness 0.6
+
+These scores reflect the argument's characteristics across each section, capturing the complexity and nuances present in the text.
+

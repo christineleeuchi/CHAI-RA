@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To analyze the provided argument using the specified metrics—valence, dominance, intensity, and concreteness—here's a breakdown for each quarter of the text:
+
+### 1st Quarter:
+**Excerpt**: "The flaw in your reasoning, here, is that you seem to assume that the purpose of Reddit is to create an open and equal platform for people to discuss different opinions and points of views."
+
+- **Valence**: 0.4 (While it's somewhat critical, it doesn't strongly express negativity.)
+- **Dominance**: 0.6 (It establishes a position of authority by critiquing another's reasoning.)
+- **Intensity**: 0.5 (The argument has moderate intensity in asserting a flaw.)
+- **Concreteness**: 0.5 (It describes a concept but is somewhat abstract regarding the purpose of Reddit.)
+
+### 2nd Quarter:
+**Excerpt**: "So it will be near impossible to 'change your view' and convince you that the points you raised are not true; instead, the view you need changed is your view of Reddit, itself."
+
+- **Valence**: 0.3 (This has a critical tone, indicating strong disagreement.)
+- **Dominance**: 0.7 (Presents the speaker as knowledgeable, reinforcing their stance.)
+- **Intensity**: 0.7 (The assertion that it's 'near impossible' to change views conveys a strong intent.)
+- **Concreteness**: 0.4 (Less concrete as it discusses beliefs without specific examples.)
+
+### 3rd Quarter:
+**Excerpt**: "The discussions that take place here are actually a small subset of Reddit's usage. I don't have the hard data to back this up, but I suspect the majority of Redditors only visit the site to find content that they want to find and expect to like..."
+
+- **Valence**: 0.5 (A more neutral approach, acknowledging the nature of Reddit.)
+- **Dominance**: 0.5 (Maintains a reasonable level of authority while expressing personal speculation.)
+- **Intensity**: 0.4 (Less intense compared to earlier claims; more speculative and analytical.)
+- **Concreteness**: 0.6 (More concrete in stating user behavior, though still somewhat general.)
+
+### 4th Quarter:
+**Excerpt**: "If you see the nature of Reddit being fundamentally flawed, then perhaps you should reflect to determine if Reddit is really the correct platform for the type of discussion/community you want."
+
+- **Valence**: 0.6 (Encourages self-reflection while subtly challenging the reader’s perspective.)
+- **Dominance**: 0.6 (Maintains authority by advising the reader to reflect.)
+- **Intensity**: 0.5 (Moderate intensity; it prompts contemplation without aggression.)
+- **Concreteness**: 0.5 (Encourages introspection based on the abstract qualities of social platforms.)
+
+### Summary of Scores:
+- **1st Quarter**: Valence 0.4 | Dominance 0.6 | Intensity 0.5 | Concreteness 0.5
+- **2nd Quarter**: Valence 0.3 | Dominance 0.7 | Intensity 0.7 | Concreteness 0.4
+- **3rd Quarter**: Valence 0.5 | Dominance 0.5 | Intensity 0.4 | Concreteness 0.6
+- **4th Quarter**: Valence 0.6 | Dominance 0.6 | Intensity 0.5 | Concreteness 0.5
+
+This breakdown reflects the evolving nature of the argument throughout its segments, showcasing varying levels of assertiveness and clarity.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score for each of the dimensions you've requested (valence, dominance, intensity, and concreteness) for each quarter of the provided argument:
+
+**Quarter 1:** "Debating for a long enough time can come to a conclusion if you're not too defensive. Since you can't know the truth all by yourself, debating can serve other purposes than just have a winner, it can let all participants learn something they did not know."
+- **Valence:** 0.7 (Generally positive, emphasizes the benefits of debate)
+- **Dominance:** 0.4 (The argument presents an idea but acknowledges others' perspectives)
+- **Intensity:** 0.6 (Moderately intense, discussing the importance of learning through debate)
+- **Concreteness:** 0.5 (Somewhat abstract, focuses on the concept of debate without specific examples)
+
+**Quarter 2:** "While it's true that you won't be able to 'fight' all the redditor's opinion by yourself (and why would you even do that in the first place? are you crazy?), posting and reading is actually a good way to take, give back and share in a fast and precise manner that the internet allows."
+- **Valence:** 0.5 (Neutral to slightly positive, as it acknowledges challenges while highlighting the benefits of sharing)
+- **Dominance:** 0.5 (Balances acknowledgment of personal limitations with asserting the value of sharing)
+- **Intensity:** 0.5 (Moderate intensity; the phrasing is somewhat playful and engaging)
+- **Concreteness:** 0.6 (More concrete as it discusses specific actions like posting and reading)
+
+**Quarter 3:** "The only real problem is how strongly your opinions are and how much ready you are to listen to people you disagree with: you have to point them where you disagree, and let them show you why they disagree with you. It's a tedious process, and if you don't have any patience it won't lead you nowhere."
+- **Valence:** 0.4 (Somewhat negative due to acknowledging a potential challenge in the debate process)
+- **Dominance:** 0.6 (More commanding, encouraging reflection on personal flaws in debating)
+- **Intensity:** 0.7 (Higher intensity as it portrays a struggle and the effort required for meaningful debate)
+- **Concreteness:** 0.7 (Quite concrete; discusses specific behaviors and attitudes necessary for debate)
+
+**Quarter 4:** "After the 2008 crash I could say I was quite angry, but to be honest I learned a lot of things through reddit, it really allows you to challenge your ideas if you're ready to forget your views a little. It's way better than just reading wikipedia."
+- **Valence:** 0.8 (Very positive; expresses personal growth and appreciation for learning)
+- **Dominance:** 0.5 (Balanced; sharing personal experience without overriding others' perspectives)
+- **Intensity:** 0.6 (Moderate intensity, conveys personal emotion while discussing learning)
+- **Concreteness:** 0.8 (Highly concrete; provides a specific experience related to learning and personal transformation)
+
+These ratings reflect individuals' engagement with ideas in the context of the argument, considering the complexity and nuances of discussions found on platforms like Reddit.
+

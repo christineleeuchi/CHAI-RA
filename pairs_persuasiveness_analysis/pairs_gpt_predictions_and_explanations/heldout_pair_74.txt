@@ -1,0 +1,60 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! Below, I've rated each of the specified attributes (valence, dominance, intensity, and concreteness) for each quarter of the argument using a scale from 0.0 to 1.0.
+
+### Point 3: Nukes
+
+1. **Valence (0.6)**: The argument has a generally positive tone towards the potential future developments in missile defense and a decrease in the threat of nuclear war, but it also acknowledges the serious implications of nuclear capabilities.
+   
+2. **Dominance (0.7)**: The argument confidently presents the idea that advances in missile technology will significantly alter the strategic landscape of warfare, demonstrating a strong position on the issue.
+
+3. **Intensity (0.8)**: The language suggests conviction and urgency, particularly in phrases like "the single largest strategic problem" and "not unthinkable," which conveys a high level of intensity regarding future military dynamics.
+
+4. **Concreteness (0.5)**: While the argument discusses the potential for ICBM defense, it remains somewhat abstract without citing specific examples or data to support the assertions made about future technologies.
+
+### Point 4: Women and the Out of Shape
+
+1. **Valence (0.5)**: The argument is neutral; it acknowledges both the potential issues and the hope for progress in including women in the draft without being overly negative or positive.
+
+2. **Dominance (0.4)**: The perspective presented is less dominant, as it implies acceptance of current shortcomings without strong assertive statements about how the draft will work in practice.
+
+3. **Intensity (0.6)**: There's a moderate level of intensity in the commitment to see women drafted, but the recognition of health issues slightly tempers that intensity.
+
+4. **Concreteness (0.6)**: This argument provides a more tangible approach by mentioning the adaptability of military training, but it still lacks specific strategies or statistics on health-related issues.
+
+### Point 5: Conscientious Objectors
+
+1. **Valence (0.4)**: The argument conveys a touch of skepticism about the problem of conscientious objectors but maintains a grounding tone, resulting in a somewhat negative valence regarding their impact on the draft.
+
+2. **Dominance (0.5)**: The assertion that the average number of COs will not significantly impact the draft demonstrates a balanced position, but it lacks strong dominance over opposing views.
+
+3. **Intensity (0.4)**: The language used is not particularly intense; it feels more analytical and cautious than fervent, offering statistical observations without emotive language.
+
+4. **Concreteness (0.7)**: This argument is relatively concrete, as it provides a numeric framework to assess the potential impact of conscientious objectors, giving substance to the discussion.
+
+### Summary Table
+
+| Quarter | Valence | Dominance | Intensity | Concreteness |
+|---------|---------|-----------|-----------|--------------|
+| Point 3 | 0.6     | 0.7       | 0.8       | 0.5          |
+| Point 4 | 0.5     | 0.4       | 0.6       | 0.6          |
+| Point 5 | 0.4     | 0.5       | 0.4       | 0.7          | 
+
+These ratings strive to capture the essence of the arguments presented in each of the points, reflecting their overall tone, assertiveness, emotional weight, and clarity.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here is the rating for each aspect of the argument based on the text you've provided:
+
+1. **Valence**: 0.7  
+The argument presents a generally positive view of the possibility of reinstating the draft, implying that it could be a necessary and pragmatic solution if volunteer numbers fall short. However, it acknowledges counterarguments and doesn't overly demonize the draft, maintaining a moderate tone.
+
+2. **Dominance**: 0.6  
+The argument demonstrates a certain level of authority by citing historical precedent (World War II) and providing facts (number of draftees). However, it is somewhat reactive as it addresses potential counterpoints and doesn't assert total dominance over the topic. 
+
+3. **Intensity**: 0.8  
+The argument is intense in its conviction that the U.S. could revert to a draft, particularly when highlighting the historical context and necessity of conscription in past conflicts. The urgency is palpable as it discusses the potential needs for manpower.
+
+4. **Concreteness**: 0.9  
+The argument is highly concrete, using specific historical data (like the number of draftees during World War II) to support its claims. It provides factual references and context to bolster the argument, which makes it very tangible and relatable. 
+
+Overall, the argument is strong, particularly in terms of concrete historical evidence and intensity, while still leaving room for additional discussion on opposing views.
+

@@ -1,0 +1,77 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Let's break down the argument into four quarters and evaluate each on valence, dominance, intensity, and concreteness. 
+
+### Quarter 1:
+**Argument:** "The whole point of communication is to get a point across. This means that different communities define things differently in a way that suits their own needs."
+
+- **Valence:** 0.6 (The tone is neutral to positive, emphasizing the value of effective communication.)
+- **Dominance:** 0.5 (The statement presents a reasonable observation on communication without asserting power over the reader.)
+- **Intensity:** 0.5 (The argument is presented in a measured way, lacking heavy emotional weight.)
+- **Concreteness:** 0.6 (While the idea is abstract, it addresses practical realities of communication.)
+
+### Quarter 2:
+**Argument:** "When artists talk about a painting needing more colour, other artists will intuitively know that this means add colours that are not black or white."
+
+- **Valence:** 0.7 (This conveys a positive sentiment about shared knowledge among artists.)
+- **Dominance:** 0.4 (It’s descriptive rather than commanding, aiming to clarify a shared understanding.)
+- **Intensity:** 0.6 (There is a stronger emphasis on the intuitive understanding within a community.)
+- **Concreteness:** 0.7 (This statement is fairly tangible, referencing a specific context in artistic practice.)
+
+### Quarter 3:
+**Argument:** "If your day to day life involves talking about colour all the time, you should have an established definition of what counts as a colour so everyone's on the same page."
+
+- **Valence:** 0.8 (The tone is constructive, advocating for clarity in communication.)
+- **Dominance:** 0.5 (Suggests a normative guideline but does not push authority over the reader.)
+- **Intensity:** 0.7 (The notion of “should” carries a higher level of urgency and importance.)
+- **Concreteness:** 0.7 (The recommendation is solidly rooted in practical communication norms.)
+
+### Quarter 4:
+**Argument:** "At the end of the day it doesn't matter, it's just to ensure proper communication."
+
+- **Valence:** 0.5 (The sentiment here is neutral, reflecting a pragmatic outlook.)
+- **Dominance:** 0.5 (Balanced tone, neither demanding nor submissive.)
+- **Intensity:** 0.4 (Lacks strong emotional engagement, focusing instead on factual matters.)
+- **Concreteness:** 0.6 (While still abstract, it relates to the real-world implication of ensuring clarity.)
+
+### Overall Scores:
+- **Quarter 1:** Valence 0.6, Dominance 0.5, Intensity 0.5, Concreteness 0.6
+- **Quarter 2:** Valence 0.7, Dominance 0.4, Intensity 0.6, Concreteness 0.7
+- **Quarter 3:** Valence 0.8, Dominance 0.5, Intensity 0.7, Concreteness 0.7
+- **Quarter 4:** Valence 0.5, Dominance 0.5, Intensity 0.4, Concreteness 0.6 
+
+These scores capture the nature and effectiveness of each quarter of the argument in terms of emotional tone, influence, engagement level, and clarity.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the valence, dominance, intensity, and concreteness of the argument provided, let's analyze each quarter of the text.
+
+1. **First Quarter: "Pick a color, any color, a bright one. Red, blue, brown, violet ... Now desaturate it a bit."**
+   - **Valence (0.6)**: The tone is neutral and somewhat playful in inviting the reader to participate.
+   - **Dominance (0.4)**: The argument is exploratory rather than authoritative.
+   - **Intensity (0.5)**: The language is straightforward, neither highly charged nor overly subdued.
+   - **Concreteness (0.7)**: The mention of specific colors makes the argument relatable and accessible.
+
+2. **Second Quarter: "Still the same color. Sometimes with a different word for it, like pink for desaturated red, but it's obviously the same color."**
+   - **Valence (0.7)**: The tone maintains a positive and inclusive approach, emphasizing similarity.
+   - **Dominance (0.3)**: The argument continues to explore rather than assert.
+   - **Intensity (0.5)**: Similar to the previous quarter, the language remains moderate.
+   - **Concreteness (0.6)**: The use of examples (like "pink" for desaturated red) increases clarity.
+
+3. **Third Quarter: "Now desaturate it more. And more. It's now very light, but you can still see the color. Desaturate it to the max. It's white. No matter what color you start with."**
+   - **Valence (0.5)**: The valence is neutral as it describes a process rather than evoking strong emotions.
+   - **Dominance (0.5)**: This section has a more definitive claim, suggesting the process leads to a specific outcome.
+   - **Intensity (0.6)**: The repetition (e.g., "more. And more.") adds some intensity to the argument.
+   - **Concreteness (0.8)**: Clear and relatable language makes the argument strong and easy to visualize.
+
+4. **Fourth Quarter: "Ok let's try again, pick a bright color. Now reduce luminosity. It gets darker and darker, you can still see it's the same color ... until you reach black. Every starting color becomes black."**
+   - **Valence (0.5)**: The tone is somewhat neutral, with a hint of curiosity as the argument reapproaches the earlier claim.
+   - **Dominance (0.6)**: The statement is more assertive here, claiming a universal outcome.
+   - **Intensity (0.7)**: The escalating description can create a heightened sense of expectation.
+   - **Concreteness (0.8)**: The progression from color to black is straightforward and visually clear.
+
+In summary:
+
+1. **First Quarter:** Valence 0.6, Dominance 0.4, Intensity 0.5, Concreteness 0.7
+2. **Second Quarter:** Valence 0.7, Dominance 0.3, Intensity 0.5, Concreteness 0.6
+3. **Third Quarter:** Valence 0.5, Dominance 0.5, Intensity 0.6, Concreteness 0.8
+4. **Fourth Quarter:** Valence 0.5, Dominance 0.6, Intensity 0.7, Concreteness 0.8
+

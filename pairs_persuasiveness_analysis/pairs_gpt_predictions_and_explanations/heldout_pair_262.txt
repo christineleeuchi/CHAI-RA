@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Certainly! Here are the rating scores for valence, dominance, intensity, and concreteness for each quarter of the argument provided:
+
+**First Quarter:** "I would propose that the reason that the show began to falter was not because of an inability of the art form to be translated through television, but that the show never really progressed in any way and it ran out of material."
+- **Valence:** 0.5 (Neutral; the statement presents a critique but is not overtly negative.)
+- **Dominance:** 0.6 (The speaker asserts a viewpoint with authority but still engages in a proposal.)
+- **Intensity:** 0.4 (Mild; while it presents a significant point, the tone is more analytical than passionate.)
+- **Concreteness:** 0.5 (Moderate; focuses on the premise without specific examples, leaving it a bit abstract.)
+
+**Second Quarter:** "Eventually the show just turned into 'Watch Wayne Brady sing stuff! And Colin and Ryan do that sound effects thing!' which became stale in its repetition."
+- **Valence:** 0.3 (Negative; this portion critiques the repetitiveness of the show.)
+- **Dominance:** 0.7 (The speaker is asserting a strong opinion about the content of the show.)
+- **Intensity:** 0.6 (Moderate to high; the use of specific examples makes the critique more vivid.)
+- **Concreteness:** 0.6 (Fairly concrete; specific references to the show's content help ground the argument.)
+
+**Third Quarter:** "Differently, SNL has gone through hundreds of actors and even more different skits and even running routines, this has kept it fresh and regularly reasonably popular among its target audience (15-25 year olds probably)."
+- **Valence:** 0.6 (Positive; this portion highlights SNL's adaptability and success.)
+- **Dominance:** 0.5 (Balanced; the speaker makes a comparison without overly asserting dominance.)
+- **Intensity:** 0.5 (Moderate; while the argument is solid, the tone is more observational than passionate.)
+- **Concreteness:** 0.7 (High; specific references to actors and skits make the argument tangible.)
+
+**Fourth Quarter:** "The show was funny for a few reasons: 1. It was completely new when it came out. 2. It pushed the edge of what's considered 'safe family entertainment.' 3. It's a rather witty show..."
+- **Valence:** 0.7 (Positive; this portion highlights the strengths of the show.)
+- **Dominance:** 0.4 (Less dominant; presenting facts and reasons feels more neutral.)
+- **Intensity:** 0.5 (Moderate; the points made are well-reasoned but not overly passionate.)
+- **Concreteness:** 0.8 (Very concrete; specific reasons provide clear evidence for the argument.)
+
+Overall, while the argument critiques the show's evolution and compares it to SNL, it also acknowledges the initial strengths of the show, providing a balanced perspective.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's a breakdown of the argument you provided, rated on a scale from 0.0 to 1.0 for each category: valence, dominance, intensity, and concreteness. 
+
+### Quarter 1
+*"Uh, I've been watching Whose Line since I was 15. For the record, I was 15 in the early 2001, way before Reddit was a thing. I enjoy it and think it's funny, and think it translates very well, partly because at the time I was a theatre kid and did a lot of improv, and it was fun to watch the people who were good at it."*
+
+- **Valence:** 0.8 (The overall sentiment is positive, with a personal connection to the show.)
+- **Dominance:** 0.3 (The speaker seems more conversational and sharing a personal experience than trying to dominate the discussion.)
+- **Intensity:** 0.5 (The emotion is moderate; there's enthusiasm but also a degree of casualness.)
+- **Concreteness:** 0.7 (The speaker provides specific details about their background and experience with improv, which adds to the argument's concreteness.)
+
+### Quarter 2
+*"Where I think Whose Line fails is that it can get repetitive, especially in the later seasons. A lot of topics end up getting rehashed, and if you're a long-time viewer that can be a point against it. And like all improv, some of it isn't great."*
+
+- **Valence:** 0.5 (This part has a balanced view, offering criticism alongside appreciation.)
+- **Dominance:** 0.4 (The speaker asserts an opinion but does so in a way that is more reflective than commanding.)
+- **Intensity:** 0.6 (There’s a noticeable critique, indicating some frustration but still moderate in tone.)
+- **Concreteness:** 0.6 (The observations about repetition and quality are somewhat specific and grounded in personal experience.)
+
+### Quarter 3
+*"They're not all winners. But when they hit their stride, I have trouble breathing."*
+
+- **Valence:** 0.7 (The initial statement is somewhat negative, but the following sentiment is very positive.)
+- **Dominance:** 0.5 (The speaker makes a strong claim about the moments they enjoy best, but it’s not overly forceful.)
+- **Intensity:** 0.8 (The phrase "I have trouble breathing" indicates a high level of enjoyment and intensity.)
+- **Concreteness:** 0.4 (There's a lack of specifics on what exactly makes those moments feel that way, which diminishes concreteness.)
+
+### Quarter 4
+*"I unfortunately can't tell you much about the mechanics of why that is funny, because when I start to over-analyze humor, I start to dislike it."*
+
+- **Valence:** 0.5 (This part is neutral, expressing frustration with analysis rather than outright negativity.)
+- **Dominance:** 0.3 (The speaker downplays their ability to analyze, making their contribution feel less assertive.)
+- **Intensity:** 0.4 (The emotion is mild; there's a hint of frustration but it's not overwhelming.)
+- **Concreteness:** 0.3 (The statement is quite abstract and lacks specific examples, which affects its concreteness.)
+
+Overall, the argument reflects both an appreciation for "Whose Line" and acknowledgment of its shortcomings, combining personal experiences with critical observations.
+

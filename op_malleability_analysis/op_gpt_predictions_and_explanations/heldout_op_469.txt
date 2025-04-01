@@ -1,0 +1,33 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument, I'll provide a rating for each of the dimensions: valence, dominance, intensity, and concreteness. The evaluation will be based on the argument's tone, assertiveness, emotional charge, and specificity.
+
+### Quarter 1: "CMV: Each & every downvote needs to be substantiated with a reasoned comment. The current system on most subs discourages substantive arguments & promotes brigading, popularity contests & bullying."
+
+- **Valence:** 0.7 (The tone is generally negative towards the current system but advocates for a constructive change.)
+- **Dominance:** 0.8 (The argument asserts a strong opinion and calls for a specific action regarding downvotes.)
+- **Intensity:** 0.6 (While passionate, it focuses more on a systematic critique than on emotional appeal.)
+- **Concreteness:** 0.8 (It presents clear ideas about what the problems are and what changes are suggested.)
+
+### Quarter 2: "Example: **'I like cheese puffs. They're the best snack.'** If you like cheese puffs, then you may upvote such a comment."
+
+- **Valence:** 0.5 (Neutral, as it merely presents an example without strong positive or negative sentiment.)
+- **Dominance:** 0.3 (The example is less assertive and serves as supporting evidence rather than a dominating statement.)
+- **Intensity:** 0.2 (Low intensity, as it is a simple and straightforward example.)
+- **Concreteness:** 0.9 (Very specific example that illustrates the preceding argument.)
+
+### Quarter 3: "But if you want to downvote the comment, then I think you should be required to submit a reasoned comment as to why cheese puffs aren't the best snack, with unsubstantiated or nonsensical downvote comments subject to removal of both the post and downvote."
+
+- **Valence:** 0.6 (Slightly positive regarding the suggestion of requiring reasoned comments but maintains a critical tone towards current practices.)
+- **Dominance:** 0.7 (Makes a strong recommendation about how downvotes should work.)
+- **Intensity:** 0.5 (Moderate intensity, as it calls for a change but remains rationale-focused.)
+- **Concreteness:** 0.9 (Highly specific about the requirements for downvoting and the consequences of not following them.)
+
+### Quarter 4: "Disclaimer: I don't like cheese puffs."
+
+- **Valence:** 0.4 (Neutral/negative, as it states a personal preference but does not convey a strong sentiment.)
+- **Dominance:** 0.1 (Very low, as it is merely a personal opinion that doesn't assert leadership in the argument.)
+- **Intensity:** 0.2 (Low emotional intensity as it presents a personal taste without elaboration.)
+- **Concreteness:** 0.5 (Somewhat concrete, though it doesn't add substantial information to the main argument.)
+
+This breakdown allows for a nuanced understanding of the argument across different dimensions while reflecting on how each part contributes to the overall message.
+

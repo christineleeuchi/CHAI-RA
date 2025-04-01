@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: Yes, I am likely to change my mindset if presented with strong counterarguments.
+For analyzing the argument in quarters, here are the ratings for each aspect: valence, dominance, intensity, and concreteness.
+
+### Quarter 1
+*"CMV: Manual gearboxes are archaic and unnecessary. Not too much I can add to this as I think it's fairly self explanatory. I would like to mention that I'm from the UK, where there is very strong pressure from society NOT to drive automatic cars due to various sexist, ageist and ableist views. (automatics are for women (implied women can't drive), old people (more implications) and the disabled (implied things implied))."*
+
+- **Valence:** 0.7 (The argument presents a negative view on manual gearboxes, while also pointing out societal pressures, which evokes a sense of frustration.)
+- **Dominance:** 0.6 (The author expresses their opinion strongly but acknowledges that discussions around the topic exist.)
+- **Intensity:** 0.6 (There’s a moderate level of intensity; the use of “archic” and “unnecessary” showcases a strong sentiment, but the argument could be more impassioned.)
+- **Concreteness:** 0.5 (While it provides some societal context, it remains somewhat abstract regarding personal experiences or evidence.)
+
+### Quarter 2
+*"In my opinion, automatic gearboxes (or even semi-automatic) have come along so much in the last decade that the previous benefits of reliable uphill performance and fuel economy that manual cars used to have has fallen into the realms of diminishing returns."*
+
+- **Valence:** 0.8 (The author expresses a positive view towards automatic gearboxes, framing them as improvements over time.)
+- **Dominance:** 0.5 (There’s a sense of asserting knowledge, but it is more subjective opinion than authoritative fact.)
+- **Intensity:** 0.7 (The wording indicates a high level of commitment to the opinion expressed, signaling strong beliefs.)
+- **Concreteness:** 0.6 (The mention of specific benefits provides a level of concreteness, although it lacks tangible examples.)
+
+### Quarter 3
+*"Other arguments I've seen include; Engine braking is useful - so is a brake pedal. It gives more control - for what? none of us are racing here. it's no more difficult - Yes it is, there's 50% extra pedals, 3 pedals shared among 2 feet, a stick that has 5+ positions that are non consecutively placed that you need to manoeuvre both your feet and hands at the same time as either accelerating or decelerating in order to operate."*
+
+- **Valence:** 0.6 (While mostly critical of manual gearboxes, the tone here is more analytical and less emotionally charged.)
+- **Dominance:** 0.7 (The author takes a strong stance against the justifications for manual gearboxes, implying superiority.)
+- **Intensity:** 0.8 (The detailed criticism conveys a high level of intensity; the author clearly feels strongly about the manual gearbox inefficiencies.)
+- **Concreteness:** 0.7 (The inclusion of specific examples regarding difficulty and control enhances the argument’s concrete nature.)
+
+### Quarter 4
+*"It's fun/it's faster/it feels good - irrelevant, all subjective and for the purpose of this argument I see the utility of a car as little more than the ability to go from A to B. FWIW; I can drive both automatic and manual vehicles, I just feel so much less inclined by the latter and recently around reddit I've seen people downvoted for admitting to only wanting to learn automatic and others upvoted for churlish bullying of those not fussed by a manual gearbox. So reddit CMV; cos' currently I feel like I'm missing out on a big secret."*
+
+- **Valence:** 0.5 (Moderate; the author dismisses the emotional connections some people have to manual gearboxes while focusing on utility.)
+- **Dominance:** 0.4 (There is less assertiveness here regarding personal preference; the tone is more resigned.)
+- **Intensity:** 0.6 (While the author expresses personal discontent about societal views, it’s less intense than in previous sections.)
+- **Concreteness:** 0.5 (The references to societal attitudes and personal experience provide some concrete grounding, but still feels somewhat vague.) 
+
+These scores provide an analytical framework for understanding how the argument is constructed across different dimensions.
+

@@ -1,0 +1,78 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument segment by segment based on valence, dominance, intensity, and concreteness, I'll assign scores from 0.0 (low) to 1.0 (high) for each criterion.
+
+### Quarter 1: "I don't think your 4th point makes much sense. How exactly would extra pronouns make things less clear?"
+- **Valence:** 0.5 (Neutral; expresses disagreement without strong negativity)
+- **Dominance:** 0.6 (Taking a critical stance; asserting that the previous point lacks sense)
+- **Intensity:** 0.4 (Mildly intense; conveys frustration without being overly aggressive)
+- **Concreteness:** 0.5 (Somewhat clear but lacks specific examples to support the claim)
+
+### Quarter 2: "Under the current system, the singular 'they' can refer to male, female, and other identities, which is about as unclear as things can get."
+- **Valence:** 0.4 (Slightly negative; implies a misunderstanding of clarity in pronouns)
+- **Dominance:** 0.5 (Assertive in presenting the issue but not overly dominant)
+- **Intensity:** 0.5 (Moderate intensity; presents a commonly held concern without strong emotions)
+- **Concreteness:** 0.7 (Pretty clear argument supported by a specific example of the singular "they")
+
+### Quarter 3: "Even if you don't know the exact definition of 'xe,' for example, it's at least clear that the individual is actively trying to avoid a more traditional word because it doesn't reflect who they consider themselves to be."
+- **Valence:** 0.6 (Positive; highlights the intention behind the use of new pronouns)
+- **Dominance:** 0.4 (Less dominant; seeks to provide perspective rather than assert authority)
+- **Intensity:** 0.6 (Moderate intensity; emphasizes the effort individuals make to define themselves)
+- **Concreteness:** 0.6 (Clearer in expressing the rationale behind the use of new pronouns)
+
+### Quarter 4: "This is more information, not less."
+- **Valence:** 0.7 (Positive; asserts that new pronouns enhance understanding)
+- **Dominance:** 0.5 (A straightforward assertion; neither dominant nor submissive)
+- **Intensity:** 0.5 (Moderate; emphasizes a point of view without strong emotional charges)
+- **Concreteness:** 0.6 (Clear and direct statement, but could use further elaboration for additional clarity)
+
+### Summary of Scores
+- **Quarter 1:**
+  - Valence: 0.5
+  - Dominance: 0.6
+  - Intensity: 0.4
+  - Concreteness: 0.5
+- **Quarter 2:**
+  - Valence: 0.4
+  - Dominance: 0.5
+  - Intensity: 0.5
+  - Concreteness: 0.7
+- **Quarter 3:**
+  - Valence: 0.6
+  - Dominance: 0.4
+  - Intensity: 0.6
+  - Concreteness: 0.6
+- **Quarter 4:**
+  - Valence: 0.7
+  - Dominance: 0.5
+  - Intensity: 0.5
+  - Concreteness: 0.6
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here’s a breakdown of the ratings for each quarter of the argument provided, based on valence, dominance, intensity, and concreteness:
+
+1. **First Quarter**: "For me a gender neutral singular pronoun solves the problem of referring to a person whose gender is unknown to the speaker or maybe more importantly, completely irrelevant to the current conversation."
+   - **Valence**: 0.8 (The statement has a positive connotation regarding gender-neutral pronouns.)
+   - **Dominance**: 0.6 (The speaker asserts their viewpoint clearly but invites others to consider it.)
+   - **Intensity**: 0.5 (Moderate intensity; assertive but not overly emotional.)
+   - **Concreteness**: 0.7 (Specific about the issue of gender relevance; somewhat abstract but relatable.)
+
+2. **Second Quarter**: "If someone is doing my car repair, why am I forced to include information about their genitals every time I talk about them?"
+   - **Valence**: 0.7 (Slightly negative towards the necessity of gendered pronouns.)
+   - **Dominance**: 0.7 (More assertive questioning that challenges the status quo.)
+   - **Intensity**: 0.6 (The tone is somewhat passionate; expressing frustration.)
+   - **Concreteness**: 0.8 (Very concrete example referencing a specific scenario.)
+
+3. **Third Quarter**: "The words he/she are forcing me to both know and share data about a person's gender when I have no interest in doing so."
+   - **Valence**: 0.7 (Negative connotation regarding the necessity of gendered pronouns.)
+   - **Dominance**: 0.7 (Strong assertion; the speaker feels compelled to object.)
+   - **Intensity**: 0.7 (Emotionally charged, expressing dissatisfaction and frustration.)
+   - **Concreteness**: 0.6 (Clear point, but somewhat abstract since it discusses the concept of gender data.)
+
+4. **Fourth Quarter**: "Similarly in some more generic context where I am talking about a theoretical individual who doesn't actually exist yet and whose gender will be irrelevant, I am forced to use "he/she" to refer to them. This is ridiculous."
+   - **Valence**: 0.8 (Strongly negative view on the use of gendered pronouns in hypothetical situations.)
+   - **Dominance**: 0.8 (Very assertive; the speaker is clearly making a strong point.)
+   - **Intensity**: 0.8 (High emotional intensity, using the word "ridiculous" underscores frustration.)
+   - **Concreteness**: 0.6 (Refers to theoretical individuals, which gives it some abstraction, although the point remains clear.)
+
+These ratings reflect the different aspects of the argument across its sections, conveying a sense of the speaker’s perspective on gender-neutral pronouns and their utility in conversation.
+

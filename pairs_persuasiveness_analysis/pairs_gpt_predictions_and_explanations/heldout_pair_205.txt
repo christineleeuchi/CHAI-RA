@@ -1,0 +1,84 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here's a rating for each of the four categories (valence, dominance, intensity, and concreteness) on a scale from 0.0 to 1.0 for each quarter of the argument provided:
+
+### Quarter 1
+**Text**: "I think the biggest issue with the response 'Not all [insert noun here] are like that...', which I've been guilty of using before when I feel I've been associated wrongly, is that as a phrase it acts as a dismissive and without quantifying the issue."
+
+- **Valence**: 0.5 (Neutral; while it's critical of the phrase, it also acknowledges personal responsibility.)
+- **Dominance**: 0.4 (The speaker is positioning themselves as an equal in the misunderstanding of the term.)
+- **Intensity**: 0.5 (The language expresses concern but does not escalate emotionally.)
+- **Concreteness**: 0.6 (The reference to the phrase provides a tangible example, but it could use more specific context.)
+
+### Quarter 2
+**Text**: "Many stereotypes have some basis in a common trend found in reality, and when having a discussion it's, I feel, just as harmful to say 'all X are like this' as it is to say 'not all X are like this'."
+
+- **Valence**: 0.6 (Balanced; acknowledges that both extremes are harmful.)
+- **Dominance**: 0.5 (Presents a well-reasoned argument without seeming overly authoritative.)
+- **Intensity**: 0.5 (The tone is measured and reasonable.)
+- **Concreteness**: 0.5 (Mentions stereotypes but lacks specific examples to ground the argument.)
+
+### Quarter 3
+**Text**: "When I say 'not all men are like that' I'm suggesting that most men aren't like that. And both sides are equally devoid of any real factual quantifiable value."
+
+- **Valence**: 0.7 (More critical; emphasizes the shortcomings in both claims.)
+- **Dominance**: 0.6 (The speaker takes a firmer stance, asserting that both positions lack evidence.)
+- **Intensity**: 0.7 (The language becomes more assertive, indicating frustration with the issue.)
+- **Concreteness**: 0.6 (Provides a clear example with "not all men," but it could benefit from further elaboration or statistics.)
+
+### Quarter 4
+**Text**: "When it comes to discussions of human rights like this, and equality, it is very easy for a conversation to become so heated with emotional tension that it loses objectivity... The numbers are very inaccurate, lack precision, are very prone to skew, and can vary wildly in interpretation depending on the context."
+
+- **Valence**: 0.8 (More negative; highlights the issues with emotional arguments in serious discussions.)
+- **Dominance**: 0.7 (The speaker conveys authority in their analysis of discussion dynamics.)
+- **Intensity**: 0.8 (The language used here reflects a strong concern for the implications of emotional arguments.)
+- **Concreteness**: 0.7 (Addresses the need for quantifiable data but could include specific examples or sources.)
+
+### Summary of Ratings
+- Quarter 1: Valence 0.5, Dominance 0.4, Intensity 0.5, Concreteness 0.6
+- Quarter 2: Valence 0.6, Dominance 0.5, Intensity 0.5, Concreteness 0.5
+- Quarter 3: Valence 0.7, Dominance 0.6, Intensity 0.7, Concreteness 0.6
+- Quarter 4: Valence 0.8, Dominance 0.7, Intensity 0.8, Concreteness 0.7
+
+These ratings reflect the different aspects of the argument as it progresses through the text and how it engages with the topic of broad statements and the implications on discussions about stereotypes and human rights.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate each aspect of the argument across four quarters of its text, we can break it down as follows:
+
+### Quarter 1: 
+**Argument**: Disagreeing with the modification of language regarding grouping statements.
+
+- **Valence**: 0.3 (The sentiment is critical and challenging the original argument, which carries a negative connotation.)
+- **Dominance**: 0.6 (The speaker takes an assertive stance, expressing disagreement strongly.)
+- **Intensity**: 0.4 (The emotion conveyed is somewhat intense due to disagreement, but not excessively so.)
+- **Concreteness**: 0.5 (The argument is fairly concrete as it addresses specific language around stereotypes.)
+
+### Quarter 2: 
+**Argument**: They point out that stating "not all women are bad at math" is still sexist.
+
+- **Valence**: 0.2 (This quarter showcases a negative assertion about language that perpetuates stereotypes.)
+- **Dominance**: 0.7 (The speaker is making a strong claim about the nature of the language used.)
+- **Intensity**: 0.5 (There is a significant intensity of feelings against the use of stereotype-laden language.)
+- **Concreteness**: 0.6 (Concrete in its assertion about sexism but does not elaborate on the implications extensively.)
+
+### Quarter 3: 
+**Argument**: Suggesting a more neutral alternative: "not all students are good at math."
+
+- **Valence**: 0.5 (This presents a more balanced viewpoint, slightly neutralizing the negativity.)
+- **Dominance**: 0.5 (Neither assertive nor submissive; it presents an alternative pretty straightforwardly.)
+- **Intensity**: 0.3 (This alternative reduces emotional intensity and focuses on corrective language.)
+- **Concreteness**: 0.7 (Very concrete as it suggests a specific phrase that avoids stereotypes.)
+
+### Quarter 4: 
+**Argument**: Describing the use of "not all men" as a means to shut down conversation and linking to an article.
+
+- **Valence**: 0.4 (Criticism of a commonly used phrase adds a negative tone and is evaluative.)
+- **Dominance**: 0.6 (The speaker is asserting their viewpoint with an informational link.)
+- **Intensity**: 0.6 (There’s a heightened level of concern about shutting down discourse.)
+- **Concreteness**: 0.8 (The mention of an article suggests a concrete foundation for the argument and exemplifies a thoughtful critique.)
+
+### Summary of Ratings:
+- **Quarter 1**: Valence: 0.3, Dominance: 0.6, Intensity: 0.4, Concreteness: 0.5
+- **Quarter 2**: Valence: 0.2, Dominance: 0.7, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 3**: Valence: 0.5, Dominance: 0.5, Intensity: 0.3, Concreteness: 0.7
+- **Quarter 4**: Valence: 0.4, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.8
+

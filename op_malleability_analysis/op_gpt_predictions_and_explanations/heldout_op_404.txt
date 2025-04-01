@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Let's break down the argument into four quarters and evaluate each for valence, dominance, intensity, and concreteness. 
+
+### Quarter 1
+**Text:** "CMV: I Don't Like Political Correctness. I don't always think before I speak. In sales, the ability to respond to questions quickly tends to be an asset, and it's a skill that I'm lucky enough to have naturally."
+
+- **Valence:** 0.3 (The sentiment is somewhat negative towards political correctness but partially positive regarding personal skills.)
+- **Dominance:** 0.5 (The speaker expresses a personal opinion that reflects their perspective but does not assert authority over the topic.)
+- **Intensity:** 0.4 (The emotions are moderate, neither deeply passionate nor apathetic.)
+- **Concreteness:** 0.6 (The mention of a specific context—sales—adds some clarity and directness.)
+
+### Quarter 2
+**Text:** "I'd never intentionally contribute to our culture of racism, and so far I haven't. Still, I might make a mistake some day. There's nothing I can do to make sure I don't slip up that doesn't also hurt my ability to make a living."
+
+- **Valence:** 0.5 (This section has a neutral tone but acknowledges the potential for error and responsibility.)
+- **Dominance:** 0.4 (The speaker is defensive and somewhat submissive, recognizing their potential flaws.)
+- **Intensity:** 0.6 (There’s an underlying tension regarding personal responsibility and the fear of making mistakes.)
+- **Concreteness:** 0.5 (Fairly concrete, as it discusses real-life implications of words and actions.)
+
+### Quarter 3
+**Text:** "So why would I want to live in a world where all it takes is a single gaffe to wind up in HR? Why would I support civil rights causes, despite the fact that they're dear to me, if the only way to support civil rights is to join groups that demand PC compliance as well?"
+
+- **Valence:** 0.2 (The tone is critical of the current state of things, reflecting frustration.)
+- **Dominance:** 0.6 (The speaker is more assertive, questioning societal norms and expressing resistance.)
+- **Intensity:** 0.7 (The emotions are higher as the speaker confronts the implications of their stance.)
+- **Concreteness:** 0.4 (The rhetorical questions raise valid points but lack definitive statements or examples.)
+
+### Quarter 4
+**Text:** "Censorship is the enemy of the glib, and all of the people who are considered witty or fun to talk to are glib. I don't think it's strategically sound to alienate the people who are the best at convincing people of stuff from causes that require the majority of people to be convinced in order to be effective."
+
+- **Valence:** 0.3 (Mixed sentiment, as it critiques censorship while defending wit and persuasion.)
+- **Dominance:** 0.7 (The speaker strongly asserts their viewpoint on the relationship between wit and persuasion in civil rights.)
+- **Intensity:** 0.8 (The intensity is high, as it expresses a strong opinion about the impact of censorship.)
+- **Concreteness:** 0.5 (Uses abstract concepts around censorship and persuasion, though the argument is still fairly relatable.)
+
+### Summary Scores:
+- **Quarter 1:** Valence 0.3, Dominance 0.5, Intensity 0.4, Concreteness 0.6
+- **Quarter 2:** Valence 0.5, Dominance 0.4, Intensity 0.6, Concreteness 0.5
+- **Quarter 3:** Valence 0.2, Dominance 0.6, Intensity 0.7, Concreteness 0.4
+- **Quarter 4:** Valence 0.3, Dominance 0.7, Intensity 0.8, Concreteness 0.5
+

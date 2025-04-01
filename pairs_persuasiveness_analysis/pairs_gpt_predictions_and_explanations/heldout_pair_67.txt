@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating for each of the requested dimensions across the provided argument, broken down into quarters where applicable:
+
+### Quarter 1:
+**Text:** "The opposition to interracial marriage was based on the belief that certain races were genetically inferior (whatever that means). Yes, people cited their religion for reasons, but ultimately that's what it would come back to (for the most part). Since 'genetic inferiority' is a scientific claim, it requires scientific evidence to support it. There is none, in fact there is plenty to disprove it. So interracial marriage happened without problem. (I like what other commenters have said about interracial marriage not changing the definition of marriage)."
+
+- **Valence:** 0.8 (The argument presents a mostly positive view of the legitimacy of interracial marriage, while criticizing the flawed reasoning behind opposition.)
+- **Dominance:** 0.4 (The author doesn't assert dominance but critiques opposition; they appear more informative than commanding.)
+- **Intensity:** 0.7 (The claim about genetic inferiority lacking evidence carries significant weight and support for the argument.)
+- **Concreteness:** 0.9 (The argument refers to specific concepts like "genetic inferiority" and provides assertions based on evidence.)
+
+### Quarter 2:
+**Text:** "Opposition to same-sex marriage is based on opposition to specific *actions*, and not wanting the government to sanction and support those actions. People who are opposed to same-sex marriage would also be opposed to two heterosexuals of the same sex getting married. The marrying couple's sexual *orientation* is not the target of disapproval, it's the *actions* of two individuals."
+
+- **Valence:** 0.5 (Presents a neutral perspective on the opposition to same-sex marriage, acknowledging disapproval without overwhelming negativity.)
+- **Dominance:** 0.5 (The speaker explains their perspective without being overly assertive but maintains their viewpoint.)
+- **Intensity:** 0.6 (The distinction between sexual orientation and actions represents an important debate, adding some intensity.)
+- **Concreteness:** 0.7 (The use of terms like "specific actions" and “sexual orientation” adds clarity to argument structure.)
+
+### Quarter 3:
+**Text:** "The fact that certain people are biologically predisposed to want to do those actions, and others are completely *not* interested in doing them, is a confusing side note to this argument."
+
+- **Valence:** 0.4 (Acknowledges a biological perspective, which does not strongly support one side over the other.)
+- **Dominance:** 0.3 (This section is more explanatory and less assertive or commanding.)
+- **Intensity:** 0.5 (Presents a valid point but lacks significant emotional weight.)
+- **Concreteness:** 0.5 (Concepts are somewhat abstract but still framed in biological terms.)
+
+### Quarter 4:
+**Text:** "Every solid study I've read up on shows that a child's best chance is to be raised by its biological parents*. Whenever possible, the government supports this with tax breaks and by attaching things like inheritance and hospital visitation rights to marriage. Since the child of same-sex partners cannot be raised by both biological parents, they are automatically at a disadvantage. At least, that's the argument."
+
+- **Valence:** 0.3 (This section suggests a negative view of same-sex parenting relative to biological parents.)
+- **Dominance:** 0.6 (Presents a more assertive standpoint regarding the perceived advantages of biological parenting.)
+- **Intensity:** 0.8 (Significant implications are drawn about the child-rearing environment and its importance.)
+- **Concreteness:** 0.7 (References to studies and concrete examples of marriage benefits add clarity, although some claims about studies are less specific.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence: 0.8, Dominance: 0.4, Intensity: 0.7, Concreteness: 0.9
+- **Quarter 2:** Valence: 0.5, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+- **Quarter 3:** Valence: 0.4, Dominance: 0.3, Intensity: 0.5, Concreteness: 0.5
+- **Quarter 4:** Valence: 0.3, Dominance: 0.6, Intensity: 0.8, Concreteness: 0.7
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! Here’s a breakdown rating each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### 1st Quarter: "The fundamental difference between state sanctioned interracial marriage and gay marriage is what they are promoting as a social norm."
+- **Valence**: 0.5 (Neutral to slightly positive; presents an argument without emotive language)
+- **Dominance**: 0.7 (Suggests a clear authoritative stance on the topic)
+- **Intensity**: 0.5 (Moderate; presenting a logical viewpoint without strong emotional appeal)
+- **Concreteness**: 0.6 (Somewhat abstract, though it introduces tangible concepts like “social norm”)
+
+### 2nd Quarter: "In interracial marriage the norm that is being promoted is that people do not need to be kept separate because of their racial characteristics, that integration of racial groups is a social good that we want to promote (or at least isn't an ill that should outweigh the good of marriage)."
+- **Valence**: 0.6 (Slightly positive; promotes integration as a social good)
+- **Dominance**: 0.6 (Advocates for the viewpoint with reasoning; moderately authoritative)
+- **Intensity**: 0.6 (Moderate; emphasizes the positive aspects of interracial marriage)
+- **Concreteness**: 0.7 (More concrete due to specific references to integration and racial characteristics)
+
+### 3rd Quarter: "Gay marriage is an attempt to normalise a certain types of sexual relationships by raising their legal status and making them legally equivalent to others."
+- **Valence**: 0.5 (Neutral; focusing on a description rather than a value judgment)
+- **Dominance**: 0.5 (Presents a declarative statement without strong authority)
+- **Intensity**: 0.5 (Balanced; neither overly strong nor weak in expression)
+- **Concreteness**: 0.7 (Relatively concrete; discusses legal status and normalization)
+
+### 4th Quarter: "They are quite different things…."
+- **Valence**: 0.4 (Slightly negative; implies a contrast that might be viewed unfavorably by some)
+- **Dominance**: 0.4 (Less authoritative; more of a summary statement)
+- **Intensity**: 0.3 (Low intensity; very brief and lacks persuasive strength)
+- **Concreteness**: 0.5 (Ambiguous; the statement is vague, lacking specificity)
+
+### Summary Ratings:
+1st Quarter: Valence 0.5, Dominance 0.7, Intensity 0.5, Concreteness 0.6  
+2nd Quarter: Valence 0.6, Dominance 0.6, Intensity 0.6, Concreteness 0.7  
+3rd Quarter: Valence 0.5, Dominance 0.5, Intensity 0.5, Concreteness 0.7  
+4th Quarter: Valence 0.4, Dominance 0.4, Intensity 0.3, Concreteness 0.5
+

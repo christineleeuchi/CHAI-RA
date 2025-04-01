@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating for each of the dimensions—valence, dominance, intensity, and concreteness—let's break the argument into four quarters and analyze each part accordingly.
+
+### Quarter 1: 
+*"CMV: I'm 21, 5'8 and losing my hair. I will always be alone and no longer want to live. I'm 21, an engineering student, passionate musician with 10 years of experience."*
+
+- **Valence:** 0.2 (The sentiment is predominantly negative, expressing feelings of hopelessness and loneliness.)
+- **Dominance:** 0.3 (The author conveys a sense of defeat and helplessness, suggesting low social power.)
+- **Intensity:** 0.6 (Emphasizes strong emotions of despair and self-doubt.)
+- **Concreteness:** 0.4 (Mix of specific details about age and interests, but the primary message lacks clear, concrete imagery.)
+
+### Quarter 2: 
+*"My increasing hair loss feels like a ticking time bomb for finding someone who will care for me enough to look past it before it goes or the Propecia I take kills my sex drive, as my short stature already turns girls away as it is. And it hurts so much that I have placed so much effort into changing the things that I can, when the things that I can't change inhibit me the most."*
+
+- **Valence:** 0.3 (The negative feelings about physical appearance and its impact on relationships are highlighted.)
+- **Dominance:** 0.4 (The author shows some attempts to take control over his life, but there’s still a sense of being restricted by external factors.)
+- **Intensity:** 0.7 (The emotional weight of frustration and pain is clearly expressed.)
+- **Concreteness:** 0.5 (Specific references to hair loss and Propecia give it a more tangible aspect.)
+
+### Quarter 3: 
+*"Yet no matter how hard I fucking try and want to I am unable to force myself to be attracted to girls who aren't fit and intelligent (basically from my experience, girls that are out of my league), probably due being in the physical shape that I'm in and valuing pursuit of knowledge and intellectual conversation myself."*
+
+- **Valence:** 0.4 (A mix of frustration and self-reflection; there's a struggle with attraction and self-worth.)
+- **Dominance:** 0.5 (The author acknowledges personal standards while feeling somewhat powerless in romantic contexts.)
+- **Intensity:** 0.6 (The passion behind the feelings of attraction and self-imposed standards is evident.)
+- **Concreteness:** 0.6 (Descriptions of physical and intellectual qualities contribute to a clearer understanding of the author's attraction criteria.)
+
+### Quarter 4: 
+*"I just want to fall in love man, and have someone who lets me love them, and doesn't care that I'm short and losing my hair because I'd go to the ends of the Earth to fight for and protect them. Because my biggest fucking fear in life, is settling in a marriage with a girl I'm not attracted to and abandoning my wife and kids as my father did to me."*
+
+- **Valence:** 0.5 (Longing for connection and love is present, but it's coupled with fear, creating a more neutral sentiment overall.)
+- **Dominance:** 0.5 (Desire for a loving relationship is strong, but past trauma creates a sense of vulnerability.)
+- **Intensity:** 0.7 (The emotions regarding love, fear, and personal history evoke strong feelings.)
+- **Concreteness:** 0.5 (While the desire for love is clearly articulated, the mention of familial dynamics adds depth without specific situational context.)
+
+These ratings illustrate the emotional complexity and nuance in the speaker's argument, reflecting their struggles and desires despite their challenging circumstances.
+

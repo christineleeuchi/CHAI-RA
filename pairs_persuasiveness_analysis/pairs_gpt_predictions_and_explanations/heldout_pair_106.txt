@@ -1,0 +1,94 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To analyze the argument you provided, I will provide ratings for valence, dominance, intensity, and concreteness for each quarter of the argument's text.
+
+**1. First Quarter: "I intend to change your view, but I'm out for a few minutes to get coffee and breakfast."**
+
+- **Valence: 0.5** - This statement is neutral; while it indicates a willingness to engage in a discussion, it doesn't evoke strong positive or negative emotions.
+- **Dominance: 0.3** - The speaker is in a position of intent to persuade, but is temporarily unavailable, which diminishes their dominant position.
+- **Intensity: 0.4** - The intent to change someone's view is somewhat intense, but the mention of being out for coffee reduces this intensity.
+- **Concreteness: 0.6** - The mention of concrete actions (getting coffee and breakfast) adds a level of clarity, but the overall intent is still quite abstract.
+
+**2. Second Quarter: "I'll start with a couple quick points."**
+
+- **Valence: 0.6** - There's a positive tone here, as the speaker is indicating readiness to engage in the discussion.
+- **Dominance: 0.6** - The speaker asserts some control by indicating they will lead the discussion with points.
+- **Intensity: 0.5** - The phrase expresses a moderate level of intensity since they are preparing to present arguments.
+- **Concreteness: 0.5** - The statement is somewhat abstract, as it does not specify what the points will be.
+
+**3. Third Quarter: "Do you feel it's appropriate to label Facebook as a vanity site?"**
+
+- **Valence: 0.4** - This question could have a slightly negative connotation towards Facebook but is mostly neutral, as it’s probing rather than making a judgment.
+- **Dominance: 0.5** - The question asserts some control over the dialogue, engaging the other person to think critically.
+- **Intensity: 0.5** - It has a moderate intensity as it challenges the listener's perspective but is not overly confrontational.
+- **Concreteness: 0.7** - This statement is concrete, as it directly addresses a specific platform and issue.
+
+**4. Fourth Quarter: "How would you feel about Frankie making the same comments about something Suzie did while walking through the mall with her friends or family?"**
+
+- **Valence: 0.5** - This question is neutral and invites the listener to think about a scenario without strongly evoking either positive or negative feelings.
+- **Dominance: 0.4** - The speaker is less dominant here as they are asking a question rather than making an assertion.
+- **Intensity: 0.5** - The intensity remains moderate; it prompts thought but isn’t highly charged.
+- **Concreteness: 0.6** - This statement is somewhat concrete as it presents a specific scenario, although it still involves hypothetical reasoning.
+
+### Summary of Ratings
+
+**1. First Quarter:**
+- Valence: 0.5
+- Dominance: 0.3
+- Intensity: 0.4
+- Concreteness: 0.6
+
+**2. Second Quarter:**
+- Valence: 0.6
+- Dominance: 0.6
+- Intensity: 0.5
+- Concreteness: 0.5
+
+**3. Third Quarter:**
+- Valence: 0.4
+- Dominance: 0.5
+- Intensity: 0.5
+- Concreteness: 0.7
+
+**4. Fourth Quarter:**
+- Valence: 0.5
+- Dominance: 0.4
+- Intensity: 0.5
+- Concreteness: 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a rating for each of the four dimensions: valence, dominance, intensity, and concreteness, broken down by each quarter of the argument.
+
+### Quarter 1:
+**Text:** "The thing is that they put it up to share with their friends and people around their age (who might not are in their contact list)."
+- **Valence:** 0.7 - The tone is neutral to slightly positive, emphasizing sharing and connection among peers.
+- **Dominance:** 0.5 - The statement is more observational and descriptive, not exerting power or control.
+- **Intensity:** 0.4 - The feelings expressed are mild; there's little emotional weight.
+- **Concreteness:** 0.6 - The idea is clear, referring to sharing among peers, but not deeply detailed.
+
+### Quarter 2:
+**Text:** "What a young teen doesn't want is a 40+ guy checking her (or 'his' but mainly 'her') information out."
+- **Valence:** 0.4 - This expresses a negative sentiment towards the idea of older individuals intruding; it suggests discomfort.
+- **Dominance:** 0.6 - The tone implies a protective stance, indicating a level of control over who views personal information.
+- **Intensity:** 0.5 - Moderate emotional intensity; the concern for privacy is evident.
+- **Concreteness:** 0.7 - The statement is specific and clearly articulated, referencing a particular demographic.
+
+### Quarter 3:
+**Text:** "If a girl dresses up and wants to impress boys in order to get attention from them by walking through the streets then she wants said attention from guys she is attracted to which are around her age."
+- **Valence:** 0.6 - The tone is more positive as it reflects youthful interaction and attraction.
+- **Dominance:** 0.4 - It describes behavior rather than asserting dominance or control.
+- **Intensity:** 0.6 - There is a heightened sense of emotion related to social dynamics and attraction.
+- **Concreteness:** 0.8 - Highly concrete as it describes specific actions and intentions.
+
+### Quarter 4:
+**Text:** "She dresses up to be looked at but she doesn't want to be looked at by everyone. If you aren't one of the people who are supposed to see it then it can feel creepy to her."
+- **Valence:** 0.5 - Mixed feelings; it acknowledges a desire for attention while indicating discomfort with unwanted attention.
+- **Dominance:** 0.5 - The statement suggests a personal boundary, indicating a moderate level of control.
+- **Intensity:** 0.7 - Strong emotional response regarding privacy and social norms comes through.
+- **Concreteness:** 0.7 - Clearly articulated, although it reflects broader social interactions rather than specific scenarios.
+
+### Summary of Ratings:
+- **Quarter 1:** Valence 0.7, Dominance 0.5, Intensity 0.4, Concreteness 0.6
+- **Quarter 2:** Valence 0.4, Dominance 0.6, Intensity 0.5, Concreteness 0.7
+- **Quarter 3:** Valence 0.6, Dominance 0.4, Intensity 0.6, Concreteness 0.8
+- **Quarter 4:** Valence 0.5, Dominance 0.5, Intensity 0.7, Concreteness 0.7
+

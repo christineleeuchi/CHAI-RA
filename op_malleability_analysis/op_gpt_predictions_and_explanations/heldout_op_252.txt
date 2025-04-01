@@ -1,0 +1,34 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the arguments provided, I will assign scores for valence, dominance, intensity, and concreteness based on the content and tone of each quarter of the text. Here's the analysis:
+
+**Quarter 1: "CMV: I think having a preference against promiscuous people is as valid as having a height or weight preference nor does it constitute 'slut-shaming'."**
+- **Valence:** 0.6 (The statement expresses a somewhat positive view of personal preferences, but it includes a contentious term which can incite negative reactions.)
+- **Dominance:** 0.7 (The speaker asserts their view confidently and challenges societal norms.)
+- **Intensity:** 0.5 (The argument is moderately strong but doesn't convey extreme emotion.)
+- **Concreteness:** 0.5 (The reference to height and weight preferences makes the argument specific but lacks empirical support.)
+
+**Quarter 2: "I don't know if it is skewed on Reddit or not, but anytime I see a comment about not being attracted to a 'slut' the poster gets railed for it."**
+- **Valence:** 0.4 (The statement has a negative valence due to the implication of backlash faced by those expressing their preferences.)
+- **Dominance:** 0.5 (The speaker describes a perceived social dynamic but doesn't assert dominance.)
+- **Intensity:** 0.6 (The frustration with the situation comes through, suggesting a moderate level of intensity.)
+- **Concreteness:** 0.4 (The reference to “getting railed for it” is informal and does not provide a concrete example of the issue.)
+
+**Quarter 3: "Regardless of the label, not wanting your partner to have been with 5+ people is 100% defensible."**
+- **Valence:** 0.5 (This is a neutral statement that asserts a viewpoint without overly positive or negative connotations.)
+- **Dominance:** 0.6 (The use of "100% defensible" asserts a strong claim.)
+- **Intensity:** 0.6 (The statement is firm, signifying a higher degree of conviction.)
+- **Concreteness:** 0.7 (The specific reference to “5+ people” gives a clear benchmark for the argument.)
+
+**Quarter 4: "I also don't think it is strictly the language being used. Regardless of the label..."**
+- **Valence:** 0.5 (Balanced as it discusses a nuanced point without leaning positively or negatively.)
+- **Dominance:** 0.5 (This is a moderate assertion but lacks forcefulness.)
+- **Intensity:** 0.4 (The tone is rational and somewhat subdued.)
+- **Concreteness:** 0.6 (The mention of examples like "chubby-chasers" makes the argument relatable but remains somewhat abstract.)
+
+In summary, here are the scores for each quarter:
+
+**Quarter 1:** Valence: 0.6 | Dominance: 0.7 | Intensity: 0.5 | Concreteness: 0.5  
+**Quarter 2:** Valence: 0.4 | Dominance: 0.5 | Intensity: 0.6 | Concreteness: 0.4  
+**Quarter 3:** Valence: 0.5 | Dominance: 0.6 | Intensity: 0.6 | Concreteness: 0.7  
+**Quarter 4:** Valence: 0.5 | Dominance: 0.5 | Intensity: 0.4 | Concreteness: 0.6
+

@@ -1,0 +1,33 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide ratings for valence, dominance, intensity, and concreteness, I’ll break the argument down into four quarters and assign scores for each category on a scale of 0.0 to 1.0.
+
+**1. Quarter 1: "CMV:It's okay to pay money for a Tom Cruise movie My wife refuses to watch the new Mission Impossible because she hates Tom Cruise. I think we should go."**  
+- **Valence (0.6):** There is a neutral to slightly positive sentiment toward watching the movie and paying for it, despite the wife's negative feelings about Tom Cruise.  
+- **Dominance (0.5):** The author is expressing a strong opinion and desires to influence the wife's feelings toward watching the movie, but it's balanced by acknowledging her dislike.  
+- **Intensity (0.5):** The level of emotion is moderate; while there's a desire to go out, it’s not overwhelmingly passionate.  
+- **Concreteness (0.7):** The situation presented is specific and relatable, detailing the wife's refusal and the upcoming date night.
+
+**2. Quarter 2: "*I don't care if someone believes something silly. It's America, we all have the right to believe what we want."**  
+- **Valence (0.5):** Neutral; while it expresses acceptance, it dismisses the wife's beliefs, which could be seen negatively.  
+- **Dominance (0.6):** The speaker asserts a personal value regarding beliefs and freedoms, showcasing a level of confidence in their viewpoint.  
+- **Intensity (0.4):** The emotion is lower here; while there's an assertion of belief, it lacks strong emotional language.  
+- **Concreteness (0.5):** This extends the argument but remains abstract regarding the specifics of belief systems.
+
+**3. Quarter 3: "*Scientology is probably no weirder than other religions. I read Tom Cruise is probably going to leave Scientology anyway."**  
+- **Valence (0.4):** The sentiment is slightly negative due to the reference to a controversial religion, but tempered with a comparative view.  
+- **Dominance (0.5):** The author attempts to normalize the view of Scientology, indicating a sense of control over how they perceive different belief systems.  
+- **Intensity (0.5):** Moderate; the statements about religion carry a certain weight but are expressed more as observations than passionate assertions.  
+- **Concreteness (0.5):** The references are somewhat specific but rely on broad generalizations about religions.
+
+**4. Quarter 4: "*Tom Cruise is a great actor who has usually amused me in the past. Saturday night is Date Night in my marriage. CMV so I can see eye to eye with my better half."**  
+- **Valence (0.7):** This section has a positive sentiment as it highlights appreciation for Cruise as an actor and reinforces the importance of date night.  
+- **Dominance (0.5):** Expresses a desire to find common ground with the wife, indicating a less dominant position when wanting a compromise.  
+- **Intensity (0.6):** Emotional attachment to the idea of date night and the appreciation for Tom Cruise adds some passion.  
+- **Concreteness (0.8):** Very concrete; it describes the nature of the relationship dynamic and a specific instance (date night), making it relatable.
+
+### Summary of Ratings
+1. **Quarter 1:** Valence: 0.6 | Dominance: 0.5 | Intensity: 0.5 | Concreteness: 0.7  
+2. **Quarter 2:** Valence: 0.5 | Dominance: 0.6 | Intensity: 0.4 | Concreteness: 0.5  
+3. **Quarter 3:** Valence: 0.4 | Dominance: 0.5 | Intensity: 0.5 | Concreteness: 0.5  
+4. **Quarter 4:** Valence: 0.7 | Dominance: 0.5 | Intensity: 0.6 | Concreteness: 0.8
+

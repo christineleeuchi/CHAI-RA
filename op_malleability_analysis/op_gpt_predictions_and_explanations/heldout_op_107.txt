@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: Yes, I am likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on the dimensions of valence, dominance, intensity, and concreteness in each quarter of the text, I will provide a rating from 0.0 to 1.0 for each category.
+
+### Quarter 1:
+**Text**: "CMV: Airplane boarding is backwards It makes way more sense to board an airplane with the back rows first."
+
+- **Valence**: 0.6 (The statement is somewhat positive about the alternative boarding method.)
+- **Dominance**: 0.7 (The speaker expresses a strong opinion that their method is superior.)
+- **Intensity**: 0.5 (The argument is fairly moderate in its intensity but presents a clear assertion.)
+- **Concreteness**: 0.4 (The argument is abstractly stating a preference without specific evidence yet.)
+
+### Quarter 2:
+**Text**: "That way no one waiting to go to the back of the plane has to wait for people stashing their luggage. Boarding priority besides first class is pointless is it not? Who wants to board first just to wait even longer in a small seat. We all leave at the same time."
+
+- **Valence**: 0.7 (The argument is clearly favoring the proposed method, with a more positive outlook.)
+- **Dominance**: 0.8 (The speaker asserts their opinion more strongly here, framing the current system negatively.)
+- **Intensity**: 0.6 (The tone escalates slightly with rhetorical questions, emphasizing frustration.)
+- **Concreteness**: 0.5 (Provides some reasoning but still lacks specific examples or evidence.)
+
+### Quarter 3:
+**Text**: "I’ve come to understand that in countries like Canada and Norway they’ve already adopted this type of boarding procedure."
+
+- **Valence**: 0.8 (This introduces a validating point that positively frames the argument.)
+- **Dominance**: 0.5 (The authority provided by other countries' practices tempers the dominance a bit.)
+- **Intensity**: 0.5 (The tone remains steady, providing an informative observation rather than a passionate assertion.)
+- **Concreteness**: 0.6 (Specific countries are mentioned, making the statement more tangible.)
+
+### Quarter 4:
+**Text**: "Whenever I see a group of people anxious and conjugating around the boarding area, everyone is suspicious and bitter about the people trying to “get their spot”. Southwest airlines doesn’t have reserved seating, so it ends up being that those that board first want the first few rows of the plane (make sense), which means that everyone will likely follow suit. In a Boeing 737, the very last passengers to board are likely going to get row 30, barring someone’s preference to be in the back of the plane."
+
+- **Valence**: 0.7 (Captures the negative feelings around current boarding practices.)
+- **Dominance**: 0.6 (Conveys a clear frustration with the current system, though slightly less dominant than earlier.)
+- **Intensity**: 0.7 (The use of emotional language and descriptions of anxiety conveys high intensity.)
+- **Concreteness**: 0.8 (Specific examples, like Southwest Airlines and the Boeing 737, ground the argument in reality.)
+
+### Summary Ratings:
+- **Quarter 1**: Valence: 0.6, Dominance: 0.7, Intensity: 0.5, Concreteness: 0.4
+- **Quarter 2**: Valence: 0.7, Dominance: 0.8, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 3**: Valence: 0.8, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 4**: Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.8
+

@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score for each of the dimensions—valence, dominance, intensity, and concreteness—across the four quarters of the argument, I'll break down the text accordingly and analyze each aspect.
+
+### Quarter 1:
+**Text: "CMV: Planned Parenthood is not evil Not only are they not "selling" body parts, but they don't just do abortions, even if pro-life views lead you to see abortion as wrong."**
+
+- **Valence:** 0.8 (The tone is generally positive toward Planned Parenthood, arguing against the negative perception.)
+- **Dominance:** 0.6 (The author tries to assert a viewpoint against a commonly held opinion, leveraging factual statements.)
+- **Intensity:** 0.5 (Moderately intense; the message is clear but not overly emotional.)
+- **Concreteness:** 0.7 (References specific actions taken by Planned Parenthood to make their case.)
+
+### Quarter 2:
+**Text: "97% of what they do is NOT abortions. STD and cancer screenings, contraception, and HIV counseling, to name a few."**
+
+- **Valence:** 0.9 (Very positive valence as it provides supportive facts about Planned Parenthood's services.)
+- **Dominance:** 0.7 (Strong assertion with statistics that serve to reinforce the positive aspects of Planned Parenthood.)
+- **Intensity:** 0.6 (The argument is factual and straightforward but carries a supportive tone.)
+- **Concreteness:** 0.9 (Highly concrete due to the statistical reference and specific examples of services.)
+
+### Quarter 3:
+**Text: "Also, this baby part thing is a ridiculous. If a patient wishes to donate the unborn child to science, is that wrong? Is it wrong that Planned Parenthood gets paid for gas? Would Planned Parenthood haters rather the unborn babies be thrown in the trash?"**
+
+- **Valence:** 0.4 (Mixed valence; while questioning criticisms, it also addresses controversial topics, creating a slight negative tone.)
+- **Dominance:** 0.5 (The author poses questions to counter arguments but doesn't assert high dominance over the discourse.)
+- **Intensity:** 0.7 (More intense as the author confronts controversial and emotionally charged topics.)
+- **Concreteness:** 0.6 (Moderately concrete; while it raises thoughtful questions, the argument does not rest on solid data.)
+
+### Quarter 4:
+**Text: "Provided you find abortion wrong, do two wrongs make a right? EDIT: FYI, I don't believe abortion itself is evil. Feel free to take that as the topic to challenge, or the "baby part selling"--anything to show me how Planned Parenthood is evil."**
+
+- **Valence:** 0.5 (Neutral valence; presents a moral quandary that encourages debate but doesn’t lean heavily positive or negative.)
+- **Dominance:** 0.6 (The author invites challenges to their position, showing dominance through openness to discussion.)
+- **Intensity:** 0.5 (Moderately intense; the moral question posed is provocative but delivered in a calm tone.)
+- **Concreteness:** 0.5 (Abstract in nature as it addresses philosophical questions rather than concrete data.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence 0.8, Dominance 0.6, Intensity 0.5, Concreteness 0.7
+- **Quarter 2:** Valence 0.9, Dominance 0.7, Intensity 0.6, Concreteness 0.9
+- **Quarter 3:** Valence 0.4, Dominance 0.5, Intensity 0.7, Concreteness 0.6
+- **Quarter 4:** Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.5
+
+These ratings reflect how each section of the argument engages with the topic of Planned Parenthood, as well as how emotionally charged and factually grounded each segment is.
+

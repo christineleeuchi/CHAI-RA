@@ -1,0 +1,80 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the ratings for each quarter of the argument in terms of valence, dominance, intensity, and concreteness.
+
+### Quarter 1
+**Text:** *While I understand where you are coming from, and agree that measures should be taken, I don't think what you propose would be fair or effective because:*
+
+- **Valence:** 0.6 (Neutral-to-positive; acknowledges agreement, but presents disagreement)
+- **Dominance:** 0.4 (Lower dominance; the speaker takes a more humble, understanding stance)
+- **Intensity:** 0.5 (Moderate; expresses a clear stance without strong emotional language)
+- **Concreteness:** 0.3 (Abstract yet sets the stage for specifics to follow)
+
+### Quarter 2
+**Text:** *Imprisonment [simply does not work] as a measure to reduce recidivism. At all. 7% of inmates [report being raped]. I don't think you want to be putting people into a situation where their chance of rape is that high without very good reason.*
+
+- **Valence:** 0.7 (Negative; critiques the proposed measures)
+- **Dominance:** 0.5 (Moderate; presents research as counterargument to original proposal)
+- **Intensity:** 0.8 (High; uses strong language such as "does not work" and "chance of rape is that high")
+- **Concreteness:** 0.6 (Provides specific statistics and a direct issue, making it clear and direct)
+
+### Quarter 3
+**Text:** *Legally, the presumption of innocence is enshrined in the US constitution. To presume someone guilty merely on someone's word is illegal. Morally, it is better to set a hundred guilty people free than to punish one innocent person. Thus the presumption of innocence. Publicising someone's information in relation to an accusation of rape can be harmful enough to be construed as punishment, and shouldn't be done without a guilty verdict.*
+
+- **Valence:** 0.8 (Strongly negative; emphasizes the dangers of proposed changes)
+- **Dominance:** 0.7 (Higher dominance; asserts legal and moral principles firmly)
+- **Intensity:** 0.9 (Very high; uses powerful moral arguments that resonate deeply)
+- **Concreteness:** 0.7 (Concrete legal and moral arguments are presented clearly)
+
+### Quarter 4
+**Text:** *I would propose a different set of changes: When somebody makes an accusation of rape, do not assume they are lying... If there is enough evidence to prove someone guilty, send them away. If there is not, we can't be certain enough of their guilt to punish them in good faith. Punishing an innocent person won't help the victim...*
+
+- **Valence:** 0.9 (Positive; proposes constructive alternatives)
+- **Dominance:** 0.6 (Moderate to high; asserts a constructive response to the situation)
+- **Intensity:** 0.7 (High; presents strong viewpoints on how to reform without punishment)
+- **Concreteness:** 0.7 (Offers clear and actionable proposals for improvement)
+
+### Summary of Ratings
+| Quarter   | Valence | Dominance | Intensity | Concreteness |
+|-----------|---------|-----------|-----------|--------------|
+| Quarter 1 | 0.6     | 0.4       | 0.5       | 0.3          |
+| Quarter 2 | 0.7     | 0.5       | 0.8       | 0.6          |
+| Quarter 3 | 0.8     | 0.7       | 0.9       | 0.7          |
+| Quarter 4 | 0.9     | 0.6       | 0.7       | 0.7          |
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score for each component of the argument, divided into quarters:
+
+### Quarter 1:
+**Argument:** "Our legal system is centred around the idea that it is better to set a guilty person free than to jail an innocent person. If we shift the burden of proof to the defendant, it becomes much easier for people to bring malicious accusations against someone."
+
+- **Valence:** 0.7 (This quarter presents a negative view of shifting the burden of proof and highlights a concern about potential malicious accusations.)
+- **Dominance:** 0.6 (The argument asserts a strong viewpoint, emphasizing the risks associated with changing the burden of proof.)
+- **Intensity:** 0.6 (The tone is moderately intense, with clear concern about the implications of a proposed change.)
+- **Concreteness:** 0.5 (While it introduces a concept, it lacks specific examples or scenarios that illustrate the potential consequences.)
+
+### Quarter 2:
+**Argument:** "It is often very difficult to prove that you didn't do something. For this reason, in criminal cases, all the defence must do is argue that the prosecution hasn't made their case well enough; they don't have to argue that there is positive evidence that the defendant is innocent."
+
+- **Valence:** 0.6 (This quarter acknowledges a challenge within the legal system, which is a somewhat neutral to negative perspective.)
+- **Dominance:** 0.5 (It presents a balanced view of the challenges faced by the defense without overtly dominating the discussion.)
+- **Intensity:** 0.5 (The intensity remains moderate, stating facts rather than presenting emotional appeals.)
+- **Concreteness:** 0.6 (This part is more concrete, explaining the mechanics of how the current legal system works.)
+
+### Quarter 3:
+**Argument:** "If this change were to be implemented, almost everyone accused of rape would be convicted, regardless of their guilt or innocence. This would result in many innocent people having their lives destroyed. It's simply not worth it."
+
+- **Valence:** 0.8 (This is a strongly negative view, emphasizing the potential for wrongful convictions and the severe consequences of such a change.)
+- **Dominance:** 0.7 (The argument takes a strong stance against the proposed change, highlighting the dangers associated with it.)
+- **Intensity:** 0.8 (The emotional weight is high, as it discusses the destruction of innocent lives due to wrongful convictions.)
+- **Concreteness:** 0.5 (While the consequences are mentioned, it lacks specific examples or evidence to support the assertion of widespread wrongful convictions.)
+
+### Quarter 4:
+**Argument:** "The current system is far from perfect; it makes it almost impossible to get a conviction. That being said, we should focus on making it easier for victims to report crimes. This requires a major culture shift away from victim blaming. Streamlining the reporting process is not a bad idea. Shifting the burden of proof is unimaginably ill-advised."
+
+- **Valence:** 0.7 (This part presents a constructive critique, acknowledging the current system's flaws while advocating for improvements.)
+- **Dominance:** 0.6 (It balances a critical view of the current system with suggestions for positive change.)
+- **Intensity:** 0.6 (The intensity is moderate, as it emphasizes important points about cultural shifts and reporting processes without being overly emotional.)
+- **Concreteness:** 0.7 (This section is more concrete, as it suggests specific actions to address the issues while acknowledging the complexities involved.)
+
+These ratings aim to provide a nuanced understanding of each quarter of the argument based on the specified criteria.
+

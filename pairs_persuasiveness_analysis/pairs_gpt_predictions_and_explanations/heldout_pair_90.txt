@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for the provided argument based on the requested criteria:
+
+1. **Valence**:  
+   - **Score**: 0.7  
+   - **Rationale**: The argument expresses a negative viewpoint about the behaviors described, particularly the idea of someone "creeping" on another person's profile. However, it also acknowledges that the speaker understands the online context and seems to seek understanding rather than purely criticizing. 
+
+2. **Dominance**:  
+   - **Score**: 0.6  
+   - **Rationale**: The argument asserts a clear perspective on social media behavior and how it should be perceived. It emphasizes the emotional impact of having someone reference old social media content. While it showcases the speaker's confidence in their viewpoint, it allows for the original argument to be considered.
+
+3. **Intensity**:  
+   - **Score**: 0.8  
+   - **Rationale**: The use of phrases like "slightly violated feel" and the comparison to being recorded reflects a high level of emotional intensity. The argument evokes strong feelings about the implications of one's online presence and privacy, enhancing its overall intensity.
+
+4. **Concreteness**:  
+   - **Score**: 0.7  
+   - **Rationale**: The argument uses relatable examples and metaphors, such as the analogy of a recording device and the notion of casually speaking to friends, which makes it easier to grasp. However, some abstract concepts about social media and personal feelings might leave a bit of room for ambiguity.
+
+Overall, the argument presents a well-rounded perspective on the issue, balancing emotional and rational components effectively.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each parameter (valence, dominance, intensity, and concreteness) based on the provided text, divided into four quarters:
+
+### Quarter 1
+**Text:** "So I have a Facebook and I don't really care who I am friends with on there, as long as I somewhat know them."
+
+- **Valence:** 0.7 (Overall positive tone, expressing indifference)
+- **Dominance:** 0.5 (Neutral stance, not asserting authority but expressing personal feelings)
+- **Intensity:** 0.4 (Mild engagement with the topic, not very strong emotions)
+- **Concreteness:** 0.6 (Refers to a specific situation—having Facebook friends)
+
+### Quarter 2
+**Text:** "My boss friended me at one point, which I thought was awkward because whenever I'm in a leadership position I don't friend anyone because I don't want them to feel pressured into saying yes."
+
+- **Valence:** 0.5 (Neutral to slightly negative; expresses discomfort)
+- **Dominance:** 0.6 (Stronger personal stance about leadership and friendship dynamics)
+- **Intensity:** 0.5 (Moderate level of emotion, reflecting discomfort and social norms)
+- **Concreteness:** 0.7 (Specific examples of relationships and feelings related to social media)
+
+### Quarter 3
+**Text:** "Anyway. My boss used to talk to me (in person) about things I had posted online and events I had gone to, and it was almost like him seeing my Facebook made him feel like he knew me well and we were buddies."
+
+- **Valence:** 0.4 (Somewhat negative; suggests unease with the relationship)
+- **Dominance:** 0.4 (Less assertive; indicating a reaction rather than a proactive stance)
+- **Intensity:** 0.6 (More emotional weight given to the discussion of the boss's perceptions)
+- **Concreteness:** 0.8 (Concrete references to events and interactions)
+
+### Quarter 4
+**Text:** "And I know I gave him access to that information, but I thought it was creepy that he cared. And that's what it comes down to. Yeah you are entitled to look through my post history, but WHY do you even care? I think that's what makes it creepy."
+
+- **Valence:** 0.2 (Overall negative; strong discomfort with the invasion of privacy)
+- **Dominance:** 0.7 (More assertive, direct challenge to the boss's behavior)
+- **Intensity:** 0.9 (High emotional intensity, expressing strong feelings about privacy)
+- **Concreteness:** 0.7 (Clear articulation of arguments around personal privacy and social behavior)
+
+These ratings reflect the sentiment conveyed through the argument, along with its emotional and cognitive attributes.
+

@@ -1,0 +1,58 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on valence, dominance, intensity, and concreteness, here's a scoring from 0.0 to 1.0 for each metric, broken down by quarter of the text:
+
+### 1st Quarter: "CMV: I should never drink Pepsi, especially the one in my fridge. I *really* like Coke (hell look at my username), like really."
+
+- **Valence**: 0.2 (Generally negative towards Pepsi, positive towards Coke.)
+- **Dominance**: 0.6 (The argument presents a strong personal preference and assertion.)
+- **Intensity**: 0.7 (Emphasizes a strong liking for Coke with the word "really".)
+- **Concreteness**: 0.5 (The mention of the fridge and username adds some concreteness, but it's mostly abstract).
+
+### 2nd Quarter: "I made the trek to Atlanta about a year ago for the sole reason of visiting the Coca-Cola Museum."
+
+- **Valence**: 0.5 (Neutral; presents a factual statement that is generally positive about the Coca-Cola experience.)
+- **Dominance**: 0.5 (Reasonably strong narrative but doesn't dominate the argument.)
+- **Intensity**: 0.6 (There is a notable commitment implied by traveling for a museum visit.)
+- **Concreteness**: 0.8 (This statement is very concrete, referencing a specific action and location.)
+
+### 3rd Quarter: "So when yesterday came by and one of my friend put a Pepsi in my fridge, my choice was to throw it away. But I didn't for... some reason...."
+
+- **Valence**: 0.3 (Negative feelings toward Pepsi are expressed, but there is also an element of indecisiveness.)
+- **Dominance**: 0.4 (Conflicted emotions make it less dominant; the indecision is notable.)
+- **Intensity**: 0.4 (Relatively low; the indecision dilutes the intensity of the dislike.)
+- **Concreteness**: 0.6 (Concrete situation with specific actions described.)
+
+### 4th Quarter: "And now I have a Pepsi in my fridge. I don't like Pepsi, and I never will. I haven't drunk Pepsi for 2 years about this point, and now I ask reddit to try and find a way to get me to drink the sweat of Gary, Indiana."
+
+- **Valence**: 0.1 (Strongly negative sentiment towards Pepsi.)
+- **Dominance**: 0.8 (The argument clearly states an unwavering position against drinking Pepsi.)
+- **Intensity**: 0.9 (Highly intense; the use of language regarding Pepsi reflects strong aversion.)
+- **Concreteness**: 0.7 (While it describes the current situation and history with Pepsi, the phrase “sweat of Gary, Indiana” is a metaphor, which lowers literal concreteness slightly.)
+
+### Summary of Scores:
+1st Quarter:
+- Valence: 0.2
+- Dominance: 0.6
+- Intensity: 0.7
+- Concreteness: 0.5
+
+2nd Quarter:
+- Valence: 0.5
+- Dominance: 0.5
+- Intensity: 0.6
+- Concreteness: 0.8
+
+3rd Quarter:
+- Valence: 0.3
+- Dominance: 0.4
+- Intensity: 0.4
+- Concreteness: 0.6
+
+4th Quarter:
+- Valence: 0.1
+- Dominance: 0.8
+- Intensity: 0.9
+- Concreteness: 0.7
+
+These scores capture the emotional content and clarity of the argument in each quarter.
+

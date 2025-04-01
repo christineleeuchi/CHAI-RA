@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the provided argument, we will rate valence, dominance, intensity, and concreteness for each quarter of the text. Here's a breakdown:
+
+### Quarter 1:
+**Text**: "CMV: A Quality Windows Laptop is Better Than a Macbook Pro I'm a high school senior going to college next year, and I've used Windows PCs my entire life. I built myself a gaming desktop about 2 years ago which I love. I love PCs for the whole slew of different choices and compatibility with some programs and games. I'm a PC gamer, so windows is the obvious choice. However, everyone in college seems to have a Macbook."
+
+- **Valence**: 0.6 (The sentiment is mainly positive towards Windows PCs and personal experiences, but there is a feeling of being outnumbered by Macbook users.)
+- **Dominance**: 0.4 (The author feels a sense of agency in their choice but acknowledges external pressure.)
+- **Intensity**: 0.5 (The feelings towards Windows and gaming are expressed with moderate enthusiasm.)
+- **Concreteness**: 0.7 (The arguments and experiences are specific and personal, making them relatable and clear.)
+
+### Quarter 2:
+**Text**: "Here's the deal: My parents and my cousin in college want me to get a Macbook Pro 15 inch. It costs about $2550 with education discount. The specs: * 2.8GHz quad-core Intel Core i7 * Turbo Boost up to 3.7GHz * 16GB 1600MHz memory * 512GB PCIe-based flash storage1 * Intel Iris Pro Graphics * AMD Radeon R9 M370X with 2GB GDDR5 memory * Built-in battery (9 hours)2"
+
+- **Valence**: 0.3 (This part is more neutral as it is focused on factual information, but there’s a hint of frustration with the price.)
+- **Dominance**: 0.5 (The author presents the information with some degree of control over the narrative.)
+- **Intensity**: 0.4 (The presentation of specs lacks emotional intensity; it’s more analytical.)
+- **Concreteness**: 0.9 (Very concrete with detailed specifications given, making it easy to understand.)
+
+### Quarter 3:
+**Text**: "There are no solid benchmarks for this GPU as of date, but Apple says it's about 80% faster than the 750M, placing it somewhere slightly above or around the 765M range (correct me if I'm wrong) In comparison, an ASUS Zenbook UX501 has a 4K resolution screen, a slightly inferior processor, 96Wh Battery- versus 99.5Wh for Macbook, pretty good build quality, and a much much much much much better GPU, a 960M. This costs 1,500 on Newegg."
+
+- **Valence**: 0.2 (Technical comparisons lean towards negativity regarding Macbook's value.)
+- **Dominance**: 0.6 (The author asserts a strong opinion in favor of the ASUS Zenbook over the Macbook.)
+- **Intensity**: 0.7 (The repeated insistence on the GPU differences conveys a strong sense of preference.)
+- **Concreteness**: 0.8 (The argument is very concrete with direct comparisons and quantifiable data.)
+
+### Quarter 4:
+**Text**: "I want to like the Macbook, I really do, but I am completely baffled by the price vs specs. What makes the Macbook so expensive? I'll list some differences: The Zenbook UX 501 has: * better resolution screen (4k touch vs retina nontouch) * MUCH better GPU (R9 M370X vs GTX 960M) * numpad - personal preference, I like the full keyboard Macbook has: * Better battery life (6 hr vs 9 hr) * Better Trackpad (Force Touch vs whatever) * Build quality (but they are still both good) * OSX - I'm kind of neutral about this * ??? Is the Force touch trackpad, slightly better processor, and better battery life really worth a 1000$ premium??? And not even counting the far worse GPU..."
+
+- **Valence**: 0.2 (The author feels frustration and confusion about the price-to-spec ratio.)
+- **Dominance**: 0.7 (The author takes a strong stance questioning the value of the Macbook.)
+- **Intensity**: 0.8 (There is a high level of emotional engagement and questioning throughout.)
+- **Concreteness**: 0.9 (Very concrete with specific comparisons clearly laid out, strengthening the argument.)
+
+### Summary of Ratings:
+**Quarter 1**: Valence: 0.6, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.7  
+**Quarter 2**: Valence: 0.3, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.9  
+**Quarter 3**: Valence: 0.2, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.8  
+**Quarter 4**: Valence: 0.2, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.9  
+

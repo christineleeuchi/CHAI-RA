@@ -1,0 +1,75 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure, I can provide a rating score for each of the four categories (valence, dominance, intensity, and concreteness) for each quarter of the argument. Here's an analysis:
+
+### 1st Quarter 
+**Text:** "Most ethical vegetarians come to it on their own terms. The intellectual version of this is usually something like this: 'Why do we eat some animals and not others? Why is it ok to eat a cow, but not a dolphin or a puppy?'"
+
+- **Valence:** 0.6 (The statement is neutral at first, raising a question rather than evading a strong emotion)
+- **Dominance:** 0.5 (The argument presents a logical inquiry but doesn’t establish a strong authority or dominance)
+- **Intensity:** 0.5 (The emotional intensity is moderate as it invites contemplation but isn't deeply emotional)
+- **Concreteness:** 0.6 (The questions posed are straightforward and relatable, making them somewhat concrete)
+
+### 2nd Quarter 
+**Text:** "A more emotional version goes something like: 'I know a lot of animals with whom I feel a personal connection and share empathy. What, if any, is the moral distinction between *these* animals and animals I routinely eat?'"
+
+- **Valence:** 0.8 (This portion evokes more strong feelings regarding personal connections and empathy)
+- **Dominance:** 0.4 (The argument isn't very dominant in asserting a point; it's more reflective)
+- **Intensity:** 0.7 (This part carries a more intense emotional weight due to personal connections)
+- **Concreteness:** 0.7 (The mention of personal connections makes it quite relatable and concrete)
+
+### 3rd Quarter 
+**Text:** "People often become vegetarians for ethical reasons when considering these questions. Specifically, 'What sets 'food' animals apart from 'friend' animals? Should there be food animals? What sort of treatment do they deserve?'"
+
+- **Valence:** 0.7 (This part maintains a positive emotional weight by addressing ethical considerations)
+- **Dominance:** 0.6 (There’s more of an authoritative stance questioning societal norms around food)
+- **Intensity:** 0.6 (The intensity is moderated as it questions ethics without invoking strong emotion)
+- **Concreteness:** 0.8 (The questions presented are clear and specific, making them concrete)
+
+### 4th Quarter 
+**Text:** "More personally, I found that vegetarianism resolved this question without cognitive dissonance. I believe it's wrong to kill a creature that values its personal wellbeing. I guess maybe I could get comfortable with eating clams and other bivalves, but it doesn't really appeal to me."
+
+- **Valence:** 0.8 (Strong positive valence as it expresses resolution and personal belief)
+- **Dominance:** 0.5 (Some assertion is present, but it comes from a personal standpoint rather than a widely authoritative perspective)
+- **Intensity:** 0.7 (There’s a higher personal emotional engagement in sharing beliefs and values)
+- **Concreteness:** 0.7 (This portion is relatively concrete as it conveys personal belief, though the mention of clams adds some ambiguity)
+
+### Summary
+Each quarter presents a different aspect of the argument, and these ratings reflect their emotional and conceptual qualities.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the given argument based on the criteria you specified: valence, dominance, intensity, and concreteness.
+
+**1st Quarter:**
+*Text: "That's fine. It's not something I would ever try to talk someone into. It's a very personal choice."*
+
+- **Valence (0.5)**: The statement has a neutral valence; it acknowledges the personal nature of the choice without expressing strong positive or negative sentiment.
+- **Dominance (0.4)**: The speaker asserts their perspective as dominant but does not try to overpower or dismiss the other person's views.
+- **Intensity (0.3)**: The intensity is low; the speaker is calm and non-confrontational in their approach.
+- **Concreteness (0.5)**: This section is somewhat concrete, discussing the personal nature of choices without specific examples.
+
+**2nd Quarter:**
+*Text: "But since you're *asking* I suppose I can humor you and play along."*
+
+- **Valence (0.4)**: This portion has a slightly negative valence as it suggests reluctance in engaging with the topic, but it’s still light-hearted.
+- **Dominance (0.3)**: The speaker is establishing a subtle dominance by indicating they are doing the other person a favor by engaging.
+- **Intensity (0.4)**: There’s a mild intensity; the speaker expresses a certain level of irritation without being combative.
+- **Concreteness (0.3)**: This is somewhat abstract; it references the act of asking but lacks specifics.
+
+**3rd Quarter:**
+*Text: "Instead, think about how arbitrary it is what we consider ethical to eat. Would you eat a dog? Horse? Rabbit? If you said no to one of those, why would you eat a cow or a lamb?"*
+
+- **Valence (0.6)**: The valence here is slightly positive; the speaker encourages reflection and engages the reader in a meaningful way.
+- **Dominance (0.6)**: The speaker takes a more assertive stance, prompting the listener to reconsider their beliefs.
+- **Intensity (0.5)**: There’s moderate intensity as the speaker poses challenging questions that provoke thought.
+- **Concreteness (0.7)**: This section is concrete, as it provides specific examples (dog, horse, rabbit, cow, lamb) to illustrate the argument.
+
+**4th Quarter:**
+*Text: "Just about any answer is going to be pretty flawed. The general reasons are based on arbitrary cultural norms of which animals we like to keep as pets, and which we choose to raise for food."*
+
+- **Valence (0.5)**: The valence is again neutral; it recognizes flaws without being overly critical or dismissive.
+- **Dominance (0.7)**: The statement asserts a more commanding position by emphasizing the flawed nature of common arguments.
+- **Intensity (0.6)**: Moderate intensity as it critiques existing norms and challenges the listener’s thinking further.
+- **Concreteness (0.6)**: This part is fairly concrete as it discusses cultural norms, providing a clear framework for understanding the argument.
+
+Overall, this analysis reflects a thoughtful engagement with a complicated topic, attempting to challenge the listener's perspective without being overly aggressive or dismissive.
+

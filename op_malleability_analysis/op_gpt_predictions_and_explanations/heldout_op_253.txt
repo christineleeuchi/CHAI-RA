@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assess the argument across the specified dimensions — valence, dominance, intensity, and concreteness — we can provide scores from 0.0 to 1.0 for each quarter of the text. Here’s the breakdown:
+
+### Quarter 1:
+**Text:** "CMV: Users on reddit have been significantly overreacting to the recent drama revolving around Victoria and the admins. While I will admit I, I assume like many other users on the site, don't know all the details of the recent drama on reddit I still believe users are overreacting."
+
+- **Valence:** 0.4 (The sentiment is somewhat negative, as it critiques users' reactions.)
+- **Dominance:** 0.5 (The speaker is asserting an opinion but acknowledges a lack of full knowledge.)
+- **Intensity:** 0.6 (The argument states that users are "significantly overreacting," indicating a strong stance.)
+- **Concreteness:** 0.5 (It mentions specific people and events but lacks concrete examples of actions taken by users.)
+
+### Quarter 2:
+**Text:** "If anything I feel like blacking out all of these different subreddits is counterproductive, and may be reddit's downfall, as users may grow tired of not getting content and move on."
+
+- **Valence:** 0.3 (This part has a more critical take on actions being taken, suggesting negative consequences.)
+- **Dominance:** 0.6 (The speaker is more assertive in expressing concern over Reddit's future.)
+- **Intensity:** 0.7 (The term "downfall" conveys a strong potential impact and consequence.)
+- **Concreteness:** 0.4 (References a general outcome but lacks specific examples of subreddits or user behaviors.)
+
+### Quarter 3:
+**Text:** "I've even seen posts that go as far as to call Ellen Pao a whore and a piece of shit, which to bring up another point, proves that reddit does have a bullying problem and maybe banning subreddits like r/fatpeoplehate was a good idea, or maybe reddit does not deserve to be totally uncensored."
+
+- **Valence:** 0.2 (This section is highly negative, addressing bullying and offensive language.)
+- **Dominance:** 0.5 (The speaker expresses an opinion but presents it with some uncertainty.)
+- **Intensity:** 0.8 (The language used is quite strong, indicating a significant level of emotional charge.)
+- **Concreteness:** 0.6 (It provides specific examples of offensive behavior and a mention of a specific banned subreddit.)
+
+### Quarter 4:
+**Text:** "Somebody please allow me to see the point of view of those doing what they are doing, thank you."
+
+- **Valence:** 0.5 (Neutral, as it seeks understanding rather than placing blame.)
+- **Dominance:** 0.3 (Relatively submissive, as it is a request rather than a strong assertion.)
+- **Intensity:** 0.4 (The intensity is lower here, as it’s more of an invitation for discussion.)
+- **Concreteness:** 0.4 (It's a general request for perspective without specifying particular viewpoints.) 
+
+### Summary of Scores:
+- **Quarter 1:** Valence: 0.4, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 2:** Valence: 0.3, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.4
+- **Quarter 3:** Valence: 0.2, Dominance: 0.5, Intensity: 0.8, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.5, Dominance: 0.3, Intensity: 0.4, Concreteness: 0.4
+
+These scores provide a nuanced view of each section of the argument, reflecting its tone, strength, and specificity.
+

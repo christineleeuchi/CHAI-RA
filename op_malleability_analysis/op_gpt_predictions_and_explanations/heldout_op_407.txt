@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide scores for your specified dimensions, I'll break down the argument into four quarters and evaluate each based on valence, dominance, intensity, and concreteness.
+
+### Quarter 1
+- **Text**: "CMV: Edward Snowden failed to gain support from the left because he attacked a democratic president and his administration. If Edward Snowden had revealed NSA secrets during a republican administration, he would have received more support from left-leaning politicians and from liberals and democrats."
+  
+1. **Valence**: 0.6 (Moderately negative towards the left for not supporting Snowden)
+2. **Dominance**: 0.5 (Neutral; presents an argument without strong authoritative claims)
+3. **Intensity**: 0.5 (Mildly strong stance but primarily speculative)
+4. **Concreteness**: 0.5 (Some concrete points made but largely hypothetical)
+
+### Quarter 2
+- **Text**: "Because he presented as a libertarian, and was perceived to have attacked the Obama administration, democrats and liberals were not receptive to his disclosures."
+  
+1. **Valence**: 0.7 (Negative towards Democrats for not being receptive)
+2. **Dominance**: 0.6 (Stronger claim about perceptions impacting support)
+3. **Intensity**: 0.6 (Moderately strong due to its definitive language)
+4. **Concreteness**: 0.6 (Cites specific groups' reactions; more concrete than the first part)
+
+### Quarter 3
+- **Text**: "Republicans generally tend to be supportive of a strong military defense, and so the NSA's actions naturally align with republican leanings."
+  
+1. **Valence**: 0.5 (Neutral; simply stating a characteristic of a political group)
+2. **Dominance**: 0.4 (Less authoritative; it’s descriptive rather than prescriptive)
+3. **Intensity**: 0.4 (Low intensity; straightforward observation)
+4. **Concreteness**: 0.7 (Concrete in terms of political ideology)
+
+### Quarter 4
+- **Text**: "So, he received no support from the republicans or democrats, and this has played a part in how his message has been framed in the media, and what our political representatives say about him."
+  
+1. **Valence**: 0.5 (Moderately neutral; outlines a situation without overt negativity)
+2. **Dominance**: 0.5 (Balanced claim on both parties’ lack of support)
+3. **Intensity**: 0.5 (Moderate intensity; summarizes the argument's conclusion)
+4. **Concreteness**: 0.6 (More concrete as it ties political dynamics to media framing)
+
+These scores provide a nuanced picture of how the argument's tone and impact might be perceived across its different sections.
+

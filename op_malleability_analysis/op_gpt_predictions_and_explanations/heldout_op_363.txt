@@ -1,0 +1,29 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating for each of the criteria based on the specified quarters of the argument: 
+
+**Quarter 1**: "CMV: Bernie Sanders is too old to be president. Bernie Sanders is clearly an intelligent man with a lot of interesting views, many of which I support. I think him getting some traction in the election is a great way to draw attention to those ideas."  
+- **Valence**: 0.5 (Neutral, acknowledging both positives and negatives)  
+- **Dominance**: 0.4 (Expresses an opinion but does not strongly assert dominance)  
+- **Intensity**: 0.3 (Relatively mild expression of views)  
+- **Concreteness**: 0.5 (General statements about Sanders’ views)
+
+**Quarter 2**: "But right now I feel I cannot truly support him for actually being elected president because of his age."  
+- **Valence**: 0.4 (Slightly negative due to the rejection of support)  
+- **Dominance**: 0.5 (More assertive as it clearly states a limitation on support)  
+- **Intensity**: 0.6 (Moderately intense statement of concern)  
+- **Concreteness**: 0.4 (Expresses a specific concern without detailed examples)
+
+**Quarter 3**: "Bernie Sanders will be 75 when the next president of the USA is elected. If elected, he would be 79 at the end of his first term, and if re-elected would be 83 at the end of his second term. The oldest president in US history was Ronald Reagan, elected at 69 years old. And he ran into health trouble later in his presidency."  
+- **Valence**: 0.3 (Negative implications about age and health)  
+- **Dominance**: 0.6 (Stronger assertion of facts to support the argument)  
+- **Intensity**: 0.7 (More intense discussion of age-related concerns)  
+- **Concreteness**: 0.8 (Utilizes concrete facts related to age and historical context)
+
+**Quarter 4**: "The man appears to be in good health now, but health can decline quite precipitously at that age. A president dying is a trying thing for the country, but I think a president in ever-declining health would be worse. In addition, POTUS is an incredibly demanding job. I am quite skeptical that someone that age can really keep up with the rigors of such a job, even if they manage to stay in otherwise good health."  
+- **Valence**: 0.2 (Strongly negative implications)  
+- **Dominance**: 0.7 (Strongly asserts skepticism)  
+- **Intensity**: 0.8 (Highly intense concerns about health and capability)  
+- **Concreteness**: 0.7 (Good use of specific examples to illustrate points)
+
+These ratings reflect the emotional and logical weight of each quarter of the argument, as well as how tangible or concrete the statements are.
+

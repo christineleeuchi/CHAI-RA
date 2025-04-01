@@ -1,0 +1,49 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on the criteria of valence, dominance, intensity, and concreteness, I'll break it down into four quarters, providing scores from 0.0 to 1.0 for each aspect.
+
+### Quarter 1:
+"CMV: Elders do not deserve respect So, this will be hard to pad out, as it is the absence of a thing. Basically, we've all heard that we should respect our elders."
+
+- **Valence:** 0.3 (The sentiment is largely negative regarding respect for elders, but not overtly aggressive.)
+- **Dominance:** 0.4 (The speaker is asserting their viewpoint, but there's an acknowledgment of a broader societal expectation.)
+- **Intensity:** 0.5 (There's a moderate intensity to the claim, although it doesn't express extreme emotion.)
+- **Concreteness:** 0.4 (The argument introduces the topic but lacks specific examples or evidence in this section.)
+
+---
+
+### Quarter 2:
+"The only real reason seems to be because *they are older*. This seems like a really flawed basis for deserving respect."
+
+- **Valence:** 0.5 (The tone remains critical, but it is more analytical than outright dismissive.)
+- **Dominance:** 0.5 (The speaker is firmly in control of their argument.)
+- **Intensity:** 0.6 (There’s a stronger assertiveness in this part of the argument.)
+- **Concreteness:** 0.5 (This section is more focused than the first, but still lacks specific examples to support the claim.)
+
+---
+
+### Quarter 3:
+"Not even talking in the line of respect like EMS and defense forces deserve (it can be a fuck ton for them in some cases)."
+
+- **Valence:** 0.4 (Still somewhat negative toward the concept of respect for elders, but it introduces a contrasting positive perspective on other groups.)
+- **Dominance:** 0.5 (Maintains control, referencing other respected professions as a comparison.)
+- **Intensity:** 0.5 (There's a casual intensity due to the language choice, but it doesn't veer into extreme emotional territory.)
+- **Concreteness:** 0.6 (Provides a clearer comparison, making it more concrete than earlier sections.)
+
+---
+
+### Quarter 4:
+"A few people I've brought up mention things like 'well they lived through x'. Again, simply living through a national or global event hardly seems worthy of respect."
+
+- **Valence:** 0.4 (While the argument critiques the justification for respect, it also conveys some understanding of the elders' experiences.)
+- **Dominance:** 0.6 (The speaker decisively refutes counterarguments.)
+- **Intensity:** 0.6 (The dismissal of counterarguments adds to the intensity of the argument.)
+- **Concreteness:** 0.5 (While it mentions a counterargument directly, it lacks concrete examples of what “x” might be.)
+
+---
+
+### Summary of Scores:
+- **Quarter 1:** Valence: 0.3, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.4
+- **Quarter 2:** Valence: 0.5, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 3:** Valence: 0.4, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.4, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.5
+

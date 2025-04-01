@@ -1,0 +1,75 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's a breakdown of the ratings on a scale from 0.0 to 1.0 for each dimension—valence, dominance, intensity, and concreteness—across the four quarters of the argument:
+
+### 1st Quarter (Introduction of Descriptivism vs. Prescriptivism)
+- **Valence: 0.7** (Generally positive tone, emphasizing the descriptive aspect of language.)
+- **Dominance: 0.6** (Authoritative tone introducing a key distinction in linguistics.)
+- **Intensity: 0.5** (Moderate intensity, as it sets up the premise without extreme language.)
+- **Concreteness: 0.6** (Reference to the actual use of language, but somewhat abstract.)
+
+### 2nd Quarter (Explanation of Sentence Structure)
+- **Valence: 0.7** (Positive, as it clarifies the rules and makes a case for grammatical standards.)
+- **Dominance: 0.7** (More assertive in dictating the expectations of grammar in English.)
+- **Intensity: 0.6** (Moderately intense, as it discusses structural rules.)
+- **Concreteness: 0.7** (Use of specific examples makes it more tangible.)
+
+### 3rd Quarter (Evaluating Example Sentences)
+- **Valence: 0.8** (Affirmative tone, as it leans towards elucidation of grammatical norms.)
+- **Dominance: 0.7** (Confidently asserts that some structures are ungrammatical.)
+- **Intensity: 0.6** (Clearer intensity as grammatical concerns are addressed directly.)
+- **Concreteness: 0.8** (The analysis of specific sentences increases concreteness.)
+
+### 4th Quarter (Summary and Reiteration)
+- **Valence: 0.7** (Positive summary reinforces distinctions, leaning towards understanding.)
+- **Dominance: 0.6** (Reiterative tone without pushing dominance but reasserts claims.)
+- **Intensity: 0.5** (Lower intensity, as it's summarizing rather than arguing.)
+- **Concreteness: 0.6** (Wraps up with definitions but stays a bit broad.)
+
+### Summary Scores
+- **1st Quarter**: 
+  - Valence: 0.7, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+  
+- **2nd Quarter**: 
+  - Valence: 0.7, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.7
+  
+- **3rd Quarter**: 
+  - Valence: 0.8, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.8
+  
+- **4th Quarter**: 
+  - Valence: 0.7, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+
+Overall, the argument presents a clear and constructive view of descriptivism, showcasing a balanced interplay between acknowledging language rules while respecting the variations in usage.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating for each of the attributes (valence, dominance, intensity, and concreteness) across four quarters of the argument, I'll break down the analysis as follows:
+
+1. **Quarter 1: "Instead of *correct* and *incorrect*, think *standard* and *non-standard*. In descriptivism, linguists try to discern general rules of grammar (e.g., universal grammar) using language as people actually use it as a basis."**
+
+   - **Valence:** 0.8 (The sentiment is positive towards descriptivism)
+   - **Dominance:** 0.6 (The tone is confident but not overly forceful)
+   - **Intensity:** 0.5 (Medium intensity, explaining a point without overt bias)
+   - **Concreteness:** 0.7 (Specific terms like "standard" and "non-standard" provide clarity)
+
+2. **Quarter 2: "‘Shops went the he to,’ is ungrammatical in any variety of English, and why that is is of interest to linguists."**
+
+   - **Valence:** 0.5 (Neutral; stating a factual observation about grammar)
+   - **Dominance:** 0.7 (More authoritative, as it asserts an unequivocal statement about grammar)
+   - **Intensity:** 0.6 (Moderate intensity, as it presents a strong assertion)
+   - **Concreteness:** 0.8 (Very clear and specific about what is being discussed)
+
+3. **Quarter 3: "Linguists are not trying to redefine Standard English..."**
+
+   - **Valence:** 0.6 (Positive, as it reinforces the objective of linguists without negative connotations)
+   - **Dominance:** 0.5 (Less dominant; more of a clarifying statement)
+   - **Intensity:** 0.4 (Lower intensity, as it’s a neutral descriptor rather than a passionate argument)
+   - **Concreteness:** 0.7 (Fairly concrete in expressing linguists' intentions)
+
+4. **Quarter 4: "...or what vocabulary is appropriate in specific settings."**
+
+   - **Valence:** 0.6 (Keeps a positive and neutral tone, reaffirming the stance without being dismissive)
+   - **Dominance:** 0.4 (Lower dominance; it’s more of a segue to a related point rather than a strong assertion)
+   - **Intensity:** 0.5 (Moderate intensity but not overly charged)
+   - **Concreteness:** 0.6 (Somewhat concrete, though it discusses a broader concept without specific examples)
+
+These ratings provide an analytical lens to understand how different sections of the argument resonate across the attributes mentioned.
+

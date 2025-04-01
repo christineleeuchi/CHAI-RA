@@ -1,0 +1,45 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide scores for valence, dominance, intensity, and concreteness for each quarter of the argument, I'll break down the argument into its four quarters. Here are the scores for each category based on the provided text:
+
+### Quarter 1:
+**Text:**
+"CMV: The world would be better off if El Chapo had been extradited to this US I believe the world would have been better off if Chapo Guzman had been extradited to the US. I understand that there are all kinds of laws surrounding extradition, but ultimately I don't those are relevant because if Guzman had been extradited to the US, he would have been kept in the more secure and less corrupt environment. His chances of escaping would have been much much lower."
+
+- **Valence**: 0.7 (The statement suggests a positive outcome for extraditing El Chapo, which is viewed favorably.)
+- **Dominance**: 0.6 (The author asserts a strong belief about the outcome of Guzman's extradition.)
+- **Intensity**: 0.5 (The argument is somewhat intense, indicating strong feelings about security and corruption, though it's more factual in nature.)
+- **Concreteness**: 0.6 (The argument presents specific scenarios regarding extradition and security, making it fairly concrete.)
+
+### Quarter 2:
+**Text:**
+"That man is responsible for a huge part of the recent drug wars in Mexico. He is indirectly responsible for thousands of deaths. The fact that he is out there and out of the reach of the law is a massive let down to the people of Mexico and ultimately the world."
+
+- **Valence**: 0.5 (Neutral to negative; while it discusses negative impacts, it frames them as consequences needing to be addressed.)
+- **Dominance**: 0.7 (The language used emphasizes responsibility and accountability.)
+- **Intensity**: 0.8 (The mention of "huge part" and "massive let down" conveys a strong emotional charge.)
+- **Concreteness**: 0.5 (The argument is somewhat abstract and primarily based on implications of responsibility.)
+
+### Quarter 3:
+**Text:**
+"Maybe the drug wars were partially caused by business opportunities created by drug policies in the US. But that's irrelevant. El Chapo is an evil man who deserves to be in prison, hands down."
+
+- **Valence**: 0.4 (The statement about the irrelevance of drug policies leans negative, as it dismisses an important context.)
+- **Dominance**: 0.8 (The assertion that El Chapo "deserves to be in prison" is a very strong and dominant statement of opinion.)
+- **Intensity**: 0.7 (The use of "evil man" and "hands down" indicates strong conviction.)
+- **Concreteness**: 0.4 (The mention of irrelevance makes it less concrete, as it negates the complexity of the situation.)
+
+### Quarter 4:
+**Text:**
+"The refusal of the Mexican government to extradite him makes the world worse off, as there is one more big time criminal who is not being brought to justice. Please CMV."
+
+- **Valence**: 0.5 (The assertion is clearly negative regarding the lack of extradition, but it solicits discussion.)
+- **Dominance**: 0.6 (The phrase contains a strong judgment on the Mexican government's actions.)
+- **Intensity**: 0.6 (There is a moderate intensity in the claim of making the world worse.)
+- **Concreteness**: 0.5 (The statement is direct but does not provide specific examples or implications beyond its assertion.)
+
+### Summary of Scores:
+- **Quarter 1**: Valence 0.7, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+- **Quarter 2**: Valence 0.5, Dominance 0.7, Intensity 0.8, Concreteness 0.5
+- **Quarter 3**: Valence 0.4, Dominance 0.8, Intensity 0.7, Concreteness 0.4
+- **Quarter 4**: Valence 0.5, Dominance 0.6, Intensity 0.6, Concreteness 0.5
+

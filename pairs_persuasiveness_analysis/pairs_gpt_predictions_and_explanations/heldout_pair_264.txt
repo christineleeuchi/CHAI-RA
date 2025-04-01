@@ -1,0 +1,55 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a rating for each of the four criteria—valence, dominance, intensity, and concreteness—for each quarter of the argument provided. 
+
+### Argument Breakdown:
+1. **While I'm sure this is true sometimes, some people just have different values than you. That doesn't necessarily indicate any insecurity or damage.**
+   - **Valence: 0.5** (Neutral; acknowledges differing perspectives)
+   - **Dominance: 0.4** (Somewhat assertive, but not overly forceful)
+   - **Intensity: 0.3** (Mild; calm language)
+   - **Concreteness: 0.4** (General statements about values)
+
+2. **Plenty of people just think sex is a fun activity that really has no moral or even any great emotional component to it.**
+   - **Valence: 0.6** (Positive; frames sex as a fun activity)
+   - **Dominance: 0.5** (Moderately assertive and confident)
+   - **Intensity: 0.6** (Moderate; conveys a clear perspective)
+   - **Concreteness: 0.5** (Specific perspective provided, but still broad)
+
+3. **For people like this, having sex with everyone they pick up at a bar is no more or less a simple fun activity than going to the bar in the first place.**
+   - **Valence: 0.6** (Positive; compares sex to a recreational activity)
+   - **Dominance: 0.5** (Somewhat assertive; provides a rationale)
+   - **Intensity: 0.5** (Moderate; presents a clear comparison)
+   - **Concreteness: 0.6** (Specific example of behavior; tangible comparison)
+
+4. **Such people, and I have met them, simply don't place any particular weight, in terms of their self-worth or otherwise, on sex. It's just a hobby, like playing soccer.**
+   - **Valence: 0.7** (Positive; normalizes a perspective on sex)
+   - **Dominance: 0.6** (Confident assertion based on personal experience)
+   - **Intensity: 0.6** (Moderate; conveys a strong but rational viewpoint)
+   - **Concreteness: 0.7** (Specific analogy that provides a clear image)
+
+5. **That would be a difference of opinion, not an indication of insecurity.**
+   - **Valence: 0.6** (Positive assertion of differing opinions)
+   - **Dominance: 0.7** (Quite assertive in dismissing the initial viewpoint)
+   - **Intensity: 0.6** (Moderate; reinforces the argument strongly)
+   - **Concreteness: 0.5** (A general conclusion based on previous arguments)
+
+These ratings reflect the character and tone of each portion of the argument, based on the criteria provided.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score from 0.0 to 1.0 for each of the requested dimensions of the argument, divided into quarters based on the text provided:
+
+1. **Valence** (emotional value of the argument):
+   - **Score**: 0.7
+   - **Explanation**: The argument presents a positive valence by acknowledging that different people can have varying perspectives on sex. It stresses that enjoying casual sex isn't inherently negative, which contributes to a more accepting view of diverse sexual practices.
+
+2. **Dominance** (the assertion of control or authority in the argument):
+   - **Score**: 0.6
+   - **Explanation**: The argument asserts that it's inappropriate to judge someone's character based on their sexual choices, which gives it a moderately strong dominant stance. However, it also allows space for individual feelings and beliefs, which softens the dominance somewhat.
+
+3. **Intensity** (strength of the argument):
+   - **Score**: 0.5
+   - **Explanation**: The argument presents a balanced perspective and emphasizes understanding and acceptance rather than a fervent or aggressive insistence. While it makes clear points, it doesn’t deliver an extremely intense or passionate plea, resulting in a moderate intensity score.
+
+4. **Concreteness** (specificity and clarity of the argument):
+   - **Score**: 0.6
+   - **Explanation**: The argument is relatively concrete in its examples and claims, particularly in addressing that some people have casual sex as a fun activity without associated emotional problems. However, it could have benefitted from more detailed examples or evidence, leading to a slightly lower score.
+

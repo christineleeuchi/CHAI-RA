@@ -1,0 +1,42 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assess the argument using the specified metrics—valence, dominance, intensity, and concreteness—I'll break it down into four quarters and provide ratings for each category accordingly.
+
+### Quarter 1
+**Text Extract:** "CMV: Most software shouldn't be patentable. As a software engineer, I always say there are two kinds of problems everything can fall into and besolved: 1. You can build a rocketship 2. sort a deck of cards"
+
+- **Valence:** 0.6 (The tone here suggests a negative view towards software patents, but it's not overly aggressive.)
+- **Dominance:** 0.5 (Presents an assertion but does not strongly impose it on the reader.)
+- **Intensity:** 0.4 (The argument begins straightforwardly without strong emotional appeal.)
+- **Concreteness:** 0.7 (The analogy is clear, but it could be considered somewhat abstract at this point.)
+
+### Quarter 2
+**Text Extract:** "99.9999% of all software engineering work falls into the latter, most things that you try to accomplish and solve tend to be easily explained and solved by any person not in the field and for people in the field it is OBVIOUS (patents are for non-obvious things)"
+
+- **Valence:** 0.5 (Neutral to slightly negative, emphasizing the simplicity of software engineering problems.)
+- **Dominance:** 0.6 (Reinforces the author's position that software is not often inventive enough for patents.)
+- **Intensity:** 0.6 (A slightly stronger emotional appeal here with the emphasis on "OBVIOUS.")
+- **Concreteness:** 0.8 (More concrete argument as it relates to the nature of software problems.)
+
+### Quarter 3
+**Text Extract:** "Even more sophisticated things such as predicting what other users would like is obvious to anyone in the machine learning field."
+
+- **Valence:** 0.5 (Continues a neutral tone but suggests a bit of frustration with the patent system.)
+- **Dominance:** 0.5 (State a viewpoint but avoids dominating the conversation aggressively.)
+- **Intensity:** 0.5 (Moderate intensity, mainly factual.)
+- **Concreteness:** 0.7 (Discusses a specific example within the field, making it relatable.)
+
+### Quarter 4
+**Text Extract:** "A good example is Voat vs Reddit, AFAIK, voat is open source reddit is not. Reddit is Lisp/Python wheras Voat is C#. Completely different languages, database structures etc. However, if reddit as a site was patentable Voat would never exist even though it's an independently coded and created product."
+
+- **Valence:** 0.4 (Somewhat critical towards the patenting of software.)
+- **Dominance:** 0.7 (The comparison presents a strong and effective conclusion to the argument.)
+- **Intensity:** 0.6 (More emotional weight is given to the implications of patenting software.)
+- **Concreteness:** 0.9 (Very concrete with a clear example that illustrates the point very well.)
+
+In summary:
+
+- Quarter 1: Valence 0.6, Dominance 0.5, Intensity 0.4, Concreteness 0.7
+- Quarter 2: Valence 0.5, Dominance 0.6, Intensity 0.6, Concreteness 0.8
+- Quarter 3: Valence 0.5, Dominance 0.5, Intensity 0.5, Concreteness 0.7
+- Quarter 4: Valence 0.4, Dominance 0.7, Intensity 0.6, Concreteness 0.9
+

@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To analyze the argument based on the provided criteria, we'll break it down into quarters and then give ratings for each: valence (emotional positivity/negativity), dominance (the degree of control or assertion), intensity (the strength or forcefulness of the argument), and concreteness (the degree to which the argument is specific and clear).
+
+### Quarter 1:
+*“As someone with 3k+ games of League under his belt and three years of DotA Allstars experience, I think you can pretty easily narrow down your argument to 'complex games are better'.”*
+
+- **Valence:** 0.5 (Neutral - acknowledging an opinion without strong emotional language)
+- **Dominance:** 0.6 (Assertive in presenting personal experience but not overly aggressive)
+- **Intensity:** 0.5 (Moderate; references personal experience but lacks strong emotionally charged words)
+- **Concreteness:** 0.7 (Clear personal background, though it’s somewhat general)
+
+### Quarter 2:
+*“But that's not true in all situations, and my current circle of gaming friends is a perfect example.”*
+
+- **Valence:** 0.5 (Neutral; stating a fact but suggests a shift in perspective)
+- **Dominance:** 0.5 (Moderate; making a counterpoint to the previous claim)
+- **Intensity:** 0.5 (Fairly moderate; questioning without strong emotions)
+- **Concreteness:** 0.6 (Provides a specific context but could elaborate more)
+
+### Quarter 3:
+*“For people who enjoy difficult games with high skill ceilings, DotA is certainly superior - but your claim is missing that bit of context, because not everyone enjoys difficult games, and not everyone aspires to have a high skill level.”*
+
+- **Valence:** 0.6 (Slightly positive towards DotA for a specific audience but recognizes a broader perspective)
+- **Dominance:** 0.7 (More assertive; clearly challenges the claim made by others)
+- **Intensity:** 0.7 (Strong; expresses a clear counter-argument)
+- **Concreteness:** 0.8 (Specific in recognizing different preferences in gaming)
+
+### Quarter 4:
+*“That last part in particular is a point I'm personally trying to come to grips with, but it's apparently the primary mode my friends have - they just want to play to have fun, not to get good; and at all opportunities they will choose having fun over being good. Thus, League is perfect for them - and DotA is nothing short of cancer.”*
+
+- **Valence:** 0.3 (Negative; particularly strong language used to describe DotA)
+- **Dominance:** 0.8 (Very assertive; strongly states that League is more suitable for casual players)
+- **Intensity:** 0.9 (Highly intense; strong emotional reaction expressed)
+- **Concreteness:** 0.7 (Clear point about preferences but employs metaphorical language that slightly detracts from clarity)
+
+### Summary of Ratings
+1. **Quarter 1: Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.7**
+2. **Quarter 2: Valence 0.5, Dominance 0.5, Intensity 0.5, Concreteness 0.6**
+3. **Quarter 3: Valence 0.6, Dominance 0.7, Intensity 0.7, Concreteness 0.8**
+4. **Quarter 4: Valence 0.3, Dominance 0.8, Intensity 0.9, Concreteness 0.7**
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Based on your argument, I would rate the following dimensions as follows:
+
+### 1. Valence: 
+- **Score: 0.5**
+- Rationale: The argument presents both sides of the comparison, acknowledging that DotA 2 has its strengths while emphasizing the merits of LoL. However, there is a more negative framing of DotA 2, which could bring the valence down slightly.
+
+### 2. Dominance: 
+- **Score: 0.7**
+- Rationale: The argument is quite assertive in stating that LoL is superior due to its tactical nature. The speaker clearly expresses a strong opinion and backs it up with multiple points, suggesting a higher sense of dominance in this context.
+
+### 3. Intensity: 
+- **Score: 0.6**
+- Rationale: The argument discusses various aspects of both games with a moderate level of intensity. There's a clear passion for the subject matter, but it remains analytical rather than overly emotional or charged.
+
+### 4. Concreteness: 
+- **Score: 0.8**
+- Rationale: The argument provides specific examples and points for both games, differentiating between mechanics such as map layout, hero options, and item usage. This specificity enhances the concreteness of the argument, contributing to its clarity for the reader.
+
+Overall, the argument presents a thoughtful critique of both games, strongly advocating for LoL while addressing counterpoints regarding DotA 2.
+

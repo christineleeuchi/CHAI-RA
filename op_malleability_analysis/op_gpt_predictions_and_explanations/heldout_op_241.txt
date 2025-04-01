@@ -1,0 +1,65 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a rating for valence, dominance, intensity, and concreteness for each quarter of the argument:
+
+### 1st Quarter:
+**Valence: 0.1**  
+The statement starts with a negative viewpoint about people who enjoy pineapple on pizza, reflecting a strong dislike.
+
+**Dominance: 0.6**  
+The author presents their viewpoint assertively, claiming a moral or psychological judgment about the preferences of others.
+
+**Intensity: 0.8**  
+The language used conveys strong feelings of distaste and conveys a sense of personal conviction.
+
+**Concreteness: 0.4**  
+While the argument is focused and clear, it is based on subjective experiences rather than solid evidence.
+
+---
+
+### 2nd Quarter:
+**Valence: 0.2**  
+The author continues to express distaste, reinforcing the negative feelings toward pineapple pizza lovers.
+
+**Dominance: 0.7**  
+The firm stance taken by the individual suggests a high level of confidence in their opinion.
+
+**Intensity: 0.8**  
+The descriptions, such as "vile taste" and "disappointment," convey a strong emotional reaction.
+
+**Concreteness: 0.3**  
+The argument relies heavily on personal experience rather than broader evidence or data.
+
+---
+
+### 3rd Quarter:
+**Valence: 0.1**  
+The argument remains predominantly negative as the author emphasizes dissatisfaction with pineapple as a topping.
+
+**Dominance: 0.7**  
+The conclusion drawn about the psychological or physiological state of pineapple pizza enthusiasts indicates a dominant opinion.
+
+**Intensity: 0.9**  
+The phrase "ruined by the fruit" expresses an intense and clear aversion, reflecting high emotionality.
+
+**Concreteness: 0.2**  
+The statements remain subjective and lack empirical support, maintaining a lower concreteness.
+
+---
+
+### 4th Quarter:
+**Valence: 0.2**  
+While there's no new positive information introduced, it does reiterate negative sentiments towards pineapple on pizza lovers.
+
+**Dominance: 0.7**  
+The argument's conclusion about psychological or physiological issues suggests a strong assertion on the author's part, wanting to 'diagnose' the preferences of others.
+
+**Intensity: 0.8**  
+The language conveys a strong conviction about the unusualness of enjoying pineapple on pizza.
+
+**Concreteness: 0.2**  
+Similar to previous quarters, the argument is not well-supported with concrete references but rather relies on subjective claims.
+
+---
+
+These scores reflect the subjective nature of each aspect of the argument as it progresses through the text.
+

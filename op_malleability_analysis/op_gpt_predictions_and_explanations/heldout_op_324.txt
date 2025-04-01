@@ -1,0 +1,29 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+**Quarter 1: "CMV: Using stream-based services like spotify instead of having music files locally. Spotify. You spend so much time finding music, putting them into playlists and all of these is stored on spotify's servers."**
+- Valence: 0.5 (Neutral; presents a debate without strong positive or negative emotions)
+- Dominance: 0.4 (The speaker is expressing a viewpoint but does not come off as overly authoritative)
+- Intensity: 0.4 (Mild intensity; it's informative but lacks strong emotional emphasis)
+- Concreteness: 0.6 (Some concrete points regarding time spent and playlists, but still somewhat abstract regarding the overall argument)
+
+**Quarter 2: "However, if you purchase premium, the monthly fee, you have the option to save it locally. But that's not the point here."**
+- Valence: 0.5 (Still neutral; acknowledges a counterpoint without strong feelings)
+- Dominance: 0.5 (Balanced perspective, less assertive than before)
+- Intensity: 0.3 (Low intensity; it’s a mild statement of fact)
+- Concreteness: 0.7 (Clearer and more specific about the premium option)
+
+**Quarter 3: "What happens that day spotify crashes/goes through bankruptcy/et cetera? All that music, gone."**
+- Valence: 0.2 (Negative; highlights potential loss and concerns about the service)
+- Dominance: 0.6 (More assertive in questioning the reliability of Spotify)
+- Intensity: 0.7 (Higher intensity; evokes concern and urgency regarding music loss)
+- Concreteness: 0.8 (Very concrete; presents possible scenarios that are easy to understand)
+
+**Quarter 4: "If instead, someone would use music files like .mp3 or .flac it would be different, because you had control over it. I really don't understand why, for big collectors of music why you would use spotify."**
+- Valence: 0.3 (Negative; indicates confusion and possibly criticism)
+- Dominance: 0.7 (More assertive, taking a strong stance on the reliability of local files)
+- Intensity: 0.6 (Moderate intensity; expresses frustration and misunderstanding)
+- Concreteness: 0.9 (Very concrete; specific about the file types and the control aspect)
+
+Overall, this breakdown shows varying degrees of emotion, authority, and clarity across the argument.
+

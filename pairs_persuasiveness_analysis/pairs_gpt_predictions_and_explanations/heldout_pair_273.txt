@@ -1,0 +1,103 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the four scores (valence, dominance, intensity, and concreteness) for each quarter of the argument provided:
+
+### Quarter 1: 
+**Argument Text:** "Not sure how it works in canada, but if these are public funds, that means that each party gets a lump sum of money to design and run a political ad campaign, perhaps based on previous election results(?)"
+
+- **Valence:** 0.5 (Neutral tone, expressing uncertainty)
+- **Dominance:** 0.3 (The speaker appears to be subordinate, acknowledging a lack of knowledge about the topic)
+- **Intensity:** 0.4 (Mild curiosity, not very strong)
+- **Concreteness:** 0.6 (Tangible idea of public funds, but speculative regarding the details)
+
+### Quarter 2: 
+**Argument Text:** "The problem stems from drawing the line between what is attack and what is legitimate criticism."
+
+- **Valence:** 0.6 (A bit more positive, addressing a valid issue)
+- **Dominance:** 0.5 (Balanced, stating a point of view without being overly assertive)
+- **Intensity:** 0.5 (Moderate focus on a significant issue)
+- **Concreteness:** 0.5 (The concept of attack vs. legitimate criticism is abstract but relevant)
+
+### Quarter 3:
+**Argument Text:** "If you were to say you're not allowed to criticize your opponent, then that would give the incumbent party a clear advantage, as no matter how poorly they govern or how harmful their policies, the opposition parties wouldn’t be allowed to criticize them or their policies."
+
+- **Valence:** 0.7 (Positive framing for the need for criticism)
+- **Dominance:** 0.6 (Stronger assertion of the potential implications of banning criticism)
+- **Intensity:** 0.7 (Higher emotional engagement as it addresses unfairness)
+- **Concreteness:** 0.6 (Concrete examples of implications, but couple of hypothetical conditions)
+
+### Quarter 4:
+**Argument Text:** "So, lets say you're allowed to criticize. At what point does it become an 'attack'? Tone of speech and tone of voice are really intangible, judging attack from 'criticism' is highly subjective, so you’d be leaving that line up to human judgement. While I don't disagree, it just doesn't seem feasible to enforce an all-out ban on 'attack' ads."
+
+- **Valence:** 0.5 (Neutral and somewhat skeptical about enforcement)
+- **Dominance:** 0.5 (Balanced position recognizing a complexity in the issue)
+- **Intensity:** 0.6 (Some intensity in questioning feasibility)
+- **Concreteness:** 0.5 (Discussion of subjectivity adds a layer of abstract thinking)
+
+### Summary of Scores:
+- **Quarter 1:**
+  - Valence: 0.5
+  - Dominance: 0.3
+  - Intensity: 0.4
+  - Concreteness: 0.6
+- **Quarter 2:**
+  - Valence: 0.6
+  - Dominance: 0.5
+  - Intensity: 0.5
+  - Concreteness: 0.5
+- **Quarter 3:**
+  - Valence: 0.7
+  - Dominance: 0.6
+  - Intensity: 0.7
+  - Concreteness: 0.6
+- **Quarter 4:**
+  - Valence: 0.5
+  - Dominance: 0.5
+  - Intensity: 0.6
+  - Concreteness: 0.5
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To analyze the argument you've provided, I'll break it down into quarters and then assign a score (0.0 to 1.0) for each aspect: valence, dominance, intensity, and concreteness.
+
+**1st Quarter Analysis:**
+"You have admitted in other comments that you don't know how to draw the line between an 'attack ad' and legitimate criticism. Since you don't know how to draw that line, your proposed ban would be unenforceable."
+
+- **Valence**: 0.6 (The tone is somewhat confrontational, hinting at a lack of credibility in the opponent's argument.)
+- **Dominance**: 0.7 (The speaker asserts knowledge over the opponent, implying superiority in understanding.)
+- **Intensity**: 0.6 (The argument is moderately intense as it challenges the opponent and supports a position.)
+- **Concreteness**: 0.5 (The assertion is made but without evidence or examples to ground it in reality.)
+
+**2nd Quarter Analysis:**
+"In addition, it would be illegal since the government has no business determining what people can and cannot say, short of explicit and serious incitement to criminal conduct."
+
+- **Valence**: 0.8 (This part of the argument holds a strong positive view toward free speech, appealing to legal principles.)
+- **Dominance**: 0.8 (The speaker seems very confident in their position, referencing the law.)
+- **Intensity**: 0.7 (This is a strong assertion about legality that invokes serious consequences.)
+- **Concreteness**: 0.7 (It references the law directly, giving it a solid grounding in legal terms.)
+
+**3rd Quarter Analysis:**
+"The First Amendment forbids censorship."
+
+- **Valence**: 0.9 (This is a very positive, definitive statement that aligns with strong principles of free speech.)
+- **Dominance**: 0.9 (The strength of the claim positions the speaker authoritatively regarding constitutional rights.)
+- **Intensity**: 0.8 (The emphasis on the First Amendment gives the argument significant weight.)
+- **Concreteness**: 1.0 (This is a very concrete statement regarding a specific amendment of the constitution.)
+
+**4th Quarter Analysis:**
+"However, there is a way to stop taxpayer money going to attack ads. Ban all taxpayer funding of any political campaign."
+
+- **Valence**: 0.6 (This suggests a practical solution but has a somewhat mixed feel as it diverges from the initial criticism.)
+- **Dominance**: 0.5 (The suggestion proposes a change but does not assert dominance. It offers a solution rather than a confrontation.)
+- **Intensity**: 0.6 (There is moderate intensity in the suggestion to implement a ban, though less than the previous arguments.)
+- **Concreteness**: 0.7 (The proposal to ban taxpayer funding provides a clear, actionable solution.)
+
+Here’s a summarized table of the ratings:
+
+| Quarter | Valence | Dominance | Intensity | Concreteness |
+|---------|---------|-----------|-----------|--------------|
+| 1       | 0.6     | 0.7       | 0.6       | 0.5          |
+| 2       | 0.8     | 0.8       | 0.7       | 0.7          |
+| 3       | 0.9     | 0.9       | 0.8       | 1.0          |
+| 4       | 0.6     | 0.5       | 0.6       | 0.7          | 
+
+This breakdown provides a comprehensive view of the argument's characteristics across each quarter.
+

@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the rating scores based on the criteria you mentioned:
+
+### 1. Valence: 0.6
+The argument has a generally positive tone towards Goldeneye, suggesting it offers a unique experience and achieving balance in gameplay. However, it does express negative sentiments about Timesplitters 2, which balances the valence score somewhat lower.
+
+### 2. Dominance: 0.8
+The argument presents strong opinions with a clear assertion that Goldeneye is superior to Timesplitters 2 and reinforces this view with various comparisons. The speaker demonstrates confidence in their assertions, leading to a higher dominance score.
+
+### 3. Intensity: 0.7
+The argument expresses a moderate level of intensity, advocating strongly for Goldeneye's merits while criticizing Timesplitters 2. The comparisons to different games and genres indicate a thoughtful yet passionate stance on the topic.
+
+### 4. Concreteness: 0.5
+The argument includes some concrete examples (certain features and aspects of gameplay) but also relies on subjective feelings about game balance and comparisons that may lack empirical support. This leads to a moderate concreteness score.
+
+### Summary of Scores:
+- Valence: 0.6
+- Dominance: 0.8
+- Intensity: 0.7
+- Concreteness: 0.5
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a breakdown of each quarter of the argument with corresponding ratings for valence, dominance, intensity, and concreteness:
+
+**Quarter 1: "Mario 2 remains one of my favorite platformers. Other games offer different things, but Mario 2 had this weird mix of qualities that just worked for me."**
+
+- **Valence:** 0.8 (Positive sentiment towards Mario 2)
+- **Dominance:** 0.5 (Balanced expression of opinion without asserting control)
+- **Intensity:** 0.6 (Moderate enthusiasm for Mario 2)
+- **Concreteness:** 0.7 (Some specificity in describing personal preference)
+
+---
+
+**Quarter 2: "Goldeneye is never a game I got into, but I know plenty who have and still play it to this day."**
+
+- **Valence:** 0.5 (Neutral sentiment; acknowledges others' enjoyment while expressing personal disinterest)
+- **Dominance:** 0.4 (Less assertive; sharing an observation rather than commanding the discussion)
+- **Intensity:** 0.4 (Mild contrast of opinions; not very strong in emotion)
+- **Concreteness:** 0.6 (Gives context about others' enjoyment, though personal feelings are vague)
+
+---
+
+**Quarter 3: "You've named plenty of features, to be sure, but have left out a few things, like balance and feel."**
+
+- **Valence:** 0.5 (Neutral; pointing out omissions without strong emotional bias)
+- **Dominance:** 0.6 (Some level of assertion by highlighting overlooked aspects)
+- **Intensity:** 0.5 (Moderate intensity in critiquing the previous argument)
+- **Concreteness:** 0.7 (Specifying certain aspects (balance and feel) adds clarity)
+
+---
+
+**Quarter 4: "Some people just like the way it plays. Same thing with other 'antiquated' things. Records have enjoyed a resurgence of late, despite the presence of more 'advanced' methods of consuming music."**
+
+- **Valence:** 0.6 (Positive sentiment towards the enjoyment of older styles)
+- **Dominance:** 0.5 (Balanced; presenting an alternative perspective without overly dominating)
+- **Intensity:** 0.6 (Moderate degree of conviction in the preferences of others)
+- **Concreteness:** 0.8 (Concrete example of vinyl records gives a clear analogy)
+
+---
+
+This breakdown shows how each part of the argument can be assessed for various psychological dimensions.
+

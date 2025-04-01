@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the argument you provided, rating each quarter for valence, dominance, intensity, and concreteness on a scale from 0.0 to 1.0:
+
+### Quarter 1: "There's nothing shameful about being fat (by American beauty standards), either, and yet fat shaming definitely exists."
+- **Valence**: 0.8 (Overall positive sentiment advocating against shaming)
+- **Dominance**: 0.6 (The statement asserts a strong perspective against fat shaming)
+- **Intensity**: 0.7 (Expresses a firm viewpoint on the subject)
+- **Concreteness**: 0.7 (The topic addresses societal standards which are quite relatable)
+
+### Quarter 2: "Sure, it's often unhealthy, and some people don't like the look, but that doesn't mean there is any justification for 'shame.'"
+- **Valence**: 0.7 (Acknowledges negativity but maintains a positive stance against shaming)
+- **Dominance**: 0.5 (Moderately dominant; acknowledges opposing views but counters them)
+- **Intensity**: 0.6 (The argument is strong but slightly tempered by acknowledging health concerns)
+- **Concreteness**: 0.8 (Reference to health and feelings about appearance lends some solidity)
+
+### Quarter 3: "Similarly, there's nothing shameful about being homosexual or black, and yet they are regularly shamed."
+- **Valence**: 0.8 (Positive implications defending marginalized identities)
+- **Dominance**: 0.7 (The comparison enhances the strength of the argument)
+- **Intensity**: 0.9 (Strong emotional weight due to historical and social contexts)
+- **Concreteness**: 0.9 (Very clear and recognizable topics in societal discussions)
+
+### Quarter 4: "Whether being thin is shameful doesn't change in the slightest whether or not 'thin shaming' exists. It definitely does."
+- **Valence**: 0.6 (Focuses on the negative aspect of shaming, but positively asserts its existence)
+- **Dominance**: 0.8 (Strong assertion of the reality of thin shaming)
+- **Intensity**: 0.7 (Significant intensity; the statement is direct)
+- **Concreteness**: 0.6 (While the concept is clear, it is more abstract than previous quarters)
+
+Feel free to ask additional questions or request clarifications!
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here's the rating score for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **Quarter 1: "Beauty is in the eye of the beholder."**
+   - **Valence:** 0.6 (Neutral to positive; recognizes subjective beauty)
+   - **Dominance:** 0.4 (Expresses a viewpoint without asserting authority)
+   - **Intensity:** 0.4 (Moderate; not particularly strong emotion)
+   - **Concreteness:** 0.5 (Conceptual statement about beauty)
+
+2. **Quarter 2: "Big butts are attractive to many men."**
+   - **Valence:** 0.7 (Positive; asserts attractiveness of a specific body type)
+   - **Dominance:** 0.5 (A claim about preference without strong assertion)
+   - **Intensity:** 0.5 (Moderate; clear preference but not strongly emotional)
+   - **Concreteness:** 0.6 (Somewhat concrete as it references a specific trait)
+
+3. **Quarter 3: "So yes, skinny shaming is a thing. A lot of people don't like women who are flat. So skinny shaming does exist."**
+   - **Valence:** 0.5 (Neutral; affirming existence of criticism but could be seen as negative)
+   - **Dominance:** 0.6 (Stronger assertion about a social phenomenon)
+   - **Intensity:** 0.6 (Moderate; asserting a social issue)
+   - **Concreteness:** 0.6 (Refers to social behavior with clear examples)
+
+4. **Quarter 4: "To be fair though, if you complain about how you are being skinny shamed, you probably are just bored and need to complain about something on tumblr."**
+   - **Valence:** 0.3 (Negative; suggests dismissiveness towards people's feelings)
+   - **Dominance:** 0.7 (Strong stance; clearly expresses an opinion)
+   - **Intensity:** 0.7 (Higher intensity due to dismissive sentiment)
+   - **Concreteness:** 0.5 (More abstract; generalizing about people's motivations)
+
+Feel free to ask if you need further analysis or clarification!
+

@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness, I will analyze the text accordingly.
+
+### Quarter 1:
+**Text:** "CMV: The way Reddit functions insures that you cannot fight against the popular opinion. First time CMVer, but hear me out. Reddit's comment system creates hivemind tendencies."
+
+- **Valence:** 0.3 (The sentiment is mostly negative, indicating frustration with Reddit.)
+- **Dominance:** 0.6 (The speaker presents a strong opinion about Reddit's influence.)
+- **Intensity:** 0.5 (The argument is moderately intense, suggesting a significant concern.)
+- **Concreteness:** 0.5 (The terms used are somewhat abstract, but they mention specific functionalities of Reddit.)
+
+### Quarter 2:
+**Text:** "It does this in two steps: a) Creates a system were downvotes are accepted"
+
+- **Valence:** 0.4 (Neutral to slightly negative; explaining a system but not overtly emotional.)
+- **Dominance:** 0.5 (The speaker outlines their reasoning, maintaining control.)
+- **Intensity:** 0.4 (Less emotional intensity, focused more on explaining.)
+- **Concreteness:** 0.6 (Clear, tangible elements of the system are mentioned.)
+
+### Quarter 3:
+**Text:** "And b) Forces redditors to deal with consequences if they are downvoted."
+
+- **Valence:** 0.3 (The sentiment remains negative, focusing on consequences.)
+- **Dominance:** 0.5 (The assertion suggests a degree of authority on the topic, but it's more explanatory.)
+- **Intensity:** 0.5 (Moderate intensity, emphasizing the impact of consequences.)
+- **Concreteness:** 0.6 (The statement is specific about the consequences faced by users.)
+
+### Quarter 4:
+**Text:** "This creates a system, where, if you disagree with someone, you can downvote them. This also means that going against the hivemind will net you downvotes, resulting in people who spout popular opinions being the only ones who can do anything. Ex: /r/movies does a thread about LOTR. You say you didn't enjoy it. You get downvotes and aren't allowed to speak in /r/movies until you wait ten minutes."
+
+- **Valence:** 0.2 (Highly negative as it critiques the system's function.)
+- **Dominance:** 0.7 (The speaker strongly asserts their perspective in this concluding section.)
+- **Intensity:** 0.6 (Strong feeling is evident, highlighting the perceived unfairness.)
+- **Concreteness:** 0.7 (Specific examples are provided, making it more concrete and relatable.)
+
+### Summary Ratings:
+- **Quarter 1:** Valence: 0.3, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.5
+- **Quarter 2:** Valence: 0.4, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.6
+- **Quarter 3:** Valence: 0.3, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.2, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.7
+

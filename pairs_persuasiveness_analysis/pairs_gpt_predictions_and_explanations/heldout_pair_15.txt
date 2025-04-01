@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the valence, dominance, intensity, and concreteness of the argument text you provided, I will break it down into four quarters, providing a score from 0.0 (low) to 1.0 (high) for each criterion.
+
+### First Quarter:
+**Text**: "Are you objecting to anything beyond the specific wording used in the laws?"
+- **Valence**: 0.5 (Neutral inquiry; does not express strong positive or negative sentiment)
+- **Dominance**: 0.4 (It implies a challenge but does not assert control over the discussion)
+- **Intensity**: 0.3 (The language is mild and questioning)
+- **Concreteness**: 0.6 (It's a specific question about objections)
+
+### Second Quarter:
+**Text**: "For example, if the government passed a law that said: 'Looking through all laws, we will replace the word "marriage (married, marrying, etc)" with "asdf (asdfd, asdfing, etc)" and make no further changes.'"
+- **Valence**: 0.4 (More neutral, but includes a hypothetical that might evoke a bit of humor or frustration)
+- **Dominance**: 0.5 (It asserts a hypothetical scenario to clarify a point)
+- **Intensity**: 0.4 (Moderate intensity, somewhat absurd situation proposed)
+- **Concreteness**: 0.8 (The example is highly specific with clear terms)
+
+### Third Quarter:
+**Text**: "Would that cover all of your objections?"
+- **Valence**: 0.5 (Neutral again; seeks clarity)
+- **Dominance**: 0.4 (Questioning position lacks dominance but presses for input)
+- **Intensity**: 0.3 (Moderate intensity; remains polite and open)
+- **Concreteness**: 0.6 (Directly addresses objections in a practical sense)
+
+### Fourth Quarter:
+**Text**: "If not, what's left to complain about that situation? If it does cover everything, then consider that 'marriage' is a legal term when used in the context of the law, and doesn't need to conform to common usage."
+- **Valence**: 0.4 (Neutral but slightly critical of potential objections)
+- **Dominance**: 0.6 (Presents a stronger argument about the nature of legal terminology)
+- **Intensity**: 0.5 (Moderately intense; shifts to a more assertive tone)
+- **Concreteness**: 0.7 (Addresses the legal implications concretely)
+
+### Summary of Scores:
+1. **First Quarter**: Valence: 0.5, Dominance: 0.4, Intensity: 0.3, Concreteness: 0.6
+2. **Second Quarter**: Valence: 0.4, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.8
+3. **Third Quarter**: Valence: 0.5, Dominance: 0.4, Intensity: 0.3, Concreteness: 0.6
+4. **Fourth Quarter**: Valence: 0.4, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.7
+
+These scores reflect the nature of the debate and the framing of the argument within the provided text.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the provided argument based on valence, dominance, intensity, and concreteness, we can break it down into four quarters:
+
+**Quarter 1: "don't you think a lot more people will put up a fight when they are suddenly 'unmarried' than who put up a fight about gay people being married?"**
+
+- **Valence:** 0.4 (This quarter suggests a concern and conflict, indicating a slightly negative sentiment.)
+- **Dominance:** 0.5 (The speaker is posing a rhetorical question, aiming to assert an opinion but leaving room for debate.)
+- **Intensity:** 0.6 (There is a moderate urgency in the question regarding people’s reactions.)
+- **Concreteness:** 0.5 (The language is somewhat abstract but presents a clear idea about potential reactions.)
+
+**Quarter 2: "I don't want to go out and hire a lawyer to do all the legal contracts necessary just so that my marriage exists again,"**
+
+- **Valence:** 0.5 (The speaker expresses frustration and a need for practicality, indicating a neutral-to-slightly negative tone.)
+- **Dominance:** 0.6 (The speaker asserts their perspective forcefully about the burdens of legalities.)
+- **Intensity:** 0.7 (There is significant emotion regarding the unnecessary burden of legal contracts.)
+- **Concreteness:** 0.7 (This quarter is quite concrete, outlining a specific concern about legal requirements.)
+
+**Quarter 3: "all so someone else doesn't get 'offended' that people not exactly like them are in a legal contract."**
+
+- **Valence:** 0.3 (This quarter expresses frustration and criticism toward those who may oppose legal marriage for same-sex couples.)
+- **Dominance:** 0.6 (The speaker positions themselves as someone who challenges the motives of the opposition.)
+- **Intensity:** 0.8 (There is strong emotional language, indicating high intensity regarding feelings of unfairness and offense.)
+- **Concreteness:** 0.4 (Though it addresses a social issue, it remains somewhat abstract regarding the specific groups being referenced.)
+
+**Quarter 4: (implicit conclusion that reflects on the legality and social dynamics of marriage)**
+
+- **Valence:** 0.5 (The ending suggests a mix of acceptance and resignation about marriage.)
+- **Dominance:** 0.5 (It acknowledges the situation without firmly taking a side but implies that the resolution is needed.)
+- **Intensity:** 0.5 (There is a moderate intensity regarding the need for change in societal norms.)
+- **Concreteness:** 0.6 (It provides a sense of the broader implications of the discussion, though remains slightly abstract.)
+
+Overall, these evaluations capture the emotional and practical weight the argument carries as it navigates through the complexities of the marriage debate.
+

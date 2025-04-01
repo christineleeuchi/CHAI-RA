@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assess the argument on the dimensions of valence, dominance, intensity, and concreteness, I'll break it down into four quarters based on the provided text and provide scores for each dimension accordingly.
+
+### Quarter 1:
+**Text**: "CMV: The United States will never have a multi-party system within my lifetime. As a young American who will be able to vote in his first election in 2016, I have an unorthodox set of political views, and somewhat fluid ones at that. I subscribe to [progressive](https://www.youtube.com/user/TheYoungTurks), [libertarian](https://www.youtube.com/user/ReasonTV), and [conservative](https://www.youtube.com/user/PragerUniversity) youtube channels to keep my mind open. Unfortunately, thanks to my views not being in line within the dichotomy, none of the current major presidential candidates, republican or democrat, are completely in line with my views. I want to vote for a third party, but it would just be a protest vote every time I do."
+
+- **Valence**: 0.6 (The speaker expresses a somewhat negative sentiment about the political landscape but shows a willingness to engage with different ideologies.)
+- **Dominance**: 0.5 (The speaker establishes their perspective as a young voter with complex views, indicating some level of authority but not overpowering.)
+- **Intensity**: 0.5 (The argument expresses a moderate level of conviction about the situation, but it lacks passion.)
+- **Concreteness**: 0.4 (While the speaker provides some personal context, the argument is somewhat abstract regarding political processes.)
+
+### Quarter 2:
+**Text**: "The two parties directly oppose each other ideologically, but will fight tooth and nail at the prospect of a newcomer. A major third party and threatening them? How dare they, the two-party system is the only way they keep at least 40% of the vote every single election no matter what. They don't want added complexity, which is why [in the last election, a candidate needed at least 15% of the vote in polls to participate in a debate, which universally shut out everyone except Obama and Romney.](http://www.debates.org/index.php?page=candidate-selection-process)."
+
+- **Valence**: 0.7 (The sentiment here is largely negative towards the two-party system, emphasizing resistance to change.)
+- **Dominance**: 0.6 (The argument strongly asserts the systemic issues in place, presenting a more dominant view.)
+- **Intensity**: 0.7 (The use of phrases like "fight tooth and nail" conveys a passionate and intense feeling about the subject.)
+- **Concreteness**: 0.6 (Specific examples are provided about the debates and systemic issues, increasing the concretization of the argument.)
+
+### Quarter 3:
+**Text**: "There will be a few third party candidates who will gain upsets and get elected, but it will never be enough to change the system thanks to our First Past the Post voting system, gerrymandered districts, and just the fact that the two main parties are far more resourced than all of the others."
+
+- **Valence**: 0.5 (This part is more neutral, acknowledging possible successes but still emphasizing futility.)
+- **Dominance**: 0.5 (The speaker maintains a balanced view, acknowledging possibilities while remaining skeptical.)
+- **Intensity**: 0.6 (There’s a moderate level of conviction regarding the persistence of the existing system.)
+- **Concreteness**: 0.7 (Specific mechanisms like "First Past the Post voting" and "gerrymandered districts" provide clarity.)
+
+### Quarter 4:
+**Text**: "Even if their views change, we will never have more than two parties in the United States, at least for the next 100 years. Change my view."
+
+- **Valence**: 0.8 (This closing section conveys a strong pessimism about the future of the political system.)
+- **Dominance**: 0.7 (The speaker asserts a strong claim as a concluding thought, reflecting more authority.)
+- **Intensity**: 0.8 (The strong assertion about the next 100 years and the call to "Change my view" indicates a high level of intensity.)
+- **Concreteness**: 0.5 (While the statement about time provides a concrete reference, it remains quite speculative.)
+
+### Summary Scores:
+- **Quarter 1**: Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.4
+- **Quarter 2**: Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+- **Quarter 3**: Valence: 0.5, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+- **Quarter 4**: Valence: 0.8, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.5
+

@@ -1,0 +1,47 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings based on the argument you provided, broken down by the quarters of the text:
+
+### 1st Quarter: "In some cases yes I see where you are coming from, but I don't see it with Down syndrome."
+- **Valence:** 0.6 (The response acknowledges the opposing view but expresses disagreement regarding Down syndrome, indicating a somewhat neutral to slightly positive stance.)
+- **Dominance:** 0.4 (The speaker expresses a personal perspective but does not assert dominance; they recognize the other viewpoint.)
+- **Intensity:** 0.5 (The expression is moderately intense as it begins to address the topic of Down syndrome.)
+- **Concreteness:** 0.5 (The mention of Down syndrome without specific details makes it somewhat abstract.)
+
+### 2nd Quarter: "These are people who don't have a significantly decreased lifespan, there isn't a lot of pain or discomfort associated with it..."
+- **Valence:** 0.8 (This portion positively reframes Down syndrome, emphasizing the lack of severe negative effects.)
+- **Dominance:** 0.5 (The speaker presents strong information but does not necessarily dominate the conversation.)
+- **Intensity:** 0.6 (This section has greater intensity as it refutes a negative view by discussing positive aspects.)
+- **Concreteness:** 0.7 (The argument provides information about lifespan and discomfort, making it more concrete.)
+
+### 3rd Quarter: "...just in general people with Down syndrome can go on to live long healthy lives."
+- **Valence:** 0.9 (The valence is very positive, emphasizing the potential for individuals with Down syndrome to live well.)
+- **Dominance:** 0.5 (It reinforces the argument but does not assert dominance over the opposing view.)
+- **Intensity:** 0.7 (This part has a strong assertion about life quality, indicating confidence.)
+- **Concreteness:** 0.8 (Specific outcomes (long, healthy lives) give this portion clarity and strength.)
+
+### 4th Quarter: "If you are talking about situations where an infant only has weeks or months to live and that time was spent in agony then you would have more of a point IMO..."
+- **Valence:** 0.7 (This introduces a conditional scenario that is relatively negative, but the speaker is still engaging in dialogue.)
+- **Dominance:** 0.6 (The speaker here confidently acknowledges where the opposing view could hold validity, showing a nuanced understanding.)
+- **Intensity:** 0.6 (The intensity is moderate as it discusses a serious issue concerning suffering.)
+- **Concreteness:** 0.7 (This part is concrete, referring specifically to a situation that could justify different considerations.)
+
+### Summary
+These ratings reflect the varying responses throughout the argument, demonstrating changes in emotional tone and clarity as the speaker articulates their viewpoint.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for the argument you provided, based on the specified criteria:
+
+1. **Valence**: 0.8
+   - The argument expresses a positive perspective on the lives of people with disabilities and challenges the negative assumptions made by the original viewpoint. It emphasizes the potential for joy and fulfillment, leading to a high positive valence.
+
+2. **Dominance**: 0.7
+   - The argument asserts a strong counterpoint to the original claim, arguing that quality of life can be highly variable and dependent on individual experiences. It doesn't back down from confronting the original perspective, which indicates a moderate to high level of dominance.
+
+3. **Intensity**: 0.6
+   - The argument is passionate but maintains a level of calm reasoning. While it critiques the original viewpoint with emphasis on subjective experiences and real-life examples, the tone is more about reasoned debate than emotional fervor, indicating a moderate intensity.
+
+4. **Concreteness**: 0.7
+   - The argument provides specific examples (e.g., Jamie Brewer, people with progeria and harlequin ichthyosis) to support its points. It references observable experiences and real-life outcomes, which enhances its concreteness.
+
+Overall, the argument effectively counters the initial perspective, emphasizing the variability of experiences and the challenges in assessing quality of life based solely on conditions.
+

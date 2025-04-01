@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score from 0.0 to 1.0 for each of the specified categories (valence, dominance, intensity, and concreteness) for each quarter of the argument's text:
+
+### Quarter 1:
+**Text:** "Being asexual is definitely not a choice. While some kids may 'try on' asexuality just like some kids experiment with bisexual or gay relationships in their early years, it's something that wears on you over time. If there is one solid expectation of you in society, it's that everyone wants to get laid. Sex is such an integral part of our relationships and our perceived value in relationships. Can you think of the last time you got aroused? Can you imagine *never* having been aroused? Isn't it such a strange thought?"
+
+- **Valence:** 0.6 (The tone is somewhat neutral but leans towards understanding the asexual experience.)
+- **Dominance:** 0.7 (The argument poses a strong assertion about asexuality being not a choice with societal pressures.)
+- **Intensity:** 0.5 (There’s a moderate intensity, emphasizing the expectation of sexual attraction.)
+- **Concreteness:** 0.6 (Specific references to societal expectations and personal experiences make the argument more concrete.)
+
+### Quarter 2:
+**Text:** "That's how many asexuals feel about the idea of sexual attraction. It's *strange* and foreign. And because we have that powerful disconnect from something which is a strong underlying motivation for the human existence, we're constantly being judged in our relationships--from friendships, to family, and of course our partners as well."
+
+- **Valence:** 0.5 (The use of "strange" indicates a somewhat neutral but critical view.)
+- **Dominance:** 0.8 (The argument strongly emphasizes the judgment faced by asexuals.)
+- **Intensity:** 0.6 (The disconnect from societal norms is conveyed with significant emotional weight.)
+- **Concreteness:** 0.7 (The framing provides a clear picture of the asexual experience and its implications in relationships.)
+
+### Quarter 3:
+**Text:** "Many asexuals find the right person for them, but the relationship isn't viable because a sexual connection is very important for most people. Even if an asexual is willing to have sex, it's never going to be that powerful 'perfect fit' sex that partners with good chemistry have."
+
+- **Valence:** 0.5 (The tone is more analytical, reflecting on relationship dynamics without strong emotional overtone.)
+- **Dominance:** 0.6 (There is a clear assertion of the challenges faced in relationships, albeit in a more subdued manner.)
+- **Intensity:** 0.5 (The intensity is moderate; it expresses difficulty but in a more detached way.)
+- **Concreteness:** 0.7 (Specific elements of relationship dynamics provide clarity and understanding.)
+
+### Quarter 4:
+**Text:** "I'm 30 years old and asexual. This is a throwaway. I've come to strongly resent my asexuality at this point in my life. Maybe because I spent most of my life trying to ignore it, then trying to fix it, and then ultimately concluding that I am stuck with it. ... We both struggle with my asexuality because it's really hard for a partner to understand that there's nothing they can do to change it but it doesn't mean I don't love him."
+
+- **Valence:** 0.4 (The overall sentiment shows struggle and resentment, emphasizing emotional challenges.)
+- **Dominance:** 0.6 (The narrative conveys personal struggles but does not argue overtly for or against asexuality.)
+- **Intensity:** 0.8 (Personal emotions are vividly expressed, showing depth of feeling regarding asexuality.)
+- **Concreteness:** 0.8 (The anecdotal nature provides specific instances that make the experience relatable and tangible.)
+
+These ratings offer a nuanced view of how the argument presents the experience of asexuality, reflecting its emotional and intellectual components throughout the text.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score for each of the four aspects you requested, divided by the quarters of the argument:
+
+1. **First Quarter: "I think if you're born with a set of a genitals, you are in fact a sexual being and in turn, feel some sexual attraction to other humans."**
+   - **Valence:** 0.3 (Fairly negative; implies a rigid view of gender and sexuality)
+   - **Dominance:** 0.7 (Strong assertion of personal belief)
+   - **Intensity:** 0.6 (Moderately intense claim about sexuality)
+   - **Concreteness:** 0.8 (Concrete statement based on observable biological traits)
+
+2. **Second Quarter: "You're making the same leap in logic that people make regarding sex change operations."**
+   - **Valence:** 0.2 (Negative; suggests a critical view of another person's reasoning)
+   - **Dominance:** 0.6 (Argumentative tone, but slightly less assertive)
+   - **Intensity:** 0.5 (Moderately intense, but more about a logical fallacy)
+   - **Concreteness:** 0.7 (Concrete references drawn from observable social constructs)
+
+3. **Third Quarter: "I just can't sympathize with people who identify as 'asexual' and implicate that they endure the same struggles as someone from the LBGT community."**
+   - **Valence:** 0.4 (Some level of negativity, since it expresses a lack of sympathy)
+   - **Dominance:** 0.5 (Assertive, but acknowledges the existence of a different viewpoint)
+   - **Intensity:** 0.6 (Moderate to strong, as it questions the validity of asexual struggles)
+   - **Concreteness:** 0.6 (Reasonably concrete but abstract in terms of emotional engagement)
+
+4. **Fourth Quarter: "Sexuality is strongly tied to identity."**
+   - **Valence:** 0.8 (Generally positive; reinforces the significance of sexuality in identity)
+   - **Dominance:** 0.7 (Confident statement about the social implications of sexuality)
+   - **Intensity:** 0.5 (Moderate intensity in discussing societal norms)
+   - **Concreteness:** 0.9 (Highly concrete, as it reflects common societal observations)
+
+Overall, the argument presents a highly personal and rigid viewpoint on sexuality, using social norms and beliefs to challenge the validity of asexual identities. The scores reflect the varying degrees of negativity, assertiveness, intensity, and concreteness throughout the text.
+

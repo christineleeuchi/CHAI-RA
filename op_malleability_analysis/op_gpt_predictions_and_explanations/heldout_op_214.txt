@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Let's break down the argument into four parts and evaluate each quarter based on the criteria of valence, dominance, intensity, and concreteness.
+
+### Quarter 1:
+**Text**: "CMV: The American People Shouldn't Have The Right To Vote It seems that most of the american people have no real grip on how society or politics work."
+
+- **Valence (0.2)**: The statement is largely negative, which reflects a low valence count.
+- **Dominance (0.6)**: The argument positions the speaker as knowledgeable, implying a sense of authority over the subject matter.
+- **Intensity (0.5)**: The language is somewhat strong, asserting a serious opinion about the population's grasp of political knowledge.
+- **Concreteness (0.3)**: The phrasing is somewhat abstract, lacking specific examples or evidence to support the claim.
+
+### Quarter 2:
+**Text**: "Judging by what I see on facebook (limited source), people out in public (slightly limited source), and on mainstream TV, I feel that most Americans have no idea how foreign policy works, how national policy works, how congress works, or how unrealistic their own political agenda is."
+
+- **Valence (0.3)**: Still negative in tone, indicating a lack of trust in the public's knowledge.
+- **Dominance (0.5)**: The speaker maintains authority by outlining their observations, but relies on subjective interpretations.
+- **Intensity (0.6)**: The sentiment escalates as more aspects of political understanding are critiqued.
+- **Concreteness (0.4)**: The references to social media and public interactions add some real-life context but still lack detailed evidence.
+
+### Quarter 3:
+**Text**: "People get duped into voting for people whom they do not research, or just vote based on party affiliation. Most notably people vote while admitting politicians are corrupt. If people are not willing to vote for people who will push real reform then why not just let the corporate overlords finish what we let them start?"
+
+- **Valence (0.1)**: Very negative, as it describes people in a disparaging manner and references corruption.
+- **Dominance (0.7)**: The argument's assertiveness grows; the speaker claims a high moral ground by suggesting a need for reform.
+- **Intensity (0.8)**: The emotional charge heightens with phrases like "duped" and "corporate overlords."
+- **Concreteness (0.5)**: More concrete with references to specific behaviors (voting based on party affiliation) but still somewhat abstract overall.
+
+### Quarter 4:
+**Text**: "It seems we're at a point where whoever the banking/investment firm elite decide get to run, those are the candidates that get funded and we are given the illusion of who we would rather have - the left hand or right hand of the financial elite. Let's me also mention how people don't read legislation i.e. the removal of the confederate flag (Tennessee Battle Fag) from state buildings."
+
+- **Valence (0.2)**: This section continues the negative sentiment, focusing on institutional distrust.
+- **Dominance (0.6)**: The speaker shows confidence in their perspective on systemic issues.
+- **Intensity (0.7)**: Strong emotions are conveyed regarding the perception of political manipulation.
+- **Concreteness (0.6)**: The mention of specific issues (like the confederate flag) lends a degree of specificity and real-world reference.
+
+### Summary of Ratings:
+- **Quarter 1**: Valence (0.2), Dominance (0.6), Intensity (0.5), Concreteness (0.3)
+- **Quarter 2**: Valence (0.3), Dominance (0.5), Intensity (0.6), Concreteness (0.4)
+- **Quarter 3**: Valence (0.1), Dominance (0.7), Intensity (0.8), Concreteness (0.5)
+- **Quarter 4**: Valence (0.2), Dominance (0.6), Intensity (0.7), Concreteness (0.6) 
+
+This breakdown presents a comprehensive analysis of the argument's tone and depth across its different sections.
+

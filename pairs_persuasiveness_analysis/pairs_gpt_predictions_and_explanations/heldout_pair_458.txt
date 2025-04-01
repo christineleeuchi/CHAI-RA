@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To rate the argument provided using the criteria of valence, dominance, intensity, and concreteness, we can analyze each quarter of the argument separately. Here are the scores from 0.0 (very negative/weak) to 1.0 (very positive/strong).
+
+1. **First Quarter: "The ability to be able to try a juvenile as an adult is an example of taking the law on a case by case basis which is a good thing."**
+   - **Valence:** 0.7 (Positive tone, viewing case-by-case basis as beneficial)
+   - **Dominance:** 0.5 (Moderate assertiveness without being overly authoritative)
+   - **Intensity:** 0.5 (Moderate emphasis, stating it's a "good thing" but not elaborating)
+   - **Concreteness:** 0.5 (Vague as it doesn’t provide specific examples of how this is beneficial)
+
+2. **Second Quarter: "In general it is not reasonable to think the law is going to work effectively for every person."**
+   - **Valence:** 0.4 (Neutral to negative tone, pointing out a limitation in the law)
+   - **Dominance:** 0.6 (More assertive, making a clear statement against the effectiveness of the law)
+   - **Intensity:** 0.4 (Less emotionally charged but still carries a critique)
+   - **Concreteness:** 0.6 (Somewhat concrete as it presents a general criticism of the legal system)
+
+3. **Third Quarter: "If there was a 17 year old serial rapist..."**
+   - **Valence:** 0.3 (Negative tone, focusing on a severe crime)
+   - **Dominance:** 0.7 (Very assertive in making a strong moral argument)
+   - **Intensity:** 0.8 (High intensity due to the serious nature of the crime mentioned)
+   - **Concreteness:** 0.9 (Highly concrete as it deals with a specific and serious scenario)
+
+4. **Fourth Quarter: "...would you really want them to have their record wiped clean on their 18th birthday?"**
+   - **Valence:** 0.2 (Negative tone, highlighting a potentially unjust outcome)
+   - **Dominance:** 0.7 (Strongly posed rhetorical question, asserting a moral concern)
+   - **Intensity:** 0.9 (Very intense due to the emotional weight of the subject matter)
+   - **Concreteness:** 0.8 (Concrete and focused on a specific situation with clear implications)
+
+These ratings reflect the overall sentiment and characteristics conveyed in each part of the argument.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument based on valence, dominance, intensity, and concreteness for each quarter of the text, here are the scores:
+
+**Quarter 1: "Trying a child as an adult actually gives them more rights than they would otherwise get."**
+- Valence: 0.6 (Neutral-positive; suggests a benefit to trying children as adults)
+- Dominance: 0.5 (Moderate assertion that can be countered)
+- Intensity: 0.5 (Mildly intense; asserts rights but lacks strong emotional charge)
+- Concreteness: 0.5 (Abstract concept of "rights" without specific examples)
+
+**Quarter 2: "They will get a jury trial, and it will be open to the media and the public."**
+- Valence: 0.7 (Positive; emphasizes transparency and fairness of a jury trial)
+- Dominance: 0.6 (More dominant claim given the value placed on jury trials in legal proceedings)
+- Intensity: 0.6 (Moderate intensity; conveys importance of these rights)
+- Concreteness: 0.7 (More concrete due to specific mentions of jury trials and media access)
+
+**Quarter 3: "But in juvenile court there is no jury and often the media and the public are banned from attending the trial."**
+- Valence: 0.4 (Neutral-negative; points out the limitations of juvenile court)
+- Dominance: 0.5 (Balanced claim, but less dominating as it focuses on procedural limitations)
+- Intensity: 0.5 (Moderate intensity; presents factual information without strong emotion)
+- Concreteness: 0.8 (Concrete; provides specific details about juvenile court procedures)
+
+**Quarter 4: "A good example is the case of Jordan Brown, he was convicted as a juvenile of a crime which he most likely did not commit. Had he been tried as an adult and thus been given a jury trial, the jury would have seen that he was innocent."**
+- Valence: 0.3 (Negative; discusses a wrongful conviction, implying serious flaws in the system)
+- Dominance: 0.7 (Strong position; uses specific case to support his argument)
+- Intensity: 0.8 (High intensity; invokes emotion through discussion of innocence and wrongful conviction)
+- Concreteness: 0.9 (Very concrete; provides a specific case as an example)
+
+Overall, the argument presents a mixed view on the treatment of juveniles in the legal system, leaning towards the benefits of trying them as adults but also highlighting the severe implications of wrongful convictions.
+

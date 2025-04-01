@@ -1,0 +1,34 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score from 0.0 to 1.0 for each of the following dimensions—valence, dominance, intensity, and concreteness—I'll evaluate the argument based on its content and presentation in four quarters. 
+
+1. **Valence**: This refers to the emotional value associated with the argument, whether positive or negative.
+   - **Quarter 1** (Intro and prosecuting crimes): 0.8 - The argument has a serious and somber tone related to criminal justice, which carries a negative valence due to the nature of the subject (sexual assault).
+   - **Quarter 2** (Colleges are bad at it): 0.7 - This continues with a negative perspective, criticizing colleges' ability to handle serious matters, but it remains fairly neutral in terms of emotional appeal.
+   - **Quarter 3** (Due Process matters): 0.9 - Emphasizing due process evokes strong protections and rights, maintaining a more serious and urgent tone.
+   - **Quarter 4** (Conclusion regarding force of law): 0.9 - This section has a strong negative tone regarding the imposition on universities, emphasizing rights, leading to a high negative valence.
+
+2. **Dominance**: This reflects the assertion or control the argument seems to have, how much it presents a strong position.
+   - **Quarter 1**: 0.8 - The assertion is clear that the government should handle prosecuting crimes, establishing a strong authoritative tone.
+   - **Quarter 2**: 0.7 - The point is made, but the argument feels slightly less dominating than the first quarter as it describes limitations rather than asserting a strong stance.
+   - **Quarter 3**: 0.9 - This portion strongly defends due process rights and serves as a critical foundation for the argument, showcasing dominance.
+   - **Quarter 4**: 0.8 - The conclusion restates the dominance of the argument against governmental mandates on universities, maintaining a confident tone.
+
+3. **Intensity**: This measures the strength or forcefulness of the argument, including how passionate it is communicated.
+   - **Quarter 1**: 0.7 - The tone is serious, but the intensity could be higher.
+   - **Quarter 2**: 0.6 - The argument becomes more analytical, resulting in reduced intensity.
+   - **Quarter 3**: 0.8 - Strong emphasis on due process increases intensity, with clear moral implications.
+   - **Quarter 4**: 0.85 - The call to action against legal mandates on universities carries a high intensity in expressing urgency and importance.
+
+4. **Concreteness**: This assesses the clarity and tangibility of the argument, as well as the presence of examples or specific assertions.
+   - **Quarter 1**: 0.8 - The reasoning is clear and specific regarding the role of government in prosecution.
+   - **Quarter 2**: 0.7 - Clear but somewhat lacks examples that make it more relatable or concrete.
+   - **Quarter 3**: 0.9 - This section provides clear, defined rights which illustrate the concept of due process effectively.
+   - **Quarter 4**: 0.75 - The argument is clear, but it is somewhat abstract in terms of legal ramifications.
+
+In summary, here are the scores for each dimension across the four quarters:
+
+- **Valence**: Q1: 0.8, Q2: 0.7, Q3: 0.9, Q4: 0.9
+- **Dominance**: Q1: 0.8, Q2: 0.7, Q3: 0.9, Q4: 0.8
+- **Intensity**: Q1: 0.7, Q2: 0.6, Q3: 0.8, Q4: 0.85
+- **Concreteness**: Q1: 0.8, Q2: 0.7, Q3: 0.9, Q4: 0.75
+

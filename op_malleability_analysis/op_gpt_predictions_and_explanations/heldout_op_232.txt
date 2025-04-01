@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on the criteria of valence, dominance, intensity, and concreteness, I will break down the text into four quarters and provide scores from 0.0 to 1.0 for each category. 
+
+### 1st Quarter
+**Text:** "CMV: You should know how to do simple car maintenance in order to be issued a driver's license. To be issued a driver's license, you should, at minimum, be required to know how to do the following:"
+
+- **Valence:** 0.7 (The argument presents a positive view on driver education but has a hint of urgency in its requirement.)
+- **Dominance:** 0.6 (The speaker asserts that knowledge of car maintenance is essential, showing a degree of authority.)
+- **Intensity:** 0.5 (The language is clear but not highly emotive; it states requirements straightforwardly.)
+- **Concreteness:** 0.8 (The mention of “simple car maintenance” is concrete, focusing on clear, practical skills.)
+
+### 2nd Quarter
+**Text:** "1. Check/top off fluids 2. Change a tire The first one of those is super easy and it's surprising how many people don't know how to do it. It is extremely important though for the care and functionality of your car."
+
+- **Valence:** 0.8 (The emphasis on importance reflects a strong positive stance toward the skills being valuable.)
+- **Dominance:** 0.7 (The claim about the surprising lack of knowledge suggests a strong opinion on public competency.)
+- **Intensity:** 0.6 (The casual tone ("super easy") adds a degree of emphasis but remains rational.)
+- **Concreteness:** 0.9 (The two specific skills listed are very concrete and provide clarity.)
+
+### 3rd Quarter
+**Text:** "The second one is more physically taxing, but with enough leverage and the correct tools almost anyone can do it. Either way, the knowledge is what is important."
+
+- **Valence:** 0.7 (Expresses a positive outlook on the attainability of changing a tire with determination.)
+- **Dominance:** 0.5 (Advises that knowledge is key, but the tone becomes more neutral and explanatory.)
+- **Intensity:** 0.5 (The language is informative rather than forceful, presenting a balanced view.)
+- **Concreteness:** 0.8 (The reference to tools and leverage makes the argument tangible.)
+
+### 4th Quarter
+**Text:** "The argument I usually get it "That's what AAA is for". To that I say "What if you're in the middle of no where without cell reception and you get a flat tire." Or any other scenario where you can't call AAA. AAA is great; I have it and use it. But there are times when AAA is unavailable and relying on any resource other than your own knowledge is irresponsible. I have yet to hear a good argument against requiring this knowledge for drivers. Please, change my view!"
+
+- **Valence:** 0.6 (Addresses objections while maintaining a constructive stance; acknowledges AAA but emphasizes self-reliance.)
+- **Dominance:** 0.8 (The speaker refutes a common counter-argument confidently, asserting their viewpoint strongly.)
+- **Intensity:** 0.7 (The presentation of scenarios where AAA isn’t available activates a stronger emotional resonance.)
+- **Concreteness:** 0.7 (While the scenario is more abstract, the idea of being in a situation without help makes it relatable and relevant.)
+
+### Summary of Scores
+1st Quarter: Valence: 0.7, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.8  
+2nd Quarter: Valence: 0.8, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.9  
+3rd Quarter: Valence: 0.7, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.8  
+4th Quarter: Valence: 0.6, Dominance: 0.8, Intensity: 0.7, Concreteness: 0.7  
+
+These scores reflect the overall effectiveness of the argument as it evolves throughout the text.
+

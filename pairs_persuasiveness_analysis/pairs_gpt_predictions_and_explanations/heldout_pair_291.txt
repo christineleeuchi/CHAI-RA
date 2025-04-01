@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score for each of the specified dimensions:
+
+**1. Valence: 0.6**  
+The argument expresses mixed feelings about respect. There is some positive sentiment towards the father's role as a provider, but it simultaneously conveys negative emotions regarding the father's failure to earn respect in adulthood. Overall, it leans slightly positive due to the acknowledgment of past respect.
+
+**2. Dominance: 0.5**  
+The argument demonstrates a balanced power dynamic. While the speaker acknowledges their father's role and importance, they also critique his actions and express their own perspective. This suggests an attempt at equality in respect and understanding, making it neither dominant nor submissive.
+
+**3. Intensity: 0.7**  
+The intensity is relatively high, as the speaker communicates strong feelings about the complexities of respect between generations. The examples presented indicate a deep emotional connection and a significant level of conviction in their points, especially regarding the impact of the father's behavior on their relationship.
+
+**4. Concreteness: 0.8**  
+The argument is concrete, as it includes specific examples—such as the father's role as a provider and the speaker's experiences with their father's respect demands—leading to clear insights into the dynamic between parent and adult child. The mention of "child children" versus "adult children" adds to the specificity of the discussion.
+
+Overall, the argument presents a nuanced view of respect in parent-child relationships, with mixed emotional undercurrents and clear, relatable examples.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! Here is the rating for each of the four requested categories for each quarter of the argument:
+
+### First Quarter:
+**Text:** "When you are a child, you literally have no understanding of how the world works. You probably don't begin to understand life until your mid 20s."
+
+- **Valence:** 0.3 (The tone is somewhat negative regarding a child's understanding.)
+- **Dominance:** 0.7 (It suggests a strong assertion of parental authority.)
+- **Intensity:** 0.6 (There is a confident statement about the child’s lack of understanding.)
+- **Concreteness:** 0.4 (The argument is abstract, discussing understanding without giving tangible examples.)
+
+### Second Quarter:
+**Text:** "As a parent you are here to guide that child into becoming a successful and independent adult. Part of that process is learning who is superior in the parent-child relationship..."
+
+- **Valence:** 0.4 (Neutral to slightly positive; acknowledges a guiding role but implies superiority.)
+- **Dominance:** 0.8 (Affirms the parent's role as the authority figure.)
+- **Intensity:** 0.5 (Moderate intensity regarding the necessity of guidance.)
+- **Concreteness:** 0.5 (Involves some concrete ideas regarding upbringing but remains somewhat abstract.)
+
+### Third Quarter:
+**Text:** "The parent is providing everything for the child. Clothes, shelter, food, knowledge, protection, time, and much more. You are completely dependent on this person."
+
+- **Valence:** 0.5 (Balanced; acknowledges the parent’s role positively while highlighting dependency.)
+- **Dominance:** 0.6 (Reinforces parental authority due to their provision of necessities.)
+- **Intensity:** 0.7 (Strong claims about dependency are made here.)
+- **Concreteness:** 0.7 (Lists specific provisions, making the argument more tangible.)
+
+### Fourth Quarter:
+**Text:** "This absolutely commands respect. I would be damned if the child I sacrifice everything for does not respect me. Now I know each situation is unique and there are shit parents and great parents, but regardless your parent/guardian is usually your go-to for anything in life."
+
+- **Valence:** 0.6 (Expresses a strong expectation for respect, which can be seen positively or negatively.)
+- **Dominance:** 0.9 (Very strong assertion of parental authority and expectation of respect.)
+- **Intensity:** 0.8 (Highly emotional and passionate language used.)
+- **Concreteness:** 0.6 (While it discusses the importance of respect in a concrete manner, the notion of “go-to” remains somewhat abstract.)
+
+These ratings reflect the tone, authority, emotional weight, and tangibility of the arguments presented in each quarter.
+

@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument based on valence, dominance, intensity, and concreteness, I will evaluate each quarter of the text separately. Here’s a breakdown:
+
+### 1st Quarter: "If someone is using drugs it is a show on their character."
+- **Valence (0.7)**: Generally negative connotation regarding drug use and character; suggests moral judgment.
+- **Dominance (0.6)**: Suggests a degree of authority in the speaker's opinion on drug use and character.
+- **Intensity (0.5)**: Moderate intensity—it expresses a significant opinion but does not use extreme language.
+- **Concreteness (0.4)**: Abstract connection between drug use and character; not grounded in specific examples.
+
+### 2nd Quarter: "If you are willing to break the law just to feel good, are you willing to break company policy? What about business law?"
+- **Valence (0.8)**: Strongly negative tone toward law-breaking, particularly in a workplace context.
+- **Dominance (0.7)**: Evokes a commanding voice in discussing moral implications and business ethics.
+- **Intensity (0.6)**: Higher intensity by framing breaking laws as indicative of broader trust issues.
+- **Concreteness (0.5)**: Reasonably concrete with specific implications about legality and policy, but somewhat abstract regarding personal intent.
+
+### 3rd Quarter: "Also there is insurance, many insurance companies give a discount for drug testing employees..."
+- **Valence (0.5)**: Neutral to slightly positive regarding the practical benefits of drug testing in terms of insurance.
+- **Dominance (0.6)**: Shows a degree of authority based on economic reasoning; seems to influence company decisions.
+- **Intensity (0.4)**: Low to moderate intensity; focuses more on practical implications than ethical arguments.
+- **Concreteness (0.7)**: Concrete because it relates directly to financial advantages, making a direct point about costs and savings.
+
+### 4th Quarter: "...why should the company pay more in insurance so you can break the law!"
+- **Valence (0.9)**: Highly negative tone directed at the idea of personal choice affecting company finances.
+- **Dominance (0.8)**: Strongly assertive, positioning the speaker as an advocate for company interests.
+- **Intensity (0.7)**: High intensity, urging the point of view that employees' actions affect the company ultimately.
+- **Concreteness (0.6)**: Fairly concrete because it ties legal implications to financial consequences, though slightly emotional in phrasing.
+
+### Summary of Scores:
+1. **1st Quarter**: Valence - 0.7 | Dominance - 0.6 | Intensity - 0.5 | Concreteness - 0.4
+2. **2nd Quarter**: Valence - 0.8 | Dominance - 0.7 | Intensity - 0.6 | Concreteness - 0.5
+3. **3rd Quarter**: Valence - 0.5 | Dominance - 0.6 | Intensity - 0.4 | Concreteness - 0.7
+4. **4th Quarter**: Valence - 0.9 | Dominance - 0.8 | Intensity - 0.7 | Concreteness - 0.6
+
+These scores reflect the overall emotional tone, authority, strength of the arguments, and how specific the language is within each quarter of the argument.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument provided, I will assess each of the four dimensions—valence, dominance, intensity, and concreteness—for each quarter of the argument's text. The scores range from 0.0 to 1.0, where 0.0 indicates a very low presence of the quality being measured and 1.0 indicates a very high presence.
+
+### Quarter 1: "Well drugs are illegal (most states), if i own my own business i have the right to make sure my employees are not engaged in illegal activities."
+
+- **Valence**: 0.7 - The statement reflects a negative view of drug use, emphasizing legality and the owner’s authority, which leans towards a negative sentiment regarding drugs.
+- **Dominance**: 0.8 - The business owner is positioning themselves in a powerful, authoritative role in this argument, asserting control over workplace policies.
+- **Intensity**: 0.6 - The argument expresses a moderate level of intensity in asserting rights; it is firm but not overly aggressive.
+- **Concreteness**: 0.8 - The statement is clear and tangible, basing its argument on the legal status of drugs and the rights of business owners.
+
+### Quarter 2: "It is a pattern, if they can do illegal activities during the night, they could shift that over to work."
+
+- **Valence**: 0.5 - This quarter has a neutral valence; it presents a potential concern but doesn't express a strong negative or positive sentiment.
+- **Dominance**: 0.5 - It indicates a logical reasoning but lacks a strong authoritative presence compared to the first quarter.
+- **Intensity**: 0.4 - The intensity drops as this portion feels more hypothetical and less assertive.
+- **Concreteness**: 0.6 - The concept of a "pattern" is somewhat abstract, but the example given provides some clarity.
+
+### Quarter 3: "Silly but still a good reason."
+
+- **Valence**: 0.3 - The use of "silly" introduces a somewhat dismissive tone, which may reflect a lower sentiment toward the seriousness of the argument.
+- **Dominance**: 0.2 - This part of the argument feels less authoritative and more self-deprecating, which diminishes its dominance.
+- **Intensity**: 0.3 - The intensity is low; it suggests uncertainty or lack of confidence in the strength of the argument.
+- **Concreteness**: 0.2 - It lacks specificity, making it vague and abstract, which lowers its concreteness.
+
+### Quarter 4: "As a business owner, why cant I test?"
+
+- **Valence**: 0.6 - This question expresses a sense of entitlement, and while it is somewhat critical of opposing views, it does not evoke a strong negative sentiment.
+- **Dominance**: 0.7 - The rhetorical question positions the owner in a place of authority, seeking justification for their actions. It has a strong dominant undertone.
+- **Intensity**: 0.7 - The questioning suggests a level of frustration and assertiveness, reflecting a higher intensity.
+- **Concreteness**: 0.6 - While it's a straightforward question, it is also somewhat abstract in seeking validation for a behavior rather than stating a clear fact or opinion.
+
+### Summary Scores for Each Quarter:
+- **Quarter 1**: Valence: 0.7, Dominance: 0.8, Intensity: 0.6, Concreteness: 0.8
+- **Quarter 2**: Valence: 0.5, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.6
+- **Quarter 3**: Valence: 0.3, Dominance: 0.2, Intensity: 0.3, Concreteness: 0.2
+- **Quarter 4**: Valence: 0.6, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.6
+

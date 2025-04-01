@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating score for each dimension—valence, dominance, intensity, and concreteness—for each quarter of the argument provided:
+
+### Quarter 1:
+*"CMV: Using Adblock (or similar software) is an overall detriment to the internet Nearly all websites only have two options for generating revenue and staying online: 1. Sell ads 2. Charge the consumer directly"*
+
+- **Valence:** 0.7 (The view expressed is negative towards Adblock and suggests challenges for websites.)
+- **Dominance:** 0.6 (The argument positions the viewpoint strongly as a concern but doesn't fully dismiss opposing views.)
+- **Intensity:** 0.5 (The tone is somewhat firm, but lacks strong emotional language.)
+- **Concreteness:** 0.8 (The argument presents clear categories of website revenue generation.)
+
+### Quarter 2:
+*"Selling ads is obviously the easier method and it typically used more often than charging directly because it doesn't ask the consumer to pay up front. This allows the consumer to get a taste of what the site has to offer before they put some of their own money on the line (potentially with a 'premium' service like Reddit Gold)."*
+
+- **Valence:** 0.5 (Neutral regarding ads, points out a practical aspect of ad revenue without a clear positive/negative tone.)
+- **Dominance:** 0.5 (Explains a perspective but appears to be more factual than persuasive.)
+- **Intensity:** 0.4 (Language is moderate, lacks strong emotional appeal.)
+- **Concreteness:** 0.9 (Details provide a vivid explanation of the concept.)
+
+### Quarter 3:
+*"If people continue to use Adblock or other similar software to completely block ads, the option to keep the lights on by selling ads gets harder and harder. This means that selling access to the site in the form of a subscription (or something similar) becomes the only option."*
+
+- **Valence:** 0.7 (Expresses concern about the future of ad revenue and indirectly about the user experience.)
+- **Dominance:** 0.7 (Claims a significant consequence of Adblock use; fairly strong assertion.)
+- **Intensity:** 0.6 (More intense as it discusses implications; language amplifies urgency.)
+- **Concreteness:** 0.8 (Clear linkage between Adblock use and outcomes for websites.)
+
+### Quarter 4:
+*"This is frankly a bad thing because consumer will be unwilling to risk spending money on a subscription if they aren't sure about the content. Smaller sites will find it harder to stay afloat and new sites will have a very difficult time getting off the ground."*
+
+- **Valence:** 0.8 (Clearly negative evaluation of consequences and effects on smaller websites.)
+- **Dominance:** 0.8 (A strong claim about the negative impact on smaller and new websites.)
+- **Intensity:** 0.7 (Stronger emotional language; appeals to concern for smaller sites.)
+- **Concreteness:** 0.7 (Specific implications are made but are slightly more abstract than previous sections.)
+
+These scores offer a nuanced perspective on the tone and effectiveness of each part of the argument.
+

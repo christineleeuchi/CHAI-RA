@@ -1,0 +1,78 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument in your provided text, I will offer scores for valence, dominance, intensity, and concreteness, using a scale from 0.0 to 1.0 for each quarter of the text.
+
+### Quarter 1: "From your description it seems more that you take issue more with coffee drinkers rather than the coffee itself."  
+- **Valence:** 0.6 (Neutral to slightly negative; suggests a misalignment of focus but is not aggressively negative)  
+- **Dominance:** 0.4 (The statement presents a critique but does not assert a strong authoritative stance)  
+- **Intensity:** 0.5 (Moderate intensity; conveys a somewhat critical viewpoint but remains calm)  
+- **Concreteness:** 0.7 (The idea is clear and easy to understand; tangible points are made)
+
+### Quarter 2: "Coffee is just roasted beans brewed with water."  
+- **Valence:** 0.8 (Positive; simplifies the complexity surrounding coffee, promoting a non-elitist view)  
+- **Dominance:** 0.5 (Neutral; presents a fact without trying to dominate or invalidate the opposing viewpoint)  
+- **Intensity:** 0.6 (Moderate intensity; a somewhat definitive statement on what coffee is)  
+- **Concreteness:** 0.9 (Very concrete; factual and straightforward, leaving little room for ambiguity)
+
+### Quarter 3: "It's not a culture, it's not a lifestyle, it's not a brand."  
+- **Valence:** 0.7 (Positive; challenges the romanticized view of coffee culture, affirming its simplicity)  
+- **Dominance:** 0.6 (Some dominance; asserts clear opinions about the cultural perceptions surrounding coffee)  
+- **Intensity:** 0.7 (Moderate to high intensity; strongly opposes the notion of coffee as a cultural entity)  
+- **Concreteness:** 0.8 (Clear and direct; concrete assertions are presented effectively)
+
+### Quarter 4: "Even if you feel it is, it shouldn't take away from your ability to say if it's good or bad."  
+- **Valence:** 0.6 (Neutral to slightly positive; encourages independent judgment while acknowledging differing opinions)  
+- **Dominance:** 0.5 (Balanced; allows for multiple perspectives without being overly persuasive)  
+- **Intensity:** 0.5 (Moderate intensity; a gentle reminder that personal taste should prevail)  
+- **Concreteness:** 0.7 (Fairly concrete; suggests an important point about personal opinion with clarity)
+
+### Summary of Scores:
+**Quarter 1:** Valence: 0.6, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.7  
+**Quarter 2:** Valence: 0.8, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.9  
+**Quarter 3:** Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.8  
+**Quarter 4:** Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.7  
+
+These ratings collectively indicate that while the argument critiques the cultural construct of coffee drinking, it maintains a balance of positivity and clarity around the simplicity of coffee itself.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Certainly! Let's break down the argument into its four quarters and rate each one based on valence, dominance, intensity, and concreteness.
+
+### Quarter 1
+**Text:** "There are many food items that develop enough complexity to give recreational value in representing the people that make them. For me it's beers."
+
+- **Valence:** 0.7 (Positive - expresses a positive connection to food and culture)
+- **Dominance:** 0.5 (Moderate - the argument is personal and presents the speaker's perspective)
+- **Intensity:** 0.6 (Moderate High - introduces a nuanced perspective about food)
+- **Concreteness:** 0.5 (Moderate - the notion is somewhat abstract but mentions beers)
+
+### Quarter 2
+**Text:** "When I have a beer I try to read into the motivations and desires of the brewer behind them. Sometimes it's just to make money (Heineken), sometimes there is someone trying to feel like a pirate and for someone they are boasting about the quality of their hops."
+
+- **Valence:** 0.6 (Positive - sharing a personal enjoyment and curiosity)
+- **Dominance:** 0.6 (Moderate High - the speaker asserts their viewpoint as significant)
+- **Intensity:** 0.7 (High - the emotional engagement with the motivations of brewers)
+- **Concreteness:** 0.7 (High - references specific examples of brewers and motivations)
+
+### Quarter 3
+**Text:** "It represents a region, a culture, a market, a fashion, a trend or even a religion. It happens with wine, whiskys, food, bread and many other things, including coffee."
+
+- **Valence:** 0.8 (Very Positive - celebrates the cultural significance of food and drink)
+- **Dominance:** 0.7 (High - asserts the importance of multiple food items representing diverse influences)
+- **Intensity:** 0.6 (Moderate High - conveys a sense of pride in the cultural connections)
+- **Concreteness:** 0.8 (High - specific connections are made to various foods and cultures)
+
+### Quarter 4
+**Text:** "For many this is just a hipster skill, but for others it can become a passion. It's normal for someone to have no interest in this and it's normal for the interest in this to be shallow. What is not normal is to consider anyone that likes a taste liars, why would that be so?"
+
+- **Valence:** 0.5 (Neutral - acknowledges different viewpoints, but also raises potential conflict)
+- **Dominance:** 0.6 (Moderate High - the speaker challenges a common perspective)
+- **Intensity:** 0.5 (Moderate - expresses a firm belief but is balanced by neutrality)
+- **Concreteness:** 0.4 (Moderate Low - the question posed is more abstract)
+
+### Summary
+1. **Quarter 1:** Valence: 0.7, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+2. **Quarter 2:** Valence: 0.6, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.7
+3. **Quarter 3:** Valence: 0.8, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.8
+4. **Quarter 4:** Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.4
+
+These scores reflect the tone and content of each portion of the argument regarding its emotional quality, authority, passion, and tangible aspects.
+

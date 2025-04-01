@@ -1,0 +1,65 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here's a rating score for each category based on the text you provided:
+
+### 1. Valence (0.0 to 1.0)
+**Rating: 0.3**
+- The overall tone of the argument is likely to be interpreted as critical and somewhat combative, as the writer is challenging the initial perspective on morality. However, it does not convey extreme negativity, thus the score reflects a moderately negative valence.
+
+### 2. Dominance (0.0 to 1.0)
+**Rating: 0.7**
+- The argument exudes a strong sense of authority and confidence, especially when asserting that morality cannot be objective and citing philosophical schools of thought. This high score indicates a dominant, assertive tone in the argument.
+
+### 3. Intensity (0.0 to 1.0)
+**Rating: 0.6**
+- The intensity is present in the way the author argues passionately about the subjective nature of morality and challenges the previous views. While not overly heated, it reflects strong conviction.
+
+### 4. Concreteness (0.0 to 1.0)
+**Rating: 0.4**
+- The argument incorporates specific philosophical references and terms, providing a degree of concreteness. However, the abstract nature of discussing morality and subjectivity limits its overall concreteness. Thus, it receives a moderate score.
+
+These ratings evaluate the emotional qualities, assertiveness, passion, and clarity of the argument presented.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating for each quarter of the argument based on valence, dominance, intensity, and concreteness, we first need to understand what each term means in relation to the content of the argument. 
+
+1. **Valence**: The emotional value associated with the argument (positive, negative, or neutral).
+2. **Dominance**: The degree to which the argument asserts authority or control over the topic.
+3. **Intensity**: The strength or forcefulness of the argument's claims.
+4. **Concreteness**: The level of specificity and clarity in the argument.
+
+Here’s the scoring for the argument you provided, divided into four quarters:
+
+### Quarter 1:
+*Argument:* "I’m not sure if this is against the rules but I’m going to say that both viewpoints are correct...from a subjective (lol) viewpoint. All people in the world clearly do not agree on a moral standard in all areas. Never have, never will. What is generally accepted to be right and wrong changes. Slavery for millennia was commonplace and not seen as wrong. Heck, Africans sold their own people into slavery. So in both of these senses, morality can be seen as subjective."
+
+- **Valence**: 0.5 (Neutral observation about differing moral views)
+- **Dominance**: 0.4 (Expresses uncertainty, thus less dominant)
+- **Intensity**: 0.5 (Moderate claims about opinions and societal changes)
+- **Concreteness**: 0.6 (Historical references provide some specificity)
+
+### Quarter 2:
+*Argument:* "Yet despite the opinions of the past, slavery is wrong. This is a fact. Mental gymnastics and culture was what tricked people into thinking it was OK. So in that sense there is an objective morality. Just because people don't agree or change opinions doesn't mean that truth does not exist."
+
+- **Valence**: 0.7 (Strongly positive notion asserting that slavery is wrong)
+- **Dominance**: 0.6 (Claims objective truth, stating "this is a fact")
+- **Intensity**: 0.8 (Strong assertion about the nature of morality and historical views)
+- **Concreteness**: 0.5 (Clear argument, but still somewhat abstract)
+
+### Quarter 3:
+*Argument:* "But then on the subjective side, there are very hard moral choices sometimes. Use a classic example, killing Hitler before he became a dictator. Is it wrong because it's murder or right because it saves lives? I'm such a case and in less extreme cases, there may not be an answer and it is up to the individual to decide their course of action, in other words, it is subjective."
+
+- **Valence**: 0.6 (Mix of serious undertones, but the classic example lends some neutrality)
+- **Dominance**: 0.5 (Presents both sides of the argument, thus moderate dominance)
+- **Intensity**: 0.7 (Strong examples of moral dilemmas increase the intensity)
+- **Concreteness**: 0.7 (Specific scenarios enhance clarity)
+
+### Quarter 4:
+*Argument:* "However, if you chose to kill or not kill because you wanted to mess things up as much as possible, that WOULD be wrong. Sometimes our attitude is more important than the action itself. However, if you are unaware at age 42 that drinking in driving is illegal and all around bad idea and you drive drunk and kill someone, you should not be exempt from responsibility simply because you are an idiot. So in that sense morality is objective."
+
+- **Valence**: 0.6 (Condemnation of poor choices, thus moderately positive)
+- **Dominance**: 0.5 (Establishes moral responsibility but acknowledges complexity)
+- **Intensity**: 0.7 (Strong moral stance on personal responsibility)
+- **Concreteness**: 0.8 (Clear examples of misguided behavior contribute to specific understanding)
+
+These scores reflect an analysis of the argument across its sections, considering the emotional and cognitive aspects conveyed through the text.
+

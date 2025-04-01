@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assess the argument in quarters based on the provided criteria (valence, dominance, intensity, and concreteness), here's a breakdown:
+
+### Quarter 1 
+**Text**: "CMV: I think being proud of your race is ridiculous. Disclaimer: I'm an American middle class white girl, so no one cares what I have to say about race."
+
+- **Valence**: 0.1 (The sentiment is predominantly negative regarding pride in race.)
+- **Dominance**: 0.6 (The speaker positions themselves as having a dominant opinion on the subject.)
+- **Intensity**: 0.5 (The use of "ridiculous" shows some emotional intensity, but it's complemented by self-awareness.)
+- **Concreteness**: 0.3 (The mention of her identity adds some context, but the argument is abstract.)
+
+### Quarter 2 
+**Text**: "Now that that's been said, I just think the concept of being proud of your race doesn't make any sense. You were born with your skin a different color than someone else's, why does that make you special?"
+
+- **Valence**: 0.1 (Continues with a negative sentiment towards race pride.)
+- **Dominance**: 0.7 (The speaker asserts their perspective strongly, questioning the validity of pride.)
+- **Intensity**: 0.6 (The use of phrases like "doesn't make any sense" indicates strong disagreement.)
+- **Concreteness**: 0.4 (The argument is more theoretical, though it does reference physical attributes.)
+
+### Quarter 3 
+**Text**: "Maybe it's just because I think the concept of race is stupid (biologically speaking, it doesn't exist), but I don't think your race should differentiate you from anyone else, for better or worse."
+
+- **Valence**: 0.2 (Still negative regarding race but introduces a broader critique of the concept.)
+- **Dominance**: 0.5 (The speaker maintains their stance but acknowledges an opposing view.)
+- **Intensity**: 0.7 (The phrase "stupid" strongly conveys the speaker's feelings and frustration.)
+- **Concreteness**: 0.5 (The biological view offers a more concrete perspective on the argument.)
+
+### Quarter 4 
+**Text**: "Right now, there's a kiosk at a store I frequent selling 'black art.' Some of it is African, some of it is art of significant black Americans, some of it is related to traditionally black fraternities and sororities. The only thing connecting these pieces of art is the color of the skin of the artist. Why does that matter? I think the problem here is that I just don't understand. Can y'all help change my view and help me understand why people would be proud of the color of their skin?"
+
+- **Valence**: 0.3 (Still questioning pride in race but open to dialogue.)
+- **Dominance**: 0.4 (The speaker seeks input from others, indicating less dominance in the discussion.)
+- **Intensity**: 0.5 (The questioning tone shows emotional engagement but remains somewhat neutral.)
+- **Concreteness**: 0.7 (Describing the kiosk and the art provides very concrete examples to support the argument.)
+
+### Summary Scores:
+**Quarter 1**: Valence: 0.1, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.3  
+**Quarter 2**: Valence: 0.1, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.4  
+**Quarter 3**: Valence: 0.2, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.5  
+**Quarter 4**: Valence: 0.3, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.7
+

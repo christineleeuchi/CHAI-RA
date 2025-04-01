@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the argument with scores for valence, dominance, intensity, and concreteness:
+
+### First Quarter:
+**Text:** "Well there are plenty of moral frameworks, but whether you agree with them is another story. Take the Christian one."
+
+- **Valence:** 0.5 (Neutral introduction)
+- **Dominance:** 0.3 (Establishing a viewpoint but not assertive yet)
+- **Intensity:** 0.4 (Mildly engaging)
+- **Concreteness:** 0.5 (Somewhat abstract, mentions moral frameworks generally)
+
+### Second Quarter:
+**Text:** "God gave humanity animals and plants to eat because he loves the humans who he created in his very own image, and wants to provide food for them. Animals are acceptable to kill and eat, but they are not good enough to have sex with."
+
+- **Valence:** 0.6 (Positive valence towards God's intentions)
+- **Dominance:** 0.7 (More assertive claims about morality)
+- **Intensity:** 0.6 (Stronger engagement due to moral claims)
+- **Concreteness:** 0.7 (More concrete with specific examples)
+
+### Third Quarter:
+**Text:** "Having sex with an animal lowers a human to the level of common beasts that can't tell right from wrong or comprehend the divine. Furthermore, human sex is meant to be about love whereas bestiality is about lust."
+
+- **Valence:** 0.4 (Negative view of bestiality)
+- **Dominance:** 0.8 (Very assertive in moral stance)
+- **Intensity:** 0.8 (High intensity with strong moral implications)
+- **Concreteness:** 0.6 (Concepts are somewhat abstract but grounded in moral reasoning)
+
+### Fourth Quarter:
+**Text:** "As such, Adam didn't have sex with any animals. God created a woman for that purpose. You might not think this is a compelling moral framework, but it is the moral framework that underpins much of western civilization."
+
+- **Valence:** 0.5 (Neutral to slightly positive presentation of the framework)
+- **Dominance:** 0.6 (Affirmative of a traditional viewpoint)
+- **Intensity:** 0.5 (Moderately engaging but also defensive)
+- **Concreteness:** 0.7 (More concrete references to biblical figures and social implications)
+
+### Summary:
+- **First Quarter:** (0.5, 0.3, 0.4, 0.5)
+- **Second Quarter:** (0.6, 0.7, 0.6, 0.7)
+- **Third Quarter:** (0.4, 0.8, 0.8, 0.6)
+- **Fourth Quarter:** (0.5, 0.6, 0.5, 0.7)
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score for valence, dominance, intensity, and concreteness for each quarter of the argument, let's break it down into four segments based on your provided text. 
+
+### Quarter 1: "The purpose of sex is a) pleasure and b) reproduction."
+- **Valence:** 0.5 (Neutral; presents a factual statement)
+- **Dominance:** 0.4 (Moderate; establishes a framework for discussing human and animal sex)
+- **Intensity:** 0.3 (Low; matter-of-fact)
+- **Concreteness:** 0.6 (Fairly concrete; clear definitions of sex purpose)
+
+### Quarter 2: "With an animal b) is rather impossible so we are left with a). Pleasure is a poor reason to make an animal suffer."
+- **Valence:** 0.4 (Slightly negative; implies that pleasure cannot justify suffering)
+- **Dominance:** 0.5 (Moderate; strengthens stance against bestiality)
+- **Intensity:** 0.6 (Moderate; conveys a moral opinion)
+- **Concreteness:** 0.5 (Moderate; the argument is clear but somewhat abstract)
+
+### Quarter 3: "However food is necessary for humans and even company is considered a basic need, so animal food products and pets are rather justified, however sex is not."
+- **Valence:** 0.6 (Neutral to positive; presents a justification for eating animals and having pets)
+- **Dominance:** 0.6 (Stronger; illustrates a broader ethical consideration)
+- **Intensity:** 0.5 (Moderate; moral reasoning is involved)
+- **Concreteness:** 0.7 (Fairly concrete; outlines human needs)
+
+### Quarter 4: "Another closer analogy is killing animals. Killing a chicken to eat it is satisfying a need. Killing a chicken for pleasure is not."
+- **Valence:** 0.5 (Neutral; presents contrasts in moral reasoning)
+- **Dominance:** 0.7 (Strong; provides a direct analogy to emphasize the point)
+- **Intensity:** 0.7 (Moderate to high; moral clarity is present)
+- **Concreteness:** 0.8 (Fairly concrete; clear and relatable examples)
+
+### Summary of Scores:
+- **Quarter 1:** Valence 0.5, Dominance 0.4, Intensity 0.3, Concreteness 0.6
+- **Quarter 2:** Valence 0.4, Dominance 0.5, Intensity 0.6, Concreteness 0.5
+- **Quarter 3:** Valence 0.6, Dominance 0.6, Intensity 0.5, Concreteness 0.7
+- **Quarter 4:** Valence 0.5, Dominance 0.7, Intensity 0.7, Concreteness 0.8
+

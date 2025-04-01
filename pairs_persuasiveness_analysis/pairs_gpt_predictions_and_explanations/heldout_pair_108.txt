@@ -1,0 +1,46 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s the rating score from 0.0 to 1.0 for each of the elements in the argument, divided into four quarters:
+
+1. **First Quarter (Cost)**  
+   - **Valence:** 0.7 (The argument presents a negative implication of the proposal regarding its cost.)
+   - **Dominance:** 0.6 (This quarter highlights a strong concern about financial implications.)
+   - **Intensity:** 0.5 (The concern is clear but presented in a factual manner, not overly emotional.)
+   - **Concreteness:** 0.8 (The argument is based on a specific concern about cost, making it concrete.)
+
+2. **Second Quarter (Environment)**  
+   - **Valence:** 0.8 (The argument emphasizes a negative impact on the students' perception of safety.)
+   - **Dominance:** 0.7 (This quarter asserts a strong viewpoint about the psychological effects on students.)
+   - **Intensity:** 0.6 (There's a sense of urgency regarding student well-being, but it is still fairly measured.)
+   - **Concreteness:** 0.7 (The argument is grounded in the observable effects on students’ experiences.)
+
+3. **Third Quarter (Personal Experience)**  
+   - **Valence:** 0.5 (This part is neutral; it merely shares a personal observation without a strong positive or negative connotation.)
+   - **Dominance:** 0.4 (The mention of the school resource officers is less assertive compared to the earlier concerns.)
+   - **Intensity:** 0.3 (The tone is more reflective than emotionally charged.)
+   - **Concreteness:** 0.6 (There is a specific reference to past experiences, making it somewhat concrete.)
+
+4. **Fourth Quarter (Recommendation)**  
+   - **Valence:** 0.6 (There's a slight positive spin to recommending a potential alternative solution.)
+   - **Dominance:** 0.5 (The suggestion provides a balanced viewpoint but is not as dominant as the concerns raised earlier.)
+   - **Intensity:** 0.4 (The suggestion is logical but not forceful, reflecting more of a hopeful tone.)
+   - **Concreteness:** 0.7 (The mention of "school resource officers" presents a concrete alternative solution.)
+
+These ratings reflect the structure of the argument and its emotional and factual weight in each part.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score for each of the four dimensions (valence, dominance, intensity, and concreteness) for the provided argument:
+
+1. **Valence (0.3)**: The overall sentiment of the argument is negative, especially given the sarcastic tone of "Armed guards everywhere!" and the criticism of the idea as impractical. However, it does engage with the topic in a way that suggests concern for gun violence, which adds a slight positive note to the critique.
+
+2. **Dominance (0.4)**: The argument presents a dominant viewpoint by dismissing the idea of armed guards as ineffective. This indicates a confident stance on the topic but is countered by the sarcastic and condescending tone, which can undermine the authority of the argument somewhat.
+
+3. **Intensity (0.6)**: The intensity of the argument is relatively high due to the passionate language used ("Seriously man, think about what you're suggesting"), the use of exaggeration ("sniper tower"), and the clear disdain for the proposed solution. This conveys a strong emotional response related to the seriousness of the topic.
+
+4. **Concreteness (0.5)**: The argument includes specific suggestions (sniper towers, armed guards at businesses and homes) and refutes the effectiveness of armed guards. However, it lacks concrete evidence or detailed reasoning behind the assertion that armed guards wouldn't deter shooters, leaning more on rhetoric and sarcasm than on substantial argumentation.
+
+Overall ratings:
+- Valence: 0.3
+- Dominance: 0.4
+- Intensity: 0.6
+- Concreteness: 0.5
+

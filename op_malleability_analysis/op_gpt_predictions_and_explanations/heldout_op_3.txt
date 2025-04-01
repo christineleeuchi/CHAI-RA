@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument provided in terms of valence, dominance, intensity, and concreteness, I will break down the ratings for each of the four quarters of the text as best as possible, considering the nuances of each section.
+
+### Quarter 1
+**Text:** "CMV: Reddit should no longer be considered an isolated subcultural space with different standards of behavior than in person interaction I've been here for more than 5 years and the more mainstream reddit becomes, the stronger the cognitive dissonance afflicting the hardcore users gets."
+
+- **Valence:** 0.5 (Neutral to slightly negative as it critiques current behaviors)
+- **Dominance:** 0.6 (Moderate assertiveness in the claim)
+- **Intensity:** 0.6 (Strong personal experience emphasized)
+- **Concreteness:** 0.7 (Specific examples and experiences mentioned)
+
+### Quarter 2
+**Text:** "I understand that 4chan exists, and that a lot of people use both, but reddit has never been and never will be 4chan. And in the age where everyone and their mother has a smartphone, the Internet no longer constitutes a compartmentalized subcultural space apart from and not subject to the norms of regular society where invective and insight in equal parts is both accepted and encouraged."
+
+- **Valence:** 0.4 (Negative framing towards current online behavior)
+- **Dominance:** 0.7 (Firm assertion of the argument)
+- **Intensity:** 0.8 (Strong language around societal norms)
+- **Concreteness:** 0.6 (General observations, less personal)
+
+### Quarter 3
+**Text:** "Anyone here can turn on their TV to cable news and see how valuable meaningless reproach is. It doesn't advance any ideas, it doesn't enhance any discourse. And it's no more valuable here. The average person, who is now an inescapable part of the Internet, doesn't see it that way."
+
+- **Valence:** 0.3 (Very critical and negative view)
+- **Dominance:** 0.5 (Assertive but reflective)
+- **Intensity:** 0.7 (Emphasizes the futility of negative discourse)
+- **Concreteness:** 0.5 (Brings up societal examples; somewhat abstract)
+
+### Quarter 4
+**Text:** "Anonymous does not and should not mean dissociated. You may see your reddit handle as an identity, but many just see it as an alias, the alias of a human being who they just have not met personally yet. [...] You shouldn't have to use your real name like Facebook or Battle.Net, but you should recognize that other users represent real humans. 'Polite society' gets along just fine in the exchange of speech and ideas without textbook meanness."
+
+- **Valence:** 0.6 (More positive in advocating for empathy)
+- **Dominance:** 0.6 (Moderately assertive call for change)
+- **Intensity:** 0.5 (Rational appeal, less emotional)
+- **Concreteness:** 0.8 (Clear call to recognize humanity and civility)
+
+These ratings reflect a breakdown of each section's core emotional and qualitative characteristics based on the argument presented. Each aspect contributes to understanding the overall tone and intent of the text.
+

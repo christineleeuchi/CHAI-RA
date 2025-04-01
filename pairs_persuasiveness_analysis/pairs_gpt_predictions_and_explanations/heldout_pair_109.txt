@@ -1,0 +1,52 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating for each aspect of the argument presented:
+
+1. **Valence (0.7)**: The argument has a generally negative valence due to the discussion of immoral actions (shooting Cecil the lion, immoral bankers) and the critique of people relying on legality as a moral standard. However, it's also critical and probing, which can be seen as a constructive engagement with the topic.
+
+2. **Dominance (0.5)**: The argument is somewhat assertive in challenging the notion of using the law as a moral compass. However, it allows space for counterarguments, as seen in the questions raised about morality and the varying moral standpoints people might have. This balance indicates an equal footing in the dialogue rather than a clear dominance.
+
+3. **Intensity (0.6)**: The intensity is moderate, reflecting the emotional weight of the topics discussed (e.g., the death of a lion, the 2008 financial crisis). The wording evokes concern and frustration but does not reach a fever pitch, keeping it analytical rather than purely emotional.
+
+4. **Concreteness (0.8)**: The examples provided (Cecil the lion, bankers, bus seat etiquette) are concrete and relatable, making abstract concepts about morality and legality tangible. The use of specific scenarios helps clarify the argument’s points and makes it easier for readers to grasp the nuances of moral versus legal considerations. 
+
+Overall, the argument demonstrates thoughtful engagement but also presents challenges related to defining morality and the implications of different moral frameworks.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument based on valence, dominance, intensity, and concreteness for each quarter of the text provided, here are the scores:
+
+### Quarter 1
+**Text:** "You're examples all lean towards the side of someone doing something bad, and justifying it because it was legal."
+- **Valence (0.5)**: Neutral. The statement acknowledges a viewpoint without strong positive or negative bias.
+- **Dominance (0.4)**: This portion presents a comparative viewpoint, indicating that the author is engaging in a discussion rather than asserting superiority.
+- **Intensity (0.5)**: Moderate. The tone is assertive but does not evoke strong emotions.
+- **Concreteness (0.6)**: Reasonably concrete, as it references specific examples of legality and morality.
+
+### Quarter 2
+**Text:** "However, if the law shouldn't be your moral compass, then you have to look at it in the other light as well."
+- **Valence (0.6)**: Slightly positive. The statement suggests a reconsideration of perspectives, which can be seen as constructive.
+- **Dominance (0.5)**: Balanced. It acknowledges opposing views and invites further discussion.
+- **Intensity (0.4)**: Mild. The language does not provoke a strong emotional response.
+- **Concreteness (0.5)**: General but introduces a dual perspective without specific examples at this moment.
+
+### Quarter 3
+**Text:** "What if people are doing things that the law considers bad, but they consider morally upright?"
+- **Valence (0.5)**: Neutral. The question itself does not suggest a side but prompts exploration.
+- **Dominance (0.3)**: The question format positions the speaker as less dominant, encouraging reflection rather than asserting a claim.
+- **Intensity (0.5)**: Moderate. The inquiry introduces complexity but remains measured.  
+- **Concreteness (0.4)**: This portion remains abstract, lacking specific instances that would make the argument more tangible.
+
+### Quarter 4
+**Text:** "Isn't it best at times to acknowledge that while you may have a conflicting opinion, you are not a god and your personal beliefs may be secondary to the larger community's moral beliefs if it affects other people in your community?"
+- **Valence (0.7)**: Moderately positive. It advocates for a communal perspective over individual belief, which can be seen as a constructive societal approach.
+- **Dominance (0.6)**: More assertive, as it presents a clear argument regarding the importance of community over individual judgment.
+- **Intensity (0.7)**: Higher intensity, as it provokes consideration of moral responsibility and consequence.
+- **Concreteness (0.5)**: Somewhat abstract, still relying on hypothetical situations rather than specific examples, but the focus on community provides a frame of reference.
+
+### Summary of Scores:
+- **Quarter 1**: Valence (0.5), Dominance (0.4), Intensity (0.5), Concreteness (0.6)
+- **Quarter 2**: Valence (0.6), Dominance (0.5), Intensity (0.4), Concreteness (0.5)
+- **Quarter 3**: Valence (0.5), Dominance (0.3), Intensity (0.5), Concreteness (0.4)
+- **Quarter 4**: Valence (0.7), Dominance (0.6), Intensity (0.7), Concreteness (0.5) 
+
+These scores are subjective and could vary based on perspective and interpretation.
+

@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on valence, dominance, intensity, and concreteness, I’ll provide a score from 0.0 to 1.0 for each of the four qualities and describe the reasoning behind each score for the respective segments of the argument.
+
+### Quarter 1: 
+"CMV: In terms of economic system, this is the best we have had and the best we know how to have If all realistic forms of government, societal structure and economic systems have been tried over the course of history, it holds that we have the best form (capitalist system with big government) now simply due to evolution."
+
+- **Valence: 0.8** - The statement is positive, suggesting that the current economic system is the best achieved. 
+- **Dominance: 0.7** - It asserts that this system holds a dominant position over others based on historical evolution, showing a strong perspective.
+- **Intensity: 0.6** - The argument is fairly strong but leaves some openness to discussion (CMV stands for "Change My View"), which tempers its intensity.
+- **Concreteness: 0.7** - It references historical experimentation but could benefit from specific examples or data to further ground its claims.
+
+### Quarter 2:
+"If it wasn't the best form then it would have collapsed and been replaced with something else long ago."
+
+- **Valence: 0.9** - This statement asserts a highly positive perspective on the current system's resilience.
+- **Dominance: 0.8** - It strongly implies that the system's survival indicates its superiority to alternatives, suggesting that no other system has outperformed it.
+- **Intensity: 0.7** - The argument is robust here, though it could be interpreted as somewhat linear or not entirely nuanced.
+- **Concreteness: 0.6** - The statement is more of a logical assertion than one based on concrete examples of failures or alternatives.
+
+### Quarter 3:
+"What we have now is the fruits of thousands of years of experimentation with organizing humans in the most effective way and to argue there is a better way right now doesn't make sense, otherwise it would be here right now instead."
+
+- **Valence: 0.8** - This reinforces a positive stance regarding the current economic system.
+- **Dominance: 0.7** - It suggests that all alternatives have been tested and found wanting, which is a strong claim.
+- **Intensity: 0.6** - The logic is strong, yet the phrasing ("doesn't make sense") could be seen as dismissive, which might lower intensity.
+- **Concreteness: 0.7** - Points to historical processes and experimentation, but lacks specific examples of alternatives evaluated.
+
+### Quarter 4:
+"There are several points here and I'm sure some I have missed from the central argument so feel to flesh out the situation a bit more in your argument. Edit: Economically best, as in the increased longevity and efficient usage of both human and natural resources. Edit2: It appears as of yet there is no definitive answer to this problem and there may never be. Wish I could give deltas for informative answers."
+
+- **Valence: 0.6** - This quarter introduces a more neutral point, recognizing potential shortcomings and the lack of a definitive answer.
+- **Dominance: 0.5** - Its tone is more open to discussion and less assertive, suggesting it does not seek to dominate the conversation.
+- **Intensity: 0.5** - The acknowledgment of complexity and uncertainly tempers intensity and confidence in the argument.
+- **Concreteness: 0.6** - It alludes to economic efficiency and longevity but remains quite abstract and lacks direct examples or specifics.
+
+### Summary of Scores:
+1. **Quarter 1:** Valence: 0.8 | Dominance: 0.7 | Intensity: 0.6 | Concreteness: 0.7
+2. **Quarter 2:** Valence: 0.9 | Dominance: 0.8 | Intensity: 0.7 | Concreteness: 0.6
+3. **Quarter 3:** Valence: 0.8 | Dominance: 0.7 | Intensity: 0.6 | Concreteness: 0.7
+4. **Quarter 4:** Valence: 0.6 | Dominance: 0.5 | Intensity: 0.5 | Concreteness: 0.6
+

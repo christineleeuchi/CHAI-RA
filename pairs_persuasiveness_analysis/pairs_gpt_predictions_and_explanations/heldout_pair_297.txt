@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings based on the criteria you provided:
+
+**Valence:**
+- **Score: 0.8** 
+- The argument has a positive valence overall, as it promotes acceptance and normalization of homosexuality by suggesting that marriage is not critical to sexual freedom. It also seeks to alleviate concerns about overemphasis on sexual orientation in society.
+
+**Dominance:**
+- **Score: 0.7** 
+- The argument shows a strong sense of authority, responding to the original concerns with well-reasoned counterarguments. It presents its points confidently, indicating a level of dominance in the discussion.
+
+**Intensity:**
+- **Score: 0.6** 
+- The intensity is moderate; while the argument is clear and assertive, it does not invoke strong emotional reactions. The tone is calm and rational rather than passionate or inflammatory.
+
+**Concreteness:**
+- **Score: 0.9** 
+- The argument is concrete, discussing specific issues such as marriage, societal norms, and homosexuality. It provides clear examples and practical implications to support its points, making the argument tangible and relatable. 
+
+Overall, the argument appears to engage thoughtfully with the original concerns while emphasizing acceptance and a shift in societal perspective.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's an assessment of the argument provided, broken down into four quarters, with ratings for valence, dominance, intensity, and concreteness:
+
+### Quarter 1
+**Text: "One of the main arguments against gay marriage is that it is 'unnatural'. One could also argue that incest and pedophilia are unnatural, but even more broadly, any sexual relationship outside of marriage between a man and woman can be argued effectively as unnatural."**
+
+- **Valence:** 0.3 (Somewhat negative, as it presents a challenge against gay marriage.)
+- **Dominance:** 0.6 (The speaker asserts their viewpoint and counters this prejudice.)
+- **Intensity:** 0.5 (Moderate intensity in expressing skepticism towards existing arguments.)
+- **Concreteness:** 0.5 (The arguments refer to concepts that are abstract but are grounded in societal norms.)
+
+### Quarter 2
+**Text: "Marriage is unnatural, humans present both monogamous and polygamous behaviour, marriage is outrageous and against nature."**
+
+- **Valence:** 0.2 (Negative, as it critiques the institution of marriage.)
+- **Dominance:** 0.7 (The speaker takes a strong stance asserting marriage itself is unnatural.)
+- **Intensity:** 0.6 (Higher intensity due to the strong language used.)
+- **Concreteness:** 0.4 (Concepts are somewhat abstract but refer to human behavior and societal constructs.)
+
+### Quarter 3
+**Text: "Gay marriage activists very frequently champion progressive thinking and non-discrimination... should these children be forced to have an incomplete, handicapped life on the basis of equality."**
+
+- **Valence:** 0.1 (Very negative, implying severe consequences for children resulting from incest.)
+- **Dominance:** 0.5 (The speaker challenges the application of progressive values.)
+- **Intensity:** 0.7 (High intensity in expressing concern and alarm at potential outcomes.)
+- **Concreteness:** 0.6 (Use of specific scenarios makes the argument more concrete.)
+
+### Quarter 4
+**Text: "Having children via incest should be illegal... since natality would fall into nothingness and population would readjust somewhere reasonable."**
+
+- **Valence:** 0.4 (Mixed valence; acknowledges the potential benefit of reducing population, but still critiques incest.)
+- **Dominance:** 0.5 (The speaker argues against incest while taking a somewhat pragmatic view on population.)
+- **Intensity:** 0.5 (Moderate intensity due to a rational approach.)
+- **Concreteness:** 0.6 (Brings in specific legislative suggestions related to parenthood which adds to its concreteness.)
+
+### Summary
+- **Quarter 1: Valence: 0.3, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.5**
+- **Quarter 2: Valence: 0.2, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.4**
+- **Quarter 3: Valence: 0.1, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.6**
+- **Quarter 4: Valence: 0.4, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6**
+

@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument based on valence, dominance, intensity, and concreteness, I'll assess each quarter of the text separately. Here’s how I would rate each aspect:
+
+### Quarter 1:
+**Text:** "You act like MRA activists being pitted against feminism is entirely the fault of MRA's. That's a bit simplistic I think. I certainly won't argue that it is just the fault of feminists either though."
+
+- **Valence:** 0.5 (Neutral)** - The speaker acknowledges a problem in the dynamic between MRAs and feminists but does not take a strong stance.
+- **Dominance:** 0.4 (Moderate)** - The speaker displays some authority in stating a balanced view, but still engages in a conversational tone.
+- **Intensity:** 0.3 (Low)** - The tone is mild, not overly passionate or aggressive.
+- **Concreteness:** 0.5 (Moderate)** - The argument is somewhat abstract as it refers to a complex social dynamic without specific examples.
+
+### Quarter 2:
+**Text:** "The truth is, both MRAs and Feminists have extremely unhelpful extremist elements in their midst that frankly need to be denounced by the mainstream of both sides."
+
+- **Valence:** 0.6 (Slightly Positive)** - The recognition of the need for denouncement could be seen as constructive criticism.
+- **Dominance:** 0.5 (Balanced)** - The speaker positions themselves as a commentator on both groups, asserting a level of authority.
+- **Intensity:** 0.4 (Moderate)** - While critical, the tone is still measured and not overly aggressive.
+- **Concreteness:** 0.4 (Moderate)** - This section touches on the idea of extremism but doesn’t give specific examples yet. 
+
+### Quarter 3:
+**Text:** "Feminists love to complain about Misogyny in the MRM, but ignore any misandry among their own, or even claim that it doesn't exist. I'm not just talking about feminists who want all men to die (and those do exist)."
+
+- **Valence:** 0.4 (Moderate Negative)** - This part conveys frustration and is critical of feminists, leaning toward a negative valence.
+- **Dominance:** 0.6 (Moderate to High)** - The speaker is assertively making a claim about the hypocrisy of feminists, portraying a stronger dominance in the argument.
+- **Intensity:** 0.7 (High)** - The assertion about “feminists who want all men to die” raises the intensity significantly.
+- **Concreteness:** 0.5 (Moderate)** - While it introduces some examples, it remains somewhat abstract in discussing the broader implications.
+
+### Quarter 4:
+**Text:** "The fact is, it simply isn't a coincidence that the movement is called FEMinism. And despite its grand claims, most members usually behave according to the name."
+
+- **Valence:** 0.3 (Negative)** - The text has a negative connotation, critiquing feminism directly.
+- **Dominance:** 0.7 (High)** - The speaker is assertive and definitive, implying a strong opinion on the inadequacy of feminism.
+- **Intensity:** 0.8 (High)** - The argument here is highly charged, especially with bold assertions.
+- **Concreteness:** 0.7 (High)** - This part of the argument is quite concrete, directly critiquing feminism and making specific claims about the movement’s name and implications.
+
+Overall, the argument is a mix of constructive criticism and strong assertions leading to a dialogue around the relationship between MRAs and feminists.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here is the rating for each of the categories you requested based on the provided argument:
+
+**1. Valence: 0.3**
+- The argument expresses a critical viewpoint, indicating a negative perception of certain parts of the Men's Rights Movement (MRM) and a more nuanced perspective on feminism. The overall tone is somewhat negative, particularly regarding the reactionary aspects of the MRM.
+
+**2. Dominance: 0.4**
+- The argument asserts a stance that the anti-male perspectives within feminism and the anti-feminist sentiments within the MRM are not equivalent. It emphasizes a critique of the MRM’s reactionary elements and claims that collaboration is not feasible due to these issues. This indicates a moderate level of dominance in asserting an opinion.
+
+**3. Intensity: 0.6**
+- The argument conveys a strong and passionate opinion about the relationship between the MRM and feminism. The language reflects a sense of urgency in advocating for a more constructive collaboration while criticizing the current state of the MRM, demonstrating a higher intensity.
+
+**4. Concreteness: 0.5**
+- The argument includes specific references to individuals (such as Ally Fogg) and notions (like the idea of collaboration and the principles of feminism) that lend it a degree of concreteness. However, the abstract nature of discussing movements and principles without specific examples or scenarios reduces its overall concreteness.
+
+These ratings reflect an analysis of the argument's tone, assertiveness, emotional weight, and specificity based on the provided text.
+

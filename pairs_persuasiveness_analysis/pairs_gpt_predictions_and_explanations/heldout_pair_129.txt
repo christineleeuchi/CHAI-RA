@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument presented, here's the rating score for each of the requested categories: valence, dominance, intensity, and concreteness for each quarter of the text.
+
+### Quarter 1: "We won't all be dead. Not even close. We have modern technology, like GMOs and healthcare and pumping systems that make the challenges of climate change largely doable, for those with the money to afford them."
+- **Valence:** 0.6 (The statement has a generally positive outlook by emphasizing available solutions, but it also implies inequality.)
+- **Dominance:** 0.7 (The speaker is asserting a strong position that counters the fatalistic viewpoint.)
+- **Intensity:** 0.5 (The language is assertive but not overly emotional; it presents a rational argument rather than a passionate plea.)
+- **Concreteness:** 0.7 (Mentions specific technologies and their role, making the argument more tangible.)
+
+### Quarter 2: "Its the poor of the world who are in for it; they won't be able to escape the effects the way we can."
+- **Valence:** 0.4 (This section shifts to a more negative tone, highlighting inequality and suffering.)
+- **Dominance:** 0.6 (The speaker acknowledges vulnerability in a certain demographic, indicating understanding but also a position of authority on the discussion of impacts.)
+- **Intensity:** 0.6 (There’s a stronger emotional weight here as it deals with the implications of social inequality.)
+- **Concreteness:** 0.5 (While it is grounded in social realities, it doesn't specify how the effects will manifest for the poor.)
+
+### Quarter 3: "As for nature, nature will take this in stride. This is barely a blip on the radar in terms of large scale environmental changes throughout natural history."
+- **Valence:** 0.5 (Neutral tone regarding nature, implying resilience but downplaying concern.)
+- **Dominance:** 0.5 (The speaker positions nature as a strong entity, but their stance on climate change appears less authoritative compared to human impacts.)
+- **Intensity:** 0.4 (Less emotional charge, more analytical commentary on nature’s historical resilience.)
+- **Concreteness:** 0.6 (Uses historical context to support claims but lacks specific examples of evidence.)
+
+### Quarter 4: "I'd really like to hear why you think global warming has the potential to make us all dead. I've never seen any science that indicates anything close to that, unless it comes from some idiot environmentalist who makes up for their lack of actual knowledge about the environment by making ever more dire claims."
+- **Valence:** 0.3 (This is a more hostile tone towards opponents, which negatively colors the argument.)
+- **Dominance:** 0.7 (The speaker is challenging the opposing viewpoint forcefully.)
+- **Intensity:** 0.8 (This is the most intense section, conveying strong emotions, frustration, and dismissiveness.)
+- **Concreteness:** 0.4 (Lacks specific scientific references and instead relies on a personal dismissal of opposing viewpoints.)
+
+These scores aim to capture the essence of the argument in each quarter while highlighting its strengths and weaknesses across the requested categories.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To analyze the provided argument, I'll evaluate each quarter based on the criteria of valence (positive or negative emotion), dominance (the degree of control or influence the argument portrays), intensity (the strength or force of the argument), and concreteness (the clarity and tangible nature of the argument).
+
+### Quarter 1: 
+**"There are many different systems in place that are preventing humanity from focusing on environmental issues. We still can't seem to stop killing each other in massive numbers over flags, ancient books, cycles of vengeance, and property disputes."**
+
+- **Valence:** 0.2 (The tone is quite negative, highlighting conflict and systemic failures.)
+- **Dominance:** 0.3 (It suggests a significant lack of control over societal issues.)
+- **Intensity:** 0.7 (The statement is strong in its condemnation of violence and systemic issues.)
+- **Concreteness:** 0.4 (While the argument presents clear concepts, the issues mentioned are abstract and not tied to specific data or examples.)
+
+### Quarter 2: 
+**"There are many among us who still believe that those who don't share a common phenotype deserve enslavement and death. There are systems in place that keep the poor in poverty all over the world."**
+
+- **Valence:** 0.1 (Extremely negative, addressing grave injustices and racism.)
+- **Dominance:** 0.5 (It presents a powerful sentiment of social control and systemic oppression.)
+- **Intensity:** 0.8 (Highly intense language indicating severe issues of inequality and injustice.)
+- **Concreteness:** 0.3 (The ideas are serious, yet they’re presented abstractly without specific examples.)
+
+### Quarter 3: 
+**"And yet. We have still in the past 20 years alone have continued to take steps in correcting the errors of our ambitious industrial ancestors. In spite of every other problem humanity is facing, our scientists across the globe still manage to make strides towards an earth that will sustain us."**
+
+- **Valence:** 0.6 (This portion shifts to a more positive tone, acknowledging progress and hope.)
+- **Dominance:** 0.4 (It implies a degree of control in making positive changes, albeit amidst challenges.)
+- **Intensity:** 0.5 (The statement is moderately strong, expressing progress but still acknowledging the struggle.)
+- **Concreteness:** 0.5 (It references historical progress in a more tangible way, mentioning scientists and efforts.)
+
+### Quarter 4:
+**"Just imagine for a moment what a modern period of peace time would do for us. Imagine if we found the same drive we had during the Space Race and put it towards cleaning up our energy. Call me an optimist, but I feel that humanity is doing pretty well considering the number of problems we're facing all at once."**
+
+- **Valence:** 0.8 (Very positive, conveying optimism and hope for the future.)
+- **Dominance:** 0.6 (Encourages a sense of control over the future through collective action and peace.)
+- **Intensity:** 0.7 (Strengthened by an optimistic tone and an inspiring call to action.)
+- **Concreteness:** 0.6 (Provides a clear vision of potential future outcomes and a historical parallel to motivate.)
+
+### Summary of Scores:
+- **Quarter 1:** Valence: 0.2, Dominance: 0.3, Intensity: 0.7, Concreteness: 0.4
+- **Quarter 2:** Valence: 0.1, Dominance: 0.5, Intensity: 0.8, Concreteness: 0.3
+- **Quarter 3:** Valence: 0.6, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.5
+- **Quarter 4:** Valence: 0.8, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+

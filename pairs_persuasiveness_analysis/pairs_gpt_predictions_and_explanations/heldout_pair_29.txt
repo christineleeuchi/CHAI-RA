@@ -1,0 +1,64 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the given argument using scores from 0.0 to 1.0 for valence, dominance, intensity, and concreteness, we can analyze each quarter of the text separately. Below are the scores based on the described dimensions:
+
+1. **First Quarter: "Why, then, is it looked down on and dismissed as anecdotal evidence for someone to share an experience of theirs?"**
+   - **Valence:** 0.6 (The tone is questioning, indicating curiosity but also a sense of frustration.)
+   - **Dominance:** 0.4 (The speaker is questioning the status quo, showing a mild challenge to existing views.)
+   - **Intensity:** 0.5 (The question reflects a moderate level of engagement with the topic.)
+   - **Concreteness:** 0.5 (The mention of "anecdotal evidence" is somewhat abstract but involves specific experiences.)
+
+2. **Second Quarter: "When something is dismissed as anecdotal, it's usually because there's better evidence available."**
+   - **Valence:** 0.7 (The statement implies a more positive angle on the necessity of stronger evidence.)
+   - **Dominance:** 0.5 (The speaker is presenting a clear rationale, asserting an understanding of the situation.)
+   - **Intensity:** 0.6 (The phrase suggests a stronger statement of belief about the nature of evidence.)
+   - **Concreteness:** 0.6 (This is more informative, as it addresses a typical situation involving evidence.)
+
+3. **Third Quarter: "No one complains that it's anecdotal when you say you enjoy chocolate cake."**
+   - **Valence:** 0.8 (This part is positive and relatable, invoking a common experience.)
+   - **Dominance:** 0.4 (The speaker presents an example that does not challenge authority but supports the argument.)
+   - **Intensity:** 0.5 (It has a light-hearted tone, leading to moderate engagement.)
+   - **Concreteness:** 0.9 (It uses a specific example that most can visualize and relate to.)
+
+4. **Fourth Quarter: "It's when anecdotes are pushed in the face of more objective measures to the contrary that it becomes a concern, because then they become a potential tool for manipulating others or fooling yourself."**
+   - **Valence:** 0.4 (The tone becomes more critical here, recognizing potential negative consequences.)
+   - **Dominance:** 0.6 (The speaker takes a stronger stance about the misuse of anecdotes.)
+   - **Intensity:** 0.7 (There’s significant engagement with the implications of the argument.)
+   - **Concreteness:** 0.7 (There are specific scenarios described, although they remain somewhat abstract.)
+
+These scores reflect an overall analysis of the argument's tone and effectiveness in presenting its case regarding the treatment of anecdotal evidence.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the given argument on the specified dimensions, I'll analyze each quarter of the text separately.
+
+1. **First Quarter**: "I understand that in an anecdotal case it is not scientific because it cannot be replicated and held to control standards..."
+   - **Valence**: 0.6 (The statement shows understanding and acknowledgment of a debate, but it’s somewhat negative about anecdotal cases.)
+   - **Dominance**: 0.5 (This part is neutral in tone and doesn’t assert dominance; it presents an understanding of a counterpoint.)
+   - **Intensity**: 0.4 (The tone is relatively mild, with a reasoned acknowledgment rather than emotional intensity.)
+   - **Concreteness**: 0.7 (It speaks directly to concepts in scientific discourse, making it relatively concrete.)
+
+2. **Second Quarter**: "...but I don't think this is grounds for dismissing the case as merely anecdotal and not worth mentioning."
+   - **Valence**: 0.7 (This part expresses a positive viewpoint on the merit of anecdotal evidence.)
+   - **Dominance**: 0.6 (The speaker asserts a stronger stance against the dismissal of anecdotal evidence.)
+   - **Intensity**: 0.5 (The emotional tone is moderate; the speaker is defending a position without heavy emotion.)
+   - **Concreteness**: 0.6 (While it refers to anecdotal evidence, the wording is somewhat abstract in its valuation.)
+
+3. **Third Quarter**: "One of those is a positive statement, and one of those is a normative statement."
+   - **Valence**: 0.5 (This section is neutral as it simply states a fact about the types of statements.)
+   - **Dominance**: 0.5 (It neither asserts authority nor does it seek to dominate; it's purely informational.)
+   - **Intensity**: 0.2 (This part lacks emotional weight or urgency, making it quite low in intensity.)
+   - **Concreteness**: 0.8 (The statement is clear and provides a concrete classification of different types of statements.)
+
+4. **Fourth Quarter**: "I can't really CMV you on whether or not you should like something (I don't yuck someone's yum), and I can't say that anecdotal evidence should never be mentioned because then I would be a colossal hypocrite..."
+   - **Valence**: 0.6 (While the speaker acknowledges a limitation, there's a reasonable tone regarding personal preferences related to anecdotal evidence.)
+   - **Dominance**: 0.7 (The speaker is taking a clear stance and asserting the complexity of the issue.)
+   - **Intensity**: 0.6 (This part contains more personal flair with a humorous remark, giving it moderate emotional intensity.)
+   - **Concreteness**: 0.7 (The speaker's hypothetical situations make it relatively concrete in its assertions.)
+
+**Summary of Ratings**:
+- First Quarter: Valence 0.6, Dominance 0.5, Intensity 0.4, Concreteness 0.7
+- Second Quarter: Valence 0.7, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+- Third Quarter: Valence 0.5, Dominance 0.5, Intensity 0.2, Concreteness 0.8
+- Fourth Quarter: Valence 0.6, Dominance 0.7, Intensity 0.6, Concreteness 0.7 
+
+Each rating reflects the characteristics of the specific portion of the argument based on the criteria provided.
+

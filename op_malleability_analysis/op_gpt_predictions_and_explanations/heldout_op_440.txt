@@ -1,0 +1,29 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument you presented:
+
+**Quarter 1: "CMV: It's irresponsible to have more than two children. Regardless of your personal situation, whether rich, poor or in the middle, I feel it's irresponsible, on a global level, to have more than two children."**
+- Valence: 0.7 (The statement has a negative connotation but is aimed at promoting awareness.)
+- Dominance: 0.5 (The speaker is asserting a viewpoint but acknowledges diverse personal situations.)
+- Intensity: 0.6 (The repeated use of "irresponsible" shows a strong opinion.)
+- Concreteness: 0.4 (The point is more abstract and philosophical regarding responsibility than factual.)
+
+**Quarter 2: "With the world's population at 7 billion and growing, the agriculture industry is struggling to keep up, the world's oceans are being depleted of fish and other sea creatures at an alarming rate, humans are encroaching on the little remaining natural habitats of a number of endangered species..."**
+- Valence: 0.8 (This section conveys concern for negative ecological impacts.)
+- Dominance: 0.6 (The argument is strong, with a sense of urgency and authority on environmental issues.)
+- Intensity: 0.7 (Strong emotional weight due to alarming implications about resource depletion and extinction.)
+- Concreteness: 0.8 (Specific references to population numbers and environmental issues provide tangible evidence for the argument.)
+
+**Quarter 3: "It seems to me that having more than two children would be irresponsible. 3 children and up equals more children than parents and therefore is contributing to population growth."**
+- Valence: 0.7 (Continues the negative framing of having more than two children.)
+- Dominance: 0.6 (The argument builds, asserting a cause-and-effect relationship between family size and population growth.)
+- Intensity: 0.6 (Moderate intensity as the speaker reiterates their perspective on population implications.)
+- Concreteness: 0.5 (While the logic is clear, the claim remains more abstract in its reasoning.)
+
+**Quarter 4: "2 children and under, per couple, would lead to a slightly declining population, as not all children will choose to reproduce, either by choice, or some will not live long enough to make it to reproducing age. And I think that would be a great thing for the world for a few generations. Level the population out and get it to a more manageable level."**
+- Valence: 0.8 (Positive implication of population decline and global management.)
+- Dominance: 0.5 (Presents a hopeful solution but lacks commanding authority, as it relies on future possibilities.)
+- Intensity: 0.6 (A sense of optimism is conveyed, but with an acknowledgment of complexity.)
+- Concreteness: 0.6 (Discussion of managing population levels provides a clearer conclusion, but relies on projections.)
+
+Overall, these scores reflect the emotional weight, authority, and specificity of each part of the argument, highlighting how they contribute to the overall message while considering their respective contexts.
+

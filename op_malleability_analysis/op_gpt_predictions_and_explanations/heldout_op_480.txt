@@ -1,0 +1,43 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the provided argument in terms of valence, dominance, intensity, and concreteness, we can break it into four quarters and assess each aspect on a scale from 0.0 to 1.0.
+
+### First Quarter:
+*"CMV: Self interest is a persons only motivation It seems that the only thing that ever is motivating any person at any point in time, is self interest."*
+
+- **Valence**: 0.3 (The sentiment is negative, suggesting a bleak view of human motivation.)
+- **Dominance**: 0.6 (The speaker asserts a strong position but doesn't dominate the conversation yet.)
+- **Intensity**: 0.6 (There is a firm assertion that captures interest and persuades the audience.)
+- **Concreteness**: 0.5 (The argument is abstract but has a clear focus on self-interest as a concept.)
+
+### Second Quarter:
+*"Selfless" actions can easily be explained through people likely expecting themselves to act in this fashion as it is their own moral code which they are fulfilling. To them they would expect it of themselves and be disappointed if they didn't carry out the selfless action. behind all of this is self interest.*
+
+- **Valence**: 0.4 (Again, somewhat negative, indicating skepticism of altruism.)
+- **Dominance**: 0.7 (The argument reinforces the speaker's position more convincingly.)
+- **Intensity**: 0.7 (The argument presents a strong claim against selfless actions.)
+- **Concreteness**: 0.6 (More tangible because it presents reasoning behind actions.)
+
+### Third Quarter:
+*"Yes people might suggest that people are motivated for things such as want for sex or money, but behind all of this lies the sole motivation of self interest."*
+
+- **Valence**: 0.4 (The tone still leans negative as it dismisses other motivations.)
+- **Dominance**: 0.8 (The speaker is becoming quite authoritative in their assertion.)
+- **Intensity**: 0.8 (Strong language reinforces the argument's intensity.)
+- **Concreteness**: 0.5 (Making broad statements about motivations but lacking specific examples.)
+
+### Fourth Quarter:
+*"On a more soppy note, I would now contend that (for want of a better word) love is the main motivation behind things. Love of self motivates lots of things such as self interest, but there is something else which I'd been discounting earlier. This is of course love of others which is expressed through selfless actions."*
+
+- **Valence**: 0.6 (This part has a more positive sentiment, introducing love as a motivator.)
+- **Dominance**: 0.5 (The tone is more reflective, less assertive than earlier sections.)
+- **Intensity**: 0.5 (Moderate intensity as the view is being reconsidered.)
+- **Concreteness**: 0.6 (Introduces a more personal and emotional aspect, making it more relatable.)
+
+### Summary of Ratings:
+- **First Quarter**: Valence: 0.3, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.5
+- **Second Quarter**: Valence: 0.4, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.6
+- **Third Quarter**: Valence: 0.4, Dominance: 0.8, Intensity: 0.8, Concreteness: 0.5
+- **Fourth Quarter**: Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+
+These ratings reflect the evolving nature of the argument, from a strong assertion of self-interest to a more balanced view incorporating love as a significant motivator.
+

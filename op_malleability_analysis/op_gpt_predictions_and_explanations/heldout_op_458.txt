@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure! Here’s a rating score from 0.0 to 1.0 for each of the four dimensions (valence, dominance, intensity, and concreteness) for each quarter of the provided argument.
+
+### 1st Quarter
+**Text:** "CMV: The Kurds are the good guys, and western nations should be engaging in a hands-down alliance with them in the Middle East. I am a cynical man. I don't believe in heroes, and so I'm prepared to change my view on this. The trouble is, every last bit of news I hear about the current Middle East conflicts goes only to reinforce my ever-growing belief that the Kurds are the only group involved with any moral high ground."
+
+- **Valence:** 0.8 (The overall tone is positive towards the Kurds, framing them as 'good guys.')
+- **Dominance:** 0.5 (The author expresses a personal stance but acknowledges potential for change, thus showing a medium state of control over the view.)
+- **Intensity:** 0.6 (The feeling towards the Kurds is strong, but tempered by the author’s cynicism.)
+- **Concreteness:** 0.5 (Some abstract concepts are presented, such as "moral high ground," without specific examples yet.)
+
+### 2nd Quarter
+**Text:** "1) The Kurds espouse a number of western values that are largely absent in the region. Only The Kurds and the (middle and lower class) Iranians show any tendency to respect women's rights or treat them as equals deserving of respect or status. The Kurds have women in their military, and even their conservative tribal organizations can have Matriarchs in charge of political and military decisions."
+
+- **Valence:** 0.9 (The argument strongly positions the Kurds positively regarding Western values and gender equality.)
+- **Dominance:** 0.7 (The author confidently presents evidence of Kurdish values and actions.)
+- **Intensity:** 0.8 (The statements reinforce a strong belief in the correctness of the Kurds’ values.)
+- **Concreteness:** 0.7 (Specific examples are provided, such as women in the military and matriarchs, making the claims more tangible.)
+
+### 3rd Quarter
+**Text:** "2) They care about more than just themselves. The Kurds have gone out of their way, at significant danger to themselves, to rescue other ethnic minorities in the region, including famously the Yazidis, who everyone else was more than happy to let ISIS literally murder, enslave, and rape at genocidal scales."
+
+- **Valence:** 0.9 (Highlighting the Kurds’ altruism increases their positive representation.)
+- **Dominance:** 0.6 (The author remains assertive, but the narrative introduces vulnerability by discussing danger.)
+- **Intensity:** 0.8 (There is a strong emotional charge in the discussion of their rescue efforts.)
+- **Concreteness:** 0.8 (The mention of Yazidis and the context of their rescue provides substantial specificity.)
+
+### 4th Quarter
+**Text:** "3) Their political opponents have all shown themselves to be monsters in the fullness of time. Turkey is key here. For a while Turkey managed to keep up quite a reputation as a modern secular-Islamic state. Now they're wringing their hands about how *powerless* they are to stop ISIS while they gleefully watch the black banner do all their dirty work for them, then step in with overwhelming force to rescue Ataturk's grave the moment it's threatened. They're bombing Kurdish targets *right now* while crying about ISIS. I would want independence from them too."
+
+- **Valence:** 0.4 (The tone towards Turkish political actors is very negative, contrasting heavily with the Kurds. This reduces overall valence.)
+- **Dominance:** 0.8 (The author asserts strong critiques of Turkey, showing confidence in their stance.)
+- **Intensity:** 0.9 (The emotional impact of the statements is high, particularly when discussing violence and betrayal.)
+- **Concreteness:** 0.7 (The argument includes specific criticisms of Turkish actions, lending it more weight.)
+
+These scores highlight how each part of the argument functions in terms of its emotional and persuasive quality, the author's confidence, the strength of the claims, and the specificity of those claims.
+

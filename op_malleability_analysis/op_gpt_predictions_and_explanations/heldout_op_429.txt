@@ -1,0 +1,33 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s the rating for each dimension (valence, dominance, intensity, and concreteness) of the argument segmented into four quarters:
+
+**1st Quarter: "CMV:Donald Trump is popular because he doesn't give a fuck. And he could actually win. Hi all, I haven't thought this through in depth, but my gut reaction to Donald Trump's popularity is that he taps into the hatred for the political class more than anything else."**
+
+- **Valence: 0.6** (Some positive elements regarding Trump being authentic, but mixed feelings due to the crude expression.)
+- **Dominance: 0.7** (The speaker expresses a strong opinion, indicating a confident stance.)
+- **Intensity: 0.5** (Moderately intense expressions regarding the political class. Unsteady tone as it’s a gut reaction.)
+- **Concreteness: 0.6** (Uses casual language and a personal viewpoint but lacks specific examples for broader applicability.)
+
+**2nd Quarter: "He simply doesn't give a fuck about politicians, and is willing to call them out for being the shit they are. And the rest doesn't matter at all. I don't think it's primarily a racist element that supports him. I don't think it's that people have any clue about his politics even. No one really cares."**
+
+- **Valence: 0.5** (Neutral tone overall, reflecting disdain on politicians but lacks strong negativity towards Trump.)
+- **Dominance: 0.6** (The author asserts that many people supporting Trump are indifferent to details, showing confidence.)
+- **Intensity: 0.7** (More intense in expressing disdain for the political class; the language is strong.)
+- **Concreteness: 0.4** (While the sentiment is clear, the point about supporters lacking understanding is vague.)
+
+**3rd Quarter: "But the likes of John McCain and Lindsey Graham are well known for being war mongers who are totally full of shit and useless. Rick Perry is a complete idiot. Hillary Clinton, well, she's a Clinton... Nuff said."**
+
+- **Valence: 0.3** (Very negative sentiments are expressed toward several politicians; the language is derogatory.)
+- **Dominance: 0.8** (High assertiveness in criticizing these political figures, almost confrontational.)
+- **Intensity: 0.9** (High intensity due to the harsh language and strong opinions about other politicians.)
+- **Concreteness: 0.7** (More concrete examples are given, clearly identifying individuals and their perceived flaws.)
+
+**4th Quarter: "But what the political class and the American media don't understand is that they are truly hated... Trump, more than any other candidate before him, has the potential to overthrow this political order, and that is why people support him."**
+
+- **Valence: 0.5** (Balancing towards negativity about the political class, but recognizing a potential for change.)
+- **Dominance: 0.7** (Confidently suggests Trump’s potential to disrupt the political system.)
+- **Intensity: 0.6** (The excitement of potential change recognized, but the delivery is less harsh than previous sections.)
+- **Concreteness: 0.5** (Makes a broader claim about political sentiment but lacks specific examples to back it up robustly.)
+
+These ratings offer a general assessment based on the described parameters across the text's sections.
+

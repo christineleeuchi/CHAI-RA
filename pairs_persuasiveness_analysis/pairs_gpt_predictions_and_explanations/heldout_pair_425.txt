@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score from 0.0 to 1.0 for each of the four dimensions—valence, dominance, intensity, and concreteness—across the four quarters of the argument.
+
+### Quarter 1: 
+"I eat meat and care very much for morality. I was a vegetarian for many years for the usual reasons: not approving of the horrible ways the animals are often treated in industrial meat production, wanting to avoid the environmental impact of industrial farming, etc."
+
+- **Valence**: 0.7 (Positive sentiment towards morality, but negative sentiment expressed toward industrial meat production)
+- **Dominance**: 0.4 (The author presents their perspective on morality but acknowledges societal norms)
+- **Intensity**: 0.6 (Moderate intensity as it reflects a personal journey and concern)
+- **Concreteness**: 0.8 (Specific references to vegetarianism and moral concerns provide clarity)
+
+### Quarter 2:
+"Although there were other factors involved as well, I started eating meat again because I accepted that:"
+
+- **Valence**: 0.5 (Neutral statement introducing the justification for a change in behavior)
+- **Dominance**: 0.5 (Balanced framing as it transitions from past to present viewpoint)
+- **Intensity**: 0.4 (Low intensity as it’s introductory and less emotionally charged)
+- **Concreteness**: 0.5 (Somewhat abstract, as it doesn't provide immediate examples yet)
+
+### Quarter 3:
+"1) By choosing to eat meat that is hunted by myself or someone I know, raised by someone I know, or raised free-range on grass from a company I trust, I take ownership of how the animal is being treated and help create a market for ethically-raised meat."
+
+- **Valence**: 0.8 (Positive sentiment towards ethical meat consumption and ownership)
+- **Dominance**: 0.6 (Authoritative stance conveyed by asserting control over meat sourcing)
+- **Intensity**: 0.7 (Strong assertion of moral reasoning behind choices)
+- **Concreteness**: 0.9 (Highly concrete due to specific examples of meat sourcing)
+
+### Quarter 4:
+"2) Many of the protein alternatives that vegetarians consume are actually as destructive to the environment as ethically-raised meat or worse. Soy production, for example, is extremely problematic."
+
+- **Valence**: 0.7 (Positive toward the choice of ethically-raised meat, negative towards some vegetarian sources)
+- **Dominance**: 0.7 (Strong point that challenges a common vegetarian narrative)
+- **Intensity**: 0.8 (Higher intensity as it critiques common assumptions)
+- **Concreteness**: 0.8 (Specific example of soy production lends credibility to the argument)
+
+Overall, the argument expresses a blend of care for morality and a pragmatic approach towards food choices, reflecting a more nuanced view of ethical consumption.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score for each of the attributes (valence, dominance, intensity, and concreteness) for the argument presented, I will break it down into four quarters based on the structure of the argument.
+
+### Quarter 1: "While I agree that a lot of people's opinions towards eating meat is basically 1. I was raised eating meat 2. meat is delicious 3. I don't care much for animals 4. there are plenty of people who don't care therefore I eat meat."
+- **Valence (0.4):** The sentiment here is somewhat neutral to negative, as it acknowledges a lack of concern for animal welfare.
+- **Dominance (0.6):** The speaker's viewpoint is assertive, suggesting that societal norms influence behavior, which shows a level of dominance in their stance.
+- **Intensity (0.5):** The intensity is moderate; they present the argument but do not express strong emotional weight.
+- **Concreteness (0.6):** The argument includes concrete points about upbringing, taste, and social behavior, making it somewhat tangible.
+
+### Quarter 2: "Killing animals can not be immoral, because morality is a manifestation of a system of behaviour which maximises a person's chance of survival and reproduction."
+- **Valence (0.3):** The tone here is clearly negative regarding the concept of animal rights and morality, advocating for killing animals.
+- **Dominance (0.7):** The argument is dominant, positing a clear and assertive stance on morality in relation to survival and reproduction.
+- **Intensity (0.6):** The intensity is fairly high as it makes a strong philosophical claim about morality and its practical implications.
+- **Concreteness (0.5):** While the argument presents ideas, they are somewhat abstract and philosophical, diminishing its concreteness.
+
+### Quarter 3: "A person does not steal because doing so will piss other people off and make enemies. The same is true of killing. And because humans are social animals, it is very important to not piss other people off..."
+- **Valence (0.4):** The sentiment remains somewhat negative but reflects a practical view of social behavior rather than outright condemnation.
+- **Dominance (0.5):** This section is moderately dominant, continuing the argument while acknowledging social dynamics without asserting superiority.
+- **Intensity (0.5):** The intensity is moderate as it addresses social norms but does not evoke strong emotions.
+- **Concreteness (0.5):** The examples given (stealing, social behavior) are concrete but remain tied to abstract notions of morality.
+
+### Quarter 4: "As for the health reason, well, any nutritional study shows that SOME meat is beneficial..."
+- **Valence (0.5):** This part has a neutral to slightly positive sentiment regarding the consumption of meat.
+- **Dominance (0.4):** The argument here is less dominant as it acknowledges the validity of health studies but doesn't take a strong position.
+- **Intensity (0.5):** The intensity is moderate, discussing health benefits without much emotional weight.
+- **Concreteness (0.7):** This section references nutritional studies, making it the most concrete argument presented, based on empirical evidence.
+
+### Summary of Ratings:
+- **Quarter 1:** Valence: 0.4, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 2:** Valence: 0.3, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 3:** Valence: 0.4, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.5
+- **Quarter 4:** Valence: 0.5, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.7
+

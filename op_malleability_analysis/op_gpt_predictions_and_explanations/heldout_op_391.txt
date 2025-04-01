@@ -1,0 +1,38 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide scores from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument, I'll break down the text into segments and evaluate each one based on the defined criteria. 
+
+1. **First Quarter:**
+   - **Text:** "CMV: Society is mature enough to accept human genetic engineering. This is in response to a recent thread about Elon Musk and his refusal to engage in human genetic engineering because of the 'Hitler problem'."
+   - **Valence:** 0.6 (The tone is somewhat positive as it proposes genetic engineering as a mature step for society but references a controversial topic.)
+   - **Dominance:** 0.5 (The speaker asserts a perspective but is addressing a counter-argument, so there’s a balance of power.)
+   - **Intensity:** 0.4 (The expression of views is moderate, lacking strong emotional emphasis.)
+   - **Concreteness:** 0.5 (References to societal maturity and a specific individual’s opinion provide a clear context though it's still quite abstract.)
+
+2. **Second Quarter:**
+   - **Text:** "As it were, there are already genetic differentials between people. Some people in society suffer from Downs' Syndrome or various other genetically inherited problems."
+   - **Valence:** 0.5 (Neutral, as it mentions a condition that has both challenges and attempts at societal integration.)
+   - **Dominance:** 0.4 (States facts without asserting dominance; it's more descriptive.)
+   - **Intensity:** 0.3 (Relatively low emotional charge, simply presenting information.)
+   - **Concreteness:** 0.7 (Provides clear examples of genetic conditions, making it more tangible.)
+
+3. **Third Quarter:**
+   - **Text:** "Yet in most developed western societies, we do not discriminate against these individuals who have 'poorer' genes, at least not as a matter of state policy. We donate programs to research about these problems and in the case of Downs' Syndrome, we try to find ways and means to accommodate and integrate these individuals into our society."
+   - **Valence:** 0.7 (Positive tone as it highlights efforts to integrate and support affected individuals.)
+   - **Dominance:** 0.6 (The argument asserts a claim about societal behavior and policies, showcasing a stronger position.)
+   - **Intensity:** 0.5 (Moderate emotional force; supportive of a humanity-focused agenda.)
+   - **Concreteness:** 0.8 (Very concrete due to references to societal practices and initiatives for integration.)
+
+4. **Fourth Quarter:**
+   - **Text:** "This is to say I argue that in most Western societies, we can live with the idea that people are genetically different in a very substantial way without any genocidal tendencies. I argue that Mr Musk's fears are at least partially unfounded."
+   - **Valence:** 0.6 (While there’s a positive outlook on acceptance, the mention of "genocidal tendencies" carries a negative connotation.)
+   - **Dominance:** 0.7 (The speaker takes a firm stance against Musk’s fears, asserting confidence in societal acceptance.)
+   - **Intensity:** 0.6 (There is a stronger emotional weight due to the gravity of the comparison with historical atrocities.)
+   - **Concreteness:** 0.6 (The argument is somewhat abstract but offers a clear viewpoint on societal acceptance regarding genetic diversity.)
+
+Thus, the scores for each quarter are as follows:
+
+1. **First Quarter:** Valence 0.6, Dominance 0.5, Intensity 0.4, Concreteness 0.5
+2. **Second Quarter:** Valence 0.5, Dominance 0.4, Intensity 0.3, Concreteness 0.7
+3. **Third Quarter:** Valence 0.7, Dominance 0.6, Intensity 0.5, Concreteness 0.8
+4. **Fourth Quarter:** Valence 0.6, Dominance 0.7, Intensity 0.6, Concreteness 0.6
+

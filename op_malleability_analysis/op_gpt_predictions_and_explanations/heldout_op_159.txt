@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: Yes, I am likely to change my mindset if presented with strong counterarguments.
+Here's a rating score for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1:
+**Text:** "CMV: Having more than two children is an absolute evil Allow me to explain. You and your spouse/partner want to have kids for one or more of the following reasons: * because your hormones are screaming at your your whole life to do so, * because you or your spouse's biological clock is ticking, * because it would make your parents proud, * because you want to play catch with something, * because you need strong backs for the wheat fields, * because you think your genetic profile is so important and precious that is deserves to be preserved throughout the ages, * or maybe just because you'd like to see what you'd look like if you didn't eat so much cake."
+
+- **Valence:** 0.4 (The argument begins with a strong negative claim, but the reasons presented have some humorous or positive connotations.)
+- **Dominance:** 0.6 (The speaker is assertive in their view, but the reasons provided seem to undermine this dominance somewhat.)
+- **Intensity:** 0.5 (The language has a moderate intensity; it’s serious but not overly aggressive.)
+- **Concreteness:** 0.6 (The examples provided are relatable and somewhat concrete, though they are also abstract in nature.)
+
+### Quarter 2:
+**Text:** "Now, let us accept that overpopulation is a cause of the most important problems facing mankind: drinking water, food availability, climate change and pollution, deforestation, etc."
+
+- **Valence:** 0.7 (This part has a strong negative tone focused on the impact of overpopulation, which aligns with the core argument.)
+- **Dominance:** 0.7 (The speaker asserts the importance of the issue effectively, implying a sense of authority.)
+- **Intensity:** 0.8 (The issues raised have a high intensity as they concern widespread, pressing global problems.)
+- **Concreteness:** 0.7 (The problems mentioned are concrete and backed by factual issues affecting society.)
+
+### Quarter 3:
+**Text:** "Reproducing new people (by using your own cock/balls/snatch, not by adoption) can therefore be seen as a you casting a vote on how you feel about this problem. **You have no child**, that's two people being replaced by no people, and excluding just going around killing people, is practically the best thing you can do to curb overpopulation. **Having one child** is one person replacing two, that is you saying that overpopulation is a problem and I'm going to do something about it, just not as much as I could. **Having two children**, that's two people being replaced by two people, that's you casting your vote for "population is perfect the way it is.""
+
+- **Valence:** 0.6 (This continues the negative tone but with more nuanced reasoning.)
+- **Dominance:** 0.8 (The argument is very assertive; the speaker feels strongly about the implications of childbearing choices.)
+- **Intensity:** 0.9 (The language is direct, and the comparisons made evoke powerful implications regarding parenthood and population.)
+- **Concreteness:** 0.8 (There’s a clear argument about child replacement that is concrete and easy to follow.)
+
+### Quarter 4:
+**Text:** "Now, having **more than two children** is you casting a vote for population growth, and in doing so your are knowingly exacerbating the problems mentioned above, actively creating more human suffering in the world. Therefore, having more than two children is an absolute evil. From [wiktionary](https://en.wiktionary.org/wiki/evil): **evil** Adjective 1. Intending to harm; malevolent."
+
+- **Valence:** 0.9 (This final claim strongly condemns the notion of having more than two children, solidifying the argument with a very negative valence.)
+- **Dominance:** 0.9 (The speaker establishes a strong position, definitively labeling larger families as 'evil.')
+- **Intensity:** 1.0 (The conclusion delivers maximum intensity, as it makes a powerful moral judgment.)
+- **Concreteness:** 0.9 (The argument gets very specific regarding the consequences of childbearing choices, directly linking them to broader issues.)
+
+These ratings reflect the emotional and cognitive engagement evoked by each part of the argument, as well as their grounding in concrete ideas.
+

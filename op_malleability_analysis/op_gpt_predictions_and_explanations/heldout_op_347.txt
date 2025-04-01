@@ -1,0 +1,54 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument across the four dimensions—valence, dominance, intensity, and concreteness—I'll break the argument into four quarters and provide a score for each category for each quarter.
+
+### Quarter 1: "CMV: I think Reddit should get rid of the downvote system. I've been on Reddit for a little over a year now. At first I really enjoyed the discussion and community."
+- **Valence**: 0.8 (The sentiment is generally positive regarding initial experiences with Reddit.)
+- **Dominance**: 0.4 (The speaker expresses a personal opinion but does not assert authority over others.)
+- **Intensity**: 0.5 (Moderate expression of opinion, not particularly charged.)
+- **Concreteness**: 0.6 (Specific about the experience, but lacking in concrete examples yet.)
+
+### Quarter 2: "But the longer I stayed I started to notice more and more problems. My biggest gripe with Reddit is the downvote system."
+- **Valence**: 0.4 (Transition to negative sentiment as problems are identified.)
+- **Dominance**: 0.5 (The speaker is asserting their issue, indicating some level of control over the discussion.)
+- **Intensity**: 0.6 (Stronger expression of concern with the "biggest gripe" phrasing.)
+- **Concreteness**: 0.5 (Identifies a specific issue but does not elaborate yet.)
+
+### Quarter 3: "As I've noticed, the community tends to silence people they dislike, or have a differing opinion with. This to me goes against the whole concept of Reddit."
+- **Valence**: 0.3 (Negative sentiment towards the community's behavior is expressed.)
+- **Dominance**: 0.6 (The speaker makes a more assertive claim about community behavior.)
+- **Intensity**: 0.7 (More strongly worded; the use of "silence" carries significant weight.)
+- **Concreteness**: 0.6 (The argument becomes more specific about how the downvote system impacts discourse.)
+
+### Quarter 4: "To truly spark discussion and promote diversity, the tool should be removed completely. Though the true problem lies with the users, since they maintain this environment. But just like laws to protect citizens from having their rights taken, equal opportunity to have your voice heard should be a priority."
+- **Valence**: 0.5 (Mixed feelings—advocates for change but acknowledges issues in the user base.)
+- **Dominance**: 0.7 (Stronger assertion, calling for a specific change and framing it in legalistic terms.)
+- **Intensity**: 0.8 (High intensity with a clear call to action.)
+- **Concreteness**: 0.7 (Concrete in proposing a solution and drawing parallels to laws, providing a more solid argument.)
+
+### Summary of Ratings:
+1. **Quarter 1**:
+   - Valence: 0.8
+   - Dominance: 0.4
+   - Intensity: 0.5
+   - Concreteness: 0.6
+
+2. **Quarter 2**:
+   - Valence: 0.4
+   - Dominance: 0.5
+   - Intensity: 0.6
+   - Concreteness: 0.5
+
+3. **Quarter 3**:
+   - Valence: 0.3
+   - Dominance: 0.6
+   - Intensity: 0.7
+   - Concreteness: 0.6
+
+4. **Quarter 4**:
+   - Valence: 0.5
+   - Dominance: 0.7
+   - Intensity: 0.8
+   - Concreteness: 0.7
+
+These ratings reflect the various emotional and pragmatic aspects of the argument as it develops throughout the text.
+

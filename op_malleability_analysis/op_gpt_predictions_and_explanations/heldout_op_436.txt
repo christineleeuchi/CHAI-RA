@@ -1,0 +1,65 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure! Here’s a rating score from 0.0 to 1.0 for each of valence, dominance, intensity, and concreteness of the provided argument, divided into four quarters:
+
+### Quarter 1: Introduction and Context
+- **Valence:** 0.6  
+  The argument is somewhat negative toward the European left but maintains a neutral tone in presenting the context.
+  
+- **Dominance:** 0.5  
+  The author establishes their viewpoint but does not overpower other perspectives; it's more observational than directive.
+
+- **Intensity:** 0.5  
+  The intensity is moderate, as it introduces significant issues without overly dramatic language.
+
+- **Concreteness:** 0.7  
+  The mention of specific parties provides a concrete example of the argument's context.
+
+---
+
+### Quarter 2: Economic Concerns
+- **Valence:** 0.5  
+  This section has a neutral tone, discussing economic hardships but implying a failure of the left without aggressive language.
+
+- **Dominance:** 0.6  
+  The author asserts an opinion about the left's failure to address economic issues more dominantly here.
+
+- **Intensity:** 0.6  
+  This segment has a slightly higher intensity due to the discussion of economic inequality and its effects on people's lives.
+
+- **Concreteness:** 0.8  
+  The use of economic metrics and the reference to classes make the argument very concrete.
+
+---
+
+### Quarter 3: Traditional Left-Wing Policies Adopted by the Right
+- **Valence:** 0.7  
+  The tone is more critical of the right-wing parties that adopt left-wing policies, thus leaning more negatively.
+
+- **Dominance:** 0.7  
+  The author presents a strong viewpoint about how right-wing parties are repositioning themselves, showcasing a clear perspective.
+
+- **Intensity:** 0.7  
+  There is a noticeable intensity in terms of the critique of the FN and other parties' tactics.
+
+- **Concreteness:** 0.7  
+  The argument references specific parties and their policies, providing a solid basis to the claims.
+
+---
+
+### Quarter 4: Conclusion and Personal Reflection
+- **Valence:** 0.4  
+  The tone turns slightly optimistic, as the author still sees potential in left parties, keeping it less negative overall.
+
+- **Dominance:** 0.5  
+  The section is more self-reflective and open to debate, which lessens the perceived dominance of the argument.
+
+- **Intensity:** 0.5  
+  The intensity reduces as the author expresses skepticism and openness to counterarguments.
+
+- **Concreteness:** 0.6  
+  While it remains somewhat concrete, the personal opinions are more abstract compared to the previous sections.
+
+---
+
+These scores can vary based on interpretation, but they reflect the overall tone and content of each segment in the argument.
+

@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here is a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument provided:
+
+### Quarter 1
+> "CMV: It's okay for kids to hear and say 'bad' words. I mean they're just words. It's not like its dangerous for their health."
+
+- **Valence**: 0.6 (The overall sentiment is somewhat positive, suggesting a normalization of bad words.)
+- **Dominance**: 0.5 (The argument presents a clear opinion but doesn’t exert strong authority over the topic.)
+- **Intensity**: 0.5 (The language used conveys mild to moderate intensity.)
+- **Concreteness**: 0.7 (The argument presents concrete ideas about harm regarding health.)
+
+### Quarter 2
+> "If a 6-year old says 'fuck' when she stubs her toe where's the harm?"
+
+- **Valence**: 0.7 (This statement is framed positively by questioning the harm.)
+- **Dominance**: 0.4 (The use of a rhetorical question implies a challenge rather than an assertion of dominance.)
+- **Intensity**: 0.6 (There is a moderate level of intensity in the assertion.)
+- **Concreteness**: 0.8 (The scenario described is very concrete and relatable.)
+
+### Quarter 3
+> "I understand not wanting kids to use slurs like 'nigger' or 'faggot', and it should be explained to them that slurs can be very hurtful to other's feelings, but otherwise I don't see any problem with it."
+
+- **Valence**: 0.5 (This section acknowledges a sensitive topic, balancing between understanding and disagreement.)
+- **Dominance**: 0.6 (The speaker asserts a nuanced understanding of the issue.)
+- **Intensity**: 0.7 (The language here highlights some emotional intensity regarding slurs.)
+- **Concreteness**: 0.6 (While discussing slurs adds depth, the terms used remain abstract in context.)
+
+### Quarter 4
+> "They're gonna start using those words eventually anyway, why censor it when they're young? It makes no sense to me. I work in childcare, and I scold kids for saying those words because I have to in order to keep my job, but how is a kid saying 'shit' any different than an adult saying it?"
+
+- **Valence**: 0.4 (There's a sense of frustration toward censorship indicated here.)
+- **Dominance**: 0.5 (The speaker draws on personal experience but remains open to discussion.)
+- **Intensity**: 0.8 (There is strong emotional intensity in expressing frustration about censorship.)
+- **Concreteness**: 0.7 (Personal experience in childcare lends a degree of concreteness to the argument.)
+
+These scores reflect the emotional tone, authority, strength of feeling, and clarity of the points made in each quarter of the argument.
+

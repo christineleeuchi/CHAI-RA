@@ -1,0 +1,49 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here is a rating score from 0.0 to 1.0 for each of the four categories—valence, dominance, intensity, and concreteness—for each quarter of the provided argument:
+
+### 1st Quarter
+**Text:**
+"CMV: Paying workers the living wage is more important than profit. The reason we all come together and form societies is to work collaboratively for the good of us all. We write laws and enforce them to protect us from harm. We pay taxes and build public services for the greater good of us all. We build schools because we believe everyone is entitled to an education."
+
+- **Valence:** 0.8 (Positive framing emphasizing community and collaboration)
+- **Dominance:** 0.5 (Presents a strong perspective but acknowledges the social structure)
+- **Intensity:** 0.7 (Strong emphasis on the importance of societal good)
+- **Concreteness:** 0.6 (Some abstract concepts, but examples like schools and taxes add clarity)
+
+---
+
+### 2nd Quarter
+**Text:**
+"We don't do these things to help businesses or organisations prosper, we do them for the benefit of individuals within society. Despite this, it's considered acceptable (by some) for businesses to pay their workers less than *the living wage*."
+
+- **Valence:** 0.7 (Positive focus on individual benefit, but introduces a negative reality)
+- **Dominance:** 0.6 (Strong assertion of individual benefit over business interests)
+- **Intensity:** 0.8 (Heightened conviction about the issue of wages)
+- **Concreteness:** 0.5 (Focus on abstract concepts regarding societal priorities)
+
+---
+
+### 3rd Quarter
+**Text:**
+"Doesn't this view validate the idea that the right of businesses to make money is more important than the right of the individual to make a decent living? I understand and appreciate the argument that some small businesses may not be able to pay their staff the living wage and make a profit. I don't think *profit is bad*, and I understand that jobs would be lost if small businesses didn't make enough money to get by. However, I don't believe the apparent risk of loosing jobs justifies exploiting workers."
+
+- **Valence:** 0.6 (Mixed feelings, balancing concerns about jobs and worker exploitation)
+- **Dominance:** 0.7 (Strong argument challenging business priorities)
+- **Intensity:** 0.9 (High intensity in opposition to exploitation)
+- **Concreteness:** 0.5 (Combines abstract arguments with practical implications)
+
+---
+
+### 4th Quarter
+**Text:**
+"If a business is run badly, or the demand for the product they produce disappears, I imagine everyone would agree that that business doesn't have the right to exist for its own sake. Surely we can agree that a business *must* exist on its own merits? Why then in a society that exists for the benefit of us all, do we think businesses that can't afford to pay workers enough to live have a right to exist? Why isn't fair pay for workers - enough for them to have a decent standard of living - considered a fundamental necessity of a healthy business?"
+
+- **Valence:** 0.5 (Neutral to slightly negative as it questions the existence of unjust businesses)
+- **Dominance:** 0.8 (Strong position taken against unjust business practices)
+- **Intensity:** 0.9 (Very intense, raising moral questions about business viability)
+- **Concreteness:** 0.6 (Offers clear reasoning, though some abstract concepts remain)
+
+---
+
+These scores reflect the varying strengths and nuances within different portions of the argument. Overall, the argument has strong values centered on societal benefit over profit.
+

@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided, we can break it down and score each quarter based on valence, dominance, intensity, and concreteness. Here's the scoring breakdown:
+
+1. **First Quarter:** "What about this: seeing women in these portrayals and not having as many positive female role models makes your girlfriend upset."
+   - **Valence:** 0.6 (Expresses negative feelings but does not convey extreme negativity.)
+   - **Dominance:** 0.3 (A personal feeling rather than an authoritative statement, somewhat subservient in the context of the overall argument.)
+   - **Intensity:** 0.5 (Moderate intensity as it reflects a personal emotional reaction; not overly intense.)
+   - **Concreteness:** 0.7 (References a specific situation, which makes it more tangible.)
+
+2. **Second Quarter:** "Presumably, because feminism is a thing, it makes *many* people upset."
+   - **Valence:** 0.4 (Implies a negative impact but is somewhat uncertain in tone.)
+   - **Dominance:** 0.2 (Suggests a weaker claim as it's based on a presumption rather than certainty.)
+   - **Intensity:** 0.4 (Moderate intensity but not strong due to the use of "presumably.")
+   - **Concreteness:** 0.5 (Somewhat abstract as it doesn't refer to specific examples or data beyond a broad idea.)
+
+3. **Third Quarter:** "Sadness is a bad thing, so something that makes a lot of people sad has a negative effect on society, even if it's a small one."
+   - **Valence:** 0.8 (Very clearly conveys a negative viewpoint about sadness and its societal effects.)
+   - **Dominance:** 0.5 (Offers a stronger claim but is still somewhat general in its assertions.)
+   - **Intensity:** 0.6 (Uses strong language to convey the idea that sadness disturbs society, hence moderately intense.)
+   - **Concreteness:** 0.4 (More abstract philosophical argument about emotions than specific evidence or examples.)
+
+4. **Fourth Quarter:** "It reflects ideas and values (no one, as far as I can tell, is claiming it creates them) that are upsetting at best and offensive at worst."
+   - **Valence:** 0.7 (Conveys a notably negative judgment about the ideas and values in question.)
+   - **Dominance:** 0.6 (Asserts the viewpoint with more authority and clarity about societal implications.)
+   - **Intensity:** 0.7 (Stronger emotional impact as it uses terms like 'upsetting' and 'offensive.')
+   - **Concreteness:** 0.5 (Somewhat abstract, but relates to concepts people can understand and identify.)
+
+These scores provide a nuanced breakdown of each portion of the argument with regard to the specified criteria.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To rate the argument provided in terms of **valence**, **dominance**, **intensity**, and **concreteness**, we can analyze each quarter of the text separately.
+
+1. **Valence (0.0 - 1.0)**: This measures the emotional value or positivity/negativity of the text.
+   - **Score**: 0.4 
+   - **Explanation**: The argument introduces a somewhat negative perspective on societal views about women, but it also indicates a desire for discussion and change, which adds a slightly positive element.
+
+2. **Dominance (0.0 - 1.0)**: This assesses the perceived power or authority in the argument.
+   - **Score**: 0.6 
+   - **Explanation**: The speaker expresses their opinion with confidence and presents a critique of societal norms, indicating a moderate level of assertiveness.
+
+3. **Intensity (0.0 - 1.0)**: This refers to the strength or forcefulness of the expression.
+   - **Score**: 0.5 
+   - **Explanation**: The argument possesses a balanced intensity. It has emotional undertones, particularly in addressing gender roles, but presents them in a measured way rather than with overwhelming passion.
+
+4. **Concreteness (0.0 - 1.0)**: This measures how clear and specific the argument is.
+   - **Score**: 0.5 
+   - **Explanation**: The argument uses concrete examples (e.g., pink dresses, kidnapped princesses) to illustrate points about representation in video games, but it remains somewhat abstract when discussing societal change and "reasonable" people.
+
+Overall, the argument presents a thoughtful but slightly critical perspective on gender representation in video games, balancing subjective viewpoints with a desire for dialogue.
+

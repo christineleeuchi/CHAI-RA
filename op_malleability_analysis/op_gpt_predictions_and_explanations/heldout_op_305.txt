@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument based on valence, dominance, intensity, and concreteness, I'll provide scores from 0.0 to 1.0 for each aspect, broken down into four quarters of the text. Here are the assessments:
+
+### Quarter 1:
+"CMV: Hilary is the most qualified but Bush is going to be next US president * Trump and Bernie Sanders a popular fringe candidates that people like but wont really vote for come rubber meets the road"
+
+- **Valence**: 0.5 (The statement has a mixed emotional tone, expressing both a positive view of Hillary's qualifications and a negative anticipation of Bush's victory.)
+- **Dominance**: 0.6 (The argument asserts a strong opinion about who is likely to win, indicating a level of control in the discourse.)
+- **Intensity**: 0.7 (The tone is somewhat emotionally charged, particularly around the discussion of Bush and the characterization of Sanders and Trump.)
+- **Concreteness**: 0.4 (Concepts are introduced, but they are more abstract opinions about electoral outcomes than tangible details.)
+
+### Quarter 2:
+"* Obama was not down-low uncontroversial president, thus the people in the middle of the political spectrum are going to go with the Republicans."
+
+- **Valence**: 0.4 (This statement carries a neutral to slightly negative valence since it critiques Obama's presidency.)
+- **Dominance**: 0.5 (The argument tries to assert that Obama's controversies will influence voters' choices, suggesting a degree of authority in this claim.)
+- **Intensity**: 0.6 (The perspective on Obama is somewhat charged, suggesting dissatisfaction or a critique of his presidency.)
+- **Concreteness**: 0.5 (This statement presents a cause-and-effect relationship but lacks precise evidence.)
+
+### Quarter 3:
+"* The GOP (and people in general) have a *bizarre* tendency to vote for the best/older/serious looking guy."
+
+- **Valence**: 0.3 (This uses a somewhat dismissive tone towards voters, which could be perceived negatively.)
+- **Dominance**: 0.4 (It suggests a general behavior among voters without strong backing, which softens its dominance.)
+- **Intensity**: 0.5 (The word "bizarre" adds a moderate intensity to the statement, conveying skepticism and surprise.)
+- **Concreteness**: 0.4 (The assertion is somewhat vague, as it lacks supporting data or specific examples.)
+
+### Quarter 4:
+"* Bush doesn't look as butterface as he used too and Hilary smiles too much as well as doing this weird thing where she opens her eyes more when she does smile."
+
+- **Valence**: 0.2 (This has a negative sentiment, particularly towards Hillary, indicating personal judgments about appearance.)
+- **Dominance**: 0.3 (This is more about personal impressions than substantial political arguments, reducing its authority.)
+- **Intensity**: 0.6 (There’s a noticeable intensity in the critique of physical appearances, suggesting strong feelings.)
+- **Concreteness**: 0.5 (While the points made are specific, they are based on subjective interpretations rather than objective facts.)
+
+### Overall Scores:
+1. **Quarter 1**: Valence: 0.5, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.4
+2. **Quarter 2**: Valence: 0.4, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+3. **Quarter 3**: Valence: 0.3, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.4
+4. **Quarter 4**: Valence: 0.2, Dominance: 0.3, Intensity: 0.6, Concreteness: 0.5
+
+These ratings reflect the nuances in tone, assertiveness, emotional engagement, and the degree of specificity in each quarter of the argument.
+

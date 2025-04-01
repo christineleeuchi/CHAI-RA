@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the ratings based on the provided argument. Each score is rated on a scale from 0.0 to 1.0:
+
+1. **Valence (0.6)**: The overall sentiment of the argument is somewhat negative, as it raises concerns about the potential negative impacts of legalizing prostitution. However, it acknowledges that there are valid arguments for legalization, providing a more nuanced view rather than complete opposition.
+
+2. **Dominance (0.4)**: The argument expresses a counterpoint to the position in favor of legalizing prostitution, but it does so in a way that suggests it is more of a cautious skepticism than outright dominance. The argument is more about raising concerns rather than asserting dominance over the opposing view.
+
+3. **Intensity (0.5)**: The intensity is moderate. The argument presents serious concerns relating to economic coercion and safety issues, but it does not reach a high level of emotional fervor or urgency. The concerns are expressed rationally without strong emotional language.
+
+4. **Concreteness (0.7)**: The argument utilizes concrete examples (e.g., economic coercion and safety risks) to illustrate its points, making it relatable and understandable. Drawing parallels with child labor and organ selling provides a clear framework for understanding the concerns being raised.
+
+In summary, the scores would be:
+- Valence: 0.6
+- Dominance: 0.4
+- Intensity: 0.5
+- Concreteness: 0.7
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a scoring based on the provided dimensions (valence, dominance, intensity, and concreteness) for each quarter of the argument:
+
+### Quarter 1:
+**Argument Text:**
+"I feel it's safe to assume that if legalization occurs, prevalence of prostitution will increase, as there won't be any repercussions legally."
+
+- **Valence:** 0.5 (Neutral tone; it's a statement of assumption without strong positive or negative emotional weight.)  
+- **Dominance:** 0.6 (The speaker asserts their viewpoint, suggesting a level of authority.)  
+- **Intensity:** 0.4 (The intensity is moderate—it's an assumption without strong evidence provided at this point.)  
+- **Concreteness:** 0.5 (It presents a hypothetical scenario but lacks specific examples or data.)
+
+### Quarter 2:
+**Argument Text:**
+"Prostitution is a profession that takes a huge mental toll on the people doing the job. 47% of prostitutes need treatment for abuse of alcohol and drugs. 70% of women in prostitution in San Francisco have been raped on the job. A study in Portland, Oregon, found that prostitutes were raped on average once a week. 85% of women in Minneapolis were raped. 94% of women involved in street prostitution have been sexually assaulted."
+
+- **Valence:** 0.8 (Highly negative; it emphasizes the serious harms associated with prostitution.)  
+- **Dominance:** 0.5 (While it presents stark data, it’s more about sharing information than asserting a position of power.)  
+- **Intensity:** 0.9 (Very intense due to the shocking statistics presented.)  
+- **Concreteness:** 0.9 (Specific statistics and studies provide a strong foundation of evidence.)
+
+### Quarter 3:
+**Argument Text:**
+"Let's check the Netherlands, a nice country where prostitution is legal. 70% of women (prostitutes) experienced verbal threats of assault, 60% actually suffered physical assault, 40% experienced sexual violence and 40% were forced or pressured into the profession. PTSD rates are between 45 and 84%. From 5 countries, researchers found that 2/3 of prostitutes have PTSD."
+
+- **Valence:** 0.8 (Again, a largely negative perspective on legal prostitution, reinforcing harmful impacts.)  
+- **Dominance:** 0.6 (While it asserts a claim based on evidence, it doesn’t overtly dominate; it presents data more than it dictates.)  
+- **Intensity:** 0.9 (The statistics are alarming, keeping high intensity.)  
+- **Concreteness:** 0.9 (Rich with specific data that makes the argument clear and persuasive.)
+
+### Quarter 4:
+**Argument Text:**
+"If one were to take away the having sex with strangers for money aspect, any profession that boasts such rates of PTSD and sexual assault, etc. isn't anything that any government would want its citizens partaking in, especially as it isn't necessary for society to function. Your parents when you were a kid probably didn't want you going out and smoking crack cocaine, so they probably told you 'you can't do that'. That, with making the profession illegal, is what the government is doing- it don't want its citizens prostituting themselves. It shouldn't be legal because legalization promotes a lifestyle that is extremely harmful and has many adverse effects."
+
+- **Valence:** 0.9 (Very negative; firmly states that prostitution harms individuals and society.)  
+- **Dominance:** 0.7 (The analogy to parental guidance gives it a more authoritative tone.)  
+- **Intensity:** 0.8 (Strong emotional appeal, especially with the analogy to drug use.)  
+- **Concreteness:** 0.6 (While it abstracts some points from evidence earlier presented, it does continue to emphasize harmful aspects.)
+
+Overall, the argument across all quarters exhibits strong negative valence and high intensity, primarily due to the alarming statistics about the mental health and safety of individuals in prostitution. The dominance varies, but it maintains a mostly assertive stance, and the argument's concreteness is strongest where specific data is presented.
+

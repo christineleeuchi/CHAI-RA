@@ -1,0 +1,86 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score for each of the requested dimensions of the argument, broken down into quarters:
+
+### Quarter 1: 
+**Valence:** 0.6  
+The tone is relatively neutral, highlighting facts about the lawsuit without expressing strong negative or positive emotions.
+
+**Dominance:** 0.5  
+The argument does assert a viewpoint but does not come off as excessively authoritative or overbearing; the speaker presents information and reasoning.
+
+**Intensity:** 0.4  
+The expression is calm and reasoned and does not use exaggerated language or emotionally charged words.
+
+**Concreteness:** 0.7  
+This section is fairly concrete, discussing the legal concepts of comparative negligence and presenting factual information about the case.
+
+---
+
+### Quarter 2: 
+**Valence:** 0.6  
+The valence remains neutral while discussing the jury's findings. It's factual and informative without significant emotional language.
+
+**Dominance:** 0.5  
+The argument continues to assert a viewpoint but still seems to foster discussion rather than dominate it. 
+
+**Intensity:** 0.3  
+There’s a low intensity as the argument is more focused on providing legal context rather than emotional resonance.
+
+**Concreteness:** 0.7  
+The reference to comparative negligence adds to the concreteness, providing a clear legal framework for understanding liability.
+
+---
+
+### Quarter 3: 
+**Valence:** 0.7  
+This section leans toward a more critical view of McDonald’s actions, implying irresponsibility in their marketing approach.
+
+**Dominance:** 0.6  
+The argument asserts more clearly that McDonald's actions contributed significantly to their liability.
+
+**Intensity:** 0.5  
+Moderately intense as it begins to express a moral viewpoint regarding McDonald’s responsibility, particularly about their marketing.
+
+**Concreteness:** 0.6  
+This part introduces specific actions taken by McDonald's (downplaying warnings), which lends to a concrete argument but could be more specific about outcomes.
+
+---
+
+### Quarter 4: 
+**Valence:** 0.8  
+This segment presents a clear assertion of responsibility, suggesting a strong opinion on McDonald's liability. This creates a more emotionally charged tone.
+
+**Dominance:** 0.7  
+The speaker firmly concludes that McDonald's had some liability, asserting this position strongly.
+
+**Intensity:** 0.6  
+The intensity rises as the speaker emphasizes McDonald's unavoidable responsibility and the implications of the law in that state.
+
+**Concreteness:** 0.7  
+This section solidifies the argument with legal references and a clear conclusion regarding liability, making it quite concrete. 
+
+--- 
+
+### Summary
+- **Valence:** 0.6, 0.6, 0.7, 0.8 
+- **Dominance:** 0.5, 0.5, 0.6, 0.7
+- **Intensity:** 0.4, 0.3, 0.5, 0.6
+- **Concreteness:** 0.7, 0.7, 0.6, 0.7 
+
+The overall trend shows an increasingly assertive and slightly more emotionally charged argument as it progresses. The speaker successfully incorporates legal principles and specific details to substantiate their claim, particularly in the final quarter.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating score from 0.0 to 1.0 for each of the four aspects of the argument:
+
+1. **Valence**: 0.6  
+   The argument is somewhat negative in valence, as it expresses disagreement with the opposing viewpoint. However, it maintains a rational tone and does not resort to personal attacks or overly emotional language.
+
+2. **Dominance**: 0.7  
+   The argument asserts a dominant stance by challenging the initial viewpoint and positioning the speaker's perspective as the more reasonable one. It seeks to take control of the conversation and guide it towards the conclusion that McDonald's should be liable.
+
+3. **Intensity**: 0.5  
+   The intensity of the argument is moderate. It presents logical reasoning and presents counterarguments to the opposing view, but it does not convey an extreme level of passion or urgency.
+
+4. **Concreteness**: 0.8  
+   The argument is quite concrete, as it references specific aspects of coffee-serving practices and relates them to the responsibility of establishments like McDonald's. It underscores tangible consequences (3rd degree burns, hot drinks served in plastic cups) and contrasts them with standard practices of other establishments, making the reasoning clear and relatable.
+

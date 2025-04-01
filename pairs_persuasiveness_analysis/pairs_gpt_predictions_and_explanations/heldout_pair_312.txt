@@ -1,0 +1,44 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for the argument based on valence, dominance, intensity, and concreteness:
+
+1. **Valence (0.6)**: The overall sentiment of the argument is positive, focusing on the benefits of hunting for food, conservation, and personal fulfillment. However, the acknowledgment of uncomfortable emotions related to the act of killing adds a layer of complexity.
+
+2. **Dominance (0.5)**: The argument presents a balanced perspective, acknowledging the moral implications of hunting while also highlighting its environmental benefits and personal enjoyment. It neither overpowers nor under-emphasizes the emotional conflict.
+
+3. **Intensity (0.7)**: The argument expresses a strong emotional engagement with the process of hunting and the respect for the animals. The mix of emotions felt during the act, including respect and discomfort, conveys a notable intensity in the author's experience.
+
+4. **Concreteness (0.8)**: The argument is concrete in detailing the reasons for hunting, including the enjoyment of the outdoors, the desire for ethical meat, and the role in conservation. The mention of specific animals and hunting practices adds to its clarity and specificity.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the rating scores for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1: "I applaud deer hunters in my area because we have way too many deer."
+- **Valence:** 0.7 (positive sentiment towards hunters)
+- **Dominance:** 0.5 (the argument presents an opinion but does not have a strong authoritative stance)
+- **Intensity:** 0.6 (moderate intensity in expressing approval)
+- **Concreteness:** 0.5 (somewhat abstract, focusing on the concept of deer overpopulation)
+
+### Quarter 2: "Car/deer interactions are high in my former state. I know. I've hit one."
+- **Valence:** 0.5 (neutral, reflecting a personal experience)
+- **Dominance:** 0.4 (personal anecdote with limited persuasive authority)
+- **Intensity:** 0.6 (moderate intensity due to personal impact)
+- **Concreteness:** 0.8 (very concrete, based on a specific experience)
+
+### Quarter 3: "Deer populations are out of wack because we removed alpha predators."
+- **Valence:** 0.4 (neutral to slightly negative regarding deer population management)
+- **Dominance:** 0.6 (more authoritative as it presents a cause-effect argument)
+- **Intensity:** 0.5 (moderate, but more factual than emotional)
+- **Concreteness:** 0.7 (fairly concrete, refers to ecological concepts)
+
+### Quarter 4: "Hunters either kill deer or deer populations grow to the point where they starve to death. Nature doesn't really mess around."
+- **Valence:** 0.5 (neutral, but highlights the harsh reality of nature)
+- **Dominance:** 0.7 (stronger authoritative stance on natural outcomes)
+- **Intensity:** 0.7 (definite intensity in emphasizing consequences)
+- **Concreteness:** 0.8 (concrete descriptions of natural processes)
+
+### Additional Statement: "I would much rather a deer died from a clean bullet wound than from a slow death of starvation or the aftermath of a car strike."
+- **Valence:** 0.8 (positive regard towards hunting as a humane option)
+- **Dominance:** 0.6 (strong opinion but still subjective)
+- **Intensity:** 0.8 (high intensity with an emotional appeal)
+- **Concreteness:** 0.6 (somewhat abstract, but clearly articulated as a preference)
+

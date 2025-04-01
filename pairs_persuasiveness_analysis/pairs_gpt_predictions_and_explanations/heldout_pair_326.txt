@@ -1,0 +1,34 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here is the rating for each of the specified characteristics of the argument provided:
+
+1. **Valence**: 0.6  
+   The argument leans slightly negative, as it highlights potential downsides of having a tattoo. However, it acknowledges that most employers are indifferent, which tempers the negativity somewhat.
+
+2. **Dominance**: 0.4  
+   The argument presents a personal perspective indicating that there are situations where a tattoo might negatively affect job opportunities. While it's a valid point, it doesn't assert a strong authority over the topic; it reflects personal experiences instead.
+
+3. **Intensity**: 0.5  
+   The argument expresses a moderate intensity. It brings up specific scenarios that can potentially impact employment chances but does not strongly emphasize urgency or a dramatic consequence.
+
+4. **Concreteness**: 0.7  
+   This argument uses concrete examples (meeting potential employers at a baseball game, encounters during outdoor activities) to support its claims, making it relatable and tangible. However, it could have further included specific instances of tattoos affecting employment. 
+
+Overall, while the argument does present valid concerns, it balances them with the idea that many employers are not overly concerned with tattoos—especially if they are not offensive.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score for each of the specified dimensions that evaluates the argument in quarters:
+
+1. **Valence (Score: 0.4)**
+   - The argument presents a negative view regarding tattoos in the workplace, indicating discrimination, which contributes to a lower valence. However, it also acknowledges that qualifications and experience are still important, slightly balancing the negativity.
+
+2. **Dominance (Score: 0.6)**
+   - The argument conveys a relatively dominant position, asserting that tattoos can impact job prospects. It emphasizes the reality of discrimination, which reinforces its authority, while also recognizing the importance of qualifications. This provides a stronger stance on the issue.
+
+3. **Intensity (Score: 0.5)**
+   - The intensity in this argument is moderate. It raises valid points about potential discrimination and the visibility of tattoos, but it doesn't express extreme emotions or urgency. Instead, it presents a measured perspective on the potential downsides of having a tattoo in a professional context.
+
+4. **Concreteness (Score: 0.7)**
+   - The argument uses specific examples (employment discrimination, corporate events, qualifications) to make its case. This tangibility offers clarity and strengthens the argument, making it more relatable and grounded in real-world scenarios.
+
+Overall, the argument reflects a realistic view toward the potential impact of tattoos in the workplace, while maintaining a balance between acknowledging qualifications and the possible drawbacks of having visible tattoos.
+

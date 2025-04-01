@@ -1,0 +1,79 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To rate the argument based on the dimensions of valence, dominance, intensity, and concreteness, we can break it down into four quarters of text. Each quarter will receive a score ranging from 0.0 to 1.0 for each dimension.
+
+### Quarter 1:
+**Text: "As someone who mained sniper in TF2, I can assure you that sniping in TF2 has its uses."**
+
+- **Valence:** 0.8 (The sentiment is positive, asserting the usefulness of the sniper class.)
+- **Dominance:** 0.6 (The speaker establishes authority by identifying as a player who mains sniper, but does not dominate the discussion yet.)
+- **Intensity:** 0.5 (The statement is somewhat assertive but not extremely passionate.)
+- **Concreteness:** 0.5 (It's a general statement that introduces the topic but lacks specific details.)
+
+### Quarter 2:
+**Text: "Spies can't move as quickly as scouts or medics, normally. Snipers serve not only to kill high value targets but also targets which focus on agility."**
+
+- **Valence:** 0.7 (The argument continues positively by contrasting the sniper's effectiveness against speedy targets.)
+- **Dominance:** 0.7 (The speaker builds on their authority by explaining the sniper's specific advantages.)
+- **Intensity:** 0.6 (The argument is stronger now with a clear assertion of the sniper's role.)
+- **Concreteness:** 0.7 (Introduces concrete examples of how snipers can counter specific classes.)
+
+### Quarter 3:
+**Text: "That guerrilla scout which picks off enemies slowly? Sniper can deal with that. That rocket-jumping soldier which no one can shoot? Snipers can pick the soldier out of the air easily because of an easily predictable trajectory."**
+
+- **Valence:** 0.9 (The positive view of snipers is reinforced with specific examples of their effectiveness.)
+- **Dominance:** 0.8 (The speaker confidently claims the sniper can excel in countering specific threats.)
+- **Intensity:** 0.8 (The phrasing emphasizes the sniper's skill, demonstrating passion and conviction.)
+- **Concreteness:** 0.9 (Highly concrete with direct examples of gameplay scenarios.)
+
+### Quarter 4:
+**Text: "Counters to snipers come with the spy (if the sniper is a stationary shooter), the pyro (flames disrupt aim), and the demoman (area denial from arcing weapons like the grenade launcher and the stickybomb launcher). Hell, even a soldier's splash damage if used properly can deny a sniper's vantage point. With all these reasons, how is a sniper not a valuable class in TF2?"**
+
+- **Valence:** 0.8 (Overall positive with limited acknowledgment of counters, maintaining a strong defense of snipers.)
+- **Dominance:** 0.9 (The speaker asserts their position strongly while addressing potential counterarguments.)
+- **Intensity:** 0.7 (The rhetorical question emphasizes conviction but remains somewhat analytical.)
+- **Concreteness:** 0.9 (Provides detailed examples of counters, enhancing the argument’s clarity and strength.)
+
+### Summary Scores
+- **Quarter 1:** Valence 0.8, Dominance 0.6, Intensity 0.5, Concreteness 0.5
+- **Quarter 2:** Valence 0.7, Dominance 0.7, Intensity 0.6, Concreteness 0.7
+- **Quarter 3:** Valence 0.9, Dominance 0.8, Intensity 0.8, Concreteness 0.9
+- **Quarter 4:** Valence 0.8, Dominance 0.9, Intensity 0.7, Concreteness 0.9
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument across the four dimensions—valence, dominance, intensity, and concreteness—here's the breakdown for each quarter of the argument:
+
+**1st Quarter:**
+"I don't think that anything would be lost from TF2 if sniper was entirely removed."
+- **Valence: 0.3** - The statement reflects a negative view on the impact of the sniper class.
+- **Dominance: 0.4** - The speaker is presenting a strong opinion but hasn’t backed it up with evidence yet.
+- **Intensity: 0.5** - There’s a moderate level of intensity in expressing the belief that the sniper class is not essential.
+- **Concreteness: 0.2** - The statement is vague and lacks specific details or examples to support the claim.
+
+**2nd Quarter:**
+"Well, an entire group of people would lose their main and would most likely stop playing. Also, all the cosmetics and weapons for sniper would become worthless, which will impact the economy and fuck a lot of people over."
+- **Valence: 0.5** - This part presents a more neutral view, considering the impact of potential changes.
+- **Dominance: 0.6** - The counterarguments gain strength as it presents broader implications on player experience.
+- **Intensity: 0.7** - There’s a higher intensity with stronger language regarding the consequences of removal (e.g., "impact the economy and fuck a lot of people over").
+- **Concreteness: 0.6** - This section provides specific consequences and impacts, making it more concrete than the first quarter.
+
+**3rd Quarter:**
+"Without sniper, people don't have to be nearly as careful with their movement. Also, Sniper has the ability to turn the game around by making important picks like demo or medic."
+- **Valence: 0.5** - Maintains a balanced view, recognizing the role of sniper while not retreating from the original argument.
+- **Dominance: 0.7** - The speaker takes a more assertive stance while providing evidence of how snipers influence gameplay.
+- **Intensity: 0.6** - The intensity is moderate as it outlines specific roles in a nuanced way.
+- **Concreteness: 0.7** - This part clearly articulates specific aspects of gameplay that the sniper contributes to, enhancing the argument's concreteness.
+
+**4th Quarter:**
+"Sniper is an annoying class. However, they have their place in the game even though I don't like them."
+- **Valence: 0.3** - There is a clear negative sentiment towards the sniper class, although it balances with acknowledgment of its role.
+- **Dominance: 0.5** - The speaker reflects a personal viewpoint, although they soften it by recognizing the class's place.
+- **Intensity: 0.5** - The expression of annoyance is moderated by the acceptance of the class's role.
+- **Concreteness: 0.4** - The argument is less concrete in this quarter, with a focus on personal feelings rather than specific gameplay mechanics or effects.
+
+In summary, the ratings would be as follows:
+
+- **1st Quarter:** Valence: 0.3, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.2
+- **2nd Quarter:** Valence: 0.5, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+- **3rd Quarter:** Valence: 0.5, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.7
+- **4th Quarter:** Valence: 0.3, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.4
+

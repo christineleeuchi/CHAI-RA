@@ -1,0 +1,78 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the rating scores for valence, dominance, intensity, and concreteness for each quarter of the argument:
+
+### 1st Quarter:
+**Text:** "I really don't think it's possible to 'change your view' on this, because 'creeping' is such an ambiguous word."
+
+- **Valence:** 0.4 (Neutral to slightly negative; skepticism is expressed about the possibility of changing views.)
+- **Dominance:** 0.6 (The speaker asserts their opinion firmly.)
+- **Intensity:** 0.5 (Moderate intensity; there’s a clear opinion but it's presented more as an observation than an emotionally charged statement.)
+- **Concreteness:** 0.6 (The reference to "creeping" is specific but lacks detailed examples.)
+
+### 2nd Quarter:
+**Text:** "There is definitely a colloquial use of 'creeping' that doesn't imply anything negative. Also, it's frequently thrown around in a sarcastic manner, or simply as a joke."
+
+- **Valence:** 0.5 (Neutral; the speaker acknowledges the positive aspects of the term.)
+- **Dominance:** 0.5 (The tone is analytical rather than forceful.)
+- **Intensity:** 0.4 (Low intensity; the statements are more informative.)
+- **Concreteness:** 0.7 (The argument is concrete as it provides clear examples of different uses of the term.)
+
+### 3rd Quarter:
+**Text:** "I will say that I think 'creeping' is thrown around more casually these days in that specific context because of the ubiquity of social networks."
+
+- **Valence:** 0.5 (Neutral; the statement is observational.)
+- **Dominance:** 0.5 (The speaker presents their observation but doesn’t insist too strongly.)
+- **Intensity:** 0.5 (Moderate; there’s a reflection on societal trends but it remains factual.)
+- **Concreteness:** 0.6 (Concrete in identifying the impact of social networks on language use.)
+
+### 4th Quarter:
+**Text:** "So there are a number of reasons for some people reacting negatively to bringing up something from a social network. I'm not sure that really changes your view at all, but it's an interesting discussion."
+
+- **Valence:** 0.5 (Neutral; recognizes differing perspectives.)
+- **Dominance:** 0.4 (Less assertive; acknowledges uncertainty about changing views.)
+- **Intensity:** 0.5 (Moderate; it wraps the discussion with a neutral tone.)
+- **Concreteness:** 0.5 (Somewhat abstract; while reasons are mentioned, they are not explicitly listed out.)
+
+### Summary:
+- **1st Quarter:** Valence 0.4, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+- **2nd Quarter:** Valence 0.5, Dominance 0.5, Intensity 0.4, Concreteness 0.7
+- **3rd Quarter:** Valence 0.5, Dominance 0.5, Intensity 0.5, Concreteness 0.6
+- **4th Quarter:** Valence 0.5, Dominance 0.4, Intensity 0.5, Concreteness 0.5
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the four metrics for each quarter of the argument's text:
+
+### Quarter 1:
+**Text:** "One problem is that neither Facebook nor humans have ultra fine ways of filtering their content. You might have a couple groups that you limit access to, but even that's quite a bit of effort and not very effective."
+
+- **Valence:** 0.3 (Somewhat negative; expressing a frustration with content filtering)
+- **Dominance:** 0.6 (A sense of authority on the topic and stronger opinion expressed)
+- **Intensity:** 0.5 (Moderate intensity; expressing frustration but not outrage)
+- **Concreteness:** 0.5 (Some concrete examples of Facebook functionality, but lacking specific instances)
+
+### Quarter 2:
+**Text:** "Say you just become friends with someone. You likely weren't part of their lives in any meaningful way five years ago. You don't know that much about their personal history. They aren't the same person they were then either - they look different, hold different opinions and have a different assortment of friends."
+
+- **Valence:** 0.4 (Neutral to slightly negative; acknowledging changes in relationships)
+- **Dominance:** 0.5 (Balanced perspective; not overly assertive)
+- **Intensity:** 0.4 (Moderate; expressing reflection rather than strong emotion)
+- **Concreteness:** 0.6 (Clear and relatable examples of change in personhood and relationships)
+
+### Quarter 3:
+**Text:** "There's nothing at all strange or off putting for my old friends from elementary school to visit my mom and look through her old photo albums. If someone I recently met did that, that would be incredibly disturbing. What are they really trying to get at? Do they think that this old content is going to give them insight into me and my life, and if so, that's a pretty high level of effort and personal engagement."
+
+- **Valence:** 0.5 (Neutral; making a comparison that can be interpreted in differing ways)
+- **Dominance:** 0.5 (Effective arguments providing both perspectives)
+- **Intensity:** 0.6 (Stronger feelings expressed regarding boundaries of familiarity)
+- **Concreteness:** 0.7 (Using a specific analogy about photo albums to illustrate points)
+
+### Quarter 4:
+**Text:** "Still, this also doesn't mean that there aren't people that need to chill. Some people literally consider it to be 'creeping' if you mention the things they've posted publicly to them in person. [...] But the above arguments don't address those cases - they look at the cases where digging up old content be a real signal that someone's both extremely, perhaps worrisomely enthralled with your life and feels the need to respond to it performatively."
+
+- **Valence:** 0.2 (More negative; criticizing people's perceptions of "creeping")
+- **Dominance:** 0.7 (Level of assertiveness increases, offering a strong perspective)
+- **Intensity:** 0.7 (Higher intensity with strong emotions and opinions about social behavior)
+- **Concreteness:** 0.5 (Somewhat abstract; discussing perceptions rather than concrete examples)
+
+These scores reflect the subjective nature of the argument and its presentation in terms of emotional content and clarity.
+

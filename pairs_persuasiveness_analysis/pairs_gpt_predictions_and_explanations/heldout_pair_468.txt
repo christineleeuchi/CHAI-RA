@@ -1,0 +1,64 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's the rating for each specified aspect of the argument, broken down into quarters of the text:
+
+### 1. Quarter 1: "A lot of people in this thread have had a lot of great points, but I also noticed that no one mentioned anything about the ADA."
+- **Valence:** 0.5 (Neutral; recognizing good points while highlighting a missing aspect)
+- **Dominance:** 0.3 (Somewhat submissive; acknowledging others’ points while stating a personal observation)
+- **Intensity:** 0.4 (Mildly intense; expressing a concern without strong emotional language)
+- **Concreteness:** 0.5 (Moderately concrete; references the ADA but lacks specific examples)
+
+### 2. Quarter 2: "I work in the business and we have a lot of disabled individuals come to my theater and not all of them are quiet or know how to behave in a theater."
+- **Valence:** 0.4 (Slightly negative; suggesting issues with behavior of disabled individuals)
+- **Dominance:** 0.4 (Moderate intensity; stating personal experience but not asserting a strong opinion)
+- **Intensity:** 0.5 (Moderately intense; addressing a real issue without strong emotional appeal)
+- **Concreteness:** 0.6 (More concrete; provides context about the author's experience in the theater)
+
+### 3. Quarter 3: "We can ask their caregiver to try and control the noise, and we always suggest that if it isn't working out, that they are more than welcome to get a refund, but we cannot explicitly ask them to leave."
+- **Valence:** 0.6 (Generally positive; offering possible solutions to the issue)
+- **Dominance:** 0.5 (Balanced; the author provides a suggested action without being overly authoritative)
+- **Intensity:** 0.5 (Moderate intensity; presents a thoughtful approach to handling the situation)
+- **Concreteness:** 0.7 (Concrete; offers specific actions that can be taken)
+
+### 4. Quarter 4: "That is opening up a huge can of worms when it comes to the ADA. It's discrimination, and even though it is best for everyone else in the theater if that person were to leave, a company cannot leave themselves open to a potentially huge lawsuit."
+- **Valence:** 0.3 (Negative; indicates potential legal issues and discrimination)
+- **Dominance:** 0.6 (Assertive; presenting a strong position about legal implications)
+- **Intensity:** 0.7 (High intensity; expressing urgency and seriousness of the situation)
+- **Concreteness:** 0.8 (Very concrete; discusses potential legal ramifications clearly)
+
+Overall, the argument presents a balanced yet cautious viewpoint on the complexities of accommodating disabled individuals in public spaces, especially concerning legal considerations.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided, I will assign ratings from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument's text. Let's break it down into four parts and analyze each one:
+
+### 1st Quarter: "Your (and even the majority of the theater's) understanding of how to enjoy a movie is not necessarily the correct way."
+- **Valence (0.5):** This statement is neutral. It challenges the majority view without expressing overt negativity or positivity towards any side.
+- **Dominance (0.4):** The speaker is asserting an opinion contrary to the majority, but it's more of an invitation to reconsider rather than an authoritative claim.
+- **Intensity (0.4):** The intensity is moderate as it hints at a deeper challenge to the audience's views.
+- **Concreteness (0.5):** The argument is abstract, dealing with subjective opinions on movie enjoyment but does not provide specific examples or details.
+
+### 2nd Quarter: "Perhaps this kid really enjoys going to movies and, due to his disability or not, the way he interacts with movies is by making a lot of noise."
+- **Valence (0.6):** This part is more positive, focusing on the child's enjoyment and the potential for different ways to engage with movies.
+- **Dominance (0.3):** It offers a perspective that might not assert dominance, but it does advocate for understanding and acceptance of differing behaviors.
+- **Intensity (0.5):** There’s a moderate intensity here, highlighting the importance of the child's enjoyment.
+- **Concreteness (0.6):** This part introduces a specific perspective about the child, making the argument more relatable.
+
+### 3rd Quarter: "That it is 'more convenient for the majority of people to have it be this way' is how minorities become disabled by society."
+- **Valence (0.1):** This sentence carries a negative connotation towards the majority's convenience at the expense of minorities, indicating a critique of societal norms.
+- **Dominance (0.6):** This assertively challenges societal norms, emphasizing power dynamics between majority and minority.
+- **Intensity (0.8):** The intensity is high here, as it addresses an important social issue and evokes strong emotions related to disability and societal behavior.
+- **Concreteness (0.5):** The argument is somewhat abstract, referencing broader societal issues but lacks specific examples of how this manifests in real life.
+
+### 4th Quarter: "Maybe because of his behavior, his parents only take him to one movie per year. You go see several movies per year. His ability to engage with this particular movie in his own way would be more valuable than yours in this case."
+- **Valence (0.7):** This part promotes understanding and recognizes the value of the child's experience, which is more positive.
+- **Dominance (0.5):** It creates a balance, valuing the child's engagement equally to the audience's, advocating for the child's viewpoint without overtly dismissing the majority.
+- **Intensity (0.6):** There’s a strong emotional appeal related to the value of experiences, making the intensity quite notable.
+- **Concreteness (0.6):** It includes specific scenarios (the frequency of movie attendance), contributing to the overall clarity of the argument.
+
+### Summary of Ratings:
+- **1st Quarter: Valence (0.5), Dominance (0.4), Intensity (0.4), Concreteness (0.5)**
+- **2nd Quarter: Valence (0.6), Dominance (0.3), Intensity (0.5), Concreteness (0.6)**
+- **3rd Quarter: Valence (0.1), Dominance (0.6), Intensity (0.8), Concreteness (0.5)**
+- **4th Quarter: Valence (0.7), Dominance (0.5), Intensity (0.6), Concreteness (0.6)**
+
+These ratings capture the nuances of each segment of the argument regarding its emotional impact, authority, strength of assertion, and clarity.
+

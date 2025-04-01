@@ -1,0 +1,45 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure! Here's a rating score from 0.0 to 1.0 for each of the specified dimensions for each quarter of the provided argument:
+
+### 1st Quarter:
+**Text:** "CMV: Nickelback is a really great rock band I know they are universally hated, I know I SHOULD hate them and to all of my friends I have to say that I ironically like them but the truth is, I fucking love them."
+
+- **Valence:** 0.8 (Overall positive sentiment despite acknowledging the hate)
+- **Dominance:** 0.5 (Expresses personal preference, but also contrasts societal expectations)
+- **Intensity:** 0.7 (Strong feelings expressed with "fucking love them")
+- **Concreteness:** 0.6 (Subjective experience, but references universal sentiment)
+
+### 2nd Quarter:
+**Text:** "Great mixes with hard driving drums and bass, good vocals, easy to sing along with..."
+
+- **Valence:** 0.9 (Very positive, focusing on the qualities that are enjoyable)
+- **Dominance:** 0.4 (More descriptive than assertive)
+- **Intensity:** 0.6 (Positive descriptors but less emotional intensity than the first quarter)
+- **Concreteness:** 0.8 (Specific details about the music itself)
+
+### 3rd Quarter:
+**Text:** "I think part of it is that while I am not a dude-bro myself, I fucking love that culture, it makes me laugh, I have fun when I am with them and every single dude-bro I have met fucking LOVES Nickelback. Maybe I am just a dude-bro but am denying it to myself."
+
+- **Valence:** 0.8 (Positive sentiments towards the culture and experience)
+- **Dominance:** 0.6 (A blend of personal reflection and social commentary)
+- **Intensity:** 0.7 (Strong language and emotions about the culture)
+- **Concreteness:** 0.7 (Mix of personal insight and observations about others)
+
+### 4th Quarter:
+**Text:** "I dunno. I thought about submitting this question to no stupid questions but felt it would be pushing their limits so I figured I would just ask for help. I don't know if it is possible to stop me enjoying their music but I am willing to talk out reasons I should."
+
+- **Valence:** 0.5 (Neutral, shows uncertainty)
+- **Dominance:** 0.3 (More passive and exploratory, less assertive)
+- **Intensity:** 0.4 (Less emotional, more contemplative)
+- **Concreteness:** 0.5 (Mixed insights, leaning towards abstract thought)
+
+### Additional Text (Edit):
+**Text:** "I will argue that Photograph might be one of the worst songs in the history of music. It has always made me cringe."
+
+- **Valence:** 0.2 (Negative sentiment about a specific song)
+- **Dominance:** 0.6 (Take a stand on a specific piece of music)
+- **Intensity:** 0.7 (Strong negative feeling expressed)
+- **Concreteness:** 0.8 (Specifically talking about a well-known song)
+
+These scores can provide a nuanced understanding of the emotional and cognitive expressions present in each part of the argument.
+

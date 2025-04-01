@@ -1,0 +1,65 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument based on valence, dominance, intensity, and concreteness, we can break down the provided argument into its key components and then assess each segment accordingly. 
+
+1. **First Quarter**: "The advantage of the League system is that it means more teams get the opportunity to play competitively."
+   - **Valence**: 0.8 (Positive sentiment about the league system)
+   - **Dominance**: 0.5 (Neutral; discussing a system rather than asserting power)
+   - **Intensity**: 0.6 (Moderate intensity in stating an advantage)
+   - **Concreteness**: 0.7 (Specific to the league system and its benefits)
+
+2. **Second Quarter**: "Tournaments provide intense moments but don't give exposure to anyone except the best few teams."
+   - **Valence**: 0.3 (Mixed; acknowledging the excitement of tournaments but criticizing their limitations)
+   - **Dominance**: 0.6 (Some dominance in arguing that tournaments favor only top teams)
+   - **Intensity**: 0.7 (High intensity in criticizing the exclusivity of tournaments)
+   - **Concreteness**: 0.5 (Somewhat concrete but general reference to tournaments)
+
+3. **Third Quarter**: "Look at some of the most popular teams in League of Legends: Unicorns of Love, CLG, Gambit."
+   - **Valence**: 0.7 (Positive valence; Popular teams are mentioned positively)
+   - **Dominance**: 0.4 (Low dominance; simply naming teams without asserting control)
+   - **Intensity**: 0.5 (Moderate intensity; expressing admiration for popular teams)
+   - **Concreteness**: 0.9 (Very concrete; specific examples provided)
+
+4. **Fourth Quarter**: "None of these guys are favourites in regional tournaments, let alone full-on international ones. Without the league system, none of these much-loved sides would get exposure."
+   - **Valence**: 0.4 (Mixed; recognizing the lack of favoritism but emphasizing the importance of exposure)
+   - **Dominance**: 0.7 (More dominance inferred here by asserting the importance of the league system)
+   - **Intensity**: 0.6 (Moderate intensity; points are firmly made about the situation)
+   - **Concreteness**: 0.8 (Concrete in argumentation about league exposure's role)
+
+Here is a summary table for clarity:
+
+| Quarter | Valence | Dominance | Intensity | Concreteness |
+|---------|---------|-----------|-----------|--------------|
+| 1       | 0.8     | 0.5       | 0.6       | 0.7          |
+| 2       | 0.3     | 0.6       | 0.7       | 0.5          |
+| 3       | 0.7     | 0.4       | 0.5       | 0.9          |
+| 4       | 0.4     | 0.7       | 0.6       | 0.8          |
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score for each aspect of the argument you provided, divided into four quarters:
+
+1. **First Quarter: "I don't see how you can say more tournaments and competitions equals more important competitions."**
+   - **Valence:** 0.5 (Neutral; expresses disagreement but without strong positive or negative sentiment)
+   - **Dominance:** 0.4 (Mildly assertive; the speaker is challenging the opposing viewpoint)
+   - **Intensity:** 0.4 (Moderate; conveys a sense of frustration but not extreme emotion)
+   - **Concreteness:** 0.6 (Somewhat concrete; argues a clear point about the definition of "importance")
+
+2. **Second Quarter: "What I love about League in comparison is that you have a series of events that are regionally determined all leading up to one grand event with the entire world."**
+   - **Valence:** 0.9 (Positive; expresses love and appreciation for the structure of League's tournaments)
+   - **Dominance:** 0.3 (Less dominant; more of an expression of personal preference than an assertion)
+   - **Intensity:** 0.8 (High; conveys strong feelings about the appeal of the event structure)
+   - **Concreteness:** 0.7 (Fairly concrete; describes a specific feature of League’s tournament structure)
+
+3. **Third Quarter: "I like that. I like seeing the regions work to better themselves and seeing how their different metas and strategies will interact when they finally meet at worlds."**
+   - **Valence:** 0.9 (Very positive; expresses enjoyment and enthusiasm for the regional aspects)
+   - **Dominance:** 0.4 (Less dominant but asserts a personal preference)
+   - **Intensity:** 0.9 (High; conveys genuine excitement about the competition dynamics)
+   - **Concreteness:** 0.8 (Concrete; describes specific elements of competition, such as metas and strategies)
+
+4. **Fourth Quarter: "Frankly, having constant international tournaments gets boring for me because you see one meta develop with very little creativity happening in different places."**
+   - **Valence:** 0.3 (Negative; expresses boredom and dissatisfaction with frequent international tournaments)
+   - **Dominance:** 0.6 (Assertive; the speaker is stating a strong personal opinion)
+   - **Intensity:** 0.7 (Moderate to high; conveys clear frustration with the current state of international competition)
+   - **Concreteness:** 0.7 (Concrete; articulates specific reasons for dissatisfaction regarding creativity in gameplay)
+
+These scores reflect the emotional tone and clarity of the arguments in each quarter.
+

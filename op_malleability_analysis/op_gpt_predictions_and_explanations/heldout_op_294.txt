@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's a score for each of the dimensions (valence, dominance, intensity, and concreteness) for each quarter of the argument's text. The scores range from 0.0 (very low) to 1.0 (very high).
+
+### Quarter 1
+**Text**: "CMV: People who enjoy horror movies are crazy and should be in asylums. I don't understand why people would enjoy watching anything with other humans they can relate to suffering and dying. I just don't get it."
+
+- **Valence**: 0.2 (The tone is negative and critical toward those who enjoy horror movies.)
+- **Dominance**: 0.7 (The speaker expresses a strong opinion and feels superior in their perspective.)
+- **Intensity**: 0.6 (There is a significant intensity in the use of terms like "crazy" and "asylums.")
+- **Concreteness**: 0.5 (The argument discusses specific concepts, but remains somewhat abstract regarding the emotions involved.)
+
+### Quarter 2
+**Text**: "This goes for horror movies, /r/watchpeopledie, or just some TV show with abnormal violence like my beloved games of thrones or Walking Dead (never watched though). I can't stand watching a scene when someone is suffering for 'free', but so far in my life I felt like the only one feeling disturbed in those moments; so far, everyone I know has no problem watching."
+
+- **Valence**: 0.3 (Continuing with a critical tone, with some personal reflection that suggests confusion and discomfort.)
+- **Dominance**: 0.6 (The speaker conveys a sense of isolation in their feelings, but also asserts their viewpoint strongly.)
+- **Intensity**: 0.5 (The intensity is moderate as they express discomfort but also allude to personal habits and preferences.)
+- **Concreteness**: 0.6 (The speaker references specific shows and communities, adding a degree of specificity to their argument.)
+
+### Quarter 3
+**Text**: "But I keep thinking I am the normal one and people should not enjoy (it sounds weird but I am not forbidding people to do anything. People should not enjoy drinking bleach. But if you want to drink a full bottle I have no problem with that)."
+
+- **Valence**: 0.4 (The statement carries a negative connotation about enjoyment and suffering but tries to mitigate judgment.)
+- **Dominance**: 0.5 (The speaker feels justified in their perspective but acknowledges the autonomy of others.)
+- **Intensity**: 0.4 (There’s a blend of intensity with the analogy of "drinking bleach," but it's somewhat toned down with the acknowledgment of personal freedom.)
+- **Concreteness**: 0.5 (The analogy is concrete, but the overall argument remains abstract regarding emotional connections.)
+
+### Quarter 4
+**Text**: "On the front page right now, there is a r/WTF link with 4k upvote (or score): 3972 Man Still Alive After being Cut in half by train [NSFL]. I think you would have to pay me something like 1k$ to have me click on this link. But 4k people clicking on it and recommending it to others, I don't understand. Whatever gore picture is behind this, is it fun? What is the motivation, the enjoyment?"
+
+- **Valence**: 0.2 (The tone is negative, expressing disbelief and criticism of those who seek out such content.)
+- **Dominance**: 0.6 (The speaker questions the majority's choices, asserting their own perspective as puzzling and contrasting with popular opinion.)
+- **Intensity**: 0.7 (There is a heightened emotional response as the speaker grapples with the idea of such suffering being enjoyed by others.)
+- **Concreteness**: 0.7 (This quarter is very concrete, referencing specific examples and experiences online.)
+
+These scores reflect the emotional tone, sense of authority, emotional strength, and specificity of the argument across its different segments.
+

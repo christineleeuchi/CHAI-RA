@@ -1,0 +1,87 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness of the argument, I will first divide the argument into four quarters and then assess each quarter based on the specified criteria.
+
+### Quarter 1: "Dogs only eat poo if you leave poo lying around. That's a reason to not leave poo lying around, not a reason to get rid of a dog."
+- **Valence: 0.8** (Positive; suggests a solution rather than a problem)
+- **Dominance: 0.7** (Strong; asserts responsibility lies with the owner and not the dog)
+- **Intensity: 0.6** (Moderate; conveys a practical approach)
+- **Concreteness: 0.9** (High; uses a clear cause-and-effect statement)
+
+### Quarter 2: "When you say 'you' shouldn't own a dog, do you mean specifically me? Because I don't live in Germany so my dog won't hump your leg on the bus or poop in your park. Those seem to be problems with Germany, not problems with dogs."
+- **Valence: 0.7** (Neutral to positive; questions the context without being overtly negative)
+- **Dominance: 0.6** (Moderate; challenges the generalization made in the original argument)
+- **Intensity: 0.5** (Moderate; rhetorical questioning reduces intensity)
+- **Concreteness: 0.8** (High; references specific behaviors in a clear context)
+
+### Quarter 3: "Dogs sometimes kill people, but they also sometimes save people's lives."
+- **Valence: 0.6** (Balanced; acknowledges both sides of the argument)
+- **Dominance: 0.5** (Moderate; presents a contradiction but doesn't assert dominance)
+- **Intensity: 0.6** (Moderate; emphasizes the dual role of dogs)
+- **Concreteness: 0.7** (Concrete; presents specific outcomes clearly)
+
+### Quarter 4: "It's true that he consumes resources and produces CO2, but by that reasoning, I shouldn't own anything."
+- **Valence: 0.5** (Neutral; suggests a broader point about ownership)
+- **Dominance: 0.4** (Low; somewhat defensive; does not strongly assert a point)
+- **Intensity: 0.5** (Moderate; presents a philosophical argument)
+- **Concreteness: 0.6** (Moderate; generalizes the argument about ownership)
+
+### Summary of Scores:
+1. **Quarter 1:** Valence: 0.8, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.9
+2. **Quarter 2:** Valence: 0.7, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.8
+3. **Quarter 3:** Valence: 0.6, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+4. **Quarter 4:** Valence: 0.5, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.6
+
+These scores reflect the strengths and weaknesses in each segment of the argument while addressing the concerns raised in the original statement.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument based on the qualities of valence, dominance, intensity, and concreteness, we can break it down into quarters and assign scores from 0.0 to 1.0 for each quality.
+
+**Quarter 1: "What do you propose we do with dogs after we stop owning them?"**
+- **Valence:** 0.5 (neutral; the question is more thought-provoking than positive or negative)
+- **Dominance:** 0.6 (the speaker is asserting dominance by challenging the other person's perspective)
+- **Intensity:** 0.4 (the tone is inquisitive, not particularly intense)
+- **Concreteness:** 0.5 (the question is concrete but open-ended)
+
+**Quarter 2: "Do we start killing millions of them daily?"**
+- **Valence:** 0.2 (negative; suggests a harsh solution to the problem)
+- **Dominance:** 0.7 (assertive; strongly implies a criticism of the opposing view)
+- **Intensity:** 0.8 (high intensity due to the emotional weight of the subject)
+- **Concreteness:** 0.8 (very concrete; the proposal suggests a clear but extreme action)
+
+**Quarter 3: "If not then all your complaints will still exist, worse even."**
+- **Valence:** 0.3 (somewhat negative; implies that alternatives to dog ownership won't solve the problems)
+- **Dominance:** 0.6 (maintains assertiveness by arguing against the counter-argument)
+- **Intensity:** 0.5 (moderate intensity; conveys frustration)
+- **Concreteness:** 0.6 (somewhat concrete; discusses the implications of not addressing the issue)
+
+**Quarter 4: "Feral dogs with no reliable food source will attack people far more regularly and viciously, they will still be annoying and eat poo."**
+- **Valence:** 0.2 (negative; emphasizes the dangers and nuisances posed by feral dogs)
+- **Dominance:** 0.7 (strongly suggests that the situation would worsen, reinforcing the speaker's position)
+- **Intensity:** 0.9 (high intensity as it evokes fear and strong negative feelings)
+- **Concreteness:** 0.9 (very concrete; describes specific behaviors and outcomes)
+
+### Summary of Ratings:
+1. **Quarter 1:**
+   - Valence: 0.5
+   - Dominance: 0.6
+   - Intensity: 0.4
+   - Concreteness: 0.5
+
+2. **Quarter 2:**
+   - Valence: 0.2
+   - Dominance: 0.7
+   - Intensity: 0.8
+   - Concreteness: 0.8
+
+3. **Quarter 3:**
+   - Valence: 0.3
+   - Dominance: 0.6
+   - Intensity: 0.5
+   - Concreteness: 0.6
+
+4. **Quarter 4:**
+   - Valence: 0.2
+   - Dominance: 0.7
+   - Intensity: 0.9
+   - Concreteness: 0.9
+

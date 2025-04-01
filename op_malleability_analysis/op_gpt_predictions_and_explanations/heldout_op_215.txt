@@ -1,0 +1,47 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here are the rating scores for the argument divided into four sections:
+
+### Quarter 1: 
+"CMV: There's nothing wrong with 'children on leashes.' In fact, they are not leashes - they are harnesses. 
+
+Disneyland a couple years ago, my brothers, sister, cousin, dad and stepmom are walking past the dumbo ride, towards the Matterhorn. 
+My cousin is about 12. It's very, very crowded. You see a lot of people with young kids on 'leashes' - harnesses. My dad makes a comment about people walking around with young children on harnesses, calling them leashes."
+
+- **Valence**: 0.6 (The stance presented is positive regarding harnesses for children, but there's a hint of defensiveness against the negative perception.)
+- **Dominance**: 0.6 (The speaker aims to assert that there's nothing wrong with using harnesses, but is responding to a critique.)
+- **Intensity**: 0.5 (The argument begins with moderate passion but lacks strong emotional language.)
+- **Concreteness**: 0.7 (It sets a scene and provides a personal anecdote, making it somewhat concrete.)
+
+### Quarter 2:
+"Meanwhile, my cousin kind of disappears, wanders off. We found her 30 seconds later - not a big deal. She's 12 and she's so spacy she wanders off. 
+I'm not saying a 12 year old should be wearing a harness - that'd be humiliating at her age, but when she was younger she used to do that too. Just vanish into a crowd in a matter of seconds." 
+
+- **Valence**: 0.5 (Neutral tone, as the speaker recounts a personal event that could be perceived positively or negatively.)
+- **Dominance**: 0.5 (The speaker shares a relatable anecdote but doesn't strongly assert dominance over the argument.)
+- **Intensity**: 0.4 (Lack of strong emotional appeal; the situation is described matter-of-factly.)
+- **Concreteness**: 0.6 (The personal story makes the argument relatable and concrete, illustrating the point.)
+
+### Quarter 3:
+"Anyway, child harnesses are extremely different from dog leashes:
+
+* They do not go around the child's neck. 
+* Parents do not hold leashes in their hand
+* A harness is a strap tied around the parents' waist and a strap tied around the child's torso. 
+* You keep a dog on a leash to control it's behavior. 
+* You keep a child on a harness because Disneyland is extremely crowded and I could very easily see how you can turn around for 2 seconds and your 5 year old has wandered off, vanished, or been picked up by a child snatcher."
+
+- **Valence**: 0.7 (Positive comparisons defend the use of harnesses distinctly from negative connotations associated with leashes.)
+- **Dominance**: 0.8 (Strongly asserts a logical argument in favor of harnesses, laying out clear differences.)
+- **Intensity**: 0.6 (The explanatory tone carries moderate intensity, as it addresses potential concerns directly.)
+- **Concreteness**: 0.8 (Uses specific comparisons and points, making it highly concrete.)
+
+### Quarter 4:
+"TL;DR: **Children on 'leashes' which are actually harnesses is in no way tantamount to treating your children like animals.**"
+
+- **Valence**: 0.8 (Clearly positive view regarding harnesses, strongly defending the practice.)
+- **Dominance**: 0.9 (Very assertive conclusion directly countering any negative views.)
+- **Intensity**: 0.7 (The TL;DR underscores the argument with a passionate stance against the animal comparison.)
+- **Concreteness**: 0.5 (Still fairly clear, but the TL;DR summarizes the previous points rather than providing new concrete information.)
+
+These scores reflect the tone, strength, and clarity of each section of the argument.
+

@@ -1,0 +1,56 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here’s a rating score from 0.0 to 1.0 for each of the dimensions: valence, dominance, intensity, and concreteness for each quarter of the argument's text:
+
+### Quarter 1
+**Text:** "Marriages ending aren't attempting to penalize people, most of the typical 'downsides' are actually benefits if you look at them in context. Yes, it sucks that you sometimes need to use the legal system to split your properties in half, but on the plus side, you have a system to ensure you can at least get half of the things the two of you owned as a couple. There are way's that this can be done without marriage at this point of course, but they still hold the same 'drawbacks'. another huge benefit is custody rights."
+
+- **Valence:** 0.7 (The argument is mostly positive, focusing on perceived benefits rather than negatives.)
+- **Dominance:** 0.6 (The speaker presents their viewpoint confidently, although they acknowledge counterarguments.)
+- **Intensity:** 0.5 (The language reflects a moderate intensity; the speaker is clear but not overly emotional.)
+- **Concreteness:** 0.8 (Several concrete examples like splitting properties and custody rights are provided.)
+
+### Quarter 2
+**Text:** "The argument of 'letting yourself go' has nothing to do with actually getting married. it has to do with being around someone and not having feeling a strong pressure to find someone to be with. This happens with or without marriage, and its really down to the couple to handle that."
+
+- **Valence:** 0.5 (The tone is neutral, focusing on behavior rather than directly positive or negative.)
+- **Dominance:** 0.5 (The speaker presents their viewpoint but acknowledges complexity in the issue.)
+- **Intensity:** 0.4 (The language is rational and calm, with lower intensity.)
+- **Concreteness:** 0.5 (The argument is general, lacking specific examples that would give it more weight.)
+
+### Quarter 3
+**Text:** "Secondly, I have seen in many cases where there is just no repairing the relationship, yet the couple remains together due to the financial repercussions of ending their failed marriage. This ultimately leads to a very uncomfortable situation at home, especially for children. It also in many cases leads to infidelity which brings a plethora of problems itself."
+
+- **Valence:** 0.3 (This section takes a more negative view, highlighting issues and discomfort.)
+- **Dominance:** 0.5 (The speaker cites observations but does not assert authority over opinions.)
+- **Intensity:** 0.6 (The language emphasizes discomfort and problems, indicating a higher intensity.)
+- **Concreteness:** 0.6 (Includes specific issues like infidelity and its effects on children, giving it some concrete substance.)
+
+### Quarter 4
+**Text:** "The big issue here is that the alternative is much worse. This is usually about the person who has a larger income feeling they deserve more of the assets after the divorce, and not wanting to give that up. Yes, it can really suck, but imagine if assets were not split? Especially if there are children involved, things can get very complicated. Imagine a situation with one stay at home parent, and one employed parent. The couple made this decision because it made sense at the time, but now they are unhappy and wish to divorce. The stay at home parent has very few technical skills from not being a part of the work force, is the primary caretaker of the child and would likely have custody, and if they were not entitled to any of the assets that the employed parent had, they would really have nothing, despite that they were operating and working as a team."
+
+- **Valence:** 0.4 (This section is somewhat negative due to the discussion of complications but also highlights the importance of asset division.)
+- **Dominance:** 0.7 (The speaker strongly argues for the necessity of legal protections, displaying confidence.)
+- **Intensity:** 0.7 (The description of the situation evokes concern and a strong reaction, indicating high intensity.)
+- **Concreteness:** 0.7 (The scenario presented is detailed and provides a clear picture of the implications of divorce on family dynamics.)
+
+These scores reflect how each quarter engages with the argument, using a scale where 0.0 is extremely negative, weak in dominance, intensity, or concreteness, and 1.0 is extremely positive, strong, intense, or concrete.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating score from 0.0 to 1.0 for each of the dimensions you requested:
+
+**1. Valence**: 
+- Score: 0.5 
+- Rationale: The argument has a neutral to slightly positive valence, as it expresses empathy towards the original poster's situation and aims to clarify a misunderstanding. However, it also addresses a serious issue regarding divorce and its financial implications.
+
+**2. Dominance**: 
+- Score: 0.4 
+- Rationale: The argument maintains a moderate level of dominance. While it presents a structured explanation of divorce laws and financial realities, it does not assert authority or decisiveness aggressively, instead opting for a more informative and understanding tone.
+
+**3. Intensity**:  
+- Score: 0.3 
+- Rationale: The intensity is somewhat low. The commenter discusses an important topic, but does so in a calm, reasoned manner, avoiding emotional extremes or vigorous language.
+
+**4. Concreteness**: 
+- Score: 0.6 
+- Rationale: The argument is fairly concrete, providing specific mentions of divorce laws, financial implications, and the realities of maintaining households. This specificity helps ground the discussion but could use additional real-life examples for greater impact.
+

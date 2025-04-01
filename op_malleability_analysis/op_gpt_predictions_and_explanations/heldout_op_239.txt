@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here are the ratings for each quarter of the argument:
+
+**Quarter 1:**
+"CMV: (Financial) technical analysis is like a pseudoscience. Finding 'Bulls', 'Bears', and other sentiments in a market is no more accurate than reading Tarot cards. CMV!"
+
+- **Valence:** 0.2 (The sentiment is negative towards technical analysis, framing it as a pseudoscience.)
+- **Dominance:** 0.6 (The use of strong comparisons with Tarot cards gives a sense of authority in the argument.)
+- **Intensity:** 0.7 (The language is passionate and assertive, conveying a strong dismissive stance.)
+- **Concreteness:** 0.3 (The sentence is abstract, focusing on concepts of pseudoscience and sentiment rather than specific examples.)
+
+**Quarter 2:**
+"I know that there are some instances where the only way to analyze the performance of some asset (e.g. commodities, FX currencies, futures) is by looking for trends and predicting the future prices, since there aren't any financial statements to perform fundamental analysis on. But to my knowledge technical analysis doesn't work. I can't think of any instances of long-term superior performance by people who use charts as a basis for decision making."
+
+- **Valence:** 0.4 (Mixed; it acknowledges the necessity of certain analytical methods but negatively assesses the effectiveness of technical analysis.)
+- **Dominance:** 0.5 (Balanced; it presents information without overly dominating language but asserts a clear perspective.)
+- **Intensity:** 0.5 (Moderate; provides reasoned discussion rather than overly emotional or aggressive language.)
+- **Concreteness:** 0.6 (Includes quantitative terms such as "instances" and references to specific asset types, making it somewhat concrete.)
+
+**Quarter 3:**
+"I know that George Soros bet against the British Pound in the early 1990s and became fabulously wealthy doing so. But I view that as trading on the news, not an effective application of technical analysis."
+
+- **Valence:** 0.3 (Slightly negative; it critiques the portrayal of Soros’ success within the context of technical analysis.)
+- **Dominance:** 0.4 (The focus is on a specific example, but maintains a neutral tone that prevents strong dominance.)
+- **Intensity:** 0.4 (Calmer, presenting an example without particularly intense language or feelings.)
+- **Concreteness:** 0.7 (Very concrete; cites a well-known example with specific details about a significant event.)
+
+**Quarter 4:**
+"I'm not saying that fundamental analysis is necessarily better or worse than technical analysis, I'm just arguing that there is no scientific basis for technical analysis. I'm also arguing that recognizing trends and patterns in the data is guesswork, and that you can see whatever you want to see, whether it's a 'bull' or 'bear' or 'reversal' or 'peak' or anything else."
+
+- **Valence:** 0.5 (Neutral; offers an observation on technical analysis without overt hostility but does emphasize doubt.)
+- **Dominance:** 0.5 (Balanced; articulates an argument but doesn't assert dominance over the reader.)
+- **Intensity:** 0.6 (A more nuanced discussion with a firm tone; there’s a clear assertion of belief.)
+- **Concreteness:** 0.5 (While it discusses abstract concepts like "guesswork" and "patterns," the repeated use of terms related to market sentiment gives it a certain level of concreteness.)
+
+These scores reflect the nuances of each portion of the argument based on the stated criteria.
+

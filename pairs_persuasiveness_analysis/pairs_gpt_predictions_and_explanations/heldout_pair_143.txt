@@ -1,0 +1,91 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument based on valence, dominance, intensity, and concreteness, I will break it down into quarters and provide a rating score from 0.0 to 1.0 for each of those attributes.
+
+### Quarter 1: 
+*“The issue with people not wanting gay marriage based off religious beliefs is because a word is being used for something that it does not mean to them.”*
+
+- **Valence:** 0.5 (Neutral tone; acknowledges a conflict but does not express strong positive or negative emotion)
+- **Dominance:** 0.3 (Presents a personal perspective but lacks authoritative backing)
+- **Intensity:** 0.4 (Moderate; presents a reason for opposition but not in a strong manner)
+- **Concreteness:** 0.5 (Conceptually clear but somewhat abstract; focuses on subjective interpretation of meaning)
+
+### Quarter 2:
+*“Marriage is/from religion and should keep it that way.”*
+
+- **Valence:** 0.4 (Somewhat negative towards changing societal norms; implies resistance)
+- **Dominance:** 0.5 (More authoritative stance on the definition of marriage)
+- **Intensity:** 0.5 (Clear assertion of opinion; expresses strong conviction)
+- **Concreteness:** 0.4 (More definitive but still subjective; relies on religious contextualization)
+
+### Quarter 3:
+*“[Many religious institutions do support same-sex marriages](https://en.wikipedia.org/wiki/Religious_views_on_same-sex_marriage#Religious_support). I don't believe that religious views about this matter are as consistent as you think.”*
+
+- **Valence:** 0.6 (Positive tone towards the idea of inclusivity; acknowledges support for same-sex marriage)
+- **Dominance:** 0.5 (Balanced viewpoint; engages with the opposition rather than dismissing)
+- **Intensity:** 0.6 (Stronger engagement with the argument; shows a willingness to challenge)
+- **Concreteness:** 0.5 (Concrete reference to religious institutions but still broad)
+
+### Quarter 4:
+*“And the word is entrenched in legal language as well as society. It means "more" somehow than civil union. I don't know why, but that seems to be the case. Separate but equal isn't actually equal, is it /u/slai47?”*
+
+- **Valence:** 0.5 (Neutral assessment of language but with an implicit critique of separation)
+- **Dominance:** 0.4 (Suggests a point but does not strongly assert authority; questions the reasoning)
+- **Intensity:** 0.5 (Moderate intensity; questioning the validity of separate terms)
+- **Concreteness:** 0.6 (Uses concrete examples of language and law; conveys a clear societal observation)
+
+### Summary of Scores:
+1. **Quarter 1:**
+   - Valence: 0.5
+   - Dominance: 0.3
+   - Intensity: 0.4
+   - Concreteness: 0.5
+
+2. **Quarter 2:**
+   - Valence: 0.4
+   - Dominance: 0.5
+   - Intensity: 0.5
+   - Concreteness: 0.4
+
+3. **Quarter 3:**
+   - Valence: 0.6
+   - Dominance: 0.5
+   - Intensity: 0.6
+   - Concreteness: 0.5
+
+4. **Quarter 4:**
+   - Valence: 0.5
+   - Dominance: 0.4
+   - Intensity: 0.5
+   - Concreteness: 0.6
+
+These scores reflect a nuanced assessment of how each part of the argument conveys its intended meaning and emotional tone.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s the rating for each of the requested metrics for each quarter of the argument:
+
+**First Quarter:**
+- **Valence:** 0.5 (Neutral, as the argument presents historical information without strong emotional charge.)
+- **Dominance:** 0.4 (Moderate, as the speaker presents their viewpoint but does not assert raw power over the argument.)
+- **Intensity:** 0.3 (Low, as the historical context is presented in a factual manner without emotional weight.)
+- **Concreteness:** 0.6 (Moderately concrete, as it relies on specific historical references but remains somewhat abstract in nature.)
+
+**Second Quarter:**
+- **Valence:** 0.3 (Some negativity toward changing definitions, indicating discomfort with modern interpretations.)
+- **Dominance:** 0.5 (The speaker is asserting a perspective but acknowledges the opposing view.)
+- **Intensity:** 0.5 (Moderate, as the concern about changing meaning and reactions from people is expressed.)
+- **Concreteness:** 0.5 (Moderately concrete, discussing the implications of changing definitions with some specific references.)
+
+**Third Quarter:**
+- **Valence:** 0.4 (Negative, especially in context to how the government and community interact with the notion of marriage.)
+- **Dominance:** 0.6 (The speaker takes a stronger stance on the definition being changed and implies authority in redefining word usage.)
+- **Intensity:** 0.5 (Moderate, as the speaker highlights a significant societal concern regarding views on marriage.)
+- **Concreteness:** 0.6 (Relatively concrete, as it discusses specific actions the government should take regarding language.)
+
+**Fourth Quarter:**
+- **Valence:** 0.2 (Negative, depicting frustration toward religious perspectives and ownership of the term.)
+- **Dominance:** 0.7 (High, as the speaker asserts a strong stance that encourages resistance to religious control over the term.)
+- **Intensity:** 0.6 (Moderate-high, expressing a passionate viewpoint regarding rights and definitions relating to marriage.)
+- **Concreteness:** 0.6 (Fairly concrete, as it illustrates a personal example and common behavior from religious communities.)
+
+This breakdown represents the varying dimensions of the argument presented across different quarters, reflecting emotional tone, assertiveness, strength, and clarity.
+

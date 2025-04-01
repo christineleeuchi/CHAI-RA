@@ -1,0 +1,62 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating score for each of the four dimensions—valence, dominance, intensity, and concreteness—for the provided argument, divided into quarters.
+
+**1st Quarter: "Fiction merely provides entertainment. It doesn't help us grow at all."**
+
+- **Valence: 0.2** (The statement has a negative connotation towards fiction)
+- **Dominance: 0.4** (The speaker expresses a viewpoint that seems definitive, yet it is challenged)
+- **Intensity: 0.5** (The assertion conveys a moderate intensity, stating a strong position)
+- **Concreteness: 0.4** (The statement is clear but lacks specific examples)
+
+**2nd Quarter: "That is unequivocally false. Fiction can be entertaining but its value comes from its ability to help the reader (watcher, listener &c.) grow."**
+
+- **Valence: 0.8** (The counter-argument is positive, emphasizing the growth aspect of fiction)
+- **Dominance: 0.6** (The speaker asserts confidence in the validity of their claim)
+- **Intensity: 0.7** (Strong affirmations are presented, illustrating conviction)
+- **Concreteness: 0.6** (The argument is fairly straightforward, though anecdotal evidence is yet to come)
+
+**3rd Quarter: "Good art will express something the consumer already feels or knows but is unable to describe... or force on to the consumer an experience or point-of-view alien to them..."**
+
+- **Valence: 0.9** (Very positive outlook on the value of art and fiction)
+- **Dominance: 0.8** (The speaker confidently states the transformative power of good art)
+- **Intensity: 0.8** (Covers a range of benefits, showcasing the depth of the argument)
+- **Concreteness: 0.7** (Uses general terms but begins to provide concrete examples)
+
+**4th Quarter: "These things contribute to the personal growth of the consumer in ways dry non-fiction or unaided introspection cannot..."**
+
+- **Valence: 0.9** (Highly positive, reinforcing the argument of the value of fiction)
+- **Dominance: 0.8** (Strong assertion of the comparative advantage of fiction over other methods)
+- **Intensity: 0.8** (The statement is passionately conveyed, emphasizing the strong beliefs of the speaker)
+- **Concreteness: 0.8** (Uses specific references and quotes to illustrate the point effectively)
+
+In summary, the argument demonstrates a clear shift from a negative viewpoint to a strong affirmation of fiction's value, with the intensity and positivity increasing as it develops.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score for each category—valence, dominance, intensity, and concreteness—applied to the provided argument. Each score ranges from 0.0 (lowest) to 1.0 (highest).
+
+1. **First Quarter** (Fiction merely provides entertainment. It doesn't help us grow at all.)
+   - **Valence:** 0.2 (The statement has a negative connotation toward fiction, labeling it as unhelpful.)
+   - **Dominance:** 0.7 (The speaker asserts a strong opinion, presenting a definitive stance on the usefulness of fiction.)
+   - **Intensity:** 0.6 (The argument feels quite firm, asserting that fiction has no value in growth.)
+   - **Concreteness:** 0.4 (The argument lacks specific examples or context, leading to a somewhat abstract notion of growth.)
+
+2. **Second Quarter** (Why waste our time trying to entertain ourselves when we could just use other forms of relaxation between sessions of growing ourselves?)
+   - **Valence:** 0.1 (The tone continues to have a negative view of entertainment, but touches on broader concepts of relaxation.)
+   - **Dominance:** 0.5 (The speaker is advocating for a particular viewpoint, yet opens up to alternative forms of relaxation.)
+   - **Intensity:** 0.5 (The argument remains moderate in strength, questioning instead of asserting.)
+   - **Concreteness:** 0.3 (The argument lacks examples or suggestions for alternative forms of relaxation, making it less specific.)
+
+3. **Third Quarter** (Is fiction truly of some use?)
+   - **Valence:** 0.5 (This sentence poses an inquiry, opening up the discussion for potential positives of fiction.)
+   - **Dominance:** 0.4 (There’s a slight sense of uncertainty introduced through the questioning nature of the statement.)
+   - **Intensity:** 0.3 (An inquiry is inherently less intense than a definitive statement.)
+   - **Concreteness:** 0.2 (Very abstract; it asks a general question without guidance.)
+
+4. **Fourth Quarter** (I would argue yes: Fiction, despite being fictional, can still be as useful for intellectual stimulation as traditional education... [examples provided])
+   - **Valence:** 0.7 (This section presents a positive view of fiction, highlighting its potential benefits.)
+   - **Dominance:** 0.6 (The argument reinforces the speaker's stance with supportive claims and examples.)
+   - **Intensity:** 0.8 (There's a strong assertion that fiction has significant value, supported by concrete examples.)
+   - **Concreteness:** 0.9 (This portion includes specific examples that enhance the argument and clarify its utility.)
+
+Overall, the argument presents an interesting tension between opposing views on fiction, making the analysis of each quarter valuable in understanding the overall discourse.
+

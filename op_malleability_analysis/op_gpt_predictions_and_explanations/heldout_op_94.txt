@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here are the ratings for each of the four categories (valence, dominance, intensity, and concreteness) for each quarter of the argument:
+
+### First Quarter
+"CMV: variable tax is immoral, or at least bad."
+
+- **Valence:** 0.8 (The statement expresses a strong negative opinion about variable tax.)
+- **Dominance:** 0.5 (The argument is expressing a personal opinion and not asserting control over a discussion.)
+- **Intensity:** 0.7 (There is a clear strong feeling about the morality of variable tax.)
+- **Concreteness:** 0.3 (The terms used are somewhat abstract, especially "immoral" and "bad.")
+
+### Second Quarter
+"Variable tax, or at least the way the US does it, is poorly done, inasmuch as it often discourages extra labour from people who may very well need the extra cash in the form of extra taxation."
+
+- **Valence:** 0.7 (The language suggests a negative view of the current system.)
+- **Dominance:** 0.6 (The argument starts to provide reasoning, asserting a perspective on the effectiveness of the variable tax.)
+- **Intensity:** 0.6 (The argument conveys a significant concern regarding the consequences of the tax system.)
+- **Concreteness:** 0.4 (It discusses practical outcomes but remains a bit abstract.)
+
+### Third Quarter
+"I know that personally, my paychecks are taxed between 25 and 30%, depending on overtime and the like, and it makes it feel so much more that instead of extra cash in my pocket, for going above the 40 hour work week standard, it's cash in the government's pocket."
+
+- **Valence:** 0.6 (There is a personal frustration expressed regarding taxation, but it's more personal than moral.)
+- **Dominance:** 0.5 (It shares personal experience but does not strongly assert a point.)
+- **Intensity:** 0.5 (The expression of feeling is moderate but not overwhelmingly strong.)
+- **Concreteness:** 0.7 (This section presents specific numbers and personal experience, making it quite concrete.) 
+
+### Fourth Quarter
+"Of course, this might also be influenced by my somewhat libertarian leanings, in that I consider taxation in general an... unnecessary evil. It's a fact of life I'll admit, but I don't think that it should be. Ultimately though, this post is concerned with the justification of a variable tax rate, inasmuch as how there is a justification for the government to take a larger percentage of your money because you earn more."
+
+- **Valence:** 0.5 (Mixed feelings toward taxation are expressed, indicating ambivalence.)
+- **Dominance:** 0.5 (Acknowledges personal perspective but does not assert dominance in the argument.)
+- **Intensity:** 0.4 (The intensity of feelings is moderate, with recognition of the complexity of taxation.)
+- **Concreteness:** 0.5 (Concepts of libertarianism and taxation are discussed, adding some depth, but it remains somewhat abstract.) 
+
+These ratings can help understand the emotional, persuasive, and conceptual aspects of the argument presented.
+

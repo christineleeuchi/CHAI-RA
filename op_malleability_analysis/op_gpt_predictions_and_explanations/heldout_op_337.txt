@@ -1,0 +1,43 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the given argument on a scale from 0.0 to 1.0 for valence, dominance, intensity, and concreteness, I've divided it into quarters and assessed each category accordingly:
+
+### Quarter 1:
+**Text:** "CMV: A $15 minimum wage will increase unemployment, and remove entry-level positions. I'm not necessarily for or against a minimum wage increase (and if I were for it, not certain $15/hr should be the first step) but I do think that if we enact an increase too severe - and I have reasonable suspicion even $12 could be too much - we will lose a lot of jobs."
+
+- **Valence:** 0.3 (Somewhat negative perspective towards minimum wage increase)
+- **Dominance:** 0.6 (The author is expressing a clear personal viewpoint, making a claim about potential outcomes)
+- **Intensity:** 0.5 (Moderately intense concern over the implications of a minimum wage increase)
+- **Concreteness:** 0.4 (The ideas are somewhat abstract, focusing on potential outcomes without citing specific data)
+
+### Quarter 2:
+**Text:** "I don't have a ton of reasons, it's just my view, I guess I'd like to see any facts or counter-arguments if possible."
+
+- **Valence:** 0.5 (Neutral perspective; open to discussion)
+- **Dominance:** 0.4 (Less dominance as the author invites opposing views)
+- **Intensity:** 0.3 (Low intensity; acknowledging lack of strong evidence)
+- **Concreteness:** 0.3 (Abstract; not providing any concrete reasoning at this point)
+
+### Quarter 3:
+**Text:** "I did see that machines have been made that can produce 1 burger every 10 seconds or so, and that McDonalds already implemented automated cashiers in Europe."
+
+- **Valence:** 0.4 (Somewhat negative due to the implication that automation leads to job loss)
+- **Dominance:** 0.5 (More dominance here as the author cites specific examples to support their view)
+- **Intensity:** 0.6 (Moderately intense as the author makes a clear point about automation)
+- **Concreteness:** 0.6 (Relatively concrete examples provided)
+
+### Quarter 4:
+**Text:** "This is the kind of thing that I think will happen in greater numbers - more automatic cashiers at places like Wal-Mart, even a shift to automated cooks, and warehouse workers (I know there are already some warehouses where robots retrieve ordered packages for shipping)."
+
+- **Valence:** 0.4 (Slightly negative due to the consequences of increased automation)
+- **Dominance:** 0.6 (Assertive predictions about the future implications of automation)
+- **Intensity:** 0.7 (High intensity; the concern over job loss due to automation is emphasized)
+- **Concreteness:** 0.7 (Concrete examples and predictions about future developments)
+
+### Summary of Scores:
+1. **Quarter 1:** Valence 0.3 | Dominance 0.6 | Intensity 0.5 | Concreteness 0.4
+2. **Quarter 2:** Valence 0.5 | Dominance 0.4 | Intensity 0.3 | Concreteness 0.3
+3. **Quarter 3:** Valence 0.4 | Dominance 0.5 | Intensity 0.6 | Concreteness 0.6
+4. **Quarter 4:** Valence 0.4 | Dominance 0.6 | Intensity 0.7 | Concreteness 0.7
+
+Feel free to ask if you would like further analysis or insight!
+

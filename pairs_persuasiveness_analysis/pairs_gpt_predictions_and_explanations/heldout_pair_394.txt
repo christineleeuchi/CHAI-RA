@@ -1,0 +1,68 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's the rating for each of the specified categories—valence, dominance, intensity, and concreteness—broken down by each quarter of the argument.
+
+### Quarter 1
+**Text:** "Inheritance taxes are the only taxes the truly super wealthy cannot avoid. Because they're dead. Every other tax they can bribe, dodge, cheat, and evade their way out of."
+- **Valence:** 0.7 (The statement presents a generally positive view of inheritance taxes as a necessary measure.)
+- **Dominance:** 0.6 (The author asserts the inevitability of inheritance taxes for the wealthy, demonstrating a clear stance.)
+- **Intensity:** 0.5 (The argument is moderately intense, using straightforward language, but the emphatic phrasing like "they're dead" adds emphasis.)
+- **Concreteness:** 0.8 (The concept of death as a barrier to tax avoidance is very concrete.)
+
+### Quarter 2
+**Text:** "But dead men cannot protect their wealth. And without at least some forms of taxation that impact the wealthy you are looking at a long list of troubles down the road."
+- **Valence:** 0.6 (Maintains a positive perspective on taxation as necessary for societal stability.)
+- **Dominance:** 0.7 (The author presents a strong warning about the implications of not taxing the wealthy.)
+- **Intensity:** 0.6 (The phrase "long list of troubles" conveys a serious tone.)
+- **Concreteness:** 0.7 (While the concept is abstract at a societal level, it discusses concrete consequences of tax policy.)
+
+### Quarter 3
+**Text:** "They are a tax that is hard to find a good substitute for, simply because so few taxes can be effectively applied against the rich in most political systems."
+- **Valence:** 0.5 (Neutral; discussing the challenges in finding alternatives to inheritance tax.)
+- **Dominance:** 0.5 (This is more of an observation rather than a strong assertion or call to action.)
+- **Intensity:** 0.4 (Fairly low intensity, as it presents a problem without strong emotional language.)
+- **Concreteness:** 0.6 (Definitive in observing the limitations of other taxes but somewhat abstract.)
+
+### Quarter 4
+**Text:** "It practically a saying in Chinese history that when a dynasty loses the political strength and will to effectively tax its rich, the dynasty's collapse is soon after... perhaps the problem isn't inheritance taxes, but Spain's inheritance tax?"
+- **Valence:** 0.6 (Negative connotation toward the consequences of not taxing the wealthy paired with a constructive inquiry.)
+- **Dominance:** 0.7 (References historical context to emphasize the importance of taxation, which strengthens the argument.)
+- **Intensity:** 0.5 (Moderate intensity; the historical example adds weight but is not overly dramatic.)
+- **Concreteness:** 0.7 (The historical reference makes it more concrete, linking abstract ideas to tangible outcomes.)
+
+These ratings reflect the rhetorical elements found in the argument and how effectively they communicate the author’s perspective on inheritance taxes.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided, I'll break it down into four quarters and give ratings for valence, dominance, intensity, and concreteness based on the content and context:
+
+### Quarter 1: "I am currently living in Spain and was chatting to some Spanish people today. They mentioned that if you inherit a house you are required to pay a portion of the value as tax."
+- **Valence (0.6):** The tone is neutral, presenting a factual observation without strong emotional language.
+- **Dominance (0.3):** The speaker is primarily sharing an observation or experience rather than asserting dominance in the conversation.
+- **Intensity (0.4):** The language is mild and descriptive, with no strong emotional appeal or forcefulness.
+- **Concreteness (0.7):** The statement is specific and provides clear context about inheritance tax in Spain.
+
+### Quarter 2: "Yeah I can see how that would be a problem. Particularly for people who do not want to sell their loved ones home, but who also don't have the liquid assets available to pay the tax."
+- **Valence (0.7):** There is a slight increase in positive sentiment toward empathizing with those affected by the tax situation.
+- **Dominance (0.4):** The speaker acknowledges the problem, but does not take an authoritative stance; rather, they show understanding.
+- **Intensity (0.6):** The emotional understanding of the problem is more pronounced here, suggesting concern for those affected.
+- **Concreteness (0.6):** This part remains concrete, focusing on specific implications of the tax on emotional and financial circumstances.
+
+### Quarter 3: "As far as I know, the inheritance tax (on a federal level) in the USA only kicks in once you bequeath or give a relative an amount over 5 million dollars or so."
+- **Valence (0.5):** The tone is informative, though slightly neutral with no strong emotional weight.
+- **Dominance (0.5):** The speaker asserts a fact based on knowledge, indicating a level of confidence.
+- **Intensity (0.4):** The factual nature keeps the intensity moderate, without any heightened emotion.
+- **Concreteness (0.8):** This section is very concrete, providing specific information about inheritance tax thresholds in the US.
+
+### Quarter 4: "Essentially, at least in the case of the US, the estate tax only affects people who are quite wealthy, or those who are moderately wealthy but only have one or two living relatives."
+- **Valence (0.5):** The conclusion is neutral and factual; it does not invoke strong feelings.
+- **Dominance (0.6):** The speaker presents a perspective that could influence the audience’s views on the fairness of the tax, asserting a clearer position.
+- **Intensity (0.5):** The language is straightforward without high emotional impact, retaining moderate intensity.
+- **Concreteness (0.7):** Clear and specific, this section summarizes the impact of the estate tax effectively.
+
+### Summary of Ratings 
+- **Quarter 1:** Valence: 0.6, Dominance: 0.3, Intensity: 0.4, Concreteness: 0.7
+- **Quarter 2:** Valence: 0.7, Dominance: 0.4, Intensity: 0.6, Concreteness: 0.6
+- **Quarter 3:** Valence: 0.5, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.8
+- **Quarter 4:** Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.7
+
+Overall, this argument presents a clear, balanced view of the inheritance tax situation, providing both personal observations and factual comparisons while maintaining a mostly neutral tone.
+

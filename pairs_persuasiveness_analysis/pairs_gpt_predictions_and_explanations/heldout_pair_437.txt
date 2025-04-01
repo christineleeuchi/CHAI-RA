@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To assess the argument in terms of valence, dominance, intensity, and concreteness, here’s a score from 0.0 to 1.0 for each quarter of the argument's text:
+
+**1st Quarter: "Why can't a private business make the same decision?"**
+- **Valence:** 0.5 (Neutral, as this is a question that could lead to either positive or negative opinions.)
+- **Dominance:** 0.4 (The question suggests a level of inquiry but does not assert a strong position.)
+- **Intensity:** 0.3 (The phrasing is mild and straightforward.)
+- **Concreteness:** 0.4 (The question is specific but does not provide tangible examples at this stage.)
+
+**2nd Quarter: "Because, when we talk about businesses, we're usually talking about conglomerates that have formally incorporated in one way or the other."**
+- **Valence:** 0.5 (Neutral; providing a definition without emotional appeal.)
+- **Dominance:** 0.5 (This statement begins to assert a position regarding the nature of businesses.)
+- **Intensity:** 0.4 (Mild statement of fact.)
+- **Concreteness:** 0.5 (This introduces concrete terminology about business structures.)
+
+**3rd Quarter: "Incorporation is a creature of statute; it's created by the government."**
+- **Valence:** 0.5 (Neutral; simply stating a fact.)
+- **Dominance:** 0.6 (More dominant as it explains the basis of incorporation.)
+- **Intensity:** 0.5 (Moderate intensity as it clarifies an important legal concept.)
+- **Concreteness:** 0.6 (Specific and clear, relating to legal definitions.)
+
+**4th Quarter: "It's more reasonable for the government to attach strings on the benefits associated with incorporation than it is to you as an individual..."**
+- **Valence:** 0.7 (Positive towards government regulation and oversight.)
+- **Dominance:** 0.7 (Strongly asserts a viewpoint regarding government authority over businesses.)
+- **Intensity:** 0.6 (Expresses a convincing rationale.)
+- **Concreteness:** 0.6 (Fairly concrete, discussing the practical implications of government policies.)
+
+Overall, the structure of the argument moves from a neutral inquiry to a more assertive stance regarding the relationship between government and business doctrine, with increasing clarity and specificity toward the end.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument based on valence, dominance, intensity, and concreteness, we can break it into four segments and score each aspect as follows:
+
+**Segment 1: "A private business is not a private citizen."**
+- **Valence:** 0.5 (Neutral assertion; states a fact without positive or negative connotation).
+- **Dominance:** 0.4 (Makes a claim that sets the stage for a larger argument but does not dominate).
+- **Intensity:** 0.2 (Low intensity; straightforward statement).
+- **Concreteness:** 0.7 (Concrete distinction between business and citizen).
+
+**Segment 2: "You are getting all sorts of sanctioned protections and services from the government. Protections like firefighters and police, and services like roads, distribution channels, domestic protection, etc etc."**
+- **Valence:** 0.6 (Positive connotation about the benefits of government services).
+- **Dominance:** 0.5 (Significantly supports the main argument).
+- **Intensity:** 0.5 (Moderate intensity; lists several important services).
+- **Concreteness:** 0.8 (Very concrete examples of services).
+
+**Segment 3: "All of these services mean that you have to enter into a general contract with the federal, state, and local governments. Part of this contract is an agreement to provide equal services to all citizens."**
+- **Valence:** 0.7 (Generally positive view on equality).
+- **Dominance:** 0.6 (Strongly supports the central argument about obligations).
+- **Intensity:** 0.6 (Moderate intensity in stating obligations of businesses).
+- **Concreteness:** 0.6 (Some abstract concepts, but uses "contract" which is concrete).
+
+**Segment 4: "A business can't get all the benefits of doing business in America and then just be an asshole to certain groups for no reason. If they really want a totally 'Free' market, they can open up in Somalia and provide all their own services, and then discriminate against whichever customers they want."**
+- **Valence:** 0.3 (Negative connotation in the term "asshole" and the context of discrimination).
+- **Dominance:** 0.7 (Strong conclusion that wraps up the argument).
+- **Intensity:** 0.8 (High intensity; passionate language).
+- **Concreteness:** 0.5 (A mix of abstract concepts with an illustrative example).
+
+Overall, this is a more nuanced evaluation, reflecting that each segment contributes differently to the overall argument.
+

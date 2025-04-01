@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating score for each of the specified aspects of the argument, broken down into quarters of the text:
+
+### Quarter 1:
+**Argument:** "CMV: Papyrus is a much more annoying and useless font than Comic Sans. All fonts are in some way contextually appropriate."
+
+- **Valence:** 0.3 (The statement has a negative tone towards Papyrus but is somewhat neutral about Comic Sans.)
+- **Dominance:** 0.6 (The speaker is asserting a strong opinion about the two fonts, indicating a level of authority on the subject.)
+- **Intensity:** 0.5 (The use of "annoying" and "useless" shows moderate intensity but is not overly aggressive.)
+- **Concreteness:** 0.7 (The argument speaks about specific font styles, making it concrete in its claims.)
+
+### Quarter 2:
+**Argument:** "Comic Sans looks like crap on an essay or a official document, but in a cutesy letter from grandma or in a joking yet soft note."
+
+- **Valence:** 0.4 (There is a negative appraisal of Comic Sans in official contexts but a positive one in informal contexts.)
+- **Dominance:** 0.5 (The speaker provides a balanced view, discussing contexts, but still maintains authority.)
+- **Intensity:** 0.6 (The phrase "looks like crap" conveys a higher intensity of critique.)
+- **Concreteness:** 0.8 (The references to specific contexts (essays, letters) are very concrete.)
+
+### Quarter 3:
+**Argument:** "Papyrus, on the other hand, seems to have only one appropriate use: 5th grade projects on Ancient Egypt. The font isn't aesthetically pleasing: the capitals are far too large and the letters fit weirdly."
+
+- **Valence:** 0.2 (This section carries a very negative tone towards Papyrus.)
+- **Dominance:** 0.7 (The speaker firmly establishes their viewpoint on the limitations of Papyrus.)
+- **Intensity:** 0.7 (The statement about aesthetics and size reflects strong personal dissatisfaction.)
+- **Concreteness:** 0.9 (Specifics about aesthetic issues give it high concreteness.)
+
+### Quarter 4:
+**Argument:** "Not that Comic Sans is good, but certainly the lesser of the two evils. And yet we end up with situations like [this] or [this]."
+
+- **Valence:** 0.5 (The phrase acknowledges Comic Sans is not ideal, introducing a somewhat mixed appraisal.)
+- **Dominance:** 0.5 (The speaker maintains a moderate assertiveness, yet indicates a comparative evaluation.)
+- **Intensity:** 0.4 (The tone is more subdued in this quarter than earlier critiques.)
+- **Concreteness:** 0.7 (The introduction of examples supports the argument, making it more tangible.)
+
+Overall, the ratings reflect the argument's tone, authority, emotional weight, and clarity at each step of the text.
+

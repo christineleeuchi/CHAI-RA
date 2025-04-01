@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure! Here is a rating score from 0.0 to 1.0 for each of the specified dimensions (valence, dominance, intensity, and concreteness) for each quarter of the argument's text:
+
+### Quarter 1:
+**Text**: "CMV: I think student should be able to test out of almost every class. I think students should be able to test out of any class, at the very least, any of those at the high school level or higher. I don't think it makes any sense to have a student sit through a class to learn things that he can already prove he knows."
+
+- **Valence**: 0.8 (The argument presents a positive viewpoint about students’ autonomy and knowledge.)
+- **Dominance**: 0.7 (The speaker expresses a firm opinion and drives the point clearly.)
+- **Intensity**: 0.6 (The argument is straightforward but could be expressed with more passionate language.)
+- **Concreteness**: 0.7 (The argument is specific about the classes in question but remains somewhat abstract regarding the implications.)
+
+### Quarter 2:
+**Text**: "Basically, I just want reasons why sitting through a class that a student already understands makes sense."
+
+- **Valence**: 0.6 (The request for counterarguments is neutral, showing openness to discussion.)
+- **Dominance**: 0.5 (The speaker is taking a step back and inviting responses, which diminishes assertiveness.)
+- **Intensity**: 0.5 (A straightforward expression of curiosity, rather than a strong stance.)
+- **Concreteness**: 0.6 (This continues the discourse on a specific topic, although it's more of a rhetorical inquiry.)
+
+### Quarter 3:
+**Text**: "**Some obvious arguments and their counters**"
+
+- **Valence**: 0.6 (It sets up a critical discussion but doesn’t convey strong positive or negative sentiment.)
+- **Dominance**: 0.5 (The segment introduces counterarguments but maintains a balanced tone rather than dominating the discussion.)
+- **Intensity**: 0.4 (This portion is informative rather than emotionally charged.)
+- **Concreteness**: 0.5 (Somewhat abstract as it introduces both arguments and counters without a specific focus yet.)
+
+### Quarter 4:
+**Text**: "This is why I specified  '*almost* every class.' Obviously there are some classes that teach things that can't really be tested, and of course the student would still have to take those classes, or we might just remove them from the education system altogether."
+
+- **Valence**: 0.7 (The argument clarifies and refines the initial point, showing confidence but also acknowledging complexity.)
+- **Dominance**: 0.8 (The speaker asserts a definitive stance on the pragmatic limitations of the proposal.)
+- **Intensity**: 0.6 (There is a measured tone, but a clear conviction about the classes that need to be retained.)
+- **Concreteness**: 0.8 (It provides specific reasoning and acknowledges exceptions, adding depth to the argument.)
+
+These scores are subjective estimates based on the content and style of the argument as presented.
+

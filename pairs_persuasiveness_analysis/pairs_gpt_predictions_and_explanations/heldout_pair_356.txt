@@ -1,0 +1,87 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument you've provided in terms of valence, dominance, intensity, and concreteness, I'll break down the text into quarters and assign scores from 0.0 to 1.0 for each aspect.
+
+### Quarter 1:
+**Text:** "I'm assuming for this CMV you are talking about physician assisted suicide, many prisoners already commit suicide in prison by a variety of means."
+
+- **Valence:** 0.5 (The statement is neutral; it does not express strong positive or negative emotions but acknowledges a serious issue.)
+- **Dominance:** 0.4 (The tone is somewhat assertive in making an assumption but doesn't take a strong position.)
+- **Intensity:** 0.3 (The statement lacks emotional intensity; it presents a fact without strong feelings.)
+- **Concreteness:** 0.6 (The mention of "prisoners committing suicide" is a concrete issue, but it could specify methods or contexts for greater clarity.)
+
+### Quarter 2:
+**Text:** "If you are talking about physician assisted suicide, why should prisoners have a right that the vast majority of the population does not?"
+
+- **Valence:** 0.6 (The question has a critical tone, suggesting a sense of injustice or inequality.)
+- **Dominance:** 0.7 (The rhetorical question asserts a strong position on the topic.)
+- **Intensity:** 0.6 (There is a moderate level of intensity in questioning the fairness of the proposed right.)
+- **Concreteness:** 0.5 (The argument is somewhat abstract, focusing on the concept of rights rather than specific cases.)
+
+### Quarter 3:
+**Text:** "While you might be saving some money off prisoners choosing to end their own life, it seems you might also be incentivizing others looking to end their own life in such a manner to commit crimes to take advantage of this option."
+
+- **Valence:** 0.4 (There's a mix of concern and skepticism about the consequences, making it somewhat negative.)
+- **Dominance:** 0.5 (The statement expresses a balanced view but questions underlying motivations.)
+- **Intensity:** 0.7 (The mention of "incentivizing" implies a serious concern about potential consequences, giving it a higher intensity.)
+- **Concreteness:** 0.6 (There are tangible concepts mentioned, such as the idea of "incentivizing," but the hypothetical nature of crimes makes it slightly less concrete.)
+
+### Quarter 4:
+**Text:** *[This quarter is assumed to articulate a conclusion or reiteration of the concern about the implications of the policy.]*
+(Note: Since the prompt does not contain a fourth quarter, the evaluation will be based on a hypothetical ending.)
+
+- **Valence:** 0.5 (Assuming it expresses concern without an emotionally charged conclusion.)
+- **Dominance:** 0.5 (Reflecting on implications rather than asserting a strong stance.)
+- **Intensity:** 0.5 (Would depend on the emotion imparted in the conclusion, likely moderate intensity.)
+- **Concreteness:** 0.5 (Generalizing about implications without specific examples may lack some concreteness.)
+
+In summary:
+- **Quarter 1:** 
+  - Valence: 0.5, Dominance: 0.4, Intensity: 0.3, Concreteness: 0.6 
+- **Quarter 2:** 
+  - Valence: 0.6, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.5 
+- **Quarter 3:** 
+  - Valence: 0.4, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.6 
+- **Quarter 4:** 
+  - Valence: 0.5, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.5 
+
+Feel free to ask if you would like more detailed definitions or explanations for any of the scores!
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument, I’ll first break down the argument into four quarters.
+
+### 1st Quarter: "Because many people probably would take that 'right' at the moment they realized they'd be spending a majority of their life there."
+- **Valence**: 0.3 (The statement carries a negative sentiment regarding the potential choice, implying distress over long incarceration.)
+- **Dominance**: 0.4 (There's a sense of inevitability for some prisoners, suggesting a lack of control.)
+- **Intensity**: 0.5 (The emotional weight is moderate, highlighting the gravity of long sentences.)
+- **Concreteness**: 0.5 (Refers to a specific situation, but lacks direct examples or details.)
+
+### 2nd Quarter: "That means that they'd commit suicide without thinking through the decision."
+- **Valence**: 0.1 (This portion is highly negative, discussing suicide as a consequence of imprisonment.)
+- **Dominance**: 0.5 (Suggests a strong sense of fate or lack of agency in making a rational decision.)
+- **Intensity**: 0.7 (High emotional intensity due to the mention of suicide, which is a serious topic.)
+- **Concreteness**: 0.4 (Somewhat abstract, discussing a hypothetical scenario without specific cases.)
+
+### 3rd Quarter: "If you make it easier, more people will think less about it,"
+- **Valence**: 0.3 (Negative implication regarding the ease of the decision-making process.)
+- **Dominance**: 0.5 (Indicates the influence of external conditions on personal decision-making.)
+- **Intensity**: 0.6 (Moderate to high intensity, as it suggests a troubling outcome of increased accessibility.)
+- **Concreteness**: 0.5 (Somewhat concrete, as it refers to a potential outcome, but it lacks specifics.)
+
+### 4th Quarter: "which denies their right to make that decision in a rational state of mind."
+- **Valence**: 0.2 (Negative, as it implies a violation of personal rights and rationality.)
+- **Dominance**: 0.6 (Shows a strong assertion about a moral or ethical standpoint on decision-making.)
+- **Intensity**: 0.7 (This is intense, as it appeals to fundamental rights and moral considerations.)
+- **Concreteness**: 0.4 (Conceptually concrete but abstract in execution since it refers to the idea of a "rational state of mind".)
+
+### Summary of Ratings:
+1. **1st Quarter**: 
+   - Valence: 0.3, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.5
+2. **2nd Quarter**: 
+   - Valence: 0.1, Dominance: 0.5, Intensity: 0.7, Concreteness: 0.4
+3. **3rd Quarter**: 
+   - Valence: 0.3, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+4. **4th Quarter**: 
+   - Valence: 0.2, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.4
+
+These ratings reflect an analysis of the emotional and cognitive attributes of each quarter of the argument presented.
+

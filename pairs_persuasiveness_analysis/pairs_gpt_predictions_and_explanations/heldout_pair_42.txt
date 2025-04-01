@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating score from 0.0 to 1.0 for each of the four dimensions (valence, dominance, intensity, and concreteness) across four quarters of the argument text:
+
+**1st Quarter:**
+- **Valence:** 0.2 (The tone is critical of US involvement, expressing a negative perspective.)
+- **Dominance:** 0.5 (The writer expresses a strong, assertive viewpoint, challenging the premise.)
+- **Intensity:** 0.6 (There’s a passionate tone with strong language and implications.)
+- **Concreteness:** 0.4 (Some specific references are made, but it is primarily argumentative rather than descriptive.)
+
+**2nd Quarter:**
+- **Valence:** 0.3 (The portrayal of US actions is negative, but highlights anti-colonialism which can evoke a mixed response.)
+- **Dominance:** 0.6 (The writer strongly asserts their argument against the US involvement.)
+- **Intensity:** 0.7 (The language becomes more intense, emphasizing injustice.)
+- **Concreteness:** 0.5 (Provides historical context and references to government legitimacy.)
+
+**3rd Quarter:**
+- **Valence:** 0.1 (This section is highly critical of US actions, leading to a strongly negative valence.)
+- **Dominance:** 0.7 (Control over the argument is maintained, with strong assertions.)
+- **Intensity:** 0.8 (The emotional impact increases with references to atrocities committed.)
+- **Concreteness:** 0.6 (Specific historical occurrences are mentioned, making the argument more tangible.)
+
+**4th Quarter:**
+- **Valence:** 0.2 (Returns to a critical tone but reflects some complexity in discussing both sides.)
+- **Dominance:** 0.5 (Balance in discussing multiple aspects leads to a less dominating presence.)
+- **Intensity:** 0.5 (The emotional intensity decreases slightly as it broadens to include more perspectives.)
+- **Concreteness:** 0.5 (Concrete examples provided create context, but are secondary to the argument's complexity.)
+
+These ratings reflect the varying degrees of emotional and logical strength, as well as the specificity of arguments made throughout the text.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a rating score (from 0.0 to 1.0) for each of the specified dimensions—valence, dominance, intensity, and concreteness—for each quarter of the provided argument:
+
+**Quarter 1:**
+"I have nothing but admiration for the Vietnamese people. Within a span of 30 years the French were expelled, the United States was stopped from partitioning or exerting control over the country, and shortly thereafter a Chinese invasion was repelled. The Vietnamese also deposed the Khmer Rogue in Cambodia, a regime responsible for massacring millions of people."
+
+- **Valence:** 0.9 (Very positive tone, expressing admiration for the Vietnamese people and their resilience)
+- **Dominance:** 0.5 (Balanced; the speaker expresses admiration but also acknowledges historical events without asserting superiority)
+- **Intensity:** 0.7 (Strong feelings of admiration and acknowledgment of significant historical events)
+- **Concreteness:** 0.8 (Concrete references to historical events and specific achievements of the Vietnamese people)
+
+**Quarter 2:**
+"Understandably, you look to countries that have done well out of being within the US sphere of influence, like South Korea. Remember though that the Rhee regime, which was supported by the US during the Korean war, was also responsible for massacring 100's of thousands of civilians. At the time, alignment with the great power that would exert the least influence over Vietnam (the Soviet Union) was likely the best option."
+
+- **Valence:** 0.5 (Neutral; while it critiques US influence, it acknowledges the complexity of historical alliances)
+- **Dominance:** 0.6 (The speaker presents an argument that challenges prevailing narratives about US involvement)
+- **Intensity:** 0.6 (Moderate intensity in critiquing US actions while analyzing alternatives)
+- **Concreteness:** 0.7 (Specific examples and historical context, but less concrete than the first quarter)
+
+**Quarter 3:**
+"Your people have a heroic history and you should be proud of it."
+
+- **Valence:** 0.9 (Highly positive, reinforcing pride in Vietnam’s history)
+- **Dominance:** 0.4 (Less dominant compared to the previous quarters; a more personal and uplifting statement)
+- **Intensity:** 0.7 (Strong encouragement and respect for historical struggle)
+- **Concreteness:** 0.4 (Abstract expression of pride without specific context or detailed examples)
+
+**Quarter 4:**
+""The last time the Chinese came, they stayed a thousand years. The French are foreigners. They are weak. Colonialism is dying. The white man is finished in Asia. But if the Chinese stay now, they will never go. As for me, I prefer to sniff French shit for five years than to eat Chinese shit for the rest of my life." — Ho Chi Minh, 1946"
+
+- **Valence:** 0.6 (Mixed; while there is a strong historical context, the language used is harsh)
+- **Dominance:** 0.7 (Very strong; quoting a notable figure, asserting a clear perspective)
+- **Intensity:** 0.9 (Highly intense due to the emotional and provocative nature of the quote)
+- **Concreteness:** 0.8 (Concrete reference to a specific historical figure and quote, providing context to the argument)
+
+**Summary of Ratings:**
+- **Quarter 1:** Valence 0.9, Dominance 0.5, Intensity 0.7, Concreteness 0.8
+- **Quarter 2:** Valence 0.5, Dominance 0.6, Intensity 0.6, Concreteness 0.7
+- **Quarter 3:** Valence 0.9, Dominance 0.4, Intensity 0.7, Concreteness 0.4
+- **Quarter 4:** Valence 0.6, Dominance 0.7, Intensity 0.9, Concreteness 0.8
+

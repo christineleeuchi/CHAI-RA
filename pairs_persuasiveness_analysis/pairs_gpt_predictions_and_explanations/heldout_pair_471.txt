@@ -1,0 +1,64 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument provided in terms of valence, dominance, intensity, and concreteness, I will assess each quarter of the text separately.
+
+1. **First Quarter: "Situation you describe is only possible for a few decades, in developed enough countries, and among people that do well enough for themselves."**
+   - **Valence:** 0.7 (The tone seems somewhat critical of the situation described but does not express strong negativity.)
+   - **Dominance:** 0.6 (The statement asserts knowledge about socio-economic realities and indicates a level of authority.)
+   - **Intensity:** 0.5 (The assertion is moderate; it conveys a clear point without excessive emotional charge.)
+   - **Concreteness:** 0.8 (The argument presents a concrete context—developed countries and socio-economic conditions.)
+
+2. **Second Quarter: "In any other circumstances, family is pretty much instrumental for survival (mostly when kids are involved of course)."**
+   - **Valence:** 0.8 (This part has a more positive perspective on family, seen as essential for survival.)
+   - **Dominance:** 0.5 (Establishes an important point but does not dominate the overall conversation.)
+   - **Intensity:** 0.6 (Moderate intensity, emphasizing the importance of family.)
+   - **Concreteness:** 0.7 (The argument references tangible concepts like family and survival, but it remains somewhat abstract.)
+
+3. **Third Quarter: "In most cases, family only works well with monogamy."**
+   - **Valence:** 0.6 (This suggests a positive view on monogamy but could also suggest an exclusionary view.)
+   - **Dominance:** 0.7 (Strong assertion about the relationship between family and monogamy, giving it weight.)
+   - **Intensity:** 0.6 (A clear assertion that carries some emotional weight about relationships.)
+   - **Concreteness:** 0.7 (Specific terms like family and monogamy lend a level of concreteness to the argument.)
+
+4. **Fourth Quarter: "So more accurate, the 'norm' should be understanding and honoring the agreement you enter in."**
+   - **Valence:** 0.9 (This is a positive assertion about personal agreements and respect.)
+   - **Dominance:** 0.6 (Advocates for a perspective that is less domineering and more empathetic.)
+   - **Intensity:** 0.8 (Strong emphasis on understanding and honoring agreements, conveying passion.)
+   - **Concreteness:** 0.5 (While it speaks to agreements, the inherently subjective nature makes it somewhat abstract.)
+
+These scores provide a quantitative understanding of the characteristics of each segment of the argument as it addresses the complexities of relationships, societal norms, and personal autonomy.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! Here’s a breakdown of the argument you provided, along with a rating score from 0.0 to 1.0 for each of the given dimensions:
+
+### Quarter 1: "Most people want an exclusive relationship so exclusive relationships are the norm."
+- **Valence**: 0.6 (Neutral to Positive; it suggests that monogamous relationships are widely desired.)
+- **Dominance**: 0.5 (Balanced; it states a social observation but doesn’t assert dominance over differing views.)
+- **Intensity**: 0.4 (Moderate; the claim is a common belief but is not deeply passionate or emotionally charged.)
+- **Concreteness**: 0.5 (Somewhat concrete; it mentions a general observation without specific data or examples.)
+
+### Quarter 2: "A person agrees not to have sex with others because they want their partner to do the same, there is no 'force' involved."
+- **Valence**: 0.7 (Positive; emphasizes mutual agreement which is favorable.)
+- **Dominance**: 0.6 (Somewhat dominant; suggests that the agreement is preferable and implies a standard approach.)
+- **Intensity**: 0.5 (Moderate; expresses a clear assertion but is more descriptive than emotive.)
+- **Concreteness**: 0.6 (Somewhat concrete; describes a mutually beneficial arrangement but lacks specific examples of such agreements.)
+
+### Quarter 3: "Only a mutual agreement where both parties abide by the same rule."
+- **Valence**: 0.8 (Positive; promotes the idea of mutual respect in relationships.)
+- **Dominance**: 0.5 (Neutral; it’s more of a descriptive statement reinforcing prior context.)
+- **Intensity**: 0.5 (Moderate; emphasizes agreement but doesn’t convey strong emotions.)
+- **Concreteness**: 0.7 (Concrete; the concept of mutual agreement is clear and relatable, though still somewhat abstract.)
+
+### Quarter 4: "If someone wants a non monogamous relationship, they are obligated to inform any potential partners of that so the partner is not deceived."
+- **Valence**: 0.6 (Neutral to Positive; stresses honesty and transparency in relationships.)
+- **Dominance**: 0.7 (Somewhat dominant; suggests an ethical obligation.)
+- **Intensity**: 0.6 (Moderate; conveys a strong moral viewpoint regarding honesty.)
+- **Concreteness**: 0.6 (Concrete; the idea of informing partners is a clear and relatable requirement.)
+
+### Summary of Ratings:
+- **Quarter 1**: Valence (0.6), Dominance (0.5), Intensity (0.4), Concreteness (0.5)
+- **Quarter 2**: Valence (0.7), Dominance (0.6), Intensity (0.5), Concreteness (0.6)
+- **Quarter 3**: Valence (0.8), Dominance (0.5), Intensity (0.5), Concreteness (0.7)
+- **Quarter 4**: Valence (0.6), Dominance (0.7), Intensity (0.6), Concreteness (0.6)
+
+These ratings assess the nature of the arguments made within the context of the provided text.
+

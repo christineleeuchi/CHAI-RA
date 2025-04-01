@@ -1,0 +1,52 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating score from 0.0 to 1.0 for each of the attributes of the argument (valence, dominance, intensity, and concreteness), we'll break down the argument into four quarters and analyze each attribute accordingly:
+
+### Quarter 1: "CMV: If reddit's community cannot drive out hate subs, it is the admins job to do so. If the admins cannot do so, they should try until there isn't a reddit left anymore."
+- **Valence:** 0.8 — The statement has a positive motive of wanting to drive out hate subs, but it also includes an extreme perspective of "until there isn’t a reddit left anymore," which might be viewed negatively.
+- **Dominance:** 0.6 — There is a clear authoritative tone suggesting that administrators must take action, but it depends on the community's capacity to act as well.
+- **Intensity:** 0.7 — The message has a strong tone due to its urgency and the strong call for the admins to take responsibility.
+- **Concreteness:** 0.5 — The argument is somewhat abstract as it discusses the responsibilities of admins without specific solutions or actions outlined, but it addresses tangible concepts like "hate subs."
+
+### Quarter 2: "1) Racism, sexism, homophobia, and other forms of hating classes of people are wrong."
+- **Valence:** 1.0 — The statement is unequivocally negative towards racism, sexism, and homophobia, promoting a positive moral stance.
+- **Dominance:** 0.5 — It states moral truth but lacks an authoritative directive, making it less dominant compared to the first quarter.
+- **Intensity:** 0.8 — This is a very intense claim due to the moral weight associated with these forms of discrimination.
+- **Concreteness:** 0.9 — These are well-defined concepts, and the statement clearly articulates a moral position against them.
+
+### Quarter 3: "2) We have a moral obligation to do right. 3) Free speech also means one has a right to challenge bad ideas, and that we are not obligated to act as platforms for the ideas of others."
+- **Valence:** 0.9 — The emphasis on moral obligation is very positive, while also critiquing the allowance of "bad ideas" which paints a negative view of such concepts.
+- **Dominance:** 0.7 — There is a strong claim about moral obligations and a call to action against harmful ideas, suggesting a dominant position in discussions about rights.
+- **Intensity:** 0.8 — The intensity is high due to the ethical implications of moral obligations and free speech.
+- **Concreteness:** 0.7 — The argument presents clear ideas about morality and free speech, though it blends abstract ethical discussions with rights, making it less concrete than specific instances of discrimination.
+
+### Quarter 4: "Given this, individuals and groups SHOULD NOT promote racism, sexism, and homophobia. In allowing subreddits that do so to function on their platform, reddit is doing so. This is, in fact, wrong..."
+- **Valence:** 0.9 — The statement strongly advocates for non-promotion of hate, promoting moral correctness.
+- **Dominance:** 0.8 — It presents a commanding viewpoint on the responsibilities of individuals, groups, and Reddit itself, reinforcing the need for action.
+- **Intensity:** 0.9 — This segment is very intense, especially with the use of "SHOULD NOT" and clear condemnation of hate.
+- **Concreteness:** 0.8 — The argument is relatively concrete, discussing actions that can be taken against promoting hate.
+
+### Summary of Scores
+- **Quarter 1:** 
+  - Valence: 0.8
+  - Dominance: 0.6
+  - Intensity: 0.7
+  - Concreteness: 0.5
+
+- **Quarter 2:** 
+  - Valence: 1.0
+  - Dominance: 0.5
+  - Intensity: 0.8
+  - Concreteness: 0.9
+
+- **Quarter 3:** 
+  - Valence: 0.9
+  - Dominance: 0.7
+  - Intensity: 0.8
+  - Concreteness: 0.7
+
+- **Quarter 4:** 
+  - Valence: 0.9
+  - Dominance: 0.8
+  - Intensity: 0.9
+  - Concreteness: 0.8
+

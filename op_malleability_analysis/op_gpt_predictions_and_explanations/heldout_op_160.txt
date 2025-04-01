@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide rating scores from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the provided argument, I will assess the text based on its emotional tone, assertiveness, emotional strength, and clarity of concepts and ideas. 
+
+**First Quarter:**
+*"CMV: Whoever is responsible for letting go Victoria from reddit (u/chooter) should be fired."*
+
+- Valence: 0.2 (Negative sentiment due to the call for firing a person)
+- Dominance: 0.8 (Strongly assertive statement)
+- Intensity: 0.7 (High intensity as it conveys a clear emotional reaction)
+- Concreteness: 0.6 (The argument is quite clear but lacking specific details about why)
+
+**Second Quarter:**
+*"If Ellen Pao, I will finally jump on the Pao should resign bandwagon."*
+
+- Valence: 0.4 (Mixed sentiment; some negativity towards Ellen Pao)
+- Dominance: 0.7 (Fairly assertive but less direct than the first quarter)
+- Intensity: 0.6 (Still carries emotional weight, though slightly less intense)
+- Concreteness: 0.5 (Concept of a "bandwagon" implies a broader idea but lacks specifics)
+
+**Third Quarter:**
+*"/u/chooter [1] has been a fantastic, active member of the reddit community for years."*
+
+- Valence: 0.8 (Positive sentiment towards u/chooter)
+- Dominance: 0.4 (Less assertive, more supportive tone)
+- Intensity: 0.5 (Moderate intensity, expressing admiration)
+- Concreteness: 0.7 (Clear and specific about the value of u/chooter's contributions)
+
+**Fourth Quarter:**
+*"One might say that her work has made it possible for reddit to grow into what it is today with all of the publicity we get, especially from the Obama AMA. Reddit has made some really stupid decisions over the almost five years I have been a member. This may well take the cake."*
+
+- Valence: 0.3 (Negative sentiment regarding Reddit’s decisions, but still positive about u/chooter's impact)
+- Dominance: 0.5 (Balanced tone, mixing criticism with praise)
+- Intensity: 0.6 (Higher intensity due to the emotional reaction to Reddit's decisions)
+- Concreteness: 0.8 (Strong examples provided, especially the Obama AMA)
+
+Overall, these scores reflect the emotional and conceptual strengths and weaknesses across the four quarters of the argument.
+

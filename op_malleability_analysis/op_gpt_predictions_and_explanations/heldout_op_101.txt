@@ -1,0 +1,42 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument provided in terms of valence, dominance, intensity, and concreteness, I will break it down into four quarters and assign scores for each category (0.0 to 1.0).
+
+**Quarter 1:**
+"CMV: Equal pay in sports for men and woman atheletes cannot be attained currently, due to economic factors associated with demand, not social injustice I'm seeing a lot of heat against FIFA because of the unequal pay distributed to US woman soccer players compared to men. (See this article for more info: http://www.cnbc.com/id/102811922)"
+
+- **Valence:** 0.4 (The statement introduces a controversial topic and has a negative connotation regarding the current state of pay in sports.)
+- **Dominance:** 0.6 (The author takes a position that reflects a measure of authority on the issue by directing the discussion toward economic factors.)
+- **Intensity:** 0.5 (There is a moderate intensity as the argument presents strong opinions on the disparity in pay, but it is not overly aggressive.)
+- **Concreteness:** 0.5 (It references an external article for support but lacks detailed evidence in this quarter.)
+
+**Quarter 2:**
+"Now, while I agree that pay gaps are a problem in ~~general~~ some fields, sports is a different ballgame (no pun intended). As such, the success of a franchise is dependent on the supporters who pay money for tickets, gear, etc. If we were to look at attendance figures for the National Woman's Soccer League (NWSL) for 2014 compared to Major League Soccer (MLS), we see a huge disparity in people attending games."
+
+- **Valence:** 0.3 (This section introduces an argument that may be perceived as diminishing the issue of equal pay, thus carrying a somewhat negative valence.)
+- **Dominance:** 0.7 (The author asserts a strong claim about the economic dynamics of sports, reflecting a sense of authority.)
+- **Intensity:** 0.6 (The argument builds intensity by citing attendance figures to support their view, making it more compelling.)
+- **Concreteness:** 0.6 (The use of specific leagues and attendance figures provides a more concrete foundation for the claims.)
+
+**Quarter 3:**
+"Of course, this translates over to other leagues. The NBA draws more people than the WNBA, both live and TV ratings. The revenue of the NFL is exponentially greater than the Independent Woman's Football League."
+
+- **Valence:** 0.3 (Again, this continues the trend of presenting a negative outlook on women's sports in relation to men's sports.)
+- **Dominance:** 0.7 (The author asserts dominance by providing comparative statistics that strengthen the economic argument.)
+- **Intensity:** 0.7 (The statement is forceful in conveying the disparities in viewership and revenue, which amplifies intensity.)
+- **Concreteness:** 0.7 (Specific references to leagues and statistics lend credibility and clarity to the argument.)
+
+**Quarter 4:**
+"I'm not here to provide solutions to this, or look into why the mentality of America draws more into guy sports. Yes, I think that ladies should be paid equally. ~~I also think ladies have the ability to play all sports as good as men do, if not better.~~ And of course, ladies have as much of a right to play in any sport and play it professionally. But (and yes here comes a South Park reference) '...you can't expect people to watch.' My conclusion: the pay gap in sports is a consequence of economic revenue, rather than social injustice."
+
+- **Valence:** 0.4 (The conclusion acknowledges the right to equal pay while still fundamentally attributing disparities to economic reasons, yielding a mixed valence.)
+- **Dominance:** 0.5 (While concluding, the dominance fades compared to earlier parts where the author presented more assertively.)
+- **Intensity:** 0.4 (The tone here is more subdued as the author seems to soften their stance slightly in acknowledging women's rights.)
+- **Concreteness:** 0.5 (The expressed conclusion is clear but does not introduce new evidence, balancing the concreteness.)
+
+In summary, the ratings for each quarter could be interpreted as:
+
+- Quarter 1: Valence (0.4), Dominance (0.6), Intensity (0.5), Concreteness (0.5)
+- Quarter 2: Valence (0.3), Dominance (0.7), Intensity (0.6), Concreteness (0.6)
+- Quarter 3: Valence (0.3), Dominance (0.7), Intensity (0.7), Concreteness (0.7)
+- Quarter 4: Valence (0.4), Dominance (0.5), Intensity (0.4), Concreteness (0.5)
+

@@ -1,0 +1,90 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here’s a breakdown of the argument into quarters and a corresponding rating for each in terms of valence, dominance, intensity, and concreteness.
+
+### Quarter 1: "Black voters were key to Obama's election and strongly support Clinton as well."
+- **Valence:** 0.8 - This statement has a positive connotation regarding the importance of black voters, but it could be seen as neutral in terms of evaluation.
+- **Dominance:** 0.7 - It asserts a clear point about the influence of black voters, reinforcing their significant role in elections.
+- **Intensity:** 0.6 - The intensity is moderate; it's a factual assertion rather than an emotional statement.
+- **Concreteness:** 0.9 - This quarter is concrete, providing concrete evidence of the importance of a specific demographic in political contexts.
+
+### Quarter 2: "But black democrats tend to be less liberal than their white counterparts, and Sanders will almost certainly do less well with black voters than Clinton."
+- **Valence:** 0.5 - This contains both positive and negative aspects (a factual statement); it's not strongly favorable or unfavorable.
+- **Dominance:** 0.6 - It shifts the argument by introducing a comparative element, suggesting a definitive outcome without being overly assertive.
+- **Intensity:** 0.5 - The intensity is moderate, balancing facts with conclusions without strong emotional language.
+- **Concreteness:** 0.8 - This offers a concrete observation about voter demographics and preferences.
+
+### Quarter 3: "He will also lose support from democrats and independents who are socially liberal but more pro-business."
+- **Valence:** 0.4 - This is a negative assessment of Sanders' appeal among a certain voter demographic and somewhat undermines his candidacy.
+- **Dominance:** 0.7 - This makes a clear declaration about potential electoral challenges for Sanders.
+- **Intensity:** 0.6 - The language is moderate, indicating a concern regarding Sanders’ appeal without being overly dramatic.
+- **Concreteness:** 0.7 - The statement is concrete in identifying a specific group of voters and their potential preferences.
+
+### Quarter 4: "Similarly, some wealthy donors will likely be repelled by Sanders' economic views, hurting his campaign financially."
+- **Valence:** 0.3 - This has a negative tone, suggesting that Sanders' views will have harmful effects on his financial backing.
+- **Dominance:** 0.6 - The assertion is clear about the implications of Sanders' views on his potential funding.
+- **Intensity:** 0.7 - The language conveys a stronger concern for the repercussions of Sanders' positions, reflecting a higher intensity.
+- **Concreteness:** 0.8 - This quarter is also concrete, as it clearly states how economic views may affect funding and support.
+
+### Summary Scores
+1. Quarter 1: Valence - 0.8, Dominance - 0.7, Intensity - 0.6, Concreteness - 0.9
+2. Quarter 2: Valence - 0.5, Dominance - 0.6, Intensity - 0.5, Concreteness - 0.8
+3. Quarter 3: Valence - 0.4, Dominance - 0.7, Intensity - 0.6, Concreteness - 0.7
+4. Quarter 4: Valence - 0.3, Dominance - 0.6, Intensity - 0.7, Concreteness - 0.8
+
+Let me know if you need any further elaboration!
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To analyze the argument using the requested metrics—valence, dominance, intensity, and concreteness—I’ll evaluate each quarter of the argument separately. Each rating will be on a scale from 0.0 (low) to 1.0 (high).
+
+### Quarter 1: "I'm a Bernie supporter but this is really damning to his cause: [link] Automatically he loses 53% of Americans' votes."
+
+- **Valence**: 0.3 
+  - This statement presents a negative perspective regarding Bernie's chances due to the poll results.
+  
+- **Dominance**: 0.4 
+  - The speaker expresses a position of concern and authority but acknowledges their own support for Bernie, indicating a somewhat balanced view.
+
+- **Intensity**: 0.6 
+  - There is a strong emotional weight due to the highlighted concern about losing votes, and the phrase “this is really damning” adds to that intensity.
+
+- **Concreteness**: 0.5 
+  - The argument references a specific data point (53% of Americans' votes), giving it some concrete backing, but lacks further details about the context.
+
+### Quarter 2: "I think he can change that if he a) engages the debate on 'socialism' or b) it doesn't become a big issue."
+
+- **Valence**: 0.6 
+  - This part of the argument shifts to a more positive outlook by suggesting potential actions that Bernie's campaign can take.
+
+- **Dominance**: 0.5 
+  - The speaker remains somewhat directive, offering specific strategies, which adds to their authoritative presence regarding the situation.
+
+- **Intensity**: 0.4 
+  - This section maintains a moderate level of intensity as it is somewhat optimistic yet still incorporates a level of uncertainty.
+
+- **Concreteness**: 0.6 
+  - The mention of specific strategies (engaging in debate or the issue not being prominent) lends concrete suggestions that add clarity to the argument.
+
+### Quarter 3: "Otherwise, he will not take the White House."
+
+- **Valence**: 0.2 
+  - This statement has a negative valence, indicating a grim prediction about Bernie's prospects if certain conditions are not met.
+
+- **Dominance**: 0.3 
+  - It conveys a sense of finality and assertion, asserting what will happen under the outlined conditions, but lacks a forward-looking view.
+
+- **Intensity**: 0.5 
+  - The certainty in this prediction contributes significantly to its intensity, emphasizing the stakes involved.
+
+- **Concreteness**: 0.4 
+  - The statement is straightforward but does not provide additional evidence or reasoning, which reduces the level of concreteness.
+
+### Summary Ratings:
+1. **Quarter 1** (Overview of concern): 
+   - Valence: 0.3, Dominance: 0.4, Intensity: 0.6, Concreteness: 0.5
+2. **Quarter 2** (Potential solutions): 
+   - Valence: 0.6, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.6
+3. **Quarter 3** (Final assessment): 
+   - Valence: 0.2, Dominance: 0.3, Intensity: 0.5, Concreteness: 0.4
+
+While the ratings are subjective, they reflect the overall impressions of valence, dominance, intensity, and concreteness found throughout the argument.
+

@@ -1,0 +1,43 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here is the rating for each of the specified dimensions across the four quarters of the argument:
+
+**Quarter 1:**
+> "CMV: People dont eat meat because they think its morally okay, they just dont give a shit about morality. I think its fair to say that most people dont give a single shit about morality unless they're driven by compassion/'their conscience' or worried about being judged by others for doing the wrong thing."
+
+- **Valence:** 0.2 (The sentiment is negative; it criticizes people's morality.)
+- **Dominance:** 0.7 (The tone is assertive, implying a strong opinion.)
+- **Intensity:** 0.6 (The language expresses strong emotions, especially with phrases like "don't give a single shit.")
+- **Concreteness:** 0.5 (The arguments are somewhat abstract regarding morality but mention specific emotions and judgments.)
+
+**Quarter 2:**
+> "So people eat meat because 
+> 
+> * Most people wont judge them for it
+> 
+> * They have no compassion for the animal"
+
+- **Valence:** 0.3 (Still negative, but slightly more focused on reasons rather than emotionally charged language.)
+- **Dominance:** 0.5 (The argument presents claims as factual but remains somewhat less assertive.)
+- **Intensity:** 0.5 (Maintains a strong tone, though less intense than the first quarter.)
+- **Concreteness:** 0.6 (This section lists specific reasons, increasing the level of concreteness.)
+
+**Quarter 3:**
+> "I feel compassion for animals and so I dont contribute to their mass-abuse and slaughter, aside from the obivously immoral support of animal cruelty there's a bunch of reasons why vegetarianism is better for the earth, for your health etc, but until I gained that compassion it didnt matter to me."
+
+- **Valence:** 0.5 (A mix of positive feelings about compassion and negative notions about animal abuse.)
+- **Dominance:** 0.4 (Slightly less dominant as it expresses personal feelings rather than authoritative statements.)
+- **Intensity:** 0.5 (Moderate intensity expressing both personal reflection and moral stance.)
+- **Concreteness:** 0.7 (This portion brings up more tangible reasons and personal experiences.)
+
+**Quarter 4:**
+> "People like to act like their decision to eat meat is some kind of well thought-out position that they're sure is logically and morally sound, but IMO its 100% backwards rationalisation. They already made the decision to eat meat as a child without thinking about it at all, and they want to keep doing it so they try to explain to themself why they do it instead of honestly thinking about whether or not they actually should.
+> 
+> Eating meat can never be more or as ethical as not eating meat, because you're taking life needlessly and contributing to/causing (no snowflake in an avalanche ever feels responsible) all kinds of abuse towards animals. But people just dont really give a shit."
+
+- **Valence:** 0.2 (Strong negativity towards the rationale of eating meat and those who do.)
+- **Dominance:** 0.8 (Highly assertive, claiming a definitive position on the morality of eating meat.)
+- **Intensity:** 0.7 (High intensity, particularly with the language surrounding eating meat and the condemnation involved.)
+- **Concreteness:** 0.6 (While abstract in some arguments, it presents concrete consequences related to meat consumption and animal ethics.)
+
+These scores reflect the emotional tone, assertiveness, emotional depth, and specificity in each part of your argument.
+

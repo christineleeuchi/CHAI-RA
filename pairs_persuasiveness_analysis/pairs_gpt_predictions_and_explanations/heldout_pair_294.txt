@@ -1,0 +1,83 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To assign scores for valence, dominance, intensity, and concreteness for each part of the provided argument, we can analyze each quarter based on the definitions of these terms:
+
+1. **Valence**: This refers to the emotional tone of the statement, which can be positive, negative, or neutral.
+2. **Dominance**: This indicates the degree of control or assertiveness in the statement. A higher score suggests a more commanding presence.
+3. **Intensity**: This reflects the strength or forcefulness of the opinion being expressed. Higher intensity indicates a stronger expression of feeling or belief.
+4. **Concreteness**: This measures how tangible or specific the ideas are. Higher scores indicate more specific and easily understandable statements.
+
+### Quarter 1: 
+"An extra ten cents on his morning can of gravy isn't going to make fatso switch to Slimfast."
+
+- **Valence**: 0.3 (Negative tone due to derogatory term "fatso.")
+- **Dominance**: 0.6 (Some assertiveness in the claim that the minor price increase won’t change behavior.)
+- **Intensity**: 0.8 (Strong opinion against the effectiveness of the proposed tax.)
+- **Concreteness**: 0.7 (Uses a specific example to illustrate the point but lacks broader context.)
+
+### Quarter 2: 
+"Unfortunately doubling or tripling the price of junk food would completely destroy the market for these things and put manufacturers out of business almost immediately."
+
+- **Valence**: 0.4 (Negative implication regarding economic consequences.)
+- **Dominance**: 0.7 (Strong assertion about the impact on manufacturers and market.)
+- **Intensity**: 0.9 (Very strong statement regarding the potential effects of high taxes.)
+- **Concreteness**: 0.8 (Specific claim about market destruction is clear and tangible.)
+
+### Quarter 3: 
+"You're thinking that they shouldn't have as much demand as they do. If your plan were effective, fat people would stop going there and they would lose income."
+
+- **Valence**: 0.4 (Negative; challenges the effectiveness of the other person's argument.)
+- **Dominance**: 0.6 (Moderately assertive in countering the argument presented.)
+- **Intensity**: 0.7 (Fairly strong in asserting the flaws in the opposing argument.)
+- **Concreteness**: 0.5 (A general claim about demand, less specific than previous quarters.)
+
+### Quarter 4: 
+"But here's the thing: the obesity problem in the US is in a significant way economic. People who can't afford exercise or healthy food."
+
+- **Valence**: 0.5 (Neutral to slightly negative; addresses an issue without strong emotion.)
+- **Dominance**: 0.5 (Moderate assertion of the argument without strong command.)
+- **Intensity**: 0.6 (Fairly strong in presenting an alternative view on the problem of obesity.)
+- **Concreteness**: 0.7 (Fairly specific regarding socioeconomic factors contributing to obesity.)
+
+### Summary Scores:
+- **Quarter 1**: Valence 0.3, Dominance 0.6, Intensity 0.8, Concreteness 0.7
+- **Quarter 2**: Valence 0.4, Dominance 0.7, Intensity 0.9, Concreteness 0.8
+- **Quarter 3**: Valence 0.4, Dominance 0.6, Intensity 0.7, Concreteness 0.5
+- **Quarter 4**: Valence 0.5, Dominance 0.5, Intensity 0.6, Concreteness 0.7
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the argument you provided, with ratings for valence, dominance, intensity, and concreteness for each quarter of the text:
+
+**1st Quarter: "This will just cause people to buy fewer pants instead of less junk food."**
+
+- **Valence**: 0.5 (Neutral; it presents a negative implication without strong emotional charge)
+- **Dominance**: 0.6 (The argument has a slightly assertive tone in critiquing the effectiveness of the proposed solution)
+- **Intensity**: 0.4 (Moderate; the statement expresses disappointment but is relatively mild)
+- **Concreteness**: 0.7 (Fairly concrete; it references a specific behavior—buying pants—in response to a policy)
+
+**2nd Quarter: "The long term negative effects of obesity (like bad health, or in your example, expensive pants) are already known to virtually everyone."**
+
+- **Valence**: 0.6 (Slightly negative; it acknowledges known consequences of obesity)
+- **Dominance**: 0.7 (Relatively strong; it asserts that the information is universally acknowledged)
+- **Intensity**: 0.5 (Moderate; the severity of obesity's effects is discussed but not in a very charged way)
+- **Concreteness**: 0.6 (Specific examples are provided, which helps ground the statement)
+
+**3rd Quarter: "The reason those don't stop someone who wants to eat junk food right now, is that they won't affect him or her within weeks of them making the choice to eat a pizza."**
+
+- **Valence**: 0.4 (Neutral to slightly negative; it points out a flaw in reasoning without heavy negativity)
+- **Dominance**: 0.5 (Moderate; it analyzes behavior and reasoning directly)
+- **Intensity**: 0.6 (Somewhat more intense; the immediate consequences of choices are emphasized)
+- **Concreteness**: 0.7 (Very concrete; it discusses a specific behavior—eating pizza—and its timing)
+
+**4th Quarter: "For something like this to be effective, the 'punishment' must happen regularly and quickly after the bad choice is made."**
+
+- **Valence**: 0.5 (Neutral; it’s a pragmatic observation on effectiveness rather than a positive or negative claim)
+- **Dominance**: 0.6 (Fairly assertive; outlines a requirement for effectiveness)
+- **Intensity**: 0.5 (Moderate; this suggests a clear necessity but isn’t overly charged)
+- **Concreteness**: 0.6 (Specific; it discusses necessary conditions for the proposed tax to be effective)
+
+**Summary of Ratings:**
+- 1st Quarter: Valence: 0.5, Dominance: 0.6, Intensity: 0.4, Concreteness: 0.7
+- 2nd Quarter: Valence: 0.6, Dominance: 0.7, Intensity: 0.5, Concreteness: 0.6
+- 3rd Quarter: Valence: 0.4, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+- 4th Quarter: Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+

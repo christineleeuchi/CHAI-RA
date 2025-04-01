@@ -1,0 +1,81 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here’s a breakdown of the argument across four quarters, with a rating score from 0.0 to 1.0 for each of the dimensions: valence, dominance, intensity, and concreteness.
+
+### First Quarter:
+**Text:** "You're trading analog dollars for digital pennies though. Like these companies built huge businesses up on scarcity."
+
+- **Valence:** 0.4 (The argument has a slightly negative connotation towards current digital economics but recognizes a system.)
+- **Dominance:** 0.5 (The author is asserting a viewpoint but is also acknowledging existing business practices.)
+- **Intensity:** 0.6 (There’s a stronger emotion about the transition from analog to digital and the perceived inequity.)
+- **Concreteness:** 0.5 (The references to "analog dollars" vs. "digital pennies" are metaphorical and somewhat vague, but invoke a concrete idea of value.)
+
+### Second Quarter:
+**Text:** "And music excluded piracy is still too much of a hassle for the average person. I teach elementary school and like my colleagues would find the process of ripping off tv shows and movies to be far more of a hassle than it's worth, especially in light of the time economy and average broadband speeds where you might have to wait a good bit before you can watch your show."
+
+- **Valence:** 0.5 (The argument points to the hassle as a negative, but also reflects on practicality.)
+- **Dominance:** 0.6 (The speaker makes a strong case by sharing personal experience and that of colleagues.)
+- **Intensity:** 0.5 (There’s a moderate sense of frustration about the hassle, but it’s balanced by a practical tone.)
+- **Concreteness:** 0.7 (Clear examples are provided, making the argument more relatable and tangible.)
+
+### Third Quarter:
+**Text:** "It's a business decision to extract the most money out of a piece of media by subjecting it to windowing. That is first get the money out of the people who will pay 11 dollars to watch it one time. Then get the 20 dollars out of the people who will buy the blu-ray. Then get money from HBO or similar, then eventually it ends up for rent on iTunes & Amazon."
+
+- **Valence:** 0.3 (The language used is critical of the business strategy, indicating a negative view.)
+- **Dominance:** 0.7 (This section clearly presents a strong, structured argument against current pricing strategies.)
+- **Intensity:** 0.6 (There is an evident frustration about perceived exploitation in the business model.)
+- **Concreteness:** 0.8 (Very specific examples and a logical sequence make this quite concrete.)
+
+### Fourth Quarter:
+**Text:** "Yes eventually we might end up at a place where a model like the one you suggest makes sense, but today is not that day. Piracy might eventually be easier and faster, the money graphs may switch where people are making more off of their direct businesses but until that day happens people are still going to want to get as many bites at the apple as they can before they go to the LCD business model."
+
+- **Valence:** 0.4 (It acknowledges potential future benefits but maintains a resigned tone about current realities.)
+- **Dominance:** 0.6 (The argument is assertive in stating the current state and future possibilities.)
+- **Intensity:** 0.5 (There’s a moderate sense of frustration but also a hint of hope for change.)
+- **Concreteness:** 0.6 (The metaphor of "bites at the apple" is engaging but more abstract compared to prior sections.)
+
+### Summary of Ratings
+
+1. **First Quarter:** Valence: 0.4, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.5
+2. **Second Quarter:** Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.7
+3. **Third Quarter:** Valence: 0.3, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.8
+4. **Fourth Quarter:** Valence: 0.4, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+
+This analysis captures the nuances of the argument in terms of each rating category.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! I'll rate the four aspects—valence, dominance, intensity, and concreteness—of each quarter of the provided argument. The ratings will be on a scale from 0.0 (low) to 1.0 (high).
+
+### Quarter 1:
+**Text:** "You are free to make your show's, music and movies and publish them to youtube for everyone to watch, free of charge. Unlikely to be able to feed yourself."
+
+- **Valence:** 0.3 (The sentiment is mixed—while it begins with freedom of creation, it ends on a pessimistic note about financial viability.)
+- **Dominance:** 0.4 (This section establishes the freedom to create but quickly shifts to highlight the challenges associated with that freedom.)
+- **Intensity:** 0.5 (It expresses a moderate level of intensity, reflecting both the potential to create and the harsh reality of financial difficulty.)
+- **Concreteness:** 0.6 (There is a tangible context provided, referencing YouTube and the challenges with financial sustainability.)
+
+### Quarter 2:
+**Text:** "I suppose you could put advertising, interstitials every X minutes and overlaid ad's and product placement, but ad's only make money if they get impressions."
+
+- **Valence:** 0.4 (This part expresses skepticism about monetization through advertisements, which can be seen as slightly negative.)
+- **Dominance:** 0.5 (There’s a balance between discussing potential solutions and highlighting their limitations.)
+- **Intensity:** 0.4 (The intensity is moderate but somewhat analytical, lacking strong emotional engagement.)
+- **Concreteness:** 0.7 (The discussion of ads and impressions is quite concrete, as it relates to known practices in online content monetization.)
+
+### Quarter 3:
+**Text:** "So now you need to market your product, damn shame you already starved during the production, but if you didn't, without financing you'd be dead in the water."
+
+- **Valence:** 0.2 (The sentiment is predominantly negative, focusing on the struggles of marketing and the dire consequences of insufficient funds.)
+- **Dominance:** 0.6 (This section strongly emphasizes the difficulties faced and is more dominant in its pessimistic tone.)
+- **Intensity:** 0.7 (This part conveys a higher level of intensity, as it starkly addresses the harsh realities of production without financial backing.)
+- **Concreteness:** 0.5 (While the ideas are relatable, the phrasing makes it more abstract in terms of concrete examples of marketing strategies.)
+
+### Quarter 4:
+**Text:** "The making of shows is a business where investors expect returns, those investors aren't just financial moguls, they are the people that spent their time making the production, they are actors, directors, production engineers, cinematographers, artists of many senses of the word. Top talent doesn't just 'work for free', but you are free to make your own youtube sitcoms, and if you think you can beat the man doing it, I applaud your efforts."
+
+- **Valence:** 0.5 (This section has a mix of appreciation for creators and a realistic perspective on the industry’s business side.)
+- **Dominance:** 0.7 (It has a strong authoritative tone on the realities of making a show)
+- **Intensity:** 0.6 (There’s both an acknowledgment of talent and a challenge, leading to a higher intensity in the statement.)
+- **Concreteness:** 0.6 (It references specific roles in production, making it relatively concrete, though it still touches on broader themes.)
+
+Overall, this argument presents a critical view on the feasibility of creating shows for the internet without proper financial support while acknowledging both the freedom of creation and the harsh realities that creators face.
+

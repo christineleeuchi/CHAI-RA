@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument in terms of valence, dominance, intensity, and concreteness for each quarter, I’ll first break the argument into four segments and then provide a score for each aspect. 
+
+**Quarter 1: "CMV: The tax on rich people is way too high and is therefore unfair. People always talk about how rich people (i.e. mega-millionaires and billionaires) are not paying their "fair share" in terms of income taxes."**
+
+- **Valence**: 0.6 (The tone expresses a negative sentiment toward the current tax system for the rich.)
+- **Dominance**: 0.5 (The speaker presents a viewpoint that challenges the prevailing narrative but does so with a degree of hesitance.)
+- **Intensity**: 0.5 (The argument is assertive but not overwhelmingly passionate in this segment.)
+- **Concreteness**: 0.4 (It introduces abstract concepts of fairness and tax contributions without specific examples.)
+
+---
+
+**Quarter 2: "They say how the tax rate for the rich should not be smaller than the tax rate for those who are not rich. But even if there is a great disparity in tax RATES, the AMOUNT of taxes that a mega-millionaire or billionaire has to pay is still greater than the average person's."**
+
+- **Valence**: 0.6 (The speaker continues to express disagreement with the notion of fairness in tax rates.)
+- **Dominance**: 0.6 (The argument begins to assert itself more, challenging the conventional views more strongly.)
+- **Intensity**: 0.6 (The argument takes a more determined tone in refuting the opposing view.)
+- **Concreteness**: 0.5 (It starts to discuss tax amounts, making it slightly more concrete than the previous segment.)
+
+---
+
+**Quarter 3: "For example, an income tax rate of 10% on a person making 10 million dollars a year means that that person would have to pay 1 million dollars in taxes, but an income tax rate of 30% on a person making 100,000 dollars a year means that that person would have to pay 30,000 dollars."**
+
+- **Valence**: 0.7 (Here, the argument clearly illustrates unfairness, which strengthens its emotional appeal.)
+- **Dominance**: 0.7 (The use of a concrete example enhances the speaker's position, emphasizing the perceived inequity.)
+- **Intensity**: 0.7 (The example showcases a stronger sentiment about the injustice of the tax system.)
+- **Concreteness**: 0.9 (This quarter is very concrete with numeric examples illustrating the argument clearly.)
+
+---
+
+**Quarter 4: "Even though the millionaire has a lower tax rate, it's not fair that he/she has to pay 1 million dollars in taxes while another person only has to pay 30,000 dollars. There shouldn't be a penalty in the form of tax for people who make a lot of money; it's simply not fair. It's also not democratic because while each person only gets one vote, the richer person gets a greater financial obligation to society than the average person."**
+
+- **Valence**: 0.8 (The language indicates a strong discontent with the current system, enhancing the perceived unfairness.)
+- **Dominance**: 0.8 (The argument takes a more authoritative stance against the idea that the rich are not paying their fair share.)
+- **Intensity**: 0.8 (The concluding statements evoke a strong emotional response regarding fairness and democracy.)
+- **Concreteness**: 0.6 (While it states opinions about fairness and democracy, it’s less concrete compared to the previous segment.)
+
+---
+
+Overall, the argument presents a strong case regarding the perceived unfairness of tax rates for the wealthy, with increasing concrete examples and emotional intensity as it progresses.
+

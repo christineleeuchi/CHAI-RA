@@ -1,0 +1,54 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings scores for the four different aspects of the argument, broken down by quarter:
+
+1. **Valence (emotional value)**
+   - **Score: 0.4** 
+   - The argument has a negative valence as it conveys frustration and skepticism about the idea of moral obligation based on historical injustices. However, it does not convey extreme negativity or aggression.
+
+2. **Dominance (assertiveness and control)**
+   - **Score: 0.6** 
+   - The author expresses a strong opinion and challenges the opposing viewpoint, which indicates a level of dominance. However, there is also a hint of uncertainty, especially in acknowledging complexities, which tempers the assertiveness.
+
+3. **Intensity (strength of feelings or beliefs)**
+   - **Score: 0.5** 
+   - The intensity of the argument is moderate. The use of analogies adds a strong rhetorical element, but the underlying reasoning is more analytical than emotionally charged, balancing the intensity.
+
+4. **Concreteness (clarity and specificity of ideas)**
+   - **Score: 0.7** 
+   - The argument provides clear analogies and specific scenarios to illustrate the author's points. The use of concrete examples helps to make the argument more relatable and understandable, fostering clarity.
+
+If you have more questions or would like further analysis, feel free to ask!
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s an evaluation of the argument based on the specified criteria for each quarter:
+
+### Quarter 1: "I think ascribing responsibility based on past wrongs is begging the question. If you see someone drowning right in front of you, you have a moral obligation to try and save them even if you didn't push them into the water."
+
+- **Valence:** 0.5 (The statement starts with a neutral tone but introduces a moral obligation, creating slight positive valence.)
+- **Dominance:** 0.6 (The speaker asserts a strong moral duty to help, establishing a position of authority regarding ethics.)
+- **Intensity:** 0.6 (The imagery of someone drowning evokes strong feelings and urgency.)
+- **Concreteness:** 0.7 (The drowning metaphor is tangible and relatable, making the argument more vivid.)
+
+### Quarter 2: "Whatever our direct ancestors did or didn't do, each individual is born who they are by pure luck."
+
+- **Valence:** 0.4 (The tone is a bit more neutral, acknowledging luck as a factor without strong emotional weight.)
+- **Dominance:** 0.5 (There's a balanced assertion about the role of luck, though it doesn't strongly dominate the discussion.)
+- **Intensity:** 0.5 (The concept of luck is significant, but less intense than the previous quarter's imagery.)
+- **Concreteness:** 0.5 (The idea of being born into certain circumstances is abstract but relatable.)
+
+### Quarter 3: "If you let people starve and be oppressed and killed just because they were born somewhere else, you're saying that were the lottery of birth redrawn and the winners reversed, you'd deserve no help either, and should accept your miserable fate."
+
+- **Valence:** 0.7 (This section conveys strong moral indignation and empathy for suffering, contributing to positive valence.)
+- **Dominance:** 0.7 (The argument is assertive, placing the reader in a position of moral accountability.)
+- **Intensity:** 0.8 (There is high emotional intensity tied to the themes of starvation, oppression, and injustice.)
+- **Concreteness:** 0.6 (The concepts are serious yet somewhat abstract, as they deal with broader societal issues.)
+
+### Quarter 4: "Unless human rights are afforded to all humans, they are neither universal nor unalienable, a pretty lie that can be snatched away from you just as easily as someone else when it becomes convenient for the powerful."
+
+- **Valence:** 0.8 (The phrasing suggests deep frustration and urgency related to human rights, creating high positive valence.)
+- **Dominance:** 0.8 (The argument takes a strong stance against the misuse of power, asserting a dominant claim about human rights.)
+- **Intensity:** 0.9 (The declaration about human rights invokes passionate feelings, emphasizing both urgency and moral responsibility.)
+- **Concreteness:** 0.5 (Human rights are a broad concept; while the point is sharp, its abstraction reduces its concreteness.)
+
+These ratings provide a nuanced view of how each segment of the argument resonates in terms of emotional and logical complexity.
+

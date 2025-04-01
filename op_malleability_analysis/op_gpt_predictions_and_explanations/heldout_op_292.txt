@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument on valence, dominance, intensity, and concreteness for each quarter of the text, I'll break it down as follows:
+
+### Quarter 1:
+"CMV: How is it moral that we are tossed into jail prior to being convicted by a jury of our peers, by simply being arrested? This question focuses on the US justice system, though it seems to be prevalent in all countries I know."
+
+- **Valence**: 0.7 (The statement raises a moral concern, indicating a strong negative sentiment towards the current system.)
+- **Dominance**: 0.5 (The argument seeks to challenge the status quo without asserting complete authority.)
+- **Intensity**: 0.6 (The language is provocative and questions the morality of a system, adding to its intensity.)
+- **Concreteness**: 0.5 (References specific systems but lacks empirical examples or detailed scenarios.)
+
+### Quarter 2:
+"Essentially by virtue of the law, you are innocent until proven guilty. Therefore, how is it fair or sensible that you can be arrested and put in jail with potentially other violent criminals, and treated like one yourself; without being convicted?"
+
+- **Valence**: 0.8 (The argument is strongly against the fairness of the system, expressing high negativity.)
+- **Dominance**: 0.6 (There is an assertion of a fundamental fairness principle in law, giving the argument more strength.)
+- **Intensity**: 0.7 (The rhetorical questions heighten the emotional stake and engagement in the issue.)
+- **Concreteness**: 0.6 (It references specific legal principles; however, it could be more robust with examples of consequences.)
+
+### Quarter 3:
+"No proof has been presented to incarcerate you. In short, how is it moral to treat people like criminals before their conviction?"
+
+- **Valence**: 0.8 (Continues to express strong negative sentiment about the treatment of arrested individuals.)
+- **Dominance**: 0.7 (Highlights a strong moral stance against the unjust treatment of individuals, asserting a clear position.)
+- **Intensity**: 0.7 (The statements are direct and challenging, making a powerful emotional appeal.)
+- **Concreteness**: 0.5 (While it poses strong moral questions, it lacks specific contexts or scenarios to ground the argument.)
+
+### Quarter 4:
+"I do understand that if an arrest is made, it is sensible that that person be detained (rather important if you literally catch someone committing murder or something violent like this). But until proven being a shadow of a doubt, should you not be detained in a location that is more humane and safe? At the very least, your on room with privacy and no danger. Is this simply not practical? Would it just cost too much?"
+
+- **Valence**: 0.6 (Presents a more balanced view acknowledging the need for detention but still critical of current practices.)
+- **Dominance**: 0.6 (The acknowledgment of the complexity of the issue indicates a thoughtful approach rather than a purely condemnatory stance.)
+- **Intensity**: 0.6 (The tone is somewhat moderated here, discussing practicality while still expressing concern over humane treatment.)
+- **Concreteness**: 0.7 (Offers a clear suggestion for humane treatment alternatives, grounding the argument in practical considerations.)
+
+These ratings reflect an analysis of the emotional tone and content of the argument across its various sections.
+

@@ -1,0 +1,30 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the rating scores for each quarter of the argument: 
+
+**1st Quarter: Valence (0.7)**  
+The argument has a positive valence, as it seeks to challenge the inconsistency in drug policies in a manner that highlights public health concerns and social justice issues. However, it also carries a tone of frustration regarding the acceptance of cigarettes compared to other drugs.
+
+**2nd Quarter: Dominance (0.6)**  
+The argument asserts a clear perspective and aims to challenge the status quo regarding drug policy. However, it relies on historical references and interpretations that may not be universally accepted, leading to somewhat reduced dominance in persuasion.
+
+**3rd Quarter: Intensity (0.8)**  
+The intensity of the argument is high, as it brings forth strong emotional and moral implications regarding public health, addiction, and social equity. The reference to Nixon's administration adds a layer of urgency and seriousness to the argument.
+
+**4th Quarter: Concreteness (0.5)**  
+The argument employs a historical and theoretical perspective that may feel abstract to some readers. While it references specific actions and motivations, it doesn't provide concrete examples of how the War on Drugs continues to impact people currently, leading to a moderately lower score in this category. 
+
+Overall, the argument is thought-provoking and grounded in a strong sense of social justice but could benefit from more contemporary examples to enhance its concreteness.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a scoring breakdown for each aspect of the argument based on your provided text:
+
+1. **Valence (0.6)**: The argument has a generally positive connotation towards the idea of legalizing substances like marijuana, as it counters the notion that cigarettes are acceptable. However, it also presents a somewhat negative view on the current legal status of drugs, indicating that existing laws are maintained due to the challenges of changing them. Overall, it reflects a moderately positive stance towards the idea of legalization.
+
+2. **Dominance (0.5)**: The argument asserts a perspective that supports the idea that the legal status of drugs is influenced by their current illegal status. While it presents a logical reasoning, it doesn't dominate the conversation as much as it reflects on existing social and legal structures. The balance in presenting both views on legality prevents a strong dominance in either direction.
+
+3. **Intensity (0.4)**: The argument has a moderate intensity. It provides reasoning but lacks strong emotional language or persuasive techniques that would elevate the intensity. The tone is more analytical and observational rather than passionate or aggressive.
+
+4. **Concreteness (0.7)**: The argument presents concrete ideas about the difficulties of changing laws and the reasons why existing substances like cigarettes have remained legal. It discusses the operational dynamics of legality in a clear manner, making the points easy to grasp without abstract language.
+
+Overall, the argument presents a reasoned take that engages with the complexities of drug legality while maintaining a moderately positive outlook toward change, though it lacks high intensity and a dominant stance.
+

@@ -1,0 +1,33 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a breakdown of the argument by quarters, along with the ratings for valence, dominance, intensity, and concreteness.
+
+**1st Quarter:**
+*Argument Content:* "CMV: People who leave their hometown after High School do better in adulthood I don't have any statistical evidence, only anecdotal experience."
+- **Valence:** 0.5 (Neutral; acknowledges the lack of evidence)
+- **Dominance:** 0.4 (The speaker is suggesting an opinion but lacks strong authority)
+- **Intensity:** 0.5 (Moderate; presents a personal belief without strong emotion)
+- **Concreteness:** 0.6 (Some concrete terms like "leave their hometown" but still abstract regarding the outcome)
+
+**2nd Quarter:**
+*Argument Content:* "However, in discussing with my friends and stalking high school acquaintances on Facebook, I see a very strong correlation between people who are successful in life (well paying jobs, more stable marriages, waiting to have children until they can support a family) and people who left their hometown after high school..."
+- **Valence:** 0.6 (Positive; implies leaving is linked to success)
+- **Dominance:** 0.5 (Suggests comparisons and observations but not strongly authoritative)
+- **Intensity:** 0.6 (More emotional investment in the correlation observed)
+- **Concreteness:** 0.7 (Uses specific examples of success, making it more grounded)
+
+**3rd Quarter:**
+*Argument Content:* "...by people leaving their childhood friends and family that they become more stable and responsible adults. A necessary consequence of this is that I always encourage teenagers to go to colleges away from home and not someplace where all of their friends are going."
+- **Valence:** 0.7 (Positive view on leaving one's hometown, promotes growth)
+- **Dominance:** 0.6 (Strongly advocates for a viewpoint; becomes a recommendation)
+- **Intensity:** 0.7 (More passionate about the stance, urging action)
+- **Concreteness:** 0.6 (Concrete actions suggested, but still somewhat abstract in outcomes)
+
+**4th Quarter:**
+*Argument Content:* "EDIT: Thanks everyone for your anecdotes and experiences. I agree that it is a correlation vs. causation argument, and that my anecdotal experience is related to my particular non-major metro area upbringing..."
+- **Valence:** 0.5 (Neutral; acknowledges the complexity and limitations of their argument)
+- **Dominance:** 0.5 (Shows willingness to consider other opinions, reducing authoritative stance)
+- **Intensity:** 0.4 (Less intensity; more of a reflective tone with acceptance of other views)
+- **Concreteness:** 0.5 (Acknowledges experiences but reflects on the lack of empirical support)
+
+This breakdown highlights how the argument varies in its emotional and factual dimensions throughout its composition.
+

@@ -1,0 +1,45 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument, I will assign scores based on the criteria of valence, dominance, intensity, and concreteness. The argument will be broken into four quarters, and each aspect will be rated on a scale from 0.0 to 1.0.
+
+### Quarter 1:
+**Text:**
+"CMV: If anyone should replace Andrew Jackson on the $20 bill, it should be MLK Jr, not Harriet Tubman From a legacy standpoint, AJ is probably the least deserving amongst the figures on American paper currency (Washington, Jefferson, Lincoln, Hamilton, Grant, Franklin). It's not like the guy didn't have good qualities or do good things while in office, but for a country that's trying to go in the direction of racial/ethnic inclusiveness, it's pretty baffling that the guy who's responsible for the trail of tears is on our currency."
+
+- **Valence:** 0.7 (The argument has a strong negative valence towards Andrew Jackson, highlighting his flaws, but it also acknowledges some good qualities.)
+- **Dominance:** 0.6 (The stance is clear and assertive, but it engages in some nuance regarding Jackson's qualities.)
+- **Intensity:** 0.7 (The language used conveys strong feelings about the need for inclusiveness, especially regarding Jackson's legacy.)
+- **Concreteness:** 0.8 (Refers to specific historical figures and events, making the argument quite concrete.)
+
+### Quarter 2:
+**Text:**
+"That being said, I thought it was interesting to see in the news that people are trying to change who is on the $20 bill; however, Harriet Tubman seems like an odd choice considering the other possible candidates. Off the top of my head, I think Teddy Roosevelt and MLK are the most deserving, and if I had to choose between them it would be MLK."
+
+- **Valence:** 0.5 (This section expresses curiosity about the change but also suggests a dismissal of Tubman's candidacy, leading to a neutral rating.)
+- **Dominance:** 0.5 (This part is somewhat more exploratory and less assertive but still indicates the author’s preference.)
+- **Intensity:** 0.4 (Less emotionally charged; it's more of an observation than a passionate argument.)
+- **Concreteness:** 0.6 (Mentions potential candidates, but lacks deeper examination or evidence for the claims.)
+
+### Quarter 3:
+**Text:**
+"Obviously, MLK's legacy speaks for itself, being the leader of the civil rights movement. Compared to Tubman I just feel like MLK's impact was far greater. His speeches and non-violent protests impacted the entire nation, millions of people, while Tubman saved ~70 people from slavery."
+
+- **Valence:** 0.9 (Strongly positive valence towards MLK's impact, while downplaying Tubman’s achievements.)
+- **Dominance:** 0.8 (Very assertive in declaring MLK’s superiority in impact compared to Tubman.)
+- **Intensity:** 0.9 (High emotional engagement, particularly in praising MLK's contributions.)
+- **Concreteness:** 0.7 (Provides concrete examples of MLK's impact but could further explore Tubman’s contributions.)
+
+### Quarter 4:
+**Text:**
+"That's not to discredit Tubman because what she did was brave and important, and her accomplishments weren't limited to the underground railroad, but I think it's fair to say that MLK had a greater impact than Tubman, and therefore is more deserving to be placed on the $20 bill. I might even go as far to say that it's not even close."
+
+- **Valence:** 0.7 (While it acknowledges Tubman’s importance, the overall tone remains favoring MLK.)
+- **Dominance:** 0.8 (Conclusive in asserting MLK as the more deserving figure.)
+- **Intensity:** 0.6 (While it repeats an assertive point, it has a more reasoned tone at this point.)
+- **Concreteness:** 0.6 (Reminds of the previous arguments but lacks new examples or additional evidence.)
+
+### Summary of Scores:
+- **Quarter 1:** Valence (0.7), Dominance (0.6), Intensity (0.7), Concreteness (0.8)
+- **Quarter 2:** Valence (0.5), Dominance (0.5), Intensity (0.4), Concreteness (0.6)
+- **Quarter 3:** Valence (0.9), Dominance (0.8), Intensity (0.9), Concreteness (0.7)
+- **Quarter 4:** Valence (0.7), Dominance (0.8), Intensity (0.6), Concreteness (0.6)
+

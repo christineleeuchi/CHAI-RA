@@ -1,0 +1,92 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here is a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument provided:
+
+### 1st Quarter: "Inspiration does not make you unoriginal."
+
+- **Valence:** 0.7 (The statement is positive; it presents a defense of inspiration.)
+- **Dominance:** 0.5 (This is a neutral assertion, neither commanding nor submissive.)
+- **Intensity:** 0.5 (The claim is assertive, but it's more of a premise rather than a strong argument.)
+- **Concreteness:** 0.6 (The idea of inspiration is not abstract but could be more elaborated upon.)
+
+### 2nd Quarter: "It's impossible not to be influenced by environment."
+
+- **Valence:** 0.6 (Generally positive, but implies a sense of inevitability that may be viewed differently.)
+- **Dominance:** 0.6 (The statement asserts a strong perspective on human experience.)
+- **Intensity:** 0.7 (The inevitability adds intensity to the claim about influence.)
+- **Concreteness:** 0.7 (Refers to a tangible aspect of life—environment and influence—making it quite concrete.)
+
+### 3rd Quarter: "Every person saw 100s maybe 1000s tattoos, no new tattoo will be 100% original, it will be inspired by tattoos that you saw in the past consciously or unconsciously."
+
+- **Valence:** 0.6 (Positive in its assertion but hints at a less optimistic view of originality.)
+- **Dominance:** 0.7 (This statement carries weight and asserts a strong claim about originality.)
+- **Intensity:** 0.8 (Emphasizes the multitude of influences, thereby enhancing its intensity.)
+- **Concreteness:** 0.8 (The reference to specific numbers of tattoos provides a clear, concrete idea.)
+
+### 4th Quarter: "It is absolutely possible to create a new and original work of art that is inspired by other art."
+
+- **Valence:** 0.9 (Very positive; it champions the idea of originality despite influence.)
+- **Dominance:** 0.7 (It stands strong as a strong rebuttal to the idea that inspiration equals lack of originality.)
+- **Intensity:** 0.9 (The word "absolutely" adds strength and conviction to the statement.)
+- **Concreteness:** 0.7 (While somewhat abstract, the concept of "new and original work of art" is quite relatable and clear.)
+
+### Summary of Ratings
+
+1. **1st Quarter:** 
+   - Valence: 0.7
+   - Dominance: 0.5
+   - Intensity: 0.5
+   - Concreteness: 0.6
+
+2. **2nd Quarter:** 
+   - Valence: 0.6
+   - Dominance: 0.6
+   - Intensity: 0.7
+   - Concreteness: 0.7
+
+3. **3rd Quarter:** 
+   - Valence: 0.6
+   - Dominance: 0.7
+   - Intensity: 0.8
+   - Concreteness: 0.8
+
+4. **4th Quarter:** 
+   - Valence: 0.9
+   - Dominance: 0.7
+   - Intensity: 0.9
+   - Concreteness: 0.7
+
+These scores reflect the different attributes of each portion of the argument based on its emotional appeal, authority, strength of claim, and clarity.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a rating for each quarter of the argument you provided, along with a brief explanation for each category:
+
+### Quarter 1: "I think originality is really a lie people like to feed themselves. basically of creativity is built and inspired by other creative works, and originality for the sake of originality is often not worth it."
+
+- **Valence: 0.4** (This section expresses a somewhat negative view towards the concept of originality.) 
+- **Dominance: 0.6** (The speaker presents a strong opinion, asserting their belief about originality and creativity.)
+- **Intensity: 0.5** (The argument is moderately intense, but it’s more reflective than passionate.)
+- **Concreteness: 0.5** (The ideas are somewhat abstract but relate to tangible concepts of creativity and originality.)
+
+### Quarter 2: "Personally I wouldn't get a tattoo, because almost every year I decide that past me was an idiot, and I wouldn't trust my decision making."
+
+- **Valence: 0.2** (This section has a quite negative self-reflection about past decisions.)
+- **Dominance: 0.5** (The speaker shares a personal view but does not assert dominance over the audience; it varies based on personal experience.)
+- **Intensity: 0.6** (There’s a noticeable feeling of frustration or disappointment in self-reflection.)
+- **Concreteness: 0.4** (The argument refers specifically to the decision of getting a tattoo, but the reasoning has a broader, philosophical nature.)
+
+### Quarter 3: "That being said, if I was to get a tattoo, it would probably be unoriginal as fuck."
+
+- **Valence: 0.2** (This section carries a negative sentiment towards the concept of originality in tattoos.)
+- **Dominance: 0.5** (The opinion is expressed with firmness but still acknowledges a hypothetical situation.)
+- **Intensity: 0.7** (The use of strong language indicates a higher emotional intensity regarding the perspective on tattoos.)
+- **Concreteness: 0.6** (This is more concrete since it makes a clear assertion about the hypothetical choice of tattoo.)
+
+### Quarter 4: "I'd rather have something that's comfortable and exciting to me, than an original work of art on my body, because I don't think body art is the way I would choose to express my individuality."
+
+- **Valence: 0.5** (This section contains a neutral to slightly positive outlook regarding personal preference.)
+- **Dominance: 0.6** (The speaker asserts their preference and values regarding tattoos and individuality.)
+- **Intensity: 0.5** (The sentiment here is moderately intense; it's reflective but expresses a strong personal choice.)
+- **Concreteness: 0.7** (This is quite concrete because it addresses specific values concerning body art and self-expression.)
+
+These ratings reflect the nuances of the argument presented, considering the emotional and contextual aspects of each part.
+

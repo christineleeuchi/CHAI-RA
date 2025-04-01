@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s the breakdown of the argument in terms of valence, dominance, intensity, and concreteness for each quarter of the text:
+
+### Quarter 1:
+*"CMV: I believe being inspired by other tattoos makes you unoriginal I've seen it a dozen times. Someone wants a tattoo and so they look at magazines or websites or celebs or tv shows (Miami Ink and the like) or other people from real life for inspiration."*
+
+- **Valence:** 0.4 (The sentiment is somewhat negative as it suggests a judgment about originality.)
+- **Dominance:** 0.6 (The author expresses a personal belief strongly, indicating a sense of authority over the topic.)
+- **Intensity:** 0.5 (The argument's tone is moderately intense, conveying strong feelings about inspiration and originality.)
+- **Concreteness:** 0.7 (The examples provided (magazines, websites, shows) offer tangible references, making the argument relatable.)
+
+### Quarter 2:
+*"Every time someone does something like that, I can't help but think less of their tattoo."*
+
+- **Valence:** 0.3 (This expresses a negative judgment towards the tattoo in question.)
+- **Dominance:** 0.5 (The statement appears personal but also suggests a shared sentiment.)
+- **Intensity:** 0.6 (There is a clear feeling of disappointment tied to this statement.)
+- **Concreteness:** 0.4 (Less concrete, as it discusses feelings rather than specific examples.)
+
+### Quarter 3:
+*"Many a times, I've seen a really nice tattoo and it's always a bittersweet feeling. On one hand it's a beautiful piece, on the other, I never want to have a similar one to that, as I'd feel I was just copying the other person."*
+
+- **Valence:** 0.5 (A mix of positive (beautiful) and negative (bittersweet) sentiments.)
+- **Dominance:** 0.4 (Although introspective and personal, it lacks a strong authoritative tone.)
+- **Intensity:** 0.7 (The emotional conflict is strong, showing a deep internal struggle.)
+- **Concreteness:** 0.5 (While it discusses feelings, it touches on real experiences with tattoos.)
+
+### Quarter 4:
+*"Whenever I ask a friend why they picked a tattoo from a portfolio, their answer is never far from 'because I think it's cool', so elaborating beyond that would be best I suppose."*
+
+- **Valence:** 0.4 (This expresses a mild criticism of common reasoning.)
+- **Dominance:** 0.3 (The tone is more questioning and reflective rather than assertive.)
+- **Intensity:** 0.5 (There is a moderate level of concern about the reasoning behind tattoo choices.)
+- **Concreteness:** 0.6 (The mention of friends and portfolios grounds the argument in real social interactions.)
+
+Overall, these ratings reflect the emotional tone, authority, emotional strength, and clarity within each quarter of the argument.
+

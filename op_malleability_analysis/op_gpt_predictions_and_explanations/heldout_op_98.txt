@@ -1,0 +1,60 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating for each of the four dimensions—valence, dominance, intensity, and concreteness—across four quarters of the argument:
+
+### Quarter 1:
+**Text:** "Please CMV: I have no problem whatsoever with animal cruelty I'm making this post because people have called me 'heartless' or 'a monster' because of this view and I really don't understand why. So please don't vilify me for my views, I'm asking you to please change them."
+
+- **Valence:** 0.2 (Negative sentiment due to the mention of cruelty and negative labels.)
+- **Dominance:** 0.6 (The author is asserting their perspective and asking for understanding.)
+- **Intensity:** 0.5 (The strong claim of having no problem with animal cruelty indicates a moderate level of intensity.)
+- **Concreteness:** 0.4 (The argument primarily contains abstract concepts regarding views and emotions.)
+
+### Quarter 2:
+**Text:** "Also, when I say 'animal', I mean animals that aren't humans. I see violence/torture of humans completely differently."
+
+- **Valence:** 0.3 (Some negativity arises from the acceptance of violence against animals, but the delineation adds clarity.)
+- **Dominance:** 0.5 (There’s a clear assertion of the difference in perspective regarding animals and humans.)
+- **Intensity:** 0.4 (The statement clarifies perspective, but does not escalate emotional weight or intensity.)
+- **Concreteness:** 0.5 (The mention of specific categories of beings contributes to a clearer understanding.)
+
+### Quarter 3:
+**Text:** "Basically, I have no problem with torturing, killing, doing anything imaginable to animals, and they don't set off an emotional response. We (read: most Westerners) eat animals, we kill millions unconsciously because of our actions, and we actively eradicate tons of insects and rodents every year. We even enslave them to either give us joy or provide manual labor for us."
+
+- **Valence:** 0.1 (Highly negative due to the explicit endorsement of violent actions towards animals.)
+- **Dominance:** 0.7 (Authoritative tone, promoting claims about societal practices and views.)
+- **Intensity:** 0.8 (Very high intensity due to the extreme positions taken on animal treatment and violence.)
+- **Concreteness:** 0.6 (The argument includes specific actions (eating, killing, eradicating) which makes it more tangible.)
+
+### Quarter 4:
+**Text:** "There are a few caveats to my 'indifference' though: (1) I understand most people are offended when animals get hurt, or see this as cruel. Because I respect other people, I won't hurt their pets since this would distress them. By the same token, I would never harm service animals (guide dogs, therapy pets, rescue animals), but more so because I respect the value they provide for other humans. (2) I do not condone killing species of animals recklessly. We live on a planet that depends on tons of fragile ecosystems. Allowing one species of animals to go extinct could damage our planet (and therefore by extension come back to bite us) and therefore I support conservation efforts to save animal species world-wide."
+
+- **Valence:** 0.5 (Mixed sentiments; some positive notes regarding respect and conservation efforts but offset by earlier views.)
+- **Dominance:** 0.6 (The author balances their previous claims with a point of consideration and responsibility.)
+- **Intensity:** 0.5 (Intensity subsides as the focus moves to acknowledging other perspectives and conservation, though still fervent.)
+- **Concreteness:** 0.7 (The use of specific examples (caveats, service animals, conservation) contributes to a stronger sense of tangibility.)
+
+### Summary of Ratings
+**Quarter 1:** 
+- Valence: 0.2
+- Dominance: 0.6
+- Intensity: 0.5
+- Concreteness: 0.4
+
+**Quarter 2:** 
+- Valence: 0.3
+- Dominance: 0.5
+- Intensity: 0.4
+- Concreteness: 0.5
+
+**Quarter 3:** 
+- Valence: 0.1
+- Dominance: 0.7
+- Intensity: 0.8
+- Concreteness: 0.6
+
+**Quarter 4:** 
+- Valence: 0.5
+- Dominance: 0.6
+- Intensity: 0.5
+- Concreteness: 0.7
+

@@ -1,0 +1,58 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here's a breakdown of the argument, assigning scores from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the text:
+
+### 1st Quarter: "Morality is an abstract human construct and is subject to change, just like language."
+- **Valence**: 0.5 (Neutral; presenting a descriptive claim about morality)
+- **Dominance**: 0.6 (Suggests a perspective, but not aggressively asserting it)
+- **Intensity**: 0.4 (Mild assertiveness, but not strongly emotional)
+- **Concreteness**: 0.3 (Conceptual idea, abstract without specific examples)
+
+### 2nd Quarter: "principles concerning the distinction between right and wrong or good and bad behavior."
+- **Valence**: 0.5 (Neutral definition statement)
+- **Dominance**: 0.5 (Neutral; descriptive, giving context without strong dominance)
+- **Intensity**: 0.2 (Very low; more of a definition than an argument)
+- **Concreteness**: 0.4 (Slightly more concrete since it describes an aspect of morality)
+
+### 3rd Quarter: "Even with your definition, Aztecs practiced human sacrifice, which they saw as causing least amount of grief possible."
+- **Valence**: 0.4 (Negative implication about Aztec practices)
+- **Dominance**: 0.7 (Assertive; strong claim against a commonly accepted morality)
+- **Intensity**: 0.6 (Higher intensity due to the mention of a controversial practice)
+- **Concreteness**: 0.8 (Concrete example that illustrates the argument)
+
+### 4th Quarter: "But since we now know that the sun doesn't run on human sacrifices we can see that what they thought was moral was actually causing more grief than if they didn't practice human sacrifice."
+- **Valence**: 0.3 (Critique of a past belief, slightly negative)
+- **Dominance**: 0.8 (Strong assertion challenging the moral reasoning of the past)
+- **Intensity**: 0.7 (High intensity as it challenges established ideas)
+- **Concreteness**: 0.9 (Very concrete, providing a clear example supporting the argument)
+
+These scores give an analysis of the different facets of each part of the argument and how they convey meaning and evoke responses.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown and scoring for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1: "Which action causes the least possible amount of grief" is incredibly subjective, and varies wildly depending on your frame of reference.
+- **Valence:** 0.4 (Neutral/negative because it questions an idea rather than promoting a positive one)
+- **Dominance:** 0.6 (Moderately dominant as it asserts a position against the notion of objective morality)
+- **Intensity:** 0.5 (Moderate intensity, as it expresses a significant assertion but remains somewhat measured)
+- **Concreteness:** 0.5 (Somewhat abstract as it talks about subjective interpretation but provides a clear statement)
+
+### Quarter 2: Which beings do you consider beings who can be aggrieved? How many people suffering to what extent for how long is worth trading for one other person's wellbeing? For ten people's? For a million people's?
+- **Valence:** 0.3 (Negative, as it questions the validity of moral considerations by highlighting complexities and dilemmas)
+- **Dominance:** 0.7 (Fairly dominant, presenting a series of probing questions that challenge the argument)
+- **Intensity:** 0.6 (Moderate intensity due to the complexity of the issues raised)
+- **Concreteness:** 0.4 (More abstract as it deals with the philosophical implications of subjective viewpoints)
+
+### Quarter 3: In the long run, is the most moral action ending humanity because population growth is exponential and you'll prevent the potential suffering of hundreds of billions? Or is it to disappear and kill yourself to remove yourself as a possible cause of grief to and drain on the resources of others?
+- **Valence:** 0.2 (Negative, as it presents extreme and distressing moral scenarios)
+- **Dominance:** 0.8 (Highly dominant, presenting extreme philosophical dilemmas that force the reader to confront uncomfortable truths)
+- **Intensity:** 0.9 (High intensity due to the nature of the extreme moral questions posed)
+- **Concreteness:** 0.6 (Moderately concrete, as it discusses specific extreme actions but is ultimately theoretical)
+
+### Quarter 4: And aren't both of those ridiculous extremes that we'd consider signs of mental illness? As long as the scope being considered can vary arbitrarily to change the morality of the actions being considered, how can morality be anything but subjective?
+- **Valence:** 0.4 (Some negative valence due to the criticism of extremes but ultimately reflects a questioning stance)
+- **Dominance:** 0.7 (Fairly dominant, asserting the stance that these extremes highlight the subjectivity of morality)
+- **Intensity:** 0.8 (High intensity as it consolidates the preceding arguments into a bold rhetorical question)
+- **Concreteness:** 0.5 (Moderately concrete with an emphasis on the variability of moral perspectives)
+
+This analysis reflects the complex nature of the argument and how various elements can be perceived in terms of morality and subjectivity.
+

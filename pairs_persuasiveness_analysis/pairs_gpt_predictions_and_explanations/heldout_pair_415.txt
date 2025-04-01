@@ -1,0 +1,42 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for the provided argument:
+
+1. **Valence: 0.3** - The argument presents a somewhat negative view of English and its shortcomings compared to synthetic languages. There's an underlying frustration towards the challenges of teaching new languages and the dominance of English, which gives it a slightly negative valence.
+
+2. **Dominance: 0.4** - The argument conveys a sense of authority on the topic by discussing the shortcomings of English and comparing it to other languages. However, it also reflects an acknowledgment of the practical challenges associated with changing the lingua franca, suggesting a more balanced dominance rather than an overpowering stance.
+
+3. **Intensity: 0.6** - The argument passionately critiques English and highlights the difficulties of language change. The use of phrases like "a plethora of synthetic languages all better designed" and references to the common dissatisfaction with 'meh' languages conveys a higher intensity in expressing dissatisfaction.
+
+4. **Concreteness: 0.5** - The argument is moderately concrete; it references specific points (such as some examples of programming languages) and practical challenges associated with changing languages. However, it remains somewhat abstract when discussing the qualities of synthetic languages and the overall evaluation of languages, making it less concrete than it could be.
+
+Overall, the argument showcases a mix of personal insight and general observation, reflecting its multifaceted nature.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here's a rating for each category based on the provided argument, broken down by each quarter of the text.
+
+**1st Quarter: "The problem with Spanish is that it doesn't have an economic powerhouse to support it."**
+- **Valence**: 0.4 (Neutral to slightly negative; points out a weakness of Spanish without being overly negative.)
+- **Dominance**: 0.6 (Establishes a clear position while acknowledging a limitation of Spanish.)
+- **Intensity**: 0.5 (Moderate intensity; the argument is presented straightforwardly without extreme language.)
+- **Concreteness**: 0.7 (Quite concrete; references the lack of an economic powerhouse in a clear manner.)
+
+**2nd Quarter: "People are learning English because they want to do business with nations like the USA, and it is this economic motive that will continue to be the driving force behind any language becoming the international standard."**
+- **Valence**: 0.6 (Positive towards English and its role in business; implies a more favorable view of English.)
+- **Dominance**: 0.7 (Strong position on the economic motive as a driving force in language choice.)
+- **Intensity**: 0.7 (High intensity with a strong assertion about economic motives.)
+- **Concreteness**: 0.8 (Very concrete; directly links language learning to business motives and examples.)
+
+**3rd Quarter: "As English is an official language of two of the BRICS countries (India and South Africa), I don't see Spanish closing the gap anytime soon."**
+- **Valence**: 0.5 (Neutral; recognizes facts without strong positive or negative emotion, but implies urgency for Spanish.)
+- **Dominance**: 0.8 (Strongly dominant position, asserting English's advantages over Spanish.)
+- **Intensity**: 0.6 (Moderately intense; the phrasing carries a sense of finality regarding the gap.)
+- **Concreteness**: 0.8 (Concrete evidence provided by mentioning specific BRICS countries.)
+
+**4th Quarter: "Keep in mind, we don't get to pick what 'should' be the international language. It happens on its own."**
+- **Valence**: 0.5 (Neutral; presents a fact that there is no subjective choice in the matter.)
+- **Dominance**: 0.6 (Moderately dominant; suggests acceptance of the reality of language choice influenced by circumstances.)
+- **Intensity**: 0.4 (Lower intensity; maintains a calm tone and accepts the inevitability of the situation.)
+- **Concreteness**: 0.6 (Somewhat concrete; presents an idea of inevitability, but less specific than previous portions.)
+
+These scores reflect the emotional and rhetorical elements found in each quarter of the argument.
+

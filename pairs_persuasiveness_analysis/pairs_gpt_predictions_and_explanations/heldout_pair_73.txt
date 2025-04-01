@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a rating for each of the specified dimensions for each quarter of the argument:
+
+### 1st Quarter: "There are two major flaws with your point of view."
+- **Valence**: 0.4 - Neutral opening statement that sets up a critique.
+- **Dominance**: 0.5 - The speaker is taking an authoritative stance, indicating they have something important to say.
+- **Intensity**: 0.3 - Mildly assertive, but not emotionally charged at this point.
+- **Concreteness**: 0.4 - The statement is specific but general in nature.
+
+### 2nd Quarter: "The first is the utter lack of empathy."
+- **Valence**: 0.2 - Negative valence due to the critique of empathy.
+- **Dominance**: 0.6 - The speaker asserts a strong opinion about the opposing viewpoint.
+- **Intensity**: 0.5 - Some emotional weight is added with the phrase "utter lack of empathy."
+- **Concreteness**: 0.5 - The term "empathy" is abstract but can be understood in context.
+
+### 3rd Quarter: "Having a child with severe medical problems is incredibly taxing. It could happen to anyone through no fault of their own, and as such we have decided as a society to spread that risk around to limit its severity."
+- **Valence**: 0.5 - Neutral but leaning positive by addressing a shared human experience.
+- **Dominance**: 0.4 - The speaker is presenting a perspective, but it's less direct than prior statements.
+- **Intensity**: 0.6 - The emotional weight of "incredibly taxing" adds intensity.
+- **Concreteness**: 0.7 - Clear and concrete examples of the consequences faced by families.
+
+### 4th Quarter: "The second flaw is ignoring the fallout from not assisting in any way. You're taking one of the most powerful motivating forces in a human's life, the well-being of their child, and placing them in a situation where they have no *legal* recourse to saving it. That would potentially result in lots of illegal activity as the only means of providing support. Desperate people do desperate things."
+- **Valence**: 0.3 - Negative implications of the potential consequences.
+- **Dominance**: 0.7 - Very assertive, as it outlines severe consequences of the opposing viewpoint.
+- **Intensity**: 0.8 - Highly intense due to the emotional language regarding the well-being of children and desperation.
+- **Concreteness**: 0.6 - While still abstract in some parts, concrete examples of consequences and motivations make it more tangible.
+
+### Summary Ratings
+- **1st Quarter**: Valence: 0.4, Dominance: 0.5, Intensity: 0.3, Concreteness: 0.4
+- **2nd Quarter**: Valence: 0.2, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.5
+- **3rd Quarter**: Valence: 0.5, Dominance: 0.4, Intensity: 0.6, Concreteness: 0.7
+- **4th Quarter**: Valence: 0.3, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score for valence, dominance, intensity, and concreteness for each quarter of the argument, I'll break down the evaluation based on the text you provided.
+
+### First Quarter
+**Text:** "Children that die of hereditary diseases usually will have not procreated before their death."
+
+- **Valence:** 0.2 (This statement carries a negative connotation as it highlights the death of children, which is generally viewed as tragic.)
+- **Dominance:** 0.4 (The statement presents an observation without showing strong authority or influence—it’s factual but not assertive.)
+- **Intensity:** 0.3 (The intensity is moderate as it states a fact but does not evoke strong emotional responses.)
+- **Concreteness:** 0.7 (The statement is concrete as it refers to a specific outcome—children dying before procreating.)
+
+### Second Quarter
+**Text:** "Although genetic defects are not preventable, eliminating individuals which carry a higher risk of passing the trait to their child will improve the overall gene pool of our species."
+
+- **Valence:** 0.3 (This statement implies a negative view towards individuals with genetic defects but also suggests a potential positive outcome for society, making it somewhat neutral.)
+- **Dominance:** 0.5 (This presents a strong assertion about the improvement of the gene pool, indicating a degree of authority over the subject.)
+- **Intensity:** 0.6 (The argument here is more intense due to the implications of eugenics and the impact on individuals' lives.)
+- **Concreteness:** 0.6 (This is somewhat abstract, as it discusses the concept of the gene pool but is rooted in the concrete idea of genetic traits.)
+
+### Third Quarter
+**Text:** "If you want to 'eliminate individuals which carry a higher risk of passing the trait to their child', then the sick person is just an indicator."
+
+- **Valence:** 0.4 (This segment carries a slightly negative tone, especially when discussing "eliminating" individuals, but it critiques the previous idea.)
+- **Dominance:** 0.5 (There’s a level of challenge present here, questioning the assumption, suggesting an equal footing in argumentation.)
+- **Intensity:** 0.5 (The intensity is moderate as it addresses sensitive topics related to genetic issues and potential harm.)
+- **Concreteness:** 0.5 (The reference to the sick person as an "indicator" provides a concrete element but remains abstract in motivation.)
+
+### Fourth Quarter
+**Text:** "You really want to go after their otherwise healthy parents and siblings. They are the ones who will carry the gene to the next generation. Are you in favor of doing anything to prevent those people from breeding?"
+
+- **Valence:** 0.1 (This portion has a very negative implication, suggesting harm to individuals based on genetics.)
+- **Dominance:** 0.6 (Presents a strong challenge, suggesting a high level of assertion about the consequences of the previous point.)
+- **Intensity:** 0.7 (The intensity is high here; it raises ethical implications, evoking a potential emotional response.)
+- **Concreteness:** 0.6 (This discussion targets real individuals—parents and siblings—making it more concrete despite the abstract notion of "preventing them from breeding.")
+
+### Summary Ratings
+- **First Quarter:** Valence: 0.2, Dominance: 0.4, Intensity: 0.3, Concreteness: 0.7
+- **Second Quarter:** Valence: 0.3, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.6
+- **Third Quarter:** Valence: 0.4, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.5
+- **Fourth Quarter:** Valence: 0.1, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+

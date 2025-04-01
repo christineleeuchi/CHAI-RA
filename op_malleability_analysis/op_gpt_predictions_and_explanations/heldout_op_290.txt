@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here are the ratings for each quarter of the provided argument based on valence, dominance, intensity, and concreteness:
+
+### First Quarter
+**Text:** "CMV: Ending child pricing (or beginning adult pricing) at movie theaters at ages 13-16 doesn't make sense and is wrong Adult tickets cost more than child's tickets for anything that distinguishes the two and often this makes sense."
+
+- **Valence:** 0.5 (Neutral, expressing disagreement but not charged with strong emotion)
+- **Dominance:** 0.4 (Moderate assertiveness in presenting the argument)
+- **Intensity:** 0.3 (Low intensity; not excessively emotional)
+- **Concreteness:** 0.6 (Relatively concrete with mention of child and adult ticket pricing)
+
+### Second Quarter
+**Text:** "Adults have more money than kids and can afford the higher prices. Kids pricing allows family's to be able to afford to go to things as a family."
+
+- **Valence:** 0.6 (Positive connotation regarding family affordability)
+- **Dominance:** 0.5 (Balanced assertiveness in presenting reasoning)
+- **Intensity:** 0.4 (Moderate intensity; more emphasis on affordability)
+- **Concreteness:** 0.7 (Concrete in terms of financial comparisons)
+
+### Third Quarter
+**Text:** "For certain things, size does matter (fuel costs for transportation) and most adults are bigger than most kids and so should get charged more. And specific to theaters, adults are more likely to see an R rated... they are likely to see a movie that falls into this mildly 'niche' category of movies."
+
+- **Valence:** 0.4 (Slightly negative; advocating for a change that affects kids)
+- **Dominance:** 0.6 (More assertive in justifying rationales for pricing)
+- **Intensity:** 0.5 (Moderate intensity; more complex reasoning introduced)
+- **Concreteness:** 0.6 (Concrete with specific examples related to size and ratings)
+
+### Fourth Quarter
+**Text:** "A thirteen year old doesn't have much more money does a twelve year old. They don't even have the right to work for another few years... I find it wrong to charge adult prices for anyone under eighteen."
+
+- **Valence:** 0.7 (More emotionally charged with a sense of injustice)
+- **Dominance:** 0.5 (Assertive stance on specific age-based pricing)
+- **Intensity:** 0.6 (Higher intensity; strong feelings about the pricing policy)
+- **Concreteness:** 0.5 (Somewhat concrete with arguments but also abstract assertions about fairness)
+
+These scores illustrate the varying levels of engagement, emotion, and clarity throughout the argument.
+

@@ -1,0 +1,45 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's an evaluation of the argument based on the specified criteria for each quarter of the text:
+
+### Quarter 1: "CMV: I believe all drugs, including prescription pills, should be legal without needing a prescription. This includes all of the currently illegal drugs like crack, heroin etc. People should have the right to be able to take whatever they want. Doctors, psychiatrists, and pharmacists will still be necessary for advising people on what to take."
+
+- **Valence:** 0.7 (The argument has a positive valence, advocating for individual rights and freedom of choice.)
+- **Dominance:** 0.6 (The speaker expresses a strong opinion and perspective on drug legalization, demonstrating a moderate level of dominance.)
+- **Intensity:** 0.6 (While the argument is assertive, it does not evoke extreme emotion compared to the discussions surrounding drug addiction and societal impacts.)
+- **Concreteness:** 0.5 (The ideas are somewhat abstract, although they reference tangible entities like doctors and pharmacists, which provide some level of concreteness.)
+
+---
+
+### Quarter 2: "In the US, our prisons are overcrowded with drug law offenders. Jails are filled with people who had a personal amount of weed on them. Way too many people have their lives ruined over a single pill, or enough weed for a week or two."
+
+- **Valence:** 0.8 (This section highlights negative consequences of current drug policies, appealing emotionally and ethically to the audience.)
+- **Dominance:** 0.7 (The argument is strong and emphatic about the societal issues caused by drug laws, showcasing a high level of dominance.)
+- **Intensity:** 0.8 (There is a high emotional intensity as it discusses the detrimental effects on individuals' lives related to incarceration due to drug laws.)
+- **Concreteness:** 0.6 (This section presents more concrete examples, like overcrowded prisons and individual narratives, aiding in specificity.)
+
+---
+
+### Quarter 3: "The amount of effort the police put into drug and drug related crimes would disappear, leaving more police to be able to respond to violent crimes and protection of property. The taxes we would save towards police catching people with drugs could be put into rebuilding roads, Bette public schools, ect."
+
+- **Valence:** 0.7 (This segment has a positive valence as it promotes potential benefits of drug legalization, like improved community services.)
+- **Dominance:** 0.5 (It states a potential outcome rather than asserting a strong opinion, leading to a more neutral dominance.)
+- **Intensity:** 0.6 (While optimistic, the intensity is lower relative to the previous quarter since it talks about future implications rather than present emotional issues.)
+- **Concreteness:** 0.7 (The argument presents concrete suggestions for reallocating police resources and taxpayer money, enhancing clarity.)
+
+---
+
+### Quarter 4: "Legalizing and regulating drugs would be safer for the consumer than going through the black market. If we regulate everything like our current over the counter medicine, ingredients, warning labels, directions, and safety labels would be in place."
+
+- **Valence:** 0.8 (This section has a highly positive tone, advocating for safety and consumer protection.)
+- **Dominance:** 0.6 (The argument presents a proactive stance, though it is more descriptive of a system than assertive.)
+- **Intensity:** 0.5 (The intensity is moderate as it describes a regulatory framework without evoking strong emotions.)
+- **Concreteness:** 0.8 (This part is concrete, detailing the benefits of regulation by drawing parallels to existing systems like over-the-counter medicine.)
+
+---
+
+### Summary of Ratings
+1. **Quarter 1:** Valence: 0.7, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.5
+2. **Quarter 2:** Valence: 0.8, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.6
+3. **Quarter 3:** Valence: 0.7, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+4. **Quarter 4:** Valence: 0.8, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.8
+

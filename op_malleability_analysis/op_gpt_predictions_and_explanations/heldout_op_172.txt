@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on valence, dominance, intensity, and concreteness, we will analyze each quarter of the text separately. Here's a breakdown with ratings from 0.0 to 1.0:
+
+### Quarter 1: 
+"CMV: I Think Men are a Detriment to Societal Cohesion For whatever reason men commit about 80-90% of crimes in every society that they exist in."
+
+- **Valence:** 0.1 (The statement has a negative tone regarding men and societal impact)
+- **Dominance:** 0.6 (The speaker implies a strong stance against men in relation to societal crime)
+- **Intensity:** 0.5 (Moderate intensity in the assertion of men as a societal detriment)
+- **Concreteness:** 0.8 (Cites specific crime statistics to support the argument)
+
+### Quarter 2:
+"The numbers get a little more equitable when we account for property crimes where men only outnumber women 2:1. However, white collar crimes, blue collar crimes, violent crimes, sexual crimes, etc. are so vastly male-centric that the numbers increase that much."
+
+- **Valence:** 0.2 (Continues to present a negative view, though slightly more analytical)
+- **Dominance:** 0.7 (The use of specific categories of crime reinforces the dominance of men in criminality)
+- **Intensity:** 0.6 (The analysis is detailed and assertive)
+- **Concreteness:** 0.9 (Provides statistical distinctions between types of crimes)
+
+### Quarter 3:
+"They are both the overwhelming amount of perpetrators and victimized, though women are victimized significantly, as you'd expect, in intimate crimes and sex-related offenses."
+
+- **Valence:** 0.3 (Highlights the victimization of women, adding complexity to the argument's tone)
+- **Dominance:** 0.5 (This statement is more balanced, recognizing victimhood on both sides)
+- **Intensity:** 0.4 (Less intense as it introduces a dual perspective)
+- **Concreteness:** 0.8 (Cites specific crime types, maintaining a strong presence of evidence)
+
+### Quarter 4:
+"Aside from criminality, men are also more likely to be impulsive and aggressive which is likely to eliminate cohesion and cause undue caution due to the erratic, unpredictably violent and harmful action of this sub-group."
+
+- **Valence:** 0.2 (Continues the negative framing of men but relates it to behavior)
+- **Dominance:** 0.6 (Reinforces a dominant view of men as harmful to societal cohesion)
+- **Intensity:** 0.7 (Strong language regarding impulsiveness and aggression)
+- **Concreteness:** 0.7 (While it discusses behavioral tendencies, it lacks specific data to tie back to societal statistics)
+
+### Summary of Ratings:
+- **Quarter 1: Valence: 0.1, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.8**
+- **Quarter 2: Valence: 0.2, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.9**
+- **Quarter 3: Valence: 0.3, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.8**
+- **Quarter 4: Valence: 0.2, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.7**
+

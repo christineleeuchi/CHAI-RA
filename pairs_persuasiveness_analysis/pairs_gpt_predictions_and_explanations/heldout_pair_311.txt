@@ -1,0 +1,65 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Based on the argument provided in the comment, here are the ratings for valence, dominance, intensity, and concreteness for each quarter of the text:
+
+### 1st Quarter (First few sentences to the end of the first paragraph)
+- **Valence: 0.2** - The tone is somewhat negative due to the dismissal of opposing views and the negative connotation of "close-minded".
+- **Dominance: 0.6** - The author expresses a strong opinion and attempts to assert dominance by calling out the perceived ignorance of others.
+- **Intensity: 0.5** - There is a moderate level of intensity; the argument is passionate but not overwhelmingly aggressive.
+- **Concreteness: 0.4** - The argument uses metaphors (e.g., Skyrim on Windows 95) but lacks specific examples or data to support claims about eugenics.
+
+### 2nd Quarter (Continuation of arguments about eugenics and genetic diseases)
+- **Valence: 0.4** - The mention of eugenics as a solution gives a slightly more positive outlook on the topic, though it still conveys a contentious attitude.
+- **Dominance: 0.7** - The author displays high dominance as they advocate for eugenics with confidence.
+- **Intensity: 0.6** - The argument is more forceful as it branches into benefits of eugenics.
+- **Concreteness: 0.5** - While there are claims about genetic diseases and lifespan, there is still a lack of empirical support.
+
+### 3rd Quarter (Comparison of sexual orientations)
+- **Valence: 0.3** - The argument presents a negative viewpoint on homosexuality and heterosexuality but frames bisexuality positively, leading to mixed valence.
+- **Dominance: 0.8** - The author is very assertive and strives to dominate the discourse by presenting their values around sexual orientation.
+- **Intensity: 0.7** - The language is more animated and confrontational, particularly with phrases like "Fuck that crap".
+- **Concreteness: 0.4** - While there is an attempt to quantify preferences in percentages, there is still an absence of substantial evidence.
+
+### 4th Quarter (Final points about genetic profiles)
+- **Valence: 0.3** - The comment maintains a critical stance toward both bisexuality and heterosexuality, generating a negative overall perspective.
+- **Dominance: 0.9** - The author takes an authoritative tone advocating for genetic changes, pushing the argument forcefully.
+- **Intensity: 0.8** - The intensity peaks here with emotive language and the clear expression of personal desire for change.
+- **Concreteness: 0.5** - There are speculative claims regarding genetic profiles but still lacks substantial evidence or practical examples of genetic alteration.
+
+### Summary
+Overall, this argument is characterized by a mixture of aggression and a self-assured stance. While it explores contentious topics related to eugenics and sexual orientation, it has varying degrees of appeal in terms of emotional tone and substantiation.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here's the rating scale for each category in the argument you've provided, broken down into four quarters: 
+
+### Quarter 1:
+**Valence:** 0.2 (The tone starts with a critical perspective, showcasing negativity towards the idea of a "gay gene" affecting the gene pool.)
+**Dominance:** 0.4 (The speaker takes a strong, assertive stance on the argument, asserting their viewpoint in a straightforward manner.)
+**Intensity:** 0.6 (The intensity is moderately high as the speaker conveys a sense of urgency about the implications of the argument regarding natural selection and mating.)
+**Concreteness:** 0.5 (There are some concrete ideas, but the argument is still largely theoretical without strong empirical support at this point.)
+
+### Quarter 2:
+**Valence:** 0.3 (The tone continues to be critical but acknowledges potential considerations for reproductive options.)
+**Dominance:** 0.5 (The speaker maintains a strong voice but recognizes the complexities involved in the argument, making it slightly less dominating.)
+**Intensity:** 0.5 (Intensity remains moderate; the speaker's tone conveys frustration towards cultural implications but remains grounded.)
+**Concreteness:** 0.6 (Introduces more concrete concepts regarding socioeconomics and reproductive access, adding depth to their argument.)
+
+### Quarter 3:
+**Valence:** 0.3 (Maintain a critical perspective on both societal views and the implications of eugenics, reflecting concern.)
+**Dominance:** 0.6 (The speaker asserts their reasoning strongly as they critique the premise of the original argument.)
+**Intensity:** 0.7 (Intensity increases as the argument links historical context and critiques the notion of genetic intervention.)
+**Concreteness:** 0.7 (More concrete references are made to historical examples, making the argument more tangible.)
+
+### Quarter 4:
+**Valence:** 0.4 (The tone is critical while also proactive in suggesting that culture is a more critical focus than genetics.)
+**Dominance:** 0.7 (Strong dominance in asserting that nature should take its course, emphasizing that the argument challenges core ideas.)
+**Intensity:** 0.8 (The intensity is high in the conclusion, as the speaker addresses major ethical concerns and implications.)
+**Concreteness:** 0.8 (Concludes with strong, concrete statements about nature's role and cultural evolution, solidifying their perspective.) 
+
+### Summary Scores:
+- **Quarter 1:** Valence: 0.2, Dominance: 0.4, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 2:** Valence: 0.3, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 3:** Valence: 0.3, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.7
+- **Quarter 4:** Valence: 0.4, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.8
+
+Let me know if you need further analysis or adjustments!
+

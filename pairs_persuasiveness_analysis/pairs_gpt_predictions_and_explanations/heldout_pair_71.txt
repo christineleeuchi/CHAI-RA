@@ -1,0 +1,86 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided and give ratings for valence, dominance, intensity, and concreteness, I will break the text into quarters and analyze each section accordingly.
+
+**1st Quarter:**
+"I feel that posting armed guards at schools would directly deincentivize any individual from going to violent crimes at schools."
+- **Valence:** 0.8 (The tone is generally positive, advocating for a solution to a serious problem.)
+- **Dominance:** 0.5 (The statement presents a personal opinion but does not take an authoritative stance.)
+- **Intensity:** 0.6 (The argument is somewhat strong in expressing a belief in the direct impact of armed guards.)
+- **Concreteness:** 0.7 (The idea of armed guards is specific and can be visualized.)
+
+**2nd Quarter:**
+"Not if the person has no intention of staying alive throughout the ordeal."
+- **Valence:** 0.3 (The tone shifts to a more negative perspective, introducing doubt about the efficacy of armed guards.)
+- **Dominance:** 0.5 (The statement pushes back against the initial claim, maintaining a neutral argumentative stance.)
+- **Intensity:** 0.7 (The statement conveys strong skepticism about the effectiveness of guards in certain situations.)
+- **Concreteness:** 0.4 (The idea of someone being suicidal is abstract and less tangible than the previous concept of guards.)
+
+**3rd Quarter:**
+"And if the individual wanting to commit is suicidal then the armed guards would directly solve the problem and stop the would-be gunmen before the tragedy even starts."
+- **Valence:** 0.4 (The tone is less positive, indicating uncertainty or negating the initial claim.)
+- **Dominance:** 0.6 (The statement asserts a belief but is challenged by the previous quarter's counterposition.)
+- **Intensity:** 0.5 (The intensity is moderate as it attempts to reassert a belief in armed guards' effectiveness.)
+- **Concreteness:** 0.5 (The statement is somewhat specific but relies on hypothetical scenarios.)
+
+**4th Quarter:**
+"I understand the desire to keep schools safe, but let's be honest with ourselves here. School shootings, even in the US, are pretty damn rare. School is meant to be an environment of learning, broadening one's horizons, and feeling free to pursue knowledge. How are we ever supposed to convince kids that school is worth anything positive if they have to start every day by going through a metal detector and dodging police in riot gear?"
+- **Valence:** 0.2 (The tone is largely negative, suggesting that safety measures could detract from the educational environment.)
+- **Dominance:** 0.7 (The speaker adopts a more authoritative position here, critiquing the notion of armed guards and emphasizing a broader perspective.)
+- **Intensity:** 0.8 (The intensity is high as it raises strong concerns about the implications of security measures on the school environment.)
+- **Concreteness:** 0.6 (The ideas are more conceptual, focusing on the impact of security measures rather than specific actionable items.)
+
+Based on the evaluations, here are the scores for each quarter broken down:
+
+1st Quarter:
+- Valence: 0.8
+- Dominance: 0.5
+- Intensity: 0.6
+- Concreteness: 0.7
+
+2nd Quarter:
+- Valence: 0.3
+- Dominance: 0.5
+- Intensity: 0.7
+- Concreteness: 0.4
+
+3rd Quarter:
+- Valence: 0.4
+- Dominance: 0.6
+- Intensity: 0.5
+- Concreteness: 0.5
+
+4th Quarter:
+- Valence: 0.2
+- Dominance: 0.7
+- Intensity: 0.8
+- Concreteness: 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings based on the argument provided, broken down into quarters:
+
+1. **Quarter 1: "It was never given a reason why people look down upon it."**
+   - **Valence:** 0.4 (Neutral to slightly negative, as it indicates frustration about lack of explanation.)
+   - **Dominance:** 0.3 (The statement presents a viewpoint but lacks authority.)
+   - **Intensity:** 0.3 (The emotional weight is low, as it is more of an observation.)
+   - **Concreteness:** 0.5 (The statement is clear but somewhat abstract in context.)
+
+2. **Quarter 2: "Because it costs too much money?"**
+   - **Valence:** 0.4 (Neutral, questioning tone suggests uncertainty.)
+   - **Dominance:** 0.3 (Focuses on a potential reason, but it does not assert a strong position.)
+   - **Intensity:** 0.4 (Some intensity in questioning but still speculative.)
+   - **Concreteness:** 0.5 (Concrete in its nature of questioning an idea but still abstract.)
+
+3. **Quarter 3: "Most schools can barely pay for teachers, much less full-time armed guards."**
+   - **Valence:** 0.5 (Slightly negative, highlighting financial struggles.)
+   - **Dominance:** 0.6 (Stronger assertion about the financial reality of schools.)
+   - **Intensity:** 0.5 (Medium intensity due to the seriousness of the financial issue.)
+   - **Concreteness:** 0.7 (Very concrete, providing a clear statement about budgeting constraints.)
+
+4. **Quarter 4: "There are roughly 100,000 public schools in the US. It's just not economically feasible. The school districts that can afford armed guards don't need them, and the ones that do need armed guards can barely afford to pay teachers."**
+   - **Valence:** 0.6 (Overall negative, emphasizing the impracticality of the idea.)
+   - **Dominance:** 0.8 (Strong authority in presenting concrete statistics and reasoning.)
+   - **Intensity:** 0.6 (High intensity, provides a passionate argument about economic feasibility.)
+   - **Concreteness:** 0.8 (Highly concrete, offers specific data and logical reasoning.) 
+
+These ratings reflect the characteristics of each portion of the argument, illustrating varying levels of emotional weight, authority, clarity, and abstractness.
+

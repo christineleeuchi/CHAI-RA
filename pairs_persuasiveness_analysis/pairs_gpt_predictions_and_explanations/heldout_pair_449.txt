@@ -1,0 +1,42 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the scores for each aspect—valence, dominance, intensity, and concreteness—for the provided argument:
+
+1. **Valence (0.5)**: The argument carries a mix of positive and negative emotions. The speaker acknowledges some personal growth (“I finally *got* the concept…”), but there’s also an undercurrent of frustration and resentment (“I was sending me into a period of hating everyone and everything”). Overall, it has a neutral to slightly negative valence.
+
+2. **Dominance (0.6)**: The speaker expresses a strong sense of individuality and personal experience. They assert their perspective firmly, especially when opposing the viewpoint that working is universally beneficial for young people. However, there’s also acknowledgment of the other person's experience, which tempers the dominance slightly.
+
+3. **Intensity (0.7)**: There is a high intensity in the emotions conveyed, particularly in phrases like “hating everyone and everything,” which indicates strong feelings. The insistence on their experience and recognition of competition in the job market also conveys a significant level of engagement and emotional weight.
+
+4. **Concreteness (0.5)**: The argument is somewhat abstract, as it discusses personal feelings and experiences without providing concrete examples or specific scenarios beyond the mention of competing for jobs and managing time during college. While personal experiences are detailed, they remain subjective and lack broader applicability that might make the argument more concrete.
+
+Overall, these ratings reflect the complexity of the emotions and assertions expressed in the argument.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s an evaluation of each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+1. **First Quarter: "I was a spoiled lazy kid because I never got a job. Had my priorities mixed up and flunked. I got a job in the real world, and it was painful, but humbling. If I had gotten a job at 18 (or sooner), I would've done much better in college and learned crucial life lessons sooner."**
+   - **Valence:** 0.4 (Mixed feelings; acknowledges personal flaws but also recognizes the learning experience)
+   - **Dominance:** 0.6 (Expresses a strong perspective on the importance of working early)
+   - **Intensity:** 0.7 (Emotionally charged due to personal reflection and regret)
+   - **Concreteness:** 0.5 (Some concrete experiences shared but still somewhat abstract in conclusions)
+
+2. **Second Quarter: "Having your first job at 22 isn't okay."**
+   - **Valence:** 0.3 (Negative nuance; criticism of a social norm)
+   - **Dominance:** 0.5 (Making a somewhat bold claim but less elaboration on reasoning)
+   - **Intensity:** 0.6 (A clear conviction is expressed, but lacks depth)
+   - **Concreteness:** 0.4 (A general statement without specific supporting details)
+
+3. **Third Quarter: "I didn't have my first job until 24, because I went straight through college and grad school, without working, to get an engineering master's."**
+   - **Valence:** 0.5 (Neutral to positive; sharing personal experience)
+   - **Dominance:** 0.4 (Less assertive, more informative)
+   - **Intensity:** 0.5 (Contains factual information without strong emotional weight)
+   - **Concreteness:** 0.7 (Specific timeline and achievements mentioned)
+
+4. **Fourth Quarter: "Now I'm five years into that job making $100k with a house, a wife, and my student loans paid off. I am very happy with the way my life is turning out, and I don't see why it should be my problem that you apparently needed a wake-up call from a retail job."**
+   - **Valence:** 0.6 (Positive outlook on personal success but slightly defensive)
+   - **Dominance:** 0.7 (Confident assertion of personal circumstances)
+   - **Intensity:** 0.6 (Some emotional context of satisfaction blended with defensiveness)
+   - **Concreteness:** 0.8 (Specific accomplishments and scenario provided)
+
+These scores reflect the tonal and structural nuances within each quadrant of the argument, highlighting the emotional and factual components present throughout.
+

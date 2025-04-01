@@ -1,0 +1,39 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s an evaluation of the argument based on the criteria of valence, dominance, intensity, and concreteness. The argument is divided into four quarters for score assignment.
+
+### Quarter 1:
+**Text:** "CMV: Touch-Typing should be a required skill for university. I think it's safe to say that almost everyone in the world uses a keyboard now. And yet, the vast majority of people have no idea how to type without looking at the keys and often hunting and pecking. I personally consider this a major problem because I think it is holding us back to some extent."
+
+- **Valence:** 0.7 (The argument expresses a mildly negative assessment of the current state of typing skills, indicating concern.)
+- **Dominance:** 0.5 (The speaker presents a personal opinion, suggesting some confidence, but it’s also an emotional appeal.)
+- **Intensity:** 0.6 (There is a moderate sense of urgency in identifying touch-typing as a "major problem.")
+- **Concreteness:** 0.6 (The talk about the widespread use of keyboards is concrete, but the notion of “holding us back” is more abstract.)
+
+### Quarter 2:
+**Text:** "Some points that I use to support this argument: 1. Faster typing = more productivity, businesses would benefit. You could do more paperwork, more homework, anything on the computer. I'd argue that if everybody could type, we'd all have more free time as well, or at the very least GDP would increase as we get more work done in less time."
+
+- **Valence:** 0.8 (Overall positive; it highlights the benefits of faster typing.)
+- **Dominance:** 0.6 (The argument asserts a confident claim that touches on economic benefits, showing a level of assertiveness.)
+- **Intensity:** 0.7 (The claim about increased free time and productivity is a strong statement, presenting a compelling case.)
+- **Concreteness:** 0.7 (The points made are clear and measurable, emphasizing productivity and GDP in relation to typing skills.)
+
+### Quarter 3:
+**Text:** "2. It's useful for personal and professional activities: Even if all you do is type posts on facebook and write an email to your grandkids, knowing how to type will help you. 3. It's easy to learn. It's all muscle memory, and if you practiced for an hour a day you'd be good in a month. Plus there are programs galore for it."
+
+- **Valence:** 0.8 (Very positive; the argument promotes the usefulness and accessibility of touch-typing.)
+- **Dominance:** 0.5 (The speaker maintains a balanced but confident tone, emphasizing the skill's practicality.)
+- **Intensity:** 0.6 (The argument about ease of learning adds mild enthusiasm to the claim.)
+- **Concreteness:** 0.8 (The reference to personal and professional activities lends itself to very tangible examples, and tips on practice are concrete.)
+
+### Quarter 4:
+**Text:** "So, my view is that if university required you to know how to touch-type, perhaps with a modest WPM test on entry, or at least a freshman-year course, people would be forced to learn it and would become better typists, thus benefiting everyone down the line."
+
+- **Valence:** 0.9 (Strongly positive; the suggestion for a policy change is framed as beneficial for society.)
+- **Dominance:** 0.7 (The speaker confidently proposes a solution to the stated problem.)
+- **Intensity:** 0.8 (The enthusiasm for institutionalizing typing skills conveys strong belief in the recommendation.)
+- **Concreteness:** 0.7 (The proposal for a test and course is clear and actionable, though it’s still slightly abstract regarding implementation.)
+
+---
+
+These evaluations reflect the overall tone and content of each part of the argument, showcasing emotional and rational components of the perspective on touch-typing.
+

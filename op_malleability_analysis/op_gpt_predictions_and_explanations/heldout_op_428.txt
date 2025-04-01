@@ -1,0 +1,45 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument, we'll rate valence, dominance, intensity, and concreteness on a scale from 0.0 to 1.0. 
+
+### Quarter 1:
+**Text:**
+"CMV: There is no hope for mankind or this world, life is pointless and all our best efforts are empty, as nature is set up in a way that evil, destruction, and ignorance will always win in the end. Basically, I was looking at some YouTube videos from different places, doing some research on the internet, reading political polls, scientific polls, and reading about history and psychology when I finally reached a conclusion..."
+
+- **Valence:** 0.1 (The sentiment is overwhelmingly negative.)
+- **Dominance:** 0.5 (The speaker expresses a strong opinion, asserting their view on mankind.)
+- **Intensity:** 0.8 (The language is strong, using terms like "no hope" and "pointless.")
+- **Concreteness:** 0.3 (The argument references general observations but lacks specific examples in this segment.)
+
+### Quarter 2:
+**Text:**
+"Let me start out by saying, philosophically, I'm a cynic, fatalist (not in the spiritual predetermined sense, but more in the sense that the laws of nature predetermine reality), and an existential nihilist. Basically, nothing really matters, this world and especially mankind are hopeless, and despite our best efforts our struggles are ultimately sadly, but surely, futile..."
+
+- **Valence:** 0.0 (Continues the negative sentiment.)
+- **Dominance:** 0.6 (The speaker establishes their philosophical stance strongly.)
+- **Intensity:** 0.9 (The tone is extremely intense and despairing.)
+- **Concreteness:** 0.2 (General philosophical concepts are discussed without specific examples.)
+
+### Quarter 3:
+**Text:**
+"Why do I say evil and destruction are predetermined to win? One simple fact, destruction is just so much easier than creation. I have some examples: 1. Look at the Twin Towers, they took decades to build, had hundreds of construction workers, planners, managers, and businessmen that went into building them..."
+
+- **Valence:** 0.1 (Negative valence due to the examples provided, although they are specific.)
+- **Dominance:** 0.7 (The speaker provides examples to support their argument assertively.)
+- **Intensity:** 0.8 (The examples chosen evoke strong emotional reactions.)
+- **Concreteness:** 0.7 (The argument is made more concrete through specific historical examples.)
+
+### Quarter 4:
+**Text:**
+"Honestly, in this world, how could goodness, creation, and knowledge possibly win? How could creation and life win if destruction and death is so much easier? How could knowledge and wisdom win if fear always drags people to ignorance? How could good win when the core of a human is entirely selfish?"
+
+- **Valence:** 0.1 (Continues to reflect a very bleak outlook.)
+- **Dominance:** 0.6 (The rhetorical questions assert the speaker's dominance in the argument.)
+- **Intensity:** 0.9 (The intensity remains high with the rhetorical questions emphasizing despair.)
+- **Concreteness:** 0.5 (Still somewhat vague, but hinges on philosophical skepticism.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence: 0.1, Dominance: 0.5, Intensity: 0.8, Concreteness: 0.3
+- **Quarter 2:** Valence: 0.0, Dominance: 0.6, Intensity: 0.9, Concreteness: 0.2
+- **Quarter 3:** Valence: 0.1, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.7
+- **Quarter 4:** Valence: 0.1, Dominance: 0.6, Intensity: 0.9, Concreteness: 0.5
+

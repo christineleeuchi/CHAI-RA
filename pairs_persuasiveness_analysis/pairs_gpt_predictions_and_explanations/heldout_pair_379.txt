@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a rating score from 0.0 to 1.0 for each of the dimensions — valence, dominance, intensity, and concreteness — for each quarter of the argument provided:
+
+### Quarter 1:
+**Text:** "With all automated mechanical systems, it's important to have fail-safes to allow human intervention in the case of emergencies that are not anticipated by the software."
+
+- **Valence:** 0.7 (The statement is mostly positive regarding safety but acknowledges potential risks.)
+- **Dominance:** 0.6 (The speaker expresses authority on the importance of safety protocols.)
+- **Intensity:** 0.5 (The tone is moderate; it emphasizes importance without excessive emotional appeal.)
+- **Concreteness:** 0.6 (The idea of fail-safes is concrete, but the mention of "emergencies" remains somewhat abstract.)
+
+### Quarter 2:
+**Text:** "Nowadays, auto-pilot can fly airlines pretty much from gate-to-gate. The reason that we don't do this is that the software cannot anticipate **all** possible emergency situations and pilot intuition cannot be replaced."
+
+- **Valence:** 0.6 (The use of auto-pilot is presented positively, but the limitations introduce a cautionary tone.)
+- **Dominance:** 0.7 (The speaker presents a strong case based on their understanding of current technology limitations.)
+- **Intensity:** 0.6 (The argument carries a moderate intensity as it discusses the confidence in auto-pilot while emphasizing its limitations.)
+- **Concreteness:** 0.7 (The examples of auto-pilot and its limitations provide substantial concrete details.)
+
+### Quarter 3:
+**Text:** "I believe the same thing will ring true with self-driving cars."
+
+- **Valence:** 0.5 (The statement is neutral; it doesn’t strongly lean positive or negative.)
+- **Dominance:** 0.5 (The speaker asserts a belief but does not provide a strong authoritative argument.)
+- **Intensity:** 0.4 (The phrase "I believe" indicates a lower intensity in emotional engagement.)
+- **Concreteness:** 0.4 (This statement is abstract, as it lacks specific examples or evidence.)
+
+### Quarter 4:
+**Text:** "Eventually, they will take over a majority of our driving, but I think that it'll be a long time before we have self-driving cars that cannot be manually controlled."
+
+- **Valence:** 0.6 (The prediction of widespread adoption of self-driving cars is positive, but the caution indicates a more complex view.)
+- **Dominance:** 0.6 (The speaker maintains a viewpoint that presents them as knowledgeable about future trends.)
+- **Intensity:** 0.5 (The tone is measured and contemplative, lacking high emotional intensity.)
+- **Concreteness:** 0.5 (The phrase offers a vision of the future, but it remains somewhat vague without detailed scenarios.)
+
+These ratings encapsulate the emotional reactions, authority, emotional weight, and specificity found in each section of the argument.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument in four dimensions—valence, dominance, intensity, and concreteness—I'll break down each quarter of the argument and provide scores from 0.0 to 1.0.
+
+### Quarter 1: "While I agree with you that safe-driving cars will likely eventually become mainstream, I'm not sure where you got your timeline from because it seems grossly exaggerated."
+- **Valence:** 0.5 (Neutral: The speaker acknowledges the mainstream potential of safe-driving cars but expresses skepticism about the timeline.)
+- **Dominance:** 0.4 (Moderately low: The speaker questions the other person's perspective but does so in a way that suggests uncertainty rather than outright assertion.)
+- **Intensity:** 0.4 (Low: The term "grossly exaggerated" indicates some intensity but is moderated by the overall agreement on mainstream acceptance.)
+- **Concreteness:** 0.5 (Moderate: The argument is clear in context but doesn't provide specific details that support the skepticism.)
+
+### Quarter 2: "There is no way that self-driving cars are going to replace human-driven cars in 16 years."
+- **Valence:** 0.8 (Negative: This statement is quite definitive and strongly disagrees with the timeline proposed.)
+- **Dominance:** 0.7 (High: The speaker asserts a strong disagreement, positioning themselves as a dominant voice in the discussion.)
+- **Intensity:** 0.7 (High: The phrase "there is no way" carries significant intensity, clearly expressing conviction.)
+- **Concreteness:** 0.6 (Moderate to High: The claim is specific regarding the timeline but lacks detailed reasons for this assertion.)
+
+### Quarter 3: "Even if the technology advances that quickly (very unlikely)..."
+- **Valence:** 0.3 (Negative: The speaker considers the rapid technological advancement unlikely, suggesting skepticism.)
+- **Dominance:** 0.5 (Moderate: The speaker is still coming from a place of questioning without fully asserting dominance over the argument.)
+- **Intensity:** 0.5 (Moderate: The speaker expresses doubt but does not come across as extremely intense about it.)
+- **Concreteness:** 0.4 (Moderate: The phrase "very unlikely" is vague and doesn’t provide solid grounding, though it does imply some level of reasoning.)
+
+### Quarter 4: "...it's still going to take a good 20+ years for society to accept them."
+- **Valence:** 0.6 (Moderate Negative: This statement implies a belief that acceptance will be slow, but it doesn't carry the same weight as stronger negativity.)
+- **Dominance:** 0.6 (Moderate to High: The speaker prescribes a timeline for societal acceptance, asserting a commanding voice regarding public sentiment.)
+- **Intensity:** 0.5 (Moderate: The phrasing is definitive yet does not convey overwhelming intensity.)
+- **Concreteness:** 0.7 (High: The mention of "20+ years" provides a clear timeframe that adds substance to the argument.)
+
+### Summary of Scores
+1. **Quarter 1:** Valence: 0.5, Dominance: 0.4, Intensity: 0.4, Concreteness: 0.5
+2. **Quarter 2:** Valence: 0.8, Dominance: 0.7, Intensity: 0.7, Concreteness: 0.6
+3. **Quarter 3:** Valence: 0.3, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.4
+4. **Quarter 4:** Valence: 0.6, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.7
+

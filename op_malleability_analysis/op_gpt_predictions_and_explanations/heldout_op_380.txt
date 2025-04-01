@@ -1,0 +1,41 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the text in quarters based on valence, dominance, intensity, and concreteness, I will break it down accordingly. 
+
+### Quarter 1:
+**Text:** "CMV: Some opinions are ethically right and can only be argued against using semantics. Everyone's entitled to their opinion, but some opinions are better than others..."
+
+- **Valence:** 0.6 (The statement has a mixed valence; it asserts a positive moral stance while potentially alienating those with differing views.) 
+- **Dominance:** 0.7 (It presents a clear argument asserting the superiority of certain ethical opinions.)
+- **Intensity:** 0.6 (The tone is assertive but not extreme; it conveys conviction without aggression.)
+- **Concreteness:** 0.5 (The language is somewhat abstract, discussing opinions and ethics without specific examples yet.)
+
+### Quarter 2:
+**Text:** "If you submitted a topic to this sub with the title 'I find gay people sickening. CMV' there would be tons of replies and circle jerking about all the ways the OP was wrong. That's because, I'm assuming, enough people have decided it's morally wrong to discriminate against gay people..."
+
+- **Valence:** 0.8 (This quarter expresses strong ethical condemnation of discrimination, leading to a positive valence towards acceptance and equality.)
+- **Dominance:** 0.6 (It holds a position of authority in stating that societal consensus is against discrimination, but does not claim absolute dominance.)
+- **Intensity:** 0.7 (The expression of the likely reaction to such a post carries a heightened emotional intensity related to social justice.)
+- **Concreteness:** 0.6 (Uses specific examples and societal behavior to ground its argument, though it still broadly references opinions.)
+
+### Quarter 3:
+**Text:** "If you posted a thread with the title 'Gay people deserve the same rights as straight people', you would get into a war of semantics and what it meant to have the 'same rights' as another person..."
+
+- **Valence:** 0.7 (This segment has a positive valence regarding rights while acknowledging contention, which reflects a more progressive stance.)
+- **Dominance:** 0.5 (While it asserts that rights should be equal, it recognizes that there is pushback, indicating lesser dominance.)
+- **Intensity:** 0.6 (The reference to a "war of semantics" adds intensity, showing the passion surrounding the topic of rights.)
+- **Concreteness:** 0.5 (Again, more specific than earlier parts but still relies on abstract concepts like "rights" which can be interpreted differently.)
+
+### Quarter 4:
+**Text:** "To reiterate, some opinions are better than others ethically and morally speaking, especially when you voice them to a fairly homogenous group that is likely to share similar values (reddit)."
+
+- **Valence:** 0.6 (It maintains a morally superior tone but introduces some ambivalence by acknowledging the influence of the group’s homogeneity.)
+- **Dominance:** 0.6 (Reiterates the main argument with authority, but the acknowledgment of the homogeneity counteracts total dominance.)
+- **Intensity:** 0.5 (Slightly less intense than previous sections as it’s more reflective and summarizing than passionate.)
+- **Concreteness:** 0.5 (It’s abstract in discussing opinions and groups but helps to frame the argument in the context of the platform being discussed.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence 0.6, Dominance 0.7, Intensity 0.6, Concreteness 0.5
+- **Quarter 2:** Valence 0.8, Dominance 0.6, Intensity 0.7, Concreteness 0.6
+- **Quarter 3:** Valence 0.7, Dominance 0.5, Intensity 0.6, Concreteness 0.5
+- **Quarter 4:** Valence 0.6, Dominance 0.6, Intensity 0.5, Concreteness 0.5
+

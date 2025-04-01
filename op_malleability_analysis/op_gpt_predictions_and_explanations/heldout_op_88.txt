@@ -1,0 +1,29 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s the scoring for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+**1st Quarter:**
+- **Valence:** 0.2 (The tone expresses strong negativity toward psychics/tarot readers, but there’s a slight acknowledgment of good intentions.)
+- **Dominance:** 0.7 (The argument expresses a dominant viewpoint, asserting that these professions are fraudulent and dangerous.)
+- **Intensity:** 0.8 (The language is assertive and confident, reflecting a strong conviction.)
+- **Concreteness:** 0.6 (There are references to concepts like hot and cold readings, somewhat concrete, but still abstract in nature.)
+
+**2nd Quarter:**
+- **Valence:** 0.2 (Continues with negative sentiment towards the practices, but also suggests that some practitioners may be well-intentioned.)
+- **Dominance:** 0.7 (Maintains a strong stance against the professions while acknowledging differing beliefs.)
+- **Intensity:** 0.7 (The argument remains strong but shows a bit of balance with the mention of good faith.)
+- **Concreteness:** 0.5 (Includes specific techniques (hot and cold readings) but is still somewhat abstract in the context of ethics.)
+
+**3rd Quarter:**
+- **Valence:** 0.3 (The ethical concerns add a slightly more balanced view, but the negative framing remains.)
+- **Dominance:** 0.6 (The argument continues to assert dominance, but slightly less than before due to ethical considerations.)
+- **Intensity:** 0.6 (While still assertive, it shows a bit of nuance in recognizing ethical dilemmas.)
+- **Concreteness:** 0.6 (References specific issues like training for advice-giving, which adds some concrete detail.)
+
+**4th Quarter:**
+- **Valence:** 0.1 (Finishes with a strong negative claim but retains a touch of acknowledgment of nuances discussed earlier.)
+- **Dominance:** 0.8 (Ends assertively, reinforcing the dominant view that these professions are fraudulent.)
+- **Intensity:** 0.7 (There’s a strong sense of finality and assertiveness in the conclusion.)
+- **Concreteness:** 0.7 (The claim of fraudulence is a concrete assertion and ties back to previous points.)
+
+These scores provide a breakdown of the emotional and conceptual weight of each section of the argument, reflecting its tone, emphasis, and use of clear concepts.
+

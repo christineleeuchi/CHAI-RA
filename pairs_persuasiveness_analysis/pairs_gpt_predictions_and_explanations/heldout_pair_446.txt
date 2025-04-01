@@ -1,0 +1,76 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Let's break down the argument into four quarters and assign ratings for valence, dominance, intensity, and concreteness for each quarter based on your criteria:
+
+### 1st Quarter: 
+**Text:** "This is like saying that the purpose of a surgeon is to cut people open."
+
+- **Valence:** 0.5 (Neutral; it doesn't express strong positive or negative feelings towards surgeons.)
+- **Dominance:** 0.7 (The statement asserts authority by comparing two professions.)
+- **Intensity:** 0.4 (Moderate; it's a straightforward comparison, not highly emotional.)
+- **Concreteness:** 0.6 (Concrete in the sense of a clear comparison, but somewhat abstract regarding purpose.)
+
+### 2nd Quarter: 
+**Text:** "It's a description of a large part of what a surgeon does, but that's not the same as purpose."
+
+- **Valence:** 0.6 (Slightly positive; acknowledges the role of a surgeon, suggesting respect for the profession.)
+- **Dominance:** 0.6 (Holds ground in the argument about purpose vs. action, showing intellectual dominance.)
+- **Intensity:** 0.5 (Moderate; it has more weight than a simple statement, but it's still restrained.)
+- **Concreteness:** 0.7 (More concrete as it clearly differentiates actions from purpose.)
+
+### 3rd Quarter: 
+**Text:** "The surgeon can't say that their purpose is achieved just by virtue of taking a scalpel to the patient."
+
+- **Valence:** 0.5 (Neutral; it states a fact without emotional charge.)
+- **Dominance:** 0.6 (The assertion is authoritative, elaborating on the initial claim about purpose.)
+- **Intensity:** 0.5 (Fairly moderate; it is a logical assertion but doesn't evoke a strong reaction.)
+- **Concreteness:** 0.8 (Very concrete; clearly articulates a logical argument regarding purpose.)
+
+### 4th Quarter: 
+**Text:** "Same goes for the military. Killing people and breaking things is a means to an end, not an end in its own right."
+
+- **Valence:** 0.4 (Slightly negative; acknowledges a harsh reality about the military's role.)
+- **Dominance:** 0.8 (Strongly asserts a position about military purpose, challenging prevailing views.)
+- **Intensity:** 0.7 (High intensity due to the stark nature of the language used.)
+- **Concreteness:** 0.7 (Concrete in its argument but couched in terms that invite debate and interpretation.)
+
+### Summary of Scores:
+1. **1st Quarter**: Valence 0.5, Dominance 0.7, Intensity 0.4, Concreteness 0.6
+2. **2nd Quarter**: Valence 0.6, Dominance 0.6, Intensity 0.5, Concreteness 0.7
+3. **3rd Quarter**: Valence 0.5, Dominance 0.6, Intensity 0.5, Concreteness 0.8
+4. **4th Quarter**: Valence 0.4, Dominance 0.8, Intensity 0.7, Concreteness 0.7
+
+These scores reflect the qualities of the argument as requested based on ratioed perceptions.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument you provided, I will assess each quarter of the text based on the four dimensions: valence, dominance, intensity, and concreteness. Each score will be given a rating from 0.0 (lowest) to 1.0 (highest).
+
+### Quarter 1: "The purpose of the military is to accomplish the missions given to it. If that mission isn't best served by killing people and breaking things, then that isn't what they're going to do."
+- **Valence:** 0.5 (Neutral tone; acknowledges the purpose of the military without strong positive or negative sentiments)
+- **Dominance:** 0.7 (Affirmative statement regarding the military's purpose, indicating a level of authority)
+- **Intensity:** 0.5 (Moderate; the language is straightforward without strong emotional charges)
+- **Concreteness:** 0.6 (Offers a practical statement about the military's purpose, but is somewhat abstract)
+
+### Quarter 2: "For instance, the Navy has hospital ships."
+- **Valence:** 0.6 (Slightly positive, as it introduces a constructive example of the Navy's role)
+- **Dominance:** 0.4 (Less authoritative, as it's just providing an example)
+- **Intensity:** 0.4 (Low intensity; the statement is factual and matter-of-fact)
+- **Concreteness:** 0.8 (Very concrete; presents a specific instance that can be easily understood)
+
+### Quarter 3: "Sometimes they're sent out for relief efforts."
+- **Valence:** 0.7 (Positive; implies humanitarian efforts that can be viewed favorably)
+- **Dominance:** 0.5 (Moderate; acknowledges the Navy's actions but doesn't assert authority)
+- **Intensity:** 0.6 (Moderate; indicates significance in the context of military missions)
+- **Concreteness:** 0.7 (Concrete; describes a specific action that is relatable)
+
+### Quarter 4: "The goal of the mission there is decidedly *not* to break things or kill people."
+- **Valence:** 0.8 (Positive; clearly stating a beneficial goal)
+- **Dominance:** 0.6 (Confident assertion about the mission's objectives)
+- **Intensity:** 0.7 (Fairly intense; uses "decidedly" to emphasize the point)
+- **Concreteness:** 0.7 (Concrete statement; clearly articulates a specific goal)
+
+### Summary Scores
+- **Quarter 1:** Valence 0.5, Dominance 0.7, Intensity 0.5, Concreteness 0.6
+- **Quarter 2:** Valence 0.6, Dominance 0.4, Intensity 0.4, Concreteness 0.8
+- **Quarter 3:** Valence 0.7, Dominance 0.5, Intensity 0.6, Concreteness 0.7
+- **Quarter 4:** Valence 0.8, Dominance 0.6, Intensity 0.7, Concreteness 0.7
+

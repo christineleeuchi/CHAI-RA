@@ -1,0 +1,35 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument based on the provided criteria of valence, dominance, intensity, and concreteness, we can break down the argument into its four main quarters. Here’s the scoring from 0.0 to 1.0 for each criterion:
+
+### Quarter 1: "CMV: Dirty plates should not be stacked, in a household. I believe that stacking plates is a silly way to get the perfectly clean undersides of plates dirty, by making them come in contact with the dirty side of the plate below."
+- **Valence:** 0.6 (The sentiment is generally negative towards stacking plates, but it's also moderately constructive.)
+- **Dominance:** 0.4 (The speaker presents their viewpoint, but it feels less authoritative and more personal.)
+- **Intensity:** 0.5 (The argument presents personal frustration but lacks strong emotional language.)
+- **Concreteness:** 0.7 (The statement is clear and specific regarding the problem of stacking plates.)
+
+### Quarter 2: "I do believe plates should be washed on both sides, but if you don't stack the plates then you won't require to do as much scrubbing and cleaning of the underside."
+- **Valence:** 0.7 (There's a positive sentiment toward keeping the plates clean and reducing work.)
+- **Dominance:** 0.5 (The speaker asserts a practical solution that shares equal importance with their previous critiques.)
+- **Intensity:** 0.6 (The argument conveys a reasonable level of passion towards improving a chore.)
+- **Concreteness:** 0.8 (The suggestion is practical and provides a clear guideline on how to handle dirty plates.)
+
+### Quarter 3: "I myself have washed plates with greasy Mexican food bathed in salsa, which IMHO is some of the worst mess to clean, and in my experience keeping the underside clean makes my life easier."
+- **Valence:** 0.8 (The experience shared is relatable and conveys a strong negative emotion towards the mess.)
+- **Dominance:** 0.6 (The speaker's personal experience adds weight to their argument.)
+- **Intensity:** 0.7 (The emotional language related to cleaning messy plates adds intensity.)
+- **Concreteness:** 0.9 (Specific examples create a vivid image and tangible understanding.)
+
+### Quarter 4: "I specify at the post title that this view applies to households, because in restaurants or places with many plates to wash, it may make sense to stack plates to save space."
+- **Valence:** 0.5 (Neutral overall; although making a distinction, it's less emotionally charged.)
+- **Dominance:** 0.3 (This segment is more of a qualifier and less assertive about the main argument.)
+- **Intensity:** 0.4 (Less intense than previous sections, as it presents a rational consideration rather than an emotional stance.)
+- **Concreteness:** 0.6 (Offers a clear distinction but lacks depth compared to other examples.)
+
+### Summary of Scores:
+1. **Quarter 1:** Valence: 0.6 | Dominance: 0.4 | Intensity: 0.5 | Concreteness: 0.7
+2. **Quarter 2:** Valence: 0.7 | Dominance: 0.5 | Intensity: 0.6 | Concreteness: 0.8
+3. **Quarter 3:** Valence: 0.8 | Dominance: 0.6 | Intensity: 0.7 | Concreteness: 0.9
+4. **Quarter 4:** Valence: 0.5 | Dominance: 0.3 | Intensity: 0.4 | Concreteness: 0.6
+
+These scores reflect the nuances of the argument throughout its quarters, noting how they shift in emotional appeal, authority, engagement, and clarity.
+

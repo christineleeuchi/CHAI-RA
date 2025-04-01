@@ -1,0 +1,46 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! Here are the ratings for each quarter of the argument you provided, based on valence, dominance, intensity, and concreteness:
+
+### 1st Quarter:
+- **Valence:** 0.4 (The response contains skepticism regarding the military industrial complex and its incentives, suggesting negative connotations about the current system.)
+- **Dominance:** 0.3 (The response questions the original argument's validity but does so in a way that expresses a strong concern regarding the implications of military spending.)
+- **Intensity:** 0.5 (The tone is moderately strong, especially in highlighting the moral implications of profiting from war.)
+- **Concreteness:** 0.4 (The argument provides examples of alternatives like infrastructure and green energy but lacks detailed solutions.)
+
+### 2nd Quarter:
+- **Valence:** 0.5 (The response maintains a critical stance on military spending but points to the existing military strength, suggesting a shift in focus.)
+- **Dominance:** 0.4 (Challenges the necessity of further military spending, showing a degree of assertiveness.)
+- **Intensity:** 0.5 (The response is assertive about the need to consider better uses for funds, maintaining a strong stance without becoming overly aggressive.)
+- **Concreteness:** 0.5 (Provides a source linking to defense comparisons, solidifying the argument with factual backing.)
+
+### 3rd Quarter:
+- **Valence:** 0.3 (Expresses concern about the repercussions of increased military spending, particularly regarding NATO alliances, indicating a negative view of potential outcomes.)
+- **Dominance:** 0.4 (Challenges the rationale of increased spending to protect allies but does so by emphasizing the implications of drawing NATO into conflict.)
+- **Intensity:** 0.6 (The tone is more urgent, expressing opposition to the consequences of military action.)
+- **Concreteness:** 0.4 (Raises a relevant point about NATO threats but lacks specific examples to strengthen the argument.)
+
+### 4th Quarter:
+- **Valence:** 0.5 (The call for research funding instead of military spending offers a slightly optimistic perspective, focusing on productivity without conflict.)
+- **Dominance:** 0.5 (Presents a strong counterargument advocating for a shift in investment priorities.)
+- **Intensity:** 0.6 (The argument carries a stronger emotional pull for prioritizing research over military expenditures.)
+- **Concreteness:** 0.5 (While it communicates a clear alternative, it doesn't provide details on how this could be implemented or funded.)
+
+Overall, the responses in each quarter demonstrate a mix of skepticism and advocacy for alternative funding strategies while maintaining a critical perspective on the military-industrial complex.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's the rating for each of the indicated aspects (valence, dominance, intensity, and concreteness) of the argument presented, along with a brief explanation for each aspect: 
+
+1. **Valence: 0.4**
+   - The valence here is somewhat negative towards military spending, suggesting alternative uses for funds that could have a positive societal impact. However, it is not entirely dismissive of military spending as a concept.
+
+2. **Dominance: 0.5**
+   - The argument strikes a balanced tone, making claims about spending not solely advocating for or against military expenditures. It presents a counterpoint while acknowledging the complexity of government spending.
+
+3. **Intensity: 0.4**
+   - The intensity of the argument is moderate; it raises concerns about military spending without an extreme emotional charge, opting for a reasoned discourse on budget allocation rather than a passionate outcry.
+
+4. **Concreteness: 0.6**
+   - The argument is relatively concrete as it provides specific examples—like the potential production of buses or trains and the military budget statistics—that can be easily understood and assessed by the audience. 
+
+Overall, these ratings reflect the argument's moderate stance against increased military spending, presenting alternative ideas with a balanced and reasonable tone.
+

@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To assess the argument based on valence, dominance, intensity, and concreteness, we'll break it down into four quarters and provide a score for each category accordingly.
+
+### Quarter 1:
+**Excerpt:** "CMV: I believe that people who are suffering from chronic incurable mental illness should have a right to commit suicide. I understand that this view is going to be incredibly unpopular but I have witnessed firsthand people who have suffered for decades with incurable depression (failed drug treatment, failed electro-convulsive therapy and various neurosurgical procedures)."
+
+- **Valence:** 0.3 (The view on suicide is negative, but it expresses concern and empathy for individuals.)
+- **Dominance:** 0.5 (The author presents a personal standpoint and argues for a right.)
+- **Intensity:** 0.6 (The emotional weight of the topic is significant, given the discussion of chronic suffering.)
+- **Concreteness:** 0.7 (Specific treatments and personal experiences are mentioned, providing a clear context.)
+
+### Quarter 2:
+**Excerpt:** "They have moments of I suppose what you might call reduced-depression where they gather the energy to try and commit suicide only to be stopped by well-meaning health professionals who then ply them with sedatives and get them 'back on their feet' again which usually means get them into some barely-functioning more acceptable role before everything just turns to custard again."
+
+- **Valence:** 0.2 (The tone is critical of health professionals; the content is negative.)
+- **Dominance:** 0.4 (The author critiques the system but does not entirely dominate the discussion.)
+- **Intensity:** 0.7 (There is a strong emotional charge when discussing the distress and coping mechanisms of those suffering.)
+- **Concreteness:** 0.8 (The description of events is very specific, illustrating the author's point effectively.)
+
+### Quarter 3:
+**Excerpt:** "I can't help but feel that we are doing a huge disservice to them by arrogantly refusing to consider their viewpoint - that they really have got nothing else left to live for."
+
+- **Valence:** 0.1 (Very negative view on societal attitudes and dismissiveness.)
+- **Dominance:** 0.6 (The author makes a strong statement about societal responsibility.)
+- **Intensity:** 0.8 (There's a deep emotional resonance and urgency in the argument.)
+- **Concreteness:** 0.5 (While it conveys strong feelings, it is more abstract in expressing the viewpoint rather than providing specifics.
+
+### Quarter 4:
+**Excerpt:** "A few I have seen have experienced tremendous trauma in life and are unable to see much hope in the future other than living a vegetable-type life as a half-person in assisted accommodation. Some others have permanent brain damage from the various mind altering drugs they have been forced to take under the mental health act as they have been deemed a risk to themselves. Seriously, I really think we are being extremely bigoted by assuming that our worldview, although the majority worldview, is what they see. Live and let live. Live and let die."
+
+- **Valence:** 0.0 (Highly negative implications regarding treatment and societal attitudes.)
+- **Dominance:** 0.7 (The speaker is assertive in their claim about societal bigotry and individual experiences.)
+- **Intensity:** 0.9 (Very high emotional weight, discussing trauma and existential despair.)
+- **Concreteness:** 0.6 (While specific instances are discussed, some abstract language is present in critiquing societal views.) 
+
+### Summary of Scores:
+- **Quarter 1:** Valence: 0.3, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.7
+- **Quarter 2:** Valence: 0.2, Dominance: 0.4, Intensity: 0.7, Concreteness: 0.8
+- **Quarter 3:** Valence: 0.1, Dominance: 0.6, Intensity: 0.8, Concreteness: 0.5
+- **Quarter 4:** Valence: 0.0, Dominance: 0.7, Intensity: 0.9, Concreteness: 0.6
+
+These scores aim to reflect the emotional and conceptual weight of each quarter of the argument, along with its impact and clarity.
+

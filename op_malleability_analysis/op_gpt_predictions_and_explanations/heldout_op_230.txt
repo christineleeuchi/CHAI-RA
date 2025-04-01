@@ -1,0 +1,63 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here are the ratings for the four aspects of the argument—valence, dominance, intensity, and concreteness—broken down into quarters of the text:
+
+### Quarter 1
+**Valence:** 0.3  
+The argument has a negative valence as it discusses the commercialization of education and the pressures placed on students.
+
+**Dominance:** 0.6  
+The argument conveys a strong sense of authority and criticism toward the current educational system and its relationship with the college industry.
+
+**Intensity:** 0.7  
+The intensity is high, especially in the claims about financial strain and manipulation of students, which elicits strong feelings of concern.
+
+**Concreteness:** 0.5  
+The argument is somewhat concrete, mentioning specialized high schools and the pressures students face, but could benefit from more specific examples.
+
+### Quarter 2
+**Valence:** 0.2  
+The negative sentiment persists as it continues to explore the expensive nature of college education and the implications for average Americans.
+
+**Dominance:** 0.5  
+The tone remains assertive, but it broadens the focus to include general financial struggles, which dilutes the dominance a bit compared to earlier.
+
+**Intensity:** 0.6  
+There is still a high degree of intensity as the financial pressures on families are discussed, maintaining concern for the reader.
+
+**Concreteness:** 0.4  
+The argument mentions "non-profit organizations," but specific examples of these entities are lacking, reducing concreteness.
+
+### Quarter 3
+**Valence:** 0.3  
+Negative valence continues as it critiques the way specialized high schools operate and the pressures they exert on students.
+
+**Dominance:** 0.7  
+This section is very assertive, particularly when stating that students are "bombarded" and "pressured," indicating a strong dominance in the argument.
+
+**Intensity:** 0.8  
+The intensity is high as it captures the emotional burden felt by students regarding college admissions and the fear of failure.
+
+**Concreteness:** 0.6  
+The reference to experiences in class and specific events, like the assembly for The Princeton Review, adds some concrete details to the argument.
+
+### Quarter 4
+**Valence:** 0.3  
+The conclusion maintains a negative outlook, emphasizing the exploitative nature of the system, which reinforces the argument's overall sentiment.
+
+**Dominance:** 0.6  
+The dominant theme stays consistent, showing confidence in the conclusions drawn about the motivations of specialized high schools.
+
+**Intensity:** 0.7  
+This section retains a strong emotional tone, as the author reflects on their personal experiences and observations.
+
+**Concreteness:** 0.5  
+While there are personal anecdotes involved, the conclusion still lacks broader data or evidence to fully substantiate the claims being made.
+
+### Summary Tables
+| Quarter    | Valence | Dominance | Intensity | Concreteness |
+|------------|---------|-----------|-----------|--------------|
+| Quarter 1  | 0.3     | 0.6       | 0.7       | 0.5          |
+| Quarter 2  | 0.2     | 0.5       | 0.6       | 0.4          |
+| Quarter 3  | 0.3     | 0.7       | 0.8       | 0.6          |
+| Quarter 4  | 0.3     | 0.6       | 0.7       | 0.5          |
+

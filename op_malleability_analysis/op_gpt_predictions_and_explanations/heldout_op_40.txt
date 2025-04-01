@@ -1,0 +1,41 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument across the specified dimensions of valence, dominance, intensity, and concreteness, I will provide a score from 0.0 to 1.0 for each quarter of the text. 
+
+### 1st Quarter:
+**Text:** "CMV: It's better to have Reddit admins which evenhandedly censors bullying, than ones that don't censor anything. This is a direct response to the banning of /r/fatpeoplehate and the other subreddits."
+
+- **Valence:** 0.8 (The sentiment is positive towards having admins who censor bullying.)
+- **Dominance:** 0.6 (There is a sense of authoritative perspective, but not overpowering.)
+- **Intensity:** 0.7 (The argument presents a clear stance with moderate forcefulness.)
+- **Concreteness:** 0.6 (The argument is somewhat abstract but does provide specific examples of subreddits.)
+
+### 2nd Quarter:
+**Text:** "Subreddits whose whole purpose is to promote hatred based on appearance, race, sex, gender, etc., are not important to free speech. Especially if they 'leak' by either brigading other areas of the internet or Reddit, or if they cause harm to people by posting personal information without their permission."
+
+- **Valence:** 0.9 (Strongly negative towards hate-promoting subreddits.)
+- **Dominance:** 0.7 (Assertive language regarding the harmful nature of these subreddits.)
+- **Intensity:** 0.8 (There is a high level of commitment to the position against hate.)
+- **Concreteness:** 0.7 (Talks about specific harmful actions and their consequences.)
+
+### 3rd Quarter:
+**Text:** "This kind of behavior is often defended under 'free speech.' But it's not really conducive to having a level-headed kind of discussion. It prevents the freedom of other, more meaningful, kinds of speech. It's technically free expression, but allowing it to exist does more to harm free expression than support it."
+
+- **Valence:** 0.7 (While critical, there is an undertone of seeking a constructive outcome through moderation.)
+- **Dominance:** 0.5 (A more balanced discussion, not overly dominating.)
+- **Intensity:** 0.6 (Moderate intensity in critique, although not overly aggressive.)
+- **Concreteness:** 0.6 (Offers a conceptual understanding of free speech versus harmful expression, somewhat abstract.)
+
+### 4th Quarter:
+**Text:** "A non-internet analogy is like somebody going to a debate and blowing an air-horn the whole time. Technically, what they're doing is expressing themself, but doing so in an obnoxious, destructive way which prevents others from expressing themselves. To this end, I would be happier if Reddit admins ended all communities that act like this (include /coontown and /SRS) than just have complete laissez faire modding."
+
+- **Valence:** 0.8 (Strongly favors the idea of moderation over complete free-for-all.)
+- **Dominance:** 0.7 (Clear expression of a preferable outcome in moderation.)
+- **Intensity:** 0.8 (The analogy reinforces strong feelings against disruptive behavior.)
+- **Concreteness:** 0.8 (The analogy is a clear and relatable point that enhances understanding.)
+
+### Summary Scores:
+- **1st Quarter:** Valence 0.8, Dominance 0.6, Intensity 0.7, Concreteness 0.6
+- **2nd Quarter:** Valence 0.9, Dominance 0.7, Intensity 0.8, Concreteness 0.7
+- **3rd Quarter:** Valence 0.7, Dominance 0.5, Intensity 0.6, Concreteness 0.6
+- **4th Quarter:** Valence 0.8, Dominance 0.7, Intensity 0.8, Concreteness 0.8
+

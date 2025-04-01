@@ -1,0 +1,52 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here is a rating score for each dimension based on the provided argument, broken down by quarters:
+
+**1st Quarter: "That is literally not what socialist feminism is. Or at least that's not what Marxist feminism is."**  
+- **Valence: 0.5** (Neutral/mostly negative= challenging an argument)
+- **Dominance: 0.6** (Assertive tone, indicating authority)
+- **Intensity: 0.4** (Relatively low intensity, straightforward statement)
+- **Concreteness: 0.5** (General terms, straightforward declarations)
+
+**2nd Quarter: "Marxist feminism asserts that women were made subservient to men, by men, for the interests of capitalism, and that the oppression is so tied to capitalism that, even if you somehow eliminated it, you'd still have oppression along other lines (race, sexuality, etc) that would potentially be worse than before."**  
+- **Valence: 0.6** (More informative, but carries a critical undertone)
+- **Dominance: 0.7** (Stronger assertion of ideology, with clarity about the theory)
+- **Intensity: 0.6** (Moderate intensity with complex ideas)
+- **Concreteness: 0.7** (Specific concepts and theories presented)
+
+**3rd Quarter: "Therefore dismantling capitalism is the only way to end oppression."**  
+- **Valence: 0.5** (Neutral proclamation about a proposed solution)
+- **Dominance: 0.7** (Strong command suggesting a decisive action)
+- **Intensity: 0.6** (Moderate intensity suggesting urgency or importance)
+- **Concreteness: 0.6** (Concrete action proposed)
+
+**4th Quarter: "Among the left, the idea that women's oppression is solely derived from biology is an idea pretty much only believed by trans exclusionary radical feminists, a particularly small and terrible movement. Heck, in early hunter gatherer tribes, gatherers, who were mostly if not entirely women, provided upwards of 80% of the food."**  
+- **Valence: 0.4** (Slightly negative towards a specific movement)
+- **Dominance: 0.5** (Informative, but not overly authoritative)
+- **Intensity: 0.5** (Steady intensity, presenting an alternate perspective)
+- **Concreteness: 0.7** (Clear historical reference).
+
+These ratings reflect the characteristics of the argument presented in each quarter and can vary based on interpretation and context.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Based on the nature of the argument and the response provided, here is a rating score from 0.0 to 1.0 for each dimension:
+
+1. **Valence** (the positivity or negativity of the argument):
+   - Original Argument: 0.3 (The argument presents a predominantly negative view of women's capabilities in the labor market and reinforces stereotypes.)
+   - Response: 0.7 (The response shifts to a more positive perspective by highlighting the value women bring to the workplace and pointing out biases that may undervalue their contributions.)
+
+2. **Dominance** (the level of control or authority implied in the argument):
+   - Original Argument: 0.8 (The argument asserts strong claims about the inherent capacities of men versus women, presenting them as definitive and authoritative.)
+   - Response: 0.5 (The response counters the original argument with evidence and suggests a more balanced view, but still engages with the authoritative tone.)
+
+3. **Intensity** (the emotional strength or fervor expressed in the argument):
+   - Original Argument: 0.7 (The argument expresses a strong conviction backed by categorical statements, which evokes a strong response.)
+   - Response: 0.5 (The response maintains a reasoned tone but counters the intensity with a focus on rational discussion and evidence-based reasoning.)
+
+4. **Concreteness** (the level of specificity and clarity in the argument):
+   - Original Argument: 0.6 (The argument includes specific examples but often refers to general trends without precise data.)
+   - Response: 0.8 (The response incorporates specific studies and data points, making the arguments more tangible and grounded in research.)
+
+**Summary Scores:**
+- Original Argument: Valence: 0.3, Dominance: 0.8, Intensity: 0.7, Concreteness: 0.6
+- Response: Valence: 0.7, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.8
+

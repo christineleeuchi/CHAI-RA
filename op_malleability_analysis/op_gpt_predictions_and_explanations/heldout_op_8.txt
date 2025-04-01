@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating score for each of the four dimensions (valence, dominance, intensity, and concreteness) for each quarter of the argument:
+
+**1st Quarter:**
+"CMV: The idea that homeschoolers are missing out on 'socialization' is a myth in that the socialization that happens in public schools is almost entirely negative and not applicable to the real world."
+
+- **Valence**: 0.2 (The statement reflects a negative view of socialization in public schools.)
+- **Dominance**: 0.7 (The speaker asserts a strong perspective challenging the common belief about public school socialization.)
+- **Intensity**: 0.6 (The rejection of the common notion carries a moderate intensity, suggesting strong disagreement.)
+- **Concreteness**: 0.5 (While the argument deals with theoretical concepts, it introduces a tangible understanding of “socialization” by comparing it against real-world applicability.)
+
+**2nd Quarter:**
+"To save time, let's just focus on the social quality of public schools from middle school forward."
+
+- **Valence**: 0.4 (The tone is neutral but acknowledges a focus on a specific timeframe that often has negative connotations.)
+- **Dominance**: 0.5 (A more moderate assertion that seeks to streamline the argument.)
+- **Intensity**: 0.3 (The language is fairly low-key and procedural.)
+- **Concreteness**: 0.7 (The reference to a specific educational period helps ground the argument.)
+
+**3rd Quarter:**
+"What I'm proposing is that having been through public school myself and watching what has happened to all my friend's teenagers who went to public school for middle and high school, I have seen each become more vain, more sexual, more concerned about their self image, more critical of themselves and others, and other negative traits (basically Jerry Springer TV show hopefuls)."
+
+- **Valence**: 0.1 (The tone here is quite negative, highlighting undesirable traits developed through public schooling.)
+- **Dominance**: 0.8 (The personal testimony presents a strong and subjective stance, emphasizing the speaker's authority on the topic.)
+- **Intensity**: 0.9 (The language used conveys a high intensity due to its emotionally charged descriptions.)
+- **Concreteness**: 0.6 (The examples given are concrete, although they are subjective and based on personal observation.)
+
+**4th Quarter:**
+"Schools can't/won't reign in the mocking and bullying and despite what some people claim, I don't believe there's value in being bullied for years without anyone coming to your aid."
+
+- **Valence**: 0.0 (This segment strongly reflects a negative perspective on schools’ handling of bullying.)
+- **Dominance**: 0.7 (Maintains a strong stance regarding the inability of schools to manage negative behaviors.)
+- **Intensity**: 0.8 (The emotional weight and urgency of the issue of bullying elevate the intensity.)
+- **Concreteness**: 0.7 (The reference to bullying is a specific and relatable concern, making it quite tangible.)
+
+Overall, the argument presents a strong, personal viewpoint grounded in negative experiences associated with public school socialization from middle school onward.
+

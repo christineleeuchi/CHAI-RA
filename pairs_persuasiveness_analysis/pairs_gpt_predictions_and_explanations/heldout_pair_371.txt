@@ -1,0 +1,98 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument provided, I will assess each quarter of the text on a scale from 0.0 to 1.0 in terms of valence, dominance, intensity, and concreteness.
+
+1. **Valence** (emotional value or tone):
+   - *Score*: 0.8
+   - The argument is presented with a strong critical tone toward the high-ranking officers at Nuremberg, suggesting a negative view of their actions and decisions. The emphasis on voluntary service implies moral culpability.
+
+2. **Dominance** (the level of influence or control expressed):
+   - *Score*: 0.9
+   - The argument portrays the high-ranking officers as having significant power and control within the military structure, as they were the ones giving orders. Their authority and position within the SS suggest a clear dominance in their roles.
+
+3. **Intensity** (the strength of the argument):
+   - *Score*: 0.7
+   - The argument has a moderate intensity. It firmly asserts that these individuals were not coerced into their positions and should bear responsibility. However, it lacks more emotional engagement that could drive higher intensity.
+
+4. **Concreteness** (the clarity and specificity of the argument):
+   - *Score*: 0.8
+   - The statement is relatively concrete in its assertion about the voluntary nature of high-ranking officers in the SS and the lack of coercion. It provides a clear delineation of responsibility, though it could benefit from more detailed examples.
+
+Overall, the argument is strong and compelling, particularly in its emphasis on the responsibility of high-ranking officials. Each aspect contributes to the understanding of accountability in the context of the Nuremberg trials.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument in terms of valence, dominance, intensity, and concreteness, I’ll break down each aspect for each quarter of the argument text.
+
+### First Quarter:
+**Valence: 0.8**  
+The argument presents a strong and clear perspective on the legality of the Nuremberg trials, making it favorable and positive in nature, though it could be seen as somewhat neutral.
+
+**Dominance: 0.7**  
+The speaker asserts a clear understanding of the legal framework, showcasing knowledge and authority over the subject matter.
+
+**Intensity: 0.6**  
+The argument has a solid intensity; it expresses confidence, but it remains somewhat measured and professional in tone rather than emotionally charged.
+
+**Concreteness: 0.9**  
+References to the London Charter and the concept of unconditional surrender provide tangible grounding, making the argument feel concrete and evidence-based.
+
+### Second Quarter:
+**Valence: 0.7**  
+The focus on the status of the defendants adds a slightly positive tone regarding the legitimacy of the trials, though it’s somewhat factual.
+
+**Dominance: 0.6**  
+While it acknowledges the importance of the individuals involved, it lacks a strong authoritative presence compared to the first quarter.
+
+**Intensity: 0.5**  
+This part of the argument is factual and straightforward, lacking emotional intensity.
+
+**Concreteness: 0.8**  
+By highlighting that these were the top surviving leaders, the argument remains grounded and clear, providing a solid context for the preceding points.
+
+### Third Quarter:
+**Valence: 0.8**  
+The speaker fortifies the stance that "I was only following orders" is not a valid defense, which upholds a moral perspective that is favorable to accountability.
+
+**Dominance: 0.7**  
+This section strongly emphasizes the responsibility of all soldiers, presenting a commanding stance against the excuse of following orders.
+
+**Intensity: 0.7**  
+There is a higher intensity here as the speaker emphasizes duty and moral responsibility, invoking a strong sense of obligation.
+
+**Concreteness: 0.8**  
+The idea of soldiers having a duty to disobey illegal orders is a clear and concrete assertion that underscores the argument's moral foundation.
+
+### Fourth Quarter:
+**Valence: 0.6**  
+The acknowledgment of the difficult moral position is empathetic yet suggests a harsh reality, making it somewhat neutral.
+
+**Dominance: 0.5**  
+This part offers a perspective that recognizes the complexity of the situation, but it does not assert strong authority or dominance.
+
+**Intensity: 0.6**  
+The recognition of a “shitty position” adds a layer of emotional weight, but it’s somewhat tempered by the logical framework of the preceding arguments.
+
+**Concreteness: 0.7**  
+The statement about expectations of accountability, while abstract, still reflects a grounding in moral and legal standards, providing a reasonable basis.
+
+### Summary
+- **First Quarter:**
+  - Valence: 0.8
+  - Dominance: 0.7
+  - Intensity: 0.6
+  - Concreteness: 0.9
+- **Second Quarter:**
+  - Valence: 0.7
+  - Dominance: 0.6
+  - Intensity: 0.5
+  - Concreteness: 0.8
+- **Third Quarter:**
+  - Valence: 0.8
+  - Dominance: 0.7
+  - Intensity: 0.7
+  - Concreteness: 0.8
+- **Fourth Quarter:**
+  - Valence: 0.6
+  - Dominance: 0.5
+  - Intensity: 0.6
+  - Concreteness: 0.7
+

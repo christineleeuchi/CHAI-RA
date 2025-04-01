@@ -1,0 +1,70 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Here's a breakdown of the argument you provided, rated on the specified criteria: valence, dominance, intensity, and concreteness, for each quarter of the text.
+
+### Quarter 1: "Trump has zero interest in being president and he won't, but if he did win, he would be an average president."
+- **Valence:** 0.4 (The statement has a somewhat negative valence as it expresses skepticism about Trump's interest and abilities.)
+- **Dominance:** 0.6 (It presents a strong opinion that conveys a sense of authority on the topic.)
+- **Intensity:** 0.5 (The claim is clear but lacks emotional fervor, making it moderately intense.)
+- **Concreteness:** 0.5 (The argument is somewhat abstract; while it discusses a specific possibility, it doesn't provide concrete evidence.)
+
+### Quarter 2: "Remember how people on the far right thought Obama would bring communism to America?"
+- **Valence:** 0.3 (Negative valence is present, as it critiques perceptions of Obama.)
+- **Dominance:** 0.4 (It attempts to assert that fears were unfounded but doesn't strongly dominate the conversation.)
+- **Intensity:** 0.5 (The intensity is moderate, reflecting a familiar political debate without strong emotional language.)
+- **Concreteness:** 0.6 (It references a specific belief held by a group, adding a level of concreteness.)
+
+### Quarter 3: "What really happened is what always happens. They get to power and realize how little they really can do because of the way the power structure in America is set up."
+- **Valence:** 0.5 (Neutral to slightly negative; it comments on disillusionment without heavy criticism.)
+- **Dominance:** 0.5 (Presents a general claim that suggests a level of authority about the political process.)
+- **Intensity:** 0.4 (The argument maintains a steady tone, lacking strong emotional appeal.)
+- **Concreteness:** 0.7 (Offers a clear observation about the political process, making this quarter more concrete.)
+
+### Quarter 4: "That would be the Trump presidency. Some minor Immigration bill orders of magnitude softer than what he's preaching now and a much more sober and serious person."
+- **Valence:** 0.4 (A negative outlook is present regarding the potential outcomes of a Trump presidency.)
+- **Dominance:** 0.6 (The claim about Trump's presidency portrays a confident assertion.)
+- **Intensity:** 0.6 (The argument is more intense due to a definitive conclusion about Trump’s policies.)
+- **Concreteness:** 0.6 (This quarter presents specific outcomes and contrasts, contributing to its concreteness.)
+
+### Summary of Ratings
+- Quarter 1: Valence: 0.4 | Dominance: 0.6 | Intensity: 0.5 | Concreteness: 0.5
+- Quarter 2: Valence: 0.3 | Dominance: 0.4 | Intensity: 0.5 | Concreteness: 0.6
+- Quarter 3: Valence: 0.5 | Dominance: 0.5 | Intensity: 0.4 | Concreteness: 0.7
+- Quarter 4: Valence: 0.4 | Dominance: 0.6 | Intensity: 0.6 | Concreteness: 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here are the ratings for each quarter of the argument based on the criteria provided:
+
+### Quarter 1
+**Text**: "Your opening statement regarding him being a punchline is an irrelevant statement. Every president is a punchline to the opposition. Reagan was pretty great and considered a complete joke. People derided Clinton and he did an admirable job. Wilson was mocked but was mostly right. Lincoln was vilified but righteous."
+
+- **Valence**: 0.6 (Moderately positive; acknowledges that mocking presidents is common, which could mitigate the negative view of Trump.)
+- **Dominance**: 0.7 (Fairly dominant; makes a strong assertion about the nature of political perception.)
+- **Intensity**: 0.5 (Moderate intensity; uses examples but does not invoke strong emotions.)
+- **Concreteness**: 0.8 (Concrete; provides specific examples to support the claim about presidents being mocked.)
+
+### Quarter 2
+**Text**: "The deference between politics and business have never been much. In most places people transition from successful businessman to school board or governor all the time. Trump may be skipping traditional step but that does not make him unqualified. I don't think you would argue that being governor of Nebraska for two years would suddenly change your opinion of the man."
+
+- **Valence**: 0.5 (Neutral; discusses qualifications without strong positive or negative sentiment.)
+- **Dominance**: 0.6 (Moderate dominance; asserts that Trump's business experience should not be viewed negatively.)
+- **Intensity**: 0.4 (Lower intensity; presents a rational argument without heightened emotions.)
+- **Concreteness**: 0.7 (Relatively concrete; references transitions in political roles but somewhat general.)
+
+### Quarter 3
+**Text**: "As far as his particular views on immigration and defense, he is not saying anything that other candidates have said in the past. Don't be shocked if you hear other republican candidates start to mimic him if he remains popular. One side's extremist is the other side's voice of reason."
+
+- **Valence**: 0.4 (Neutral to slightly negative; remarks on the normalization of extreme views, which could be seen as a criticism.)
+- **Dominance**: 0.5 (Moderately dominant; asserts that Trump's views are not unique, but less forceful.)
+- **Intensity**: 0.5 (Moderate intensity; draws parallels to political norms but lacks strong emotion.)
+- **Concreteness**: 0.6 (Somewhat concrete; discusses the idea of common political themes but lacks specific examples.)
+
+### Quarter 4
+**Text**: "Your last statement concerning the rich shows a bias. Democrats and republicans bemoan money and politics while participating in the corruption. I would be surprised if you are persuaded to CYV but I think you should recognize the reasons you listed are not evidence for your view but simple evidence of your view. As for my view, he wouldn't be any worse or any better than anyone else. The president is not as influential as people think and in 4 years America would not be tremendously different with or without him."
+
+- **Valence**: 0.3 (Slightly negative; points out bias and suggests irrelevance, which could be seen as dismissive.)
+- **Dominance**: 0.4 (Less dominant; acknowledges a viewpoint but ultimately suggests a lack of significant difference among leaders.)
+- **Intensity**: 0.6 (Moderate intensity; expresses a strong skepticism about the influence of the presidency.)
+- **Concreteness**: 0.5 (Moderately concrete; offers a viewpoint on influence but lacks specific examples or evidence.)
+
+These scores provide a nuanced understanding of the argument's emotional and intellectual weight across its different components.
+

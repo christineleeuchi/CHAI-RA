@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Sure! Here’s the rating score from 0.0 to 1.0 for each category (valence, dominance, intensity, and concreteness) for each quarter of the argument:
+
+### First Quarter:
+"CMV: Banning someone from a subreddit is absolutely useless, given how easy it is to create a new account. Reddit is a free website that absolutely anyone can use. In fact, it prides itself on the ease at which someone can create an account."
+
+- **Valence:** 0.5 - The overall sentiment is negative toward bans, but it doesn't carry strong emotional weight.
+- **Dominance:** 0.7 - The speaker asserts a clear opinion about the ineffectiveness of bans.
+- **Intensity:** 0.4 - The argument presents information in a straightforward manner without extreme emotional heat.
+- **Concreteness:** 0.6 - The argument uses factual language but is still somewhat abstract in discussing the ease of account creation.
+
+### Second Quarter:
+"So when a mod decides that they need to ban a user, there is nothing stopping that user from creating a new account and rejoining the website. It's like getting kicked out of the bar, putting on one of those shitty glasses/moustache combos from the dollarstore, and strolling right back past the security guard."
+
+- **Valence:** 0.4 - This has a humorous tone but still conveys a dismissive attitude toward the effectiveness of bans.
+- **Dominance:** 0.8 - The analogy reinforces the speaker's dominance in this argument, clearly illustrating their point.
+- **Intensity:** 0.6 - The humorous imagery adds some intensity to the argument, making it more engaging.
+- **Concreteness:** 0.7 - The analogy provides a concrete example that makes the argument relatable.
+
+### Third Quarter:
+"Banning someone does not prove a point. If someone did that to me, I would think it to be hilarious."
+
+- **Valence:** 0.5 - The sentiment is relatively neutral to slightly negative; it emphasizes the futility of bans with humor.
+- **Dominance:** 0.6 - The assertion of the futility comes through, but it’s more about personal reflection.
+- **Intensity:** 0.5 - The statement has a light-hearted tone, which makes it less intense.
+- **Concreteness:** 0.5 - “Does not prove a point” is abstract, but the mention of finding it hilarious adds a personal touch.
+
+### Fourth Quarter:
+"They got rid of ConstableBobrovsky?, well then say hello to SergeantBobrovsky. You got rid of SergeantBobrovsky?, well then say hello to CaptainBobrovsky."
+
+- **Valence:** 0.4 - This maintains a humorous and dismissive tone, slightly negative regarding the effectiveness of bans.
+- **Dominance:** 0.7 - There’s a strong emphasis on the ongoing cycle of creating new accounts, reinforcing the argument's strength.
+- **Intensity:** 0.6 - The humorous repetition adds to the intensity, keeping it lively.
+- **Concreteness:** 0.6 - The names create a more tangible example of the argument but remain fictional and metaphorical.
+
+Overall, the argument is lighthearted yet asserts a certain dissatisfaction with the ban process on Reddit, particularly highlighting how easily users can circumvent such bans.
+

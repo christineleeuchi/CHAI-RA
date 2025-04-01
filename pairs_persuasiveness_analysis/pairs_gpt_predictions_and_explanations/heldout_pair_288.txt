@@ -1,0 +1,79 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument based on valence, dominance, intensity, and concreteness, here are the ratings for each quarter of the text provided:
+
+### Quarter 1: 
+**Text:** "I will change your view with a [single diagram.](https://denisezannino.files.wordpress.com/2013/09/the-illustrated-guide-to-a-phd1.jpg) It will demonstrate that in order to become a master of one, a person must first become a Jack of all."
+- **Valence:** 0.7 (The intention is positive, aiming to persuade and inform.)
+- **Dominance:** 0.5 (The speaker expresses confidence but does not dominate the conversation, as it invites the reader to consider a viewpoint.)
+- **Intensity:** 0.6 (The statement shows a moderate level of assertiveness in claiming to change views through a diagram.)
+- **Concreteness:** 0.8 (The reference to a diagram provides a clear and tangible element to the argument.)
+
+### Quarter 2:
+**Text:** "As an anecdotal example: I am myself somewhere right around the transition between the eighth and ninth picture in that diagram. But I am also the handiest person I know around the house. I can and regularly do fox everything in my house -- nearly worthless with cars, but the home I'm solid."
+- **Valence:** 0.6 (The tone is personal and relatable, but there's a hint of self-deprecation.)
+- **Dominance:** 0.4 (The emphasis is on personal experience rather than asserting authority over the topic.)
+- **Intensity:** 0.7 (The anecdote reflects a strong personal connection and a level of pride in one's skills.)
+- **Concreteness:** 0.9 (The use of specific examples makes this part very tangible and relatable.)
+
+### Quarter 3:
+**Text:** "So again, to become a master of a single trade, one must first become a jack of all. Or one cannot understand his or her own trade out of context. This is why we start our educations in kindergarten and not in graduate studies."
+- **Valence:** 0.75 (The argument reinforces the initial point positively, linking it to education.)
+- **Dominance:** 0.6 (The speaker takes a stand on the importance of broad knowledge, establishing authority.)
+- **Intensity:** 0.8 (There is strong emphasis on the necessity of a broad knowledge base in education.)
+- **Concreteness:** 0.7 (While slightly abstract regarding the education system, it still points to a widely understood process.)
+
+### Quarter 4:
+**Text:** "A wide, solid, strong and synthetic knowledge base is an absolute *a priori* necessity. Which means that it can only follow that a master of one is superior, because it includes a thorough training in the jack of all."
+- **Valence:** 0.8 (Strongly positive as it concludes with a compelling assertion about mastery.)
+- **Dominance:** 0.7 (The speaker claims superiority of broad knowledge leading to mastery strongly.)
+- **Intensity:** 0.9 (The assertion about necessity and superiority is strong and clear.)
+- **Concreteness:** 0.6 (While it states a compelling point, the phrasing is more abstract and philosophical.)
+
+### Summary Ratings:
+- **Quarter 1:** Valence: 0.7 | Dominance: 0.5 | Intensity: 0.6 | Concreteness: 0.8
+- **Quarter 2:** Valence: 0.6 | Dominance: 0.4 | Intensity: 0.7 | Concreteness: 0.9
+- **Quarter 3:** Valence: 0.75 | Dominance: 0.6 | Intensity: 0.8 | Concreteness: 0.7
+- **Quarter 4:** Valence: 0.8 | Dominance: 0.7 | Intensity: 0.9 | Concreteness: 0.6
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument presented in terms of valence, dominance, intensity, and concreteness, I will take the argument's structure into account by breaking it down into four quarters. Each of the criteria will be rated on a scale from 0.0 to 1.0.
+
+### Quarter 1:
+**Text Segment:** Introduction of the occupation codes and their scope.
+
+- **Valence:** 0.6 (The statement presents a neutral inquiry regarding the range of knowledge without moral judgement.)
+- **Dominance:** 0.5 (The statement poses a legitimate question but does not assert any particular authority or urgency.)
+- **Intensity:** 0.4 (The inquiry lacks strong emotional or passionate language; it is more factual.)
+- **Concreteness:** 0.7 (The reference to a specific list of occupation codes adds a degree of tangibility to the argument.)
+
+### Quarter 2:
+**Text Segment:** Discussion of specialization and the notion of being a jack of all trades.
+
+- **Valence:** 0.7 (The statement leans positively towards the concept of being a jack of all trades, promoting a broader knowledge base.)
+- **Dominance:** 0.6 (The argument is more assertive in defining what it means to be a master versus a jack of all trades.)
+- **Intensity:** 0.5 (The discussion maintains a moderate tone, introducing some level of passion for the broader approach to knowledge.)
+- **Concreteness:** 0.6 (The concepts of specialization versus being a jack of all trades are abstract but are somewhat grounded by the examples stated earlier.)
+
+### Quarter 3:
+**Text Segment:** Further elaboration on how one measures the balance of knowledge gained versus specialization.
+
+- **Valence:** 0.5 (The argument here is again neutral, providing a reflective stance rather than a strongly positive or negative one.)
+- **Dominance:** 0.4 (More thoughtful exploration than assertion, allowing the reader to weigh options.)
+- **Intensity:** 0.4 (Language is less intense; it calls for contemplation rather than action.)
+- **Concreteness:** 0.5 (A balance of direct exploration and abstract reasoning without strong examples.)
+
+### Quarter 4:
+**Text Segment:** A final summation questioning the balance of time spent learning.
+
+- **Valence:** 0.6 (This section indicates slight favor toward the importance of breadth of knowledge over depth.)
+- **Dominance:** 0.5 (The argument retains a questioning nature, making it less dominant in its assertions.)
+- **Intensity:** 0.5 (Neutral tone with a call for introspection rather than passionate debate.)
+- **Concreteness:** 0.6 (The question posed here gives a sense of specificity and applicability to various audiences.)
+
+In summary, the ratings for each quarter of the argument are as follows:
+
+- **Quarter 1:** Valence 0.6, Dominance 0.5, Intensity 0.4, Concreteness 0.7
+- **Quarter 2:** Valence 0.7, Dominance 0.6, Intensity 0.5, Concreteness 0.6
+- **Quarter 3:** Valence 0.5, Dominance 0.4, Intensity 0.4, Concreteness 0.5
+- **Quarter 4:** Valence 0.6, Dominance 0.5, Intensity 0.5, Concreteness 0.6
+

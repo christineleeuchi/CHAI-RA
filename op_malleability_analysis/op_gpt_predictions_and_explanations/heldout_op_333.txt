@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument provided in terms of valence, dominance, intensity, and concreteness, I will break it down into four quarters and assign scores from 0.0 to 1.0 for each attribute.
+
+### Quarter 1:
+**Text: "CMV: A Millenial calling someone a 'bigot' because of their views on same-sex marriage is taking for granted the time in which they were born."**
+- **Valence:** 0.4 (Neutral to slightly negative; the term "bigot" carries a negative connotation, but it's positioned as a critique of judgement.)
+- **Dominance:** 0.6 (The speaker asserts a strong perspective on generational understanding, suggesting authority.)
+- **Intensity:** 0.5 (Moderate intensity; expresses a thoughtful perspective but lacks extreme passion.)
+- **Concreteness:** 0.4 (Somewhat abstract; it discusses broader social attitudes rather than specific examples.)
+
+### Quarter 2:
+**Text: "With Caitlyn (Bruce) Jenner making headlines recently, I've seen a lot more discussion on the topic of LGTBQ rights recently. Between Reddit and my Facebook feed (which consists mostly of liberal college students), you would think that the shift in public opinion on LGTBQ (and particularly same-sex) rights began a century ago, rather than just a few short years."**
+- **Valence:** 0.5 (Neutral; discusses the current state of discourse without strong positive or negative sentiment.)
+- **Dominance:** 0.5 (Balanced; reflects observations without assertive claims.)
+- **Intensity:** 0.4 (Mild intensity; expresses observations without strong emotional language.)
+- **Concreteness:** 0.6 (Some concrete examples provided, such as Caitlyn Jenner's influence and personal social media experiences.)
+
+### Quarter 3:
+**Text: "Opposing same-sex marriage or other LGTBQ rights isn't *that* antiquated a view to me. After all, it was only thirteen years ago that sodomy was illegal in some states, and it was only twelve years ago that the first state legalized same-sex marriage."**
+- **Valence:** 0.3 (Somewhat negative; presenting opposing views in a less favorable light, although it tries to justify them.)
+- **Dominance:** 0.7 (More assertive; the speaker takes a definite stand on the relevance of historical context.)
+- **Intensity:** 0.6 (Moderate to high intensity; reinforces urgency by citing specific historical facts.)
+- **Concreteness:** 0.8 (Highly concrete; uses specific timelines and events to anchor the argument.)
+
+### Quarter 4:
+**Text: "Now to be clear, I fully support LGTBQ rights. I'm straight, but I consider myself a strong ally. However, I think it's ridiculous for Millennials in their 20s to pass judgement on other people who oppose LGTBQ rights."**
+- **Valence:** 0.6 (Positive outlook towards LGBTQ rights; however, there's a critique of judgment which adds complexity.)
+- **Dominance:** 0.5 (A mix of support and critique, presenting a level of authority but also acknowledging the opposing view.)
+- **Intensity:** 0.7 (High intensity; the phrase "I think it's ridiculous" expresses strong emotion.)
+- **Concreteness:** 0.5 (Fairly concrete; positions personal beliefs but remains abstract in general terms regarding criticisms.)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence 0.4, Dominance 0.6, Intensity 0.5, Concreteness 0.4
+- **Quarter 2:** Valence 0.5, Dominance 0.5, Intensity 0.4, Concreteness 0.6
+- **Quarter 3:** Valence 0.3, Dominance 0.7, Intensity 0.6, Concreteness 0.8
+- **Quarter 4:** Valence 0.6, Dominance 0.5, Intensity 0.7, Concreteness 0.5
+

@@ -1,0 +1,48 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument's quarters on valence, dominance, intensity, and concreteness, I will define each term briefly:
+
+- **Valence**: Refers to the emotional value associated with the content, whether it is positive, negative, or neutral.
+- **Dominance**: Indicates the level of power or influence expressed in the argument.
+- **Intensity**: Measures the strength or forcefulness of the argument.
+- **Concreteness**: Assesses how tangible or specific the ideas presented are.
+
+Now, I'll rate each quarter of the argument accordingly:
+
+### Quarter 1:
+"CMV: Reddit would be a better place if they banned the racist/hate/white nationalist sub-reddits Reddit is home to some very large white nationalist/racist/neo-nazi communities. CoonTown got about [500 000 unique views last month] and has about 24k subs."
+
+- **Valence**: 0.2 (Negative tone due to mention of hate groups)
+- **Dominance**: 0.6 (The speaker asserts a solution asserting Reddit's improvement)
+- **Intensity**: 0.7 (Strong argument made about the presence of hate groups)
+- **Concreteness**: 0.8 (Specific statistics and references provided enhance clarity)
+
+### Quarter 2:
+"These users affect reddit in general and they make it worse. If you don't think they do, then please read through some of this [IamA with a German refugee worker]."
+
+- **Valence**: 0.3 (Strongly negative implications about the effect of these users)
+- **Dominance**: 0.5 (Engaging the audience to challenge their views implies some authority)
+- **Intensity**: 0.6 (Firm assertion about the negative impact)
+- **Concreteness**: 0.7 (Concrete reference to an IamA thread provides context)
+
+### Quarter 3:
+"If Reddit banned all of these hate subs (and any new ones) then of course the users would blow up, but just like the FPH drama it would die down within a week or two. Then these racists would leave and reddit would be better."
+
+- **Valence**: 0.4 (Negative portrayal of hate users balanced by a positive outcome)
+- **Dominance**: 0.7 (Strongly suggests Reddit would be better without these users)
+- **Intensity**: 0.7 (Expresses strong opinion on the potential outcomes)
+- **Concreteness**: 0.6 (Somewhat abstract outcomes referenced, though specific scenarios provided)
+
+### Quarter 4:
+"Everybody comes to reddit initially because of some link/thread that they got from somewhere else. As long as reddit still hosts large racist communities (and hosts them ad-free no less) then the number of racists on the entire site will only grow. **TL;DR - The ban process wouldn't be perfect, but I think that reddit's policy should be "we don't want racists here. Go somewhere else." Instead of their current policy which is "racists are totally fine, please enjoy your ad-free experience which is subsidised by other content."**"
+
+- **Valence**: 0.1 (Strongly negative outlook on Reddit's current policies)
+- **Dominance**: 0.8 (Clear authoritative stance on policy changes)
+- **Intensity**: 0.6 (Firm conclusion about the negative impact of existing policies)
+- **Concreteness**: 0.5 (General claim about Reddit's policy without specific proposals)
+
+### Summary of Ratings:
+- **Quarter 1**: Valence 0.2, Dominance 0.6, Intensity 0.7, Concreteness 0.8
+- **Quarter 2**: Valence 0.3, Dominance 0.5, Intensity 0.6, Concreteness 0.7
+- **Quarter 3**: Valence 0.4, Dominance 0.7, Intensity 0.7, Concreteness 0.6
+- **Quarter 4**: Valence 0.1, Dominance 0.8, Intensity 0.6, Concreteness 0.5
+

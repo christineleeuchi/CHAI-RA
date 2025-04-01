@@ -1,0 +1,64 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument provided in quarters for valence, dominance, intensity, and concreteness, I'll break down the assessment into four parts corresponding to the structure of your argument.
+
+### Quarter 1: 
+**Text:**
+"CMV: Trump is the everyman's candidate A friend and I were talking about the current candidates and she couldn't understand why Trump was doing so well in the polls.  The best I could articulate it is that he is the most populist candidate out, his politics are moderate but heavily nationalist, his demeanor is one of our idealized archetypes, and he is wealthy but appears genuine, achieving a halo effect (unlike Romney.)"
+
+- **Valence**: 0.6 (The sentiment is positive toward Trump, viewing him as relatable and genuine.)
+- **Dominance**: 0.5 (The argument presents a strong point regarding Trump's appeal but does not entirely dominate the discourse.)
+- **Intensity**: 0.7 (The terminology used conveys strong opinions about Trump's categorization as a populist candidate.)
+- **Concreteness**: 0.5 (While there are clear assertions, some concepts, like 'idealized archetypes,' are abstract.)
+
+### Quarter 2: 
+**Text:**
+"After realizing this, I asked several other people, and realized that basically my friends, like Clinton, don't like how he communicates, but then have no major disagreement with the content."
+
+- **Valence**: 0.4 (This part introduces a slight negative sentiment toward Trump's communication style.)
+- **Dominance**: 0.4 (It acknowledges opposition to Trump without asserting a strong counterpoint.)
+- **Intensity**: 0.4 (The tone is moderate as it reflects on opinions of Trump's communication rather than his policies.)
+- **Concreteness**: 0.6 (This is a more straightforward observation about people's opinions, which adds clarity.)
+
+### Quarter 3: 
+**Text:**
+"I see an argument for why he may not have a good chance in an election (delta awarded), mainly in that whatever percentage of his 25% popularity is republican is all he may get from the republicans, and as a more mainstream candidate arises, the split votes wont go to him..."
+
+- **Valence**: 0.3 (There is a noticeable skepticism toward Trump's chances of winning, indicating a more negative view.)
+- **Dominance**: 0.6 (This section lays out a reasoning that challenges Trump's viability, adding some dominance in the critique.)
+- **Intensity**: 0.5 (The tone suggests concern but remains analytical rather than highly emotional.)
+- **Concreteness**: 0.7 (Concrete statistics and projections make the argument clearer.)
+
+### Quarter 4: 
+**Text:**
+"Many (most?) have simply tried to argue that he is too insulting to win, but I remain unconvinced that that would stop a sizable percentage of Americans from voting for him..."
+
+- **Valence**: 0.7 (The sentiment here is more positive regarding Trump's potential support despite criticism, indicating belief in his appeal.)
+- **Dominance**: 0.6 (It presents a strong counterargument to common critiques of Trump, asserting a position firmly.)
+- **Intensity**: 0.6 (The conviction in supporting Trump's appeal adds intensity to the argument.)
+- **Concreteness**: 0.6 (While there are solid points made, the overall argument can still feel somewhat abstract due to its generalizations about American sentiment.)
+
+### Summary of Scores:
+1. **Quarter 1**: 
+   - Valence: 0.6
+   - Dominance: 0.5
+   - Intensity: 0.7
+   - Concreteness: 0.5
+   
+2. **Quarter 2**: 
+   - Valence: 0.4
+   - Dominance: 0.4
+   - Intensity: 0.4
+   - Concreteness: 0.6
+
+3. **Quarter 3**: 
+   - Valence: 0.3
+   - Dominance: 0.6
+   - Intensity: 0.5
+   - Concreteness: 0.7
+
+4. **Quarter 4**: 
+   - Valence: 0.7
+   - Dominance: 0.6
+   - Intensity: 0.6
+   - Concreteness: 0.6
+

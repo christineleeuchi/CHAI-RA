@@ -1,0 +1,43 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument across the dimensions of valence, dominance, intensity, and concreteness, let's break down the text into four quarters and provide a score for each category.
+
+### Quarter 1:
+*"CMV: Studio Ghibli is overrated and their films more often than not require an adaptation in the western film adjusted viewer's watching habits in order to be perceived as enjoyable I'm posting this hoping that someone will point out what I might be missing or that I can begin to understand why Spirited Away, for example, sits so high in top movie list rankings."*
+
+- **Valence:** 0.3 (The argument starts with a negative assertion about Studio Ghibli, which sets a somewhat critical tone.)
+- **Dominance:** 0.5 (The speaker expresses a desire for discourse and understanding rather than an imposing stance, showing an element of openness.)
+- **Intensity:** 0.6 (The assertion that Ghibli is 'overrated' conveys a degree of strong opinion, albeit it’s tempered by a request for understanding.)
+- **Concreteness:** 0.6 (The reference to "Spirited Away" provides a specific example, adding some concrete detail to the opinion.)
+
+### Quarter 2:
+*"I am a westerner who has had exposure mainly to western film but also enjoys many other film types and cultures including Japanese and anime film."*
+
+- **Valence:** 0.0 (This section is neutral and simply presents background information, contributing little to the argument's overall positivity or negativity.)
+- **Dominance:** 0.2 (It asserts the speaker's identity and experience, but it does not establish dominance or authority over the topic.)
+- **Intensity:** 0.1 (This portion lacks strong emotional language, making it low in intensity.)
+- **Concreteness:** 0.7 (It provides clear and concrete information about the speaker's background and film exposure.)
+
+### Quarter 3:
+*"However, I don't much care for Studio Ghibli stuff. In fact, I'd go so far as to say that I don't like it. Except for Hisaishi's music, which I think is beautiful. I don't know why everyone seems to like these films so much."*
+
+- **Valence:** 0.2 (The negative sentiment is expressed clearly, which gives off a critical tone.)
+- **Dominance:** 0.4 (Although the speaker is expressing a clear opinion, they maintain a somewhat humble approach by questioning the general preference for Ghibli.)
+- **Intensity:** 0.7 (Strong feelings are articulated regarding the dislike for Ghibli films, making this section quite intense.)
+- **Concreteness:** 0.5 (The mention of Hisaishi's music provides a specific point, though it mainly contrasts with the negative view of the films.)
+
+### Quarter 4:
+*"I've watched lots of Ghibli films in order to give them a chance. I've already heard lots of people arguing that the artwork is great (and I do agree it is) and that's what makes the film great, but that doesn't cut it for me; the same people who argue in this way don't seem to apply that logic to the other films they watch and so must be adapting their viewing style for Ghibli or just repeating something they heard somewhere else, not responding as they normally would (perhaps with reference to direction, plot, acting, action, scripting, etc) when asked why they like a film."*
+
+- **Valence:** 0.3 (The tone is still somewhat critical, but it balances out with an acknowledgment of the artwork.)
+- **Dominance:** 0.6 (The speaker takes a more assertive stance here, critiquing the reasoning of others in their appreciation of Ghibli, showing a degree of dominance in the argument.)
+- **Intensity:** 0.8 (This part is intense as it challenges the validity of others' viewpoints and expresses frustration.)
+- **Concreteness:** 0.7 (The speaker references specific elements of film analysis, adding concrete detail to the argument about viewer adaptation.)
+
+### Summary of Scores:
+1. **Quarter 1:** Valence (0.3), Dominance (0.5), Intensity (0.6), Concreteness (0.6)
+2. **Quarter 2:** Valence (0.0), Dominance (0.2), Intensity (0.1), Concreteness (0.7)
+3. **Quarter 3:** Valence (0.2), Dominance (0.4), Intensity (0.7), Concreteness (0.5)
+4. **Quarter 4:** Valence (0.3), Dominance (0.6), Intensity (0.8), Concreteness (0.7)
+
+These scores reflect the varying degrees of emotional tone, assertiveness, strength of expression, and specificity across the different parts of the argument.
+

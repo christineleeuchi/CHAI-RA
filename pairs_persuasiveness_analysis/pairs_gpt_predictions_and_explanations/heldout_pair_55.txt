@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the rating scores for each of the metrics you've requested across the four quarters of the argument:
+
+### Quarter 1:
+**Text:** "I think this is one of many examples of how much we haven't got our shit figured out when it comes to the internet yet."
+
+- **Valence:** 0.4 (Neutral to slightly negative sentiment)
+- **Dominance:** 0.6 (The speaker expresses a sense of authority in their viewpoint)
+- **Intensity:** 0.5 (Moderately intense)
+- **Concreteness:** 0.5 (Some vague language, but also a clear point)
+
+### Quarter 2:
+**Text:** "Experiences in life are transitory. Memories fade, arguments and discussions forgotten, photos lost, and so on. When it comes to the internet we're stuck somewhere between expecting this experience to hold true online, and enjoying the fact that our lives are archived for our own nostalgic browsing and selective re-sharing (ie. TimeHop)."
+
+- **Valence:** 0.5 (Neutral; exploring a concept without a strong positive or negative bias)
+- **Dominance:** 0.5 (The tone is analytical rather than authoritative)
+- **Intensity:** 0.4 (Less intense as it presents observations)
+- **Concreteness:** 0.6 (More concrete examples are provided, such as TimeHop)
+
+### Quarter 3:
+**Text:** "I think for many people see profile browsing as 'creeping' because although they put the content there, the *intention* wasn't to share it with the world forever; it was to share it in that moment. The instinct is that it has an expiration date, but the technology doesn't facilitate it."
+
+- **Valence:** 0.4 (Slightly negative, addressing a disconnect)
+- **Dominance:** 0.6 (Expresses a clear understanding of the topic)
+- **Intensity:** 0.5 (Moderate intensity in the argument)
+- **Concreteness:** 0.7 (Relatively concrete with clear reasoning)
+
+### Quarter 4:
+**Text:** "I figure sooner or later Facebook or whatever supplants it will figure this out and provide tools to auto-privatise content to their respective owners after a certain time period has elapsed, or some other mechanism I can't think of. Alternatively we'll all just get used to the idea that our entire lives are archived online, and drop the idea that it should be 'creepy' for someone to have enough curiosity/boredom to browse back through your life. Personally, I'm a total creeper. The first thing I do on a new friend's Facebook is hit left to their first profile photo. Funtimes."
+
+- **Valence:** 0.5 (Neutral to slightly positive; acknowledging the potential for improvement)
+- **Dominance:** 0.5 (Suggests possibilities without strict authority)
+- **Intensity:** 0.6 (Somewhat more intense with personal admission)
+- **Concreteness:** 0.6 (Discusses specific potential changes and personal behavior)
+
+These ratings reflect the nuances and intricacies within each quarter of the argument, considering the emotional and logical aspects presented.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here are the ratings for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+**Quarter 1: "You're not really focusing on the 'creepy' part of 'creeping.'"**
+- **Valence:** 0.5 (Neutral, as the statement is neither positive nor negative but asserts a different focus)
+- **Dominance:** 0.4 (Some assertiveness in challenging the other person's focus)
+- **Intensity:** 0.3 (Mild intensity; it's a calm assertion)
+- **Concreteness:** 0.4 (Fairly abstract, lacking specific details)
+
+**Quarter 2: "Simply because something exists and can be viewed, doesn't imply that viewing it is not creepy."**
+- **Valence:** 0.6 (Slightly negative; it introduces the idea of creepiness)
+- **Dominance:** 0.5 (Moderate assertiveness in presenting an argument)
+- **Intensity:** 0.4 (Mildly intense; raises an important point)
+- **Concreteness:** 0.5 (More concrete than the first quarter, addressing viewing behavior)
+
+**Quarter 3: "After dating someone for a year, I decided to go to Facebook..."**
+- **Valence:** 0.5 (Neutral; recounting a personal experience without loaded language)
+- **Dominance:** 0.4 (Slightly less dominant as it reflects personal experience)
+- **Intensity:** 0.5 (Moderate intensity as it conveys personal discomfort)
+- **Concreteness:** 0.6 (Very concrete; uses personal experience and specific examples)
+
+**Quarter 4: "People put together online reserves of their memories..."**
+- **Valence:** 0.7 (Negative; conveys a strong sense of violation of privacy)
+- **Dominance:** 0.6 (Assertive presentation of a perspective on privacy)
+- **Intensity:** 0.7 (High intensity; expresses strong feelings regarding privacy and creepiness)
+- **Concreteness:** 0.6 (Concrete discussion of memories and boundaries)
+
+Overall, this argument showcases a blend of personal reflection and a critical perspective on digital behavior and privacy standards, with varying degrees of emotion and assertion in each quarter.
+

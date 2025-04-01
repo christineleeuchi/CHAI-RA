@@ -1,0 +1,89 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's a rating for each of the requested dimensions for each quarter of the argument:
+
+**1st Quarter:**
+- **Valence:** 0.6 (The argument presents a negative view towards the idea of legislating morality and makes a case for freedom.)
+- **Dominance:** 0.7 (The speaker conveys confidence in their viewpoint, asserting that historical evidence supports their argument.)
+- **Intensity:** 0.5 (The language is assertive but not highly emotional. It leans towards a rational discussion.)
+- **Concreteness:** 0.6 (The reference to historical events like prohibition gives some concrete examples, though there's a reliance on general claims.)
+
+**2nd Quarter:**
+- **Valence:** 0.5 (The tone remains critical of the idea, showing a balance between asserting independence and critiquing legislation.)
+- **Dominance:** 0.8 (The argument is strong and takes a dominant position, emphasizing the practical implications of legislation.)
+- **Intensity:** 0.6 (There's a significant emphasis on the consequences of legislation, which adds to intensity but remains grounded in rational points.)
+- **Concreteness:** 0.7 (Directly referencing financial ties and consequences for legality provides clearer, tangible examples.)
+
+**3rd Quarter:**
+- **Valence:** 0.5 (Continuing the critical stance, it is somewhat neutral in its delivery but maintains a focus on negative consequences.)
+- **Dominance:** 0.8 (Again, the speaker displays a strong authority on the subject matter, emphasizing potential negative outcomes.)
+- **Intensity:** 0.7 (The mention of underground activities and crime adds intensity and urgency to the argument.)
+- **Concreteness:** 0.7 (Providing specific references to alternative illegal activities makes the argument more concrete.)
+
+**4th Quarter:**
+- **Valence:** 0.6 (There is a strong rejection of the proposed limitations in the argument, aligned with a pro-freedom perspective.)
+- **Dominance:** 0.8 (The argument remains assertive, emphasizing the inability to change human desires through legislation.)
+- **Intensity:** 0.6 (The speaker's frustration with the idea of legislating behavior adds emotion but is still mostly reasoned.)
+- **Concreteness:** 0.5 (While asserting human nature is key, the argument lacks specific examples or evidence in this segment.) 
+
+These ratings take into account how strongly the argument conveys its perspective along with its logical components and emotional tone.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To rate the argument on a scale from 0.0 to 1.0 for valence, dominance, intensity, and concreteness, we can analyze each quarter of the text separately:
+
+### Quarter 1:
+*"The incentive for porn is that people want porn and will pay for its content. Same thing can be said for gambling. People want to gamble. Casinos wouldn't exist if people didn't want them."*
+
+- **Valence:** 0.6 (The statement is neutral to somewhat positive about the existence of porn and gambling due to demand.)
+- **Dominance:** 0.5 (The argument conveys a sense of control and inevitability regarding human desires, neither overpowering nor submissive.)
+- **Intensity:** 0.5 (The language is straightforward and neither highly charged nor weak.)
+- **Concreteness:** 0.7 (The concepts of demand and existence are tangible and easily understood.)
+
+### Quarter 2:
+*"There will always be people who will pay for content. Porn made 14 billion last year. Gaming is much larger."*
+
+- **Valence:** 0.5 (The focus on financial figures is neutral, emphasizing statistics without strong emotional connotations.)
+- **Dominance:** 0.6 (The reference to significant profits indicates a strong market influence, suggesting dominance within these industries.)
+- **Intensity:** 0.6 (The mention of specific figures adds a degree of vigor to the argument.)
+- **Concreteness:** 0.8 (The figures presented are concrete and factual, providing a clear basis for the argument.)
+
+### Quarter 3:
+*"Porn is still going to be made in this country or someplace else. Do you really want all that money just to disappear?"*
+
+- **Valence:** 0.4 (A somewhat negative implication is present regarding the disappearance of financial flow, but it's also rhetorical.)
+- **Dominance:** 0.5 (The argument presents an opinion on the industry's sustainability without asserting dominance.)
+- **Intensity:** 0.5 (The language is moderately persuasive but not heavily charged.)
+- **Concreteness:** 0.6 (While it presents a realistic perspective, it lacks specific data to back the idea of disappearance.)
+
+### Quarter 4:
+*"People will still gamble. Do you want all that money to just go underground or further to Indian reservations? How are you going to stop Indian Reservations?"*
+
+- **Valence:** 0.4 (This quarter feels somewhat negative as it suggests a detrimental outcome.)
+- **Dominance:** 0.5 (The argument challenges the reader, asserting a level of influence and questioning authority.)
+- **Intensity:** 0.7 (Rhetorical questions add a degree of urgency and intensity.)
+- **Concreteness:** 0.5 (The mention of specific alternatives (underground economy and reservations) is concrete, but the overall argument feels more speculative.)
+
+### Summary of Ratings:
+- **Quarter 1:**
+  - Valence: 0.6
+  - Dominance: 0.5
+  - Intensity: 0.5
+  - Concreteness: 0.7
+
+- **Quarter 2:**
+  - Valence: 0.5
+  - Dominance: 0.6
+  - Intensity: 0.6
+  - Concreteness: 0.8
+
+- **Quarter 3:**
+  - Valence: 0.4
+  - Dominance: 0.5
+  - Intensity: 0.5
+  - Concreteness: 0.6
+
+- **Quarter 4:**
+  - Valence: 0.4
+  - Dominance: 0.5
+  - Intensity: 0.7
+  - Concreteness: 0.5
+

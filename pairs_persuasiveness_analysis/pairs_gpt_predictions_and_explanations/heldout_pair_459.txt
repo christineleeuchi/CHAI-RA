@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a breakdown of the argument into four quarters, along with scores for valence, dominance, intensity, and concreteness for each quarter.
+
+### Quarter 1:
+**Text:** "First, your title is a blanket statement. It does not apply, for example to people who suffer from addiction. By definition you are only addicted to something if you can't stop doing Y even when X hurts you directly."
+
+- **Valence:** 0.7 (The tone is somewhat critical but not entirely negative; it challenges the argument logically.)
+- **Dominance:** 0.6 (The speaker asserts a strong point about addiction, suggesting control over definitions.)
+- **Intensity:** 0.5 (Moderate intensity; it conveys disagreement but doesn't escalate emotionally.)
+- **Concreteness:** 0.8 (The argument is specific and clear, referencing addiction explicitly.)
+
+### Quarter 2:
+**Text:** "Next, we need to recognize that how one person weighs the negative and positive results from Y is not necessarily how another person interprets them. X may be worth the joy you obtain from Y even though you don't like X but for me X might be too painful, or gross or whatever for me to go through with Y without trying to avoid X."
+
+- **Valence:** 0.8 (The tone is more neutral, focusing on subjective experiences, but acknowledges variability in perspective positively.)
+- **Dominance:** 0.4 (Less dominance; the speaker is more sharing insights rather than asserting dominance.)
+- **Intensity:** 0.6 (Moderate intensity due to discussing personal perspectives on joy and pain.)
+- **Concreteness:** 0.7 (Offers a concrete perspective that varies among individuals, though it's more abstract than the first quarter.)
+
+### Quarter 3:
+**Text:** "Now here is a part of your post I don't understand and need some clarification on,..."
+
+- **Valence:** 0.5 (Neutral tone; seeking clarification shows openness to dialogue but slightly critical towards the original argument.)
+- **Dominance:** 0.3 (Low dominance; the speaker is asking questions rather than asserting a point.)
+- **Intensity:** 0.4 (Low to moderate intensity; it's a mild request for clarification without emotional escalation.)
+- **Concreteness:** 0.5 (The request for clarification is somewhat concrete but lacks specific examples at this point.)
+
+### Quarter 4:
+**Text:** "What are you talking about? How is anything you've said here related to people acting like hypocrites? Can you give an example of how that would happen? Either people want to do Y and try to stop the negative consequences or they stop Y if they can't think of a way around them. How is that hypocritical?"
+
+- **Valence:** 0.6 (The tone is more direct and probing, which can be seen as slightly critical, leading to a neutral valence.)
+- **Dominance:** 0.7 (Establishes dominance by questioning the logic of the argument directly.)
+- **Intensity:** 0.7 (Moderate to high intensity, as it challenges the original argument head-on.)
+- **Concreteness:** 0.6 (It's concrete in that it asks for specific examples but the examples themselves are generalized.)
+
+These scores reflect the overall tone, assertiveness, emotional weight, and clarity of argumentation in each quarter of the text.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here’s a breakdown of the argument with scores for valence, dominance, intensity, and concreteness for each quarter:
+
+1. **First quarter: "When you're a teen it is often said that when you first learn to drive or get a car all your expenses will go up. Not just car related ones."**  
+   - **Valence**: 0.6 (The statement is mostly neutral but implies a negative consequence.)
+   - **Dominance**: 0.4 (The statement reflects a common belief without asserting authority on the topic.)
+   - **Intensity**: 0.5 (It presents a mildly significant observation but lacks strong emotional appeal.)
+   - **Concreteness**: 0.5 (While it introduces a common scenario, it lacks specific examples or data.)
+
+2. **Second quarter: "And this is true. When people have more access to options to spend their money, the car, they will spend more money."**  
+   - **Valence**: 0.5 (The truth value is acknowledged, but the outcome is still negative.)
+   - **Dominance**: 0.5 (It asserts a point but does so in a general manner rather than a commanding way.)
+   - **Intensity**: 0.6 (More intensity is present as it directly relates to spending behavior.)
+   - **Concreteness**: 0.6 (It gives a clearer causal relationship regarding spending behavior related to having a car.)
+
+3. **Third quarter: "There are lots of things that naturally lead into other things..."**  
+   - **Valence**: 0.4 (This is relatively neutral but hints at inevitability, which could be seen as negative.)
+   - **Dominance**: 0.5 (The statement makes a broad assertion about causality without strong evidence.)
+   - **Intensity**: 0.5 (While somewhat significant, the statement lacks emotional weight.)
+   - **Concreteness**: 0.4 (It's abstract and general, lacking specificity or examples.)
+
+4. **Fourth quarter: "...and there isn't anything you can do to stop that relationship."**  
+   - **Valence**: 0.3 (This statement has a negative implication of helplessness.)
+   - **Dominance**: 0.6 (It asserts a strong claim about inevitability and lack of control.)
+   - **Intensity**: 0.7 (The certainty in this statement makes it more intense.)
+   - **Concreteness**: 0.3 (It remains abstract and doesn't provide tangible evidence or examples.)
+
+Overall, the argument encompasses a mix of observations about financial consequences related to car ownership, with varying degrees of emotional appeal and specificity.
+

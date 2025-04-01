@@ -1,0 +1,43 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here is a breakdown of the ratings for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### Quarter 1
+**Text:** "CMV: The end of Moore's Law will drastically reduce the pace of technological change A few years ago, the CEO of Intel said that if cars had developed as quickly as computers, they would go at 470,000 mph, get 100,000 miles to the gallon, and cost 3 cents. This got me wondering, what would the world be like if computers developed as slowly as cars?"
+
+- **Valence:** 0.5 (Neutral tone, raises a concern about technological stagnation)
+- **Dominance:** 0.4 (Author presents an argument based on a quote from a CEO, suggesting some authority but mainly personal speculation)
+- **Intensity:** 0.6 (Uses dramatic figures to illustrate the contrast but remains primarily inquisitive)
+- **Concreteness:** 0.5 (Uses a concrete example from a CEO but remains hypothetical)
+
+### Quarter 2
+**Text:** "With the delay of Cannonlake to 2017, we have the first objective signs that Moore's law is slowing down, and most experts seem to be predicting it will come to an end within the next ten years or so..."
+
+- **Valence:** 0.3 (Negative outlook on technological progress)
+- **Dominance:** 0.5 (Presents expert opinions, which increases authoritative tone and dominance in the argument)
+- **Intensity:** 0.7 (Predictive and somewhat alarming outlook on future technology)
+- **Concreteness:** 0.7 (Provides specific details about Cannonlake and quantifiable effects of Moore's Law)
+
+### Quarter 3
+**Text:** "The increasing speed/power ratio of processors, and the increasing ability to store large files on solid state memory, have enabled practically every computer-related technology..."
+
+- **Valence:** 0.4 (While discussing past progress, it suggests a looming concern about future capabilities)
+- **Dominance:** 0.5 (Reinforces the argument and highlights the reliance on Moore's Law)
+- **Intensity:** 0.6 (Shows concern about ceasing rapid improvements)
+- **Concreteness:** 0.8 (Very detailed and specific regarding technology advancements)
+
+### Quarter 4
+**Text:** "Having computers/mobile devices/other electronics which grow at a much slower rate will sap much of the dynamism from the entire technology sector..."
+
+- **Valence:** 0.2 (Very pessimistic about the future of technology development)
+- **Dominance:** 0.6 (Strong assertions about the implications of slow growth in the tech sector)
+- **Intensity:** 0.8 (Very emphatic about the negative consequences of a slowdown)
+- **Concreteness:** 0.6 (While less detailed, it includes concrete implications and broader societal effects)
+
+### Summary Table
+| Quarter | Valence | Dominance | Intensity | Concreteness |
+|---------|---------|-----------|-----------|--------------|
+| 1       | 0.5     | 0.4       | 0.6       | 0.5          |
+| 2       | 0.3     | 0.5       | 0.7       | 0.7          |
+| 3       | 0.4     | 0.5       | 0.6       | 0.8          |
+| 4       | 0.2     | 0.6       | 0.8       | 0.6          |
+

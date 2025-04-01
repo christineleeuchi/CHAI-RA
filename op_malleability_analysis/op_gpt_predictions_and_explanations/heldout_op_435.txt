@@ -1,0 +1,33 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a breakdown of the argument's text based on valence, dominance, intensity, and concreteness, with a rating score from 0.0 to 1.0 for each quarter of the argument:
+
+### Quarter 1: "CMV: People should try to catch shiny pokemon before playing the lottery."
+- **Valence (Positive/Negative sentiment): 0.6** - The sentiment is generally positive towards catching shiny Pokémon as a more playful and meaningful pursuit compared to the lottery.
+- **Dominance (Level of control/influence): 0.5** - It expresses a moderate suggestion, implying that one action is preferable without forcefully imposing it.
+- **Intensity (Strength of the emotion): 0.4** - The intensity is low, as it is framed as a suggestion rather than an urgent plea.
+- **Concreteness (Abstract vs. concrete): 0.7** - The mention of catching Pokémon is a concrete activity, making the suggestion tangible.
+
+### Quarter 2: "As a person who has never caught a shiny pokemon, I think people should try to catch some before playing the lottery."
+- **Valence: 0.5** - Neutral sentiment as it acknowledges the author's experience while maintaining a degree of positivity in the suggestion.
+- **Dominance: 0.5** - A balanced perspective; the author is sharing personal insight without asserting authority.
+- **Intensity: 0.3** - Lower intensity because it's more factual, focusing on personal experience rather than emotion.
+- **Concreteness: 0.7** - Refers to both shiny Pokémon and the lottery, making it tangible.
+
+### Quarter 3: "Both are a huge gamble, and people who play the lottery regularly (and haven't won) are throwing their money away."
+- **Valence: 0.4** - The statement conveys criticism of lottery playing, which has a negative sentiment.
+- **Dominance: 0.6** - The author positions themselves as knowledgeable about gambling, which increases their dominance.
+- **Intensity: 0.6** - There’s a stronger emotional response as it critiques a common behavior.
+- **Concreteness: 0.5** - The argument remains fairly concrete due to its focus on gambling behavior.
+
+### Quarter 4: "I think that people should play pokemon and try their luck if they can catch any shiny pokemon (legitimately) before they try to play the lottery to see how ridiculously low the odds are. If someone can't achieve that, why bother trying to do something with an even lower chance of success?"
+- **Valence: 0.7** - This reinforces a positive view toward Pokémon and a critical stance on the lottery, contributing to a positive valence overall.
+- **Dominance: 0.6** - The suggestion is assertive, presenting a clear preference for one over the other.
+- **Intensity: 0.7** - The language conveys urgency and strong emotion about the comparative odds between the two activities.
+- **Concreteness: 0.6** - While it references specific activities, it engages in abstract reasoning about chances.
+
+### Summary of Ratings
+- **Quarter 1:** Valence: 0.6, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.7
+- **Quarter 2:** Valence: 0.5, Dominance: 0.5, Intensity: 0.3, Concreteness: 0.7
+- **Quarter 3:** Valence: 0.4, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.5
+- **Quarter 4:** Valence: 0.7, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.6
+

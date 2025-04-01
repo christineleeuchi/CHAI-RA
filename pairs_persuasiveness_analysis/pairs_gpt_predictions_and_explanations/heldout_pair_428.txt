@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To analyze the argument based on the given criteria, I will break it down into four quarters and then score each aspect of valence, dominance, intensity, and concreteness.
+
+### Quarter 1: 
+*"Let me start by saying I tip well even when ordering at a counter."*
+- **Valence**: 0.6 (Mostly positive, but a bit neutral)
+- **Dominance**: 0.4 (Personal experience, not asserting authority)
+- **Intensity**: 0.5 (Mildly assertive, but more of a statement of behavior)
+- **Concreteness**: 0.5 (Specific behavior mentioned, but lacks details)
+
+### Quarter 2: 
+*"I somewhat agree with you. But if it is based on time, and I buy a beer and pay with exact cash shouldn't I be paying next to nothing?"*
+- **Valence**: 0.5 (Neutral; expressing uncertainty)
+- **Dominance**: 0.5 (Balanced; acknowledges agreement but introduces a counterpoint)
+- **Intensity**: 0.6 (More assertive with a challenging question)
+- **Concreteness**: 0.5 (Specific scenario given, but still abstract in argument)
+
+### Quarter 3: 
+*"At a restaurant, you are tipping a waiter, bus boys, cooks, and hosts. The reason it works is at nicer restaurants there are more employees doing the same job. You pay more for your meal and your higher tip goes to more people."*
+- **Valence**: 0.7 (Positive; acknowledges the complexity of the system)
+- **Dominance**: 0.7 (Confidently presents the rationale behind tipping)
+- **Intensity**: 0.7 (Assertive explanation of the tipping system)
+- **Concreteness**: 0.6 (Specific roles mentioned, providing better context)
+
+### Quarter 4: 
+*"Obviously the best case scenario would be to just have a livable wage. Here is an interesting thought though. In cities that are raising their minimum wages to $15 an hour am I still going to be expected to tip well? It seems to be that food service employees are going to be ridiculously well compensated for a job that takes no skills. Especially in San Francisco where restaurants are required to also provide health care for their employees."*
+- **Valence**: 0.4 (Mixed; brings up concerns about fairness)
+- **Dominance**: 0.6 (Presents a strong opinion on compensation and skills)
+- **Intensity**: 0.8 (Strong assertions and implications about competence)
+- **Concreteness**: 0.7 (Concrete examples provided, specific context given)
+
+### Summary of Scores
+- **Quarter 1**: Valence 0.6, Dominance 0.4, Intensity 0.5, Concreteness 0.5
+- **Quarter 2**: Valence 0.5, Dominance 0.5, Intensity 0.6, Concreteness 0.5
+- **Quarter 3**: Valence 0.7, Dominance 0.7, Intensity 0.7, Concreteness 0.6
+- **Quarter 4**: Valence 0.4, Dominance 0.6, Intensity 0.8, Concreteness 0.7
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Below are the rating scores for valence, dominance, intensity, and concreteness for each quarter of the argument presented:
+
+**1st Quarter**:  
+- **Valence**: 0.5 (The speaker expresses uncertainty and conflicting views, creating a neutral tone).  
+- **Dominance**: 0.4 (The speaker is exploring two sides of the argument, showing both agreement and disagreement).  
+- **Intensity**: 0.4 (Mild intensity is present as the speaker describes confusion without strong emotions).  
+- **Concreteness**: 0.5 (The discussion of confusion around tipping is somewhat abstract but relatable).
+
+**2nd Quarter**:  
+- **Valence**: 0.6 (A more supportive view on the benefits of tipping is expressed, showing a positive angle).  
+- **Dominance**: 0.5 (The speaker asserts their perspective on tipping's advantages while acknowledging other views).  
+- **Intensity**: 0.5 (Moderate intensity as the speaker conveys a sense of justification).  
+- **Concreteness**: 0.6 (Includes concrete examples of service quality differences based on tipping).
+
+**3rd Quarter**:  
+- **Valence**: 0.6 (A general defense of tipping practices, highlighting a positive aspect).  
+- **Dominance**: 0.6 (The speaker provides a clear argument supporting their viewpoints).  
+- **Intensity**: 0.7 (Stronger language is used to convey the reasoning behind waiter experiences).  
+- **Concreteness**: 0.7 (More concrete examples about waiter responsibilities and expectations are shared).
+
+**4th Quarter**:  
+- **Valence**: 0.5 (A balanced view that recognizes the pros and cons of both systems, leading to a neutral position).  
+- **Dominance**: 0.5 (The speaker provides a nuanced understanding without favoring one side excessively).  
+- **Intensity**: 0.6 (A thoughtful tone is present, contemplating the complexities of service dynamics).  
+- **Concreteness**: 0.6 (Integration of specific situations regarding service quality provides more concrete content).
+
+Please note that these scores are subjective and could vary based on individual interpretation.
+

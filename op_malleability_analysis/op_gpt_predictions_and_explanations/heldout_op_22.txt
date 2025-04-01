@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a breakdown of the rating scores for valence, dominance, intensity, and concreteness for each quarter of the argument:
+
+### Quarter 1
+**Text:** "CMV: Property taxes should only depend on the value of the property. This is fairly straightforward. I think all real property taxes should be assessed based solely on the fair market value of the property. It should not matter what the use of the property is, or who lives there. If you own a plot with a value of $300,000, you should pay the same tax as any other owner of a plot valued at $300,000."
+
+- **Valence:** 0.8 (The argument has a positive tone regarding fairness and simplicity)
+- **Dominance:** 0.7 (Expresses strong certainty in the opinion)
+- **Intensity:** 0.6 (Strongly states a view but does not invoke extreme emotions)
+- **Concreteness:** 0.9 (Discusses specific property values and tax assessments)
+
+### Quarter 2
+**Text:** "The most egregious example against this to me is California prop 13 which freezes property taxes when you buy a house, essentially subsidizing long-term residents at the cost of more recent arrivals."
+
+- **Valence:** 0.6 (Some negative connotation regarding the specific policy)
+- **Dominance:** 0.8 (Assertively critiques Proposition 13)
+- **Intensity:** 0.7 (Uses the word "egregious," heightening the emotional impact)
+- **Concreteness:** 0.8 (Cites a specific example and its implications)
+
+### Quarter 3
+**Text:** "The basic reasoning for this is twofold. First, there's a fairness question, since the taxes you pay should be the same no matter who you are. In the case of property taxes, they're already progressive in as much as they depend on the fair market value of an asset you own."
+
+- **Valence:** 0.7 (Positive emphasis on fairness)
+- **Dominance:** 0.6 (Reasoning is laid out but less assertive than previous sections)
+- **Intensity:** 0.5 (Neutral tone in presenting the rationale)
+- **Concreteness:** 0.7 (Discusses abstract concepts of fairness with some concrete references to tax structures)
+
+### Quarter 4
+**Text:** "Second is an efficiency issue. Giving people tax abatements encourages them not to move (as in prop 13) or to not sell when they don't have good use for the property, such as this woman who is being sued for failing to maintain a property she can't afford to renovate, but keeps paying the very low taxes on."
+
+- **Valence:** 0.5 (Neutral as it presents a critique of the current system)
+- **Dominance:** 0.7 (Clearly expresses another strong point of view)
+- **Intensity:** 0.6 (Identifies a problem in the context of property management)
+- **Concreteness:** 0.9 (Presents a detailed example with specific circumstances)
+
+These ratings reflect the emotional and logical strengths of the argument throughout its progression.
+

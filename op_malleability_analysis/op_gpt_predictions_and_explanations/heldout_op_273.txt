@@ -1,0 +1,37 @@
+Expected yes, likely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To rate the argument on valence, dominance, intensity, and concreteness, I'll break it down into four quarters. Here’s the analysis for each metric for each quarter:
+
+### Quarter 1:
+- **Text:** "CMV: I find it problematic that a Clinton and Bush is runing for president again So first of I am danish. That means that I follow american politics, much in the same way I follow german politics. Somethings are importent for me and my situation, but most thing are not that importent to me. It is kind of like watching a football match where you don't cheer for any of the teams."
+- **Valence:** 0.4 (Mixed feelings; expresses concern but not overt negativity)
+- **Dominance:** 0.3 (The author positions themselves as a critical observer rather than an authoritative voice)
+- **Intensity:** 0.4 (Mild intensity; thoughts are expressed, but not with strong emotional weight)
+- **Concreteness:** 0.5 (Vague comparisons to football provide some relatable context)
+
+### Quarter 2:
+- **Text:** "With that said I find it kind of scary that there is a Clinton and a Bush in this election."
+- **Valence:** 0.6 (More negative sentiment expressed, indicating fear)
+- **Dominance:** 0.3 (Still a personal opinion; not presenting as a dominant voice)
+- **Intensity:** 0.6 (Stronger emotional statement made with "scary")
+- **Concreteness:** 0.4 (Relatively concrete but still general in phrasing)
+
+### Quarter 3:
+- **Text:** "The kings in Denmark used to be elected, some thousand years ago, but then it became normal to elect kings from the same familly. Then latter it was always the oldest son and then we endeed up with the system where the king was always the oldest son from the old king. The same is more or less true in many other countries."
+- **Valence:** 0.3 (More historical context, less emotional weight)
+- **Dominance:** 0.5 (Offers context; could be seen as authoritative)
+- **Intensity:** 0.3 (Low emotional intensity; mostly historical analysis)
+- **Concreteness:** 0.6 (Offers concrete historical references)
+
+### Quarter 4:
+- **Text:** "People seem to rather want to vote on people from families they know than random people. To me it kind of seems like America is getting set in their political dynasties and that if this development continues, we might end up with a system where everyone in theory can try to be elected president, but in practise it will always be people from the same political dynasties that gets elected. That is not a nice view to have. Please change it."
+- **Valence:** 0.5 (More balanced; expresses a mix of concern and desire for change)
+- **Dominance:** 0.4 (Arguing for change but acknowledges the reality)
+- **Intensity:** 0.5 (Moderate intensity; a bit stronger in expressing concern)
+- **Concreteness:** 0.5 (Fairly concrete in terms of implications of political dynasties)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence: 0.4, Dominance: 0.3, Intensity: 0.4, Concreteness: 0.5
+- **Quarter 2:** Valence: 0.6, Dominance: 0.3, Intensity: 0.6, Concreteness: 0.4
+- **Quarter 3:** Valence: 0.3, Dominance: 0.5, Intensity: 0.3, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.5, Dominance: 0.4, Intensity: 0.5, Concreteness: 0.5
+

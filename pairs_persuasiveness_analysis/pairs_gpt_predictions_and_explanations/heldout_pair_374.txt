@@ -1,0 +1,74 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument you've provided, we can assign ratings for valence, dominance, intensity, and concreteness in each quarter of the text. The ratings will range from 0.0 (not at all) to 1.0 (very much) based on the content and tone of that specific section.
+
+### Quarter 1: "I don't see any good at all from keeping them around"
+- **Valence**: 0.1 (The statement has a strongly negative connotation.)
+- **Dominance**: 0.6 (The speaker asserts their opinion confidently.)
+- **Intensity**: 0.7 (The language used is strong and definitive.)
+- **Concreteness**: 0.3 (The argument lacks specific examples or broader implications.)
+
+### Quarter 2: "Determining the value of one human being over another is an inherently sticky problem..."
+- **Valence**: 0.5 (This section presents a more neutral tone while exploring ethical dilemmas.)
+- **Dominance**: 0.4 (The speaker challenges the original speaker but does so as part of a broader discussion.)
+- **Intensity**: 0.5 (The intensity is balanced as it addresses complexity without being overly emotional.)
+- **Concreteness**: 0.6 (This part introduces ethical considerations and examples that are more concrete.)
+
+### Quarter 3: "Your dislike of those who are mentally handicapped is subjective..."
+- **Valence**: 0.6 (Criticism of the initial view gives it a more positive tilt towards empathy.)
+- **Dominance**: 0.5 (The speaker asserts a counterpoint but also acknowledges subjectivity.)
+- **Intensity**: 0.6 (There is a clear emotional appeal to consider the human experience.)
+- **Concreteness**: 0.7 (The argument relates specific family experiences, making it more relatable.)
+
+### Quarter 4: "Sometimes the act of living in society is itself a social commitment..."
+- **Valence**: 0.8 (This section has a strong positive outlook on community and support.)
+- **Dominance**: 0.5 (Although it advocates a view, it invites dialogue rather than dominating.)
+- **Intensity**: 0.7 (The language is passionate about the idea of social contract and support.)
+- **Concreteness**: 0.8 (The concept of a social contract is well-defined and impactful.)
+
+These scores can help capture the nuanced shifts in the argument's tone and effectiveness across its different sections.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the argument into four quarters, with a rating score from 0.0 to 1.0 for each aspect: valence, dominance, intensity, and concreteness.
+
+**Quarter 1:**
+*Argument excerpt:* "I totally get where you are coming from. I had a job between jobs that was basically acting as a chaperone/aide taking adults with disabilities to socialize, go to classes and volunteer around the city."
+
+- **Valence:** 0.6 (The sentiment is somewhat neutral but leans positive, as it starts with understanding.)
+- **Dominance:** 0.4 (The speaker is acknowledging the other person's views rather than stating their own dominance.)
+- **Intensity:** 0.4 (The intensity is moderate, as it's an introductory acknowledgment.)
+- **Concreteness:** 0.5 (The mention of specific activities lends some concreteness, but it's still general.)
+
+---
+
+**Quarter 2:**
+*Argument excerpt:* "Yes, I saw how tired their family must be and I'm pretty sure that I don't want to raise a child with a disability. I'm selfish, but at the same time you never know how you will act until you are facing the problem."
+
+- **Valence:** 0.5 (The sentiment reflects both understanding of hardship and personal reluctance.)
+- **Dominance:** 0.3 (The speaker is conceding personal fears and insecurities rather than dominating the conversation.)
+- **Intensity:** 0.5 (The intensity increases as the speaker shares personal feelings.)
+- **Concreteness:** 0.5 (The argument is somewhat concrete due to personal reflection.)
+
+---
+
+**Quarter 3:**
+*Argument excerpt:* "During the time I spent with these people, I got to know them and become friends with some. They are just like us deep down and they want the same things."
+
+- **Valence:** 0.8 (The sentiment here is very positive, emphasizing connection and commonality.)
+- **Dominance:** 0.5 (The speaker expresses a balanced view, elevating the worth of individuals.)
+- **Intensity:** 0.7 (The intensity is high as the speaker passionately advocates for a shared humanity.)
+- **Concreteness:** 0.6 (The personal experiences shared provide a solid grounding to the argument.)
+
+---
+
+**Quarter 4:**
+*Argument excerpt:* "Yes, they are a 'drain on society', but so are a lot of able people. There is a reason parents can't bear to abort their unborn children. The decision is not easy. There is always a what if."
+
+- **Valence:** 0.6 (The sentiment reflects a more nuanced view of disability within society, balancing positives and negatives.)
+- **Dominance:** 0.6 (The speaker asserts arguments about societal perspectives and parental decisions.)
+- **Intensity:** 0.5 (The intensity is moderate, though there are emotional implications in discussing abortion.)
+- **Concreteness:** 0.7 (The reference to societal pressures and parental choices adds concrete elements to the argument.)
+
+---
+
+Overall, the argument presents a blend of personal reflection, acknowledgment of complexity, and positive portrayal of individuals with disabilities while challenging some beliefs.
+

@@ -1,0 +1,47 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument provided, I will assign scores on a scale from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the text.
+
+### 1st Quarter
+**Text:**
+"CMV: Apple banning the confederate flag is bad for business and for humanity. This issue is very distinct from the removal of the confederate flag from the South Carolina Capitol Building."
+
+- **Valence:** 0.6 (The statement has a negative sentiment towards Apple's actions, but it presents a factual argument.)
+- **Dominance:** 0.5 (The speaker is asserting their opinion but acknowledges Apple’s rights as a private entity.)
+- **Intensity:** 0.5 (The tone is moderate in intensity; it’s a strong opinion but presented rationally.)
+- **Concreteness:** 0.7 (The mention of specific entities and actions gives it a tangible aspect.)
+
+### 2nd Quarter
+**Text:**
+"I would also argue that it way more harmful than Walmart/Ebay/Amazon banning the flags themselves. Apple can ban whatever they want as a private entity. However, I believe they have made a huge mistake in banning apps that contained confederate imagery."
+
+- **Valence:** 0.6 (Continues to emphasize a negative view of Apple’s decision.)
+- **Dominance:** 0.6 (The argument seeks to establish a comparative stance against other companies.)
+- **Intensity:** 0.6 (The term "huge mistake" adds a degree of intensity to the expression of opinion.)
+- **Concreteness:** 0.7 (References to other companies add clarity and context.)
+
+### 3rd Quarter
+**Text:**
+"While I believe the confederate flag to be rotten, I do not think it should be censored. I believe that when one considers whether or not to ban something, a symbol advocating an idea should be considered distinct from expression or documentation of that idea."
+
+- **Valence:** 0.5 (The speaker acknowledges some negativity towards the flag while arguing against censorship, balancing positive and negative aspects.)
+- **Dominance:** 0.6 (The individual expresses a strong viewpoint on freedom of expression.)
+- **Intensity:** 0.5 (The phrasing is measured; it conveys an important distinction without strong emotional language.)
+- **Concreteness:** 0.6 (Discusses abstract concepts of symbolism and expression, which are slightly less concrete.)
+
+### 4th Quarter
+**Text:**
+"I believe this is bad for humanity because the backlash against this banning will turn the confederate flag into a symbol for free-speech, which will muddy up the issue of racial tension even more. More importantly, I fear that it will set a precedent for large companies that provide information and access to culture to ban essential historical information."
+
+- **Valence:** 0.4 (The statement has a negative tone regarding broader societal implications, suggesting harm to humanity.)
+- **Dominance:** 0.7 (The speaker expresses a strong opinion on the potential consequences of the ban.)
+- **Intensity:** 0.6 (The fear of setting a precedent adds significant intensity to the argument.)
+- **Concreteness:** 0.6 (Although it discusses abstract consequences, it is grounded in tangible societal issues.)
+
+### Summary of Scores
+- **1st Quarter:** Valence: 0.6, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.7
+- **2nd Quarter:** Valence: 0.6, Dominance: 0.6, Intensity: 0.6, Concreteness: 0.7
+- **3rd Quarter:** Valence: 0.5, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+- **4th Quarter:** Valence: 0.4, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.6 
+
+These scores represent an analysis of the argumentative structure and emotional underpinnings of the text as a whole.
+

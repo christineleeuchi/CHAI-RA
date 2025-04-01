@@ -1,0 +1,66 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument based on the specified criteria (valence, dominance, intensity, and concreteness) in four quarters, I'll provide a rating from 0.0 to 1.0 for each quarter of the argument.
+
+### Quarter 1: "So what do you mean by safety? To consume? This is really easy to determine."
+
+- **Valence:** 0.6 (Neutral to slightly positive, as the speaker seems to be questioning the definition of safety but also reassures that determining safety is feasible.)
+- **Dominance:** 0.5 (The speaker takes a questioning tone, indicating a moderate level of assertiveness without being overly dominant.)
+- **Intensity:** 0.4 (Low intensity, as the phrasing is somewhat casual and not emotionally charged.)
+- **Concreteness:** 0.5 (The argument is somewhat abstract at this point as it raises a question but begins to draw towards a practical evaluation of safety.)
+
+### Quarter 2: "The chemicals which constitute food plants are really well known and we can test a plant for anything we want."
+
+- **Valence:** 0.7 (Positive, as it conveys confidence in the knowledge and ability to assess food safety.)
+- **Dominance:** 0.7 (The speaker asserts that testing can be done, showing a stronger dominance in the argument.)
+- **Intensity:** 0.6 (Moderate intensity, as the sentence expresses a clear affirmation of knowledge regarding food constituents.)
+- **Concreteness:** 0.7 (More concrete as it references known chemicals and the testing capabilities that exist.)
+
+### Quarter 3: "So if you want to know if a food is safe to eat, send it to some chemists, and they'll tell you if it has any dangerous concentrations of chemicals."
+
+- **Valence:** 0.8 (Strongly positive, suggesting a straightforward solution to the concern of food safety.)
+- **Dominance:** 0.8 (Highly dominant, providing a clear directive which enhances the authority of the speaker's position.)
+- **Intensity:** 0.7 (Moderate to high intensity, as it presents a definitive and actionable recommendation.)
+- **Concreteness:** 0.9 (Very concrete, as it references a specific action (sending to chemists) and the expected result (knowledge of safety).)
+
+### Quarter 4: "You don't need to do a complex wait and see approach to it. You just use mass spectrometry. There are other tests too, spectrometry is just the best at catching even traces."
+
+- **Valence:** 0.7 (Generally positive; it dismisses unnecessary complexity in favor of a straightforward method.)
+- **Dominance:** 0.6 (Moderate dominance, as it asserts that there is a better way to approach the problem.)
+- **Intensity:** 0.5 (Moderate intensity, though less emotionally charged than previous segments.)
+- **Concreteness:** 0.8 (Quite concrete, as it includes specific methods and their effectiveness, providing tangible solutions.)
+
+Overall, the argument presents a confident and practical perspective regarding the safety of GMOs, appealing to scientific methods for testing while remaining somewhat cautious about public perceptions.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Let's break down the provided argument into four quarters and assign ratings for valence, dominance, intensity, and concreteness for each section.
+
+### Quarter 1: "It seems very suspicious to me that large companies are lobbying so hard to avoid having to label GMOs, as I don't see why they would put so much time or money into fighting it unless there was something they were trying to hide."
+- **Valence:** 0.4 (Some suspicion and concern; negative sentiment but not extremely high)
+- **Dominance:** 0.5 (The speaker expresses their viewpoint clearly but does not assert absolute authority)
+- **Intensity:** 0.6 (There is a noticeable level of intensity in the suspicion expressed)
+- **Concreteness:** 0.4 (The argument is somewhat abstract due to the use of "suspicious" and "something to hide")
+
+### Quarter 2: "Similar reasons as to why cigarette companies aren't fond of the Surgeon General's warning to remind people of potential negative health risks."
+- **Valence:** 0.3 (Slightly negative connotation towards cigarette companies, linking them to harmful practices)
+- **Dominance:** 0.5 (The analogy is presented as a parallel, giving it a balanced perspective)
+- **Intensity:** 0.5 (Moderate intensity; drawing a direct comparison suggests a certain urgency)
+- **Concreteness:** 0.6 (This segment is somewhat concrete due to the relatable example of cigarette companies)
+
+### Quarter 3: "Yes, customers know the health risks to smoking, and are able to make their own informed decisions, but the label nonetheless has a deterring quality that can drive away sales."
+- **Valence:** 0.4 (Acknowledges informed decisions but implies that it leads to negative consequences)
+- **Dominance:** 0.6 (Clear assertion about the labeling’s effect on sales gives a stronger voice)
+- **Intensity:** 0.5 (Moderate intensity; the mention of deterring quality affects emotional impact)
+- **Concreteness:** 0.6 (More concrete as it discusses direct effects on sales related to labeling)
+
+### Quarter 4: "Regardless of whether or not GMOs have significant harms - socio-politically, legally, or biologically - as long as there is significant public disapproval of them, companies would rather not be forced to bear a label that will deter sales."
+- **Valence:** 0.4 (Neutral tone regarding the actual harm of GMOs, focuses more on perceptions)
+- **Dominance:** 0.7 (Stronger assertion about corporate behavior influenced by public opinion)
+- **Intensity:** 0.6 (The statement carries a sense of urgency regarding public perception)
+- **Concreteness:** 0.5 (Some abstract components regarding harms, but clearer in terms of public perception)
+
+### Summary of Ratings
+- **Quarter 1:** Valence: 0.4, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.4
+- **Quarter 2:** Valence: 0.3, Dominance: 0.5, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 3:** Valence: 0.4, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.6
+- **Quarter 4:** Valence: 0.4, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.5
+

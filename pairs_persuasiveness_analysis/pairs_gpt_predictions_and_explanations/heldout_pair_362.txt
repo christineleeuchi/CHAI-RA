@@ -1,0 +1,59 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+Certainly! Here's a rating score from 0.0 to 1.0 for each of the dimensions (valence, dominance, intensity, and concreteness) for each quarter of the argument:
+
+### Quarter 1: "The fovea of your eye is a small part right in the center of your retina and field of vision."
+- **Valence**: 0.5 (Neutral statement; informative, no strong positive or negative emotions)
+- **Dominance**: 0.6 (Some authority as it introduces a scientific fact)
+- **Intensity**: 0.4 (Basic explanation, not particularly compelling)
+- **Concreteness**: 0.8 (Specific and clear, relates directly to a physical part of the eye)
+
+### Quarter 2: "You have the clearest vision there, and it slowly deteriorates the farther you get away from there."
+- **Valence**: 0.5 (Neutral; informative but not emotionally charged)
+- **Dominance**: 0.7 (Strong statement about eye function, adds weight)
+- **Intensity**: 0.5 (Informs and logically leads to next point, moderate impact)
+- **Concreteness**: 0.8 (Good specificity, clear explanation of vision quality)
+
+### Quarter 3: "If you want to have the best vision, you want to concentrate as much important information as possible directly into that spot."
+- **Valence**: 0.6 (Positive suggestion about improving vision quality)
+- **Dominance**: 0.6 (Establishes a goal related to vision efficiency)
+- **Intensity**: 0.6 (Encouraging aim for optimal vision, more impactful)
+- **Concreteness**: 0.7 (Some abstract concepts but still tied to actionable improvement)
+
+### Quarter 4: "A smaller resolution allows for the entire game's field of vision to be in that small part of your eye that sees best."
+- **Valence**: 0.8 (Positive implication that a smaller resolution enhances gameplay)
+- **Dominance**: 0.7 (Conveys a strong, beneficial conclusion based on the earlier arguments)
+- **Intensity**: 0.8 (Climactic moment of the argument, encourages a clear choice)
+- **Concreteness**: 0.7 (Clear conclusion but relies on subjective connection to resolution benefits)
+
+These ratings provide an analysis of how effectively each dimension is addressed in the argument, with a focus on the overall message clarity and impact.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Here's the breakdown of the argument's text based on the four dimensions: valence, dominance, intensity, and concreteness.
+
+### Quarter 1: "For some folks, it definitely is hardware related."
+- **Valence: 0.5** (Neutral statement; acknowledges a factor without a strong positive or negative sentiment)
+- **Dominance: 0.4** (Somewhat assertive in stating a reason but not overly authoritative)
+- **Intensity: 0.3** (Low emotional charge; more of an observation)
+- **Concreteness: 0.6** (Somewhat concrete as it mentions hardware, but lacks specific examples)
+
+### Quarter 2: "Not that they can't run it at max settings, but lower resolution would remove precious nanoseconds to any action they performed."
+- **Valence: 0.6** (A bit more positive as it points out a potential advantage)
+- **Dominance: 0.7** (More authoritative in providing reasoning for a choice)
+- **Intensity: 0.6** (Moderate intensity; there's a sense of urgency in the "precious nanoseconds" phrase)
+- **Concreteness: 0.7** (Fairly concrete as it connects resolution to specific performance outcomes)
+
+### Quarter 3: "As well, in your pic for example, the black border may help the player focus better."
+- **Valence: 0.7** (Positive spin on the idea of using a black border for focus; suggests an advantage)
+- **Dominance: 0.5** (Neutral assertion; does not demand agreement but offers an opinion)
+- **Intensity: 0.5** (Moderate; suggests a change in focus but not strongly emotive)
+- **Concreteness: 0.6** (Somewhat concrete; refers to a specific visual detail but is still somewhat abstract)
+
+### Quarter 4: "I have a cluttered desk, and sometimes the visual 'busyness' of the desk distracts me when gameplay action happens near the edge of the screen."
+- **Valence: 0.4** (Slightly negative due to distraction mentioned, but personally framed)
+- **Dominance: 0.3** (Personal example, less authoritative on a broader level)
+- **Intensity: 0.4** (Low to moderate; the distraction is personal but relatable)
+- **Concreteness: 0.7** (Very concrete; personal experience is specific and relatable)
+
+### Summary
+This analysis provides insights into how effectively each part of the argument communicates the intended message across the four dimensions.
+

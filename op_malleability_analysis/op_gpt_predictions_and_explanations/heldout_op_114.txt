@@ -1,0 +1,37 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate each quarter of the argument based on valence, dominance, intensity, and concreteness, we can break it down as follows:
+
+### 1st Quarter: 
+"CMV: There is no moral justification for pirating movies, music, or other digital content. Before I begin a disclaimer: I pirate movies, TV shows, and music. I don't intend to insult those who do the same thing that I do."
+
+- **Valence**: 0.6 (The statement acknowledges piracy but positions it negatively by calling it morally unjustifiable.)
+- **Dominance**: 0.7 (The speaker asserts a strong position against piracy, which suggests a level of dominance in the argument.)
+- **Intensity**: 0.5 (The tone is moderate; it starts with a clear stance but includes a disclaimer.)
+- **Concreteness**: 0.6 (Specific terms like "movies," "music," and "digital content" ground the argument, but the ethical claim is abstract.)
+
+### 2nd Quarter:
+"I do, however, believe that the actions of myself and others who do the same are immoral and done merely for the sake of avoiding spending money if one doesn't have to."
+
+- **Valence**: 0.7 (The language is more strongly negative, labeling the action as "immoral.")
+- **Dominance**: 0.6 (The speaker maintains a dominant position but also reflects on their own actions.)
+- **Intensity**: 0.7 (The use of "immoral" heightens the emotional intensity of the argument.)
+- **Concreteness**: 0.5 (The argument remains somewhat abstract in its moral reasoning, focused more on the principle than observable behaviors.)
+
+### 3rd Quarter:
+"I think an important point to start on is one that I think is always missed in these arguments. High quality digital content such as movies and television shows are a luxury in just the same way that diamonds are."
+
+- **Valence**: 0.5 (This segment is relatively neutral, setting up a framework rather than expressing strong feelings.)
+- **Dominance**: 0.5 (The speaker aims to assert a point but doesn't come off as particularly dominant here; it’s more of an introduction to the argument.)
+- **Intensity**: 0.4 (This part is informational and less emotionally charged.)
+- **Concreteness**: 0.7 (References to "movies," "television shows," and "diamonds" make it quite concrete.)
+
+### 4th Quarter:
+"Life goes on without them. I don't mean to say that I don't watch a lot of TV or listen to a lot of music but that doesn't make them a necessity it makes me spoiled with a luxury item. As with any luxury item, the cost for it is usually higher than other things. Those who claim to be 'showing the system what's wrong' or 'fighting a corrupt system' are acting no different from someone who breaks into a diamond store because they find diamonds to be nice but too expensive to bother paying for."
+
+- **Valence**: 0.5 (This section provides a balanced view, shifting slightly more towards the negative as it critiques those who justify piracy.)
+- **Dominance**: 0.6 (The analogy regarding the diamond store provides a strong position against those justifying piracy.)
+- **Intensity**: 0.6 (The analogy evokes a stronger emotional response as it directly confronts arguments often used by pirates.)
+- **Concreteness**: 0.8 (There are several concrete examples that underscore the argument, making it very vivid).
+
+Overall, the ratings reflect the varying emotional and conceptual weight of each quarter of the argument, highlighting how the speaker navigates their reasoning around the issue of piracy.
+

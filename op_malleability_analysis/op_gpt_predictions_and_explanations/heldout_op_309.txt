@@ -1,0 +1,35 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To provide a rating for each of the categories (valence, dominance, intensity, and concreteness) for each quarter of the argument, I will break down the argument into four quarters and analyze them accordingly.
+
+### Quarter 1: "CMV: NCAA Athletes should be paid The NCAA made close to a billion dollars in revenue in 2013 and their athletes were awarded with none of it."
+- **Valence**: 0.8 - The statement has a strongly positive concern for athletes’ rights, but it also highlights unfairness.
+- **Dominance**: 0.7 - The speaker asserts strongly that NCAA athletes should be compensated, indicating an authoritative stance.
+- **Intensity**: 0.6 - The argument is somewhat intense due to the significant revenue mention and the injustice implied.
+- **Concreteness**: 0.5 - The argument introduces specific figures, but it lacks personal anecdotes or deep context.
+
+### Quarter 2: "Yes I understand they get scholarships and are worth thousands of dollars but when players such as Shabazz Napier report to go to bed without eating because of lack of money that becomes a problem."
+- **Valence**: 0.9 - Highly emotional, especially with the mention of players going to bed hungry, which creates a powerful sense of urgency.
+- **Dominance**: 0.5 - There's an acknowledgment of counterarguments, which diminishes an absolute dominance.
+- **Intensity**: 0.8 - The intensity is high here due to the personal impact of the situation highlighted.
+- **Concreteness**: 0.7 - The use of a specific personal story (Shabazz Napier) makes the argument more tangible.
+
+### Quarter 3: "Most athletes put in 40 hours of practice into their sport a week so the argument of getting a job is invalid considering they have classes to worry about on top of their sport."
+- **Valence**: 0.7 - The argument positively emphasizes the athletes’ dedication, but it also invokes a negative response toward their exploitation.
+- **Dominance**: 0.6 - While the argument is strong, it is more informative than commanding.
+- **Intensity**: 0.5 - The intensity is moderate; the focus is on presenting a rationale rather than evoking strong emotions.
+- **Concreteness**: 0.8 - The specific mention of "40 hours" provides a solid, measurable element to the argument.
+
+### Quarter 4: "Division 1 college football coaches see a salary of 1.63 million dollars (on average) and their salary continues to grow while the actual athletes don't see a dime. These athletes should be appropriately awarded with money made from merchandise sales that use their names. I am not saying that these athletes should be given thousands of dollars but be appropriately compensated for their work."
+- **Valence**: 0.8 - The disparity between coaches’ salaries and athletes’ lack of compensation is striking and conveys a strong sense of injustice.
+- **Dominance**: 0.8 - The speaker takes a firm stance calling for appropriate compensation, enhancing dominance in the argument.
+- **Intensity**: 0.7 - The comparison emphasizes unfairness, giving it a significant emotional charge.
+- **Concreteness**: 0.8 - Statistical data (salary figures) and clear calls for compensation enhance the concrete nature of the argument.
+
+### Summary Ratings:
+1. **Quarter 1**: Valence 0.8, Dominance 0.7, Intensity 0.6, Concreteness 0.5
+2. **Quarter 2**: Valence 0.9, Dominance 0.5, Intensity 0.8, Concreteness 0.7
+3. **Quarter 3**: Valence 0.7, Dominance 0.6, Intensity 0.5, Concreteness 0.8
+4. **Quarter 4**: Valence 0.8, Dominance 0.8, Intensity 0.7, Concreteness 0.8
+
+These scores highlight the strengths and weaknesses of each part of the argument as it develops.
+

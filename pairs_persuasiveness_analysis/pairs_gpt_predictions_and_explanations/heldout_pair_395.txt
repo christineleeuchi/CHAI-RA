@@ -1,0 +1,72 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To provide a rating score from 0.0 to 1.0 for each of the categories (valence, dominance, intensity, and concreteness) for the argument you've provided, I will break down the assessment based on each quarter of the argument's text.
+
+### Quarter 1: 
+"Tranquillizer darts are not generally included in military or police less-than-lethal arsenals because no drug is yet known that would be quickly and reliably effective on humans without the risks of side effects or an overdose."
+
+- **Valence:** 0.7 (The statement indicates a negative view of tranquillizer darts in this context, but does so with a factual basis.)
+- **Dominance:** 0.6 (The argument presents authoritative reasoning but does not assert complete control over the discussion.)
+- **Intensity:** 0.5 (The intensity is moderate due to a clear mention of risks, yet maintains a factual tone without extreme language.)
+- **Concreteness:** 0.8 (The mention of military/police use and specifics about drugs gives it a strong sense of reality.)
+
+### Quarter 2: 
+"This means that effective use requires an estimate of the weight of the target to be able to determine how many darts (if any) can be used."
+
+- **Valence:** 0.6 (Slightly positive, as it acknowledges functionality in theory but still presents a limitation.)
+- **Dominance:** 0.5 (The statement simply describes a requirement without asserting strong authority.)
+- **Intensity:** 0.4 (Fairly low intensity; it states a logistical point without emotional weight.)
+- **Concreteness:** 0.7 (It is concrete in terms of the operational considerations needed for effective use.)
+
+### Quarter 3: 
+"Shooting too few would result in no effect whatsoever, while too many can kill the target."
+
+- **Valence:** 0.5 (Neutral; presents both potential failure and risk without a strong opinion.)
+- **Dominance:** 0.6 (It carries a cautionary tone but doesn't strongly dominate the argument.)
+- **Intensity:** 0.6 (Moderate intensity due to the clear consequences laid out.)
+- **Concreteness:** 0.8 (Concreteness is high due to specific consequences of usage.)
+
+### Quarter 4: 
+"According to James Butts, Santa Monica, CA Chief of Police, 'Tranquilizing agents don't affect everyone uniformly. Therefore you cannot predict whether or not you have a sufficient dose to tranquilize the individual. Second, any tranquillizer will take time to enter the bloodstream and sedate the individual. If someone is advancing on you with a deadly weapon or a threatening object, there's no way a tranquillizer would take effect in the two to three seconds it would take someone to seriously injure you.'"
+
+- **Valence:** 0.5 (Neutral, as it's primarily informative while indicating challenges of use.)
+- **Dominance:** 0.8 (Cite from an authority figure lends strong credibility and dominance to the argument.)
+- **Intensity:** 0.6 (Reasonable intensity due to the serious nature of the subject matter and the scenario presented.)
+- **Concreteness:** 0.9 (Extremely concrete with specific examples and quotes from an expert, making it very relatable to real situations.)
+
+### Summary of Scores:
+- **Quarter 1:** Valence (0.7), Dominance (0.6), Intensity (0.5), Concreteness (0.8)
+- **Quarter 2:** Valence (0.6), Dominance (0.5), Intensity (0.4), Concreteness (0.7)
+- **Quarter 3:** Valence (0.5), Dominance (0.6), Intensity (0.6), Concreteness (0.8)
+- **Quarter 4:** Valence (0.5), Dominance (0.8), Intensity (0.6), Concreteness (0.9) 
+
+This should give you a comprehensive view of how each aspect of the argument can be rated.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide a rating score from 0.0 to 1.0 for valence, dominance, intensity, and concreteness for each quarter of the argument, we will analyze the text and give feedback based on those criteria.
+
+**Quarter 1: "That is a terrible idea, tranquilizers can easily be lethal, or cause permanent damage if not properly administered."**
+- **Valence:** 0.2 (The statement expresses a strong negative opinion about the idea of using tranquilizers.)
+- **Dominance:** 0.5 (The argument is assertive and challenges the idea, but lacks an authoritative tone usually associated with dominance.)
+- **Intensity:** 0.7 (Uses strong words like "terrible" and "lethal," indicating a high level of intensity.)
+- **Concreteness:** 0.6 (The mention of lethal effects is specific, but it could benefit from examples or statistics to enhance understanding.)
+
+**Quarter 2: "Their effectiveness is extremely affected by characteristics an officer would not be able to know, primarily weight."**
+- **Valence:** 0.3 (Neutral to slightly negative, as it points out flaws without strong emotional language.)
+- **Dominance:** 0.4 (Presents a fact but lacks the forcefulness to dominate the conversation.)
+- **Intensity:** 0.5 (Moderate intensity, the argument is rational and factual.)
+- **Concreteness:** 0.7 (Very concrete as it references specific characteristics that affect tranquilizer effectiveness.)
+
+**Quarter 3: "Furthermore we already have a perfectly acquit non-lethal weapon for police to use, taser guns."**
+- **Valence:** 0.4 (This part is more neutral, focusing on a solution rather than emphasizing negatives.)
+- **Dominance:** 0.6 (More authoritative as it presents an established alternative.)
+- **Intensity:** 0.5 (Moderate intensity in preference for taser guns over tranquilizers.)
+- **Concreteness:** 0.8 (Very concrete, mentioning "taser guns" as a specific solution.)
+
+**Quarter 4: "The can quickly disable the target without death or long term injury."**
+- **Valence:** 0.5 (Neutral to positive as it presents a safer alternative.)
+- **Dominance:** 0.5 (Balanced and calm, not overly dominant or aggressive.)
+- **Intensity:** 0.6 (Shows some intensity in the benefits of tasers, particularly the assurance against death or long-term injury.)
+- **Concreteness:** 0.7 (Concrete in its benefits though could specify that these technologies have been used in practice.)
+
+These scores reflect an analysis based on the content and delivery of each quarter of the argument, assessing emotional weight (valence), assertiveness (dominance), strength of language (intensity), and specificity of the statements (concreteness).
+

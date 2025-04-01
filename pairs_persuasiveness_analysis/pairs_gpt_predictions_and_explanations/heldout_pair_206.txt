@@ -1,0 +1,78 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's the rating breakdown for each quarter of the argument based on the dimensions of valence, dominance, intensity, and concreteness:
+
+### Quarter 1: 
+**Text: Are you talking about old-school punk/hardcore, or do you mean the punk/hardcore genre as a whole? You seem to be against 80's hardcore, because lots of 90's and new-school punk is very melodic music made by proficient musicians. As an example, listen to "Pacific Standard Time" by No Use For A Name.**
+
+- **Valence:** 0.5 (Neutral inquiry, with a slight positive spin on new-school punk)
+- **Dominance:** 0.4 (The speaker posits a challenge but invites discussion)
+- **Intensity:** 0.3 (Low intensity, as it's mainly about clarifying perspectives)
+- **Concreteness:** 0.5 (Some specificity with the example of a song)
+
+### Quarter 2: 
+**Text: But anyways, on to 80's hardcore. While the hallmark of the genre is what you described, there are lots of glaring exceptions. Bad Religion made excellent hardcore punk, yet Graffin never saw the need to shout. Instead, you'll find the singer's grandfatherly voice carrying the song with a catchy melody. If you want an example of this, listen to "I Want to Conquer the World".**
+
+- **Valence:** 0.6 (Positive mention of exceptions to the norm)
+- **Dominance:** 0.5 (A bit more assertive as the speaker points out exceptions)
+- **Intensity:** 0.4 (Moderate intensity in discussing specific exceptions)
+- **Concreteness:** 0.6 (More concreteness with song references)
+
+### Quarter 3: 
+**Text: The importance of lyrics can't be understated. The cornerstone of punk is the message. Even if you can't hear the words, you can usually figure out what the song is railing against, right? I mean, minimalist hip-hop is much the same, if my memory serves me correctly...**
+
+- **Valence:** 0.7 (Positive outlook on lyrics as an important aspect of punk)
+- **Dominance:** 0.6 (Assertive in establishing the importance of lyrical content)
+- **Intensity:** 0.5 (Moderate intensity as the speaker emphasizes significance)
+- **Concreteness:** 0.7 (High concreteness with specific examples and references)
+
+### Quarter 4: 
+**Text: So now we get to the standard hardcore band. These bands are capable of creating visceral heaviness with nothing but pure anger. Yet, they still remain accessible and catchy. Example: "Lights Out" by the Angry Samoans...**
+
+- **Valence:** 0.6 (Positive dynamics of hardcore's energy and accessibility)
+- **Dominance:** 0.6 (Strong assertion about what defines "standard" hardcore)
+- **Intensity:** 0.7 (High intensity in describing the visceral experience of hardcore)
+- **Concreteness:** 0.7 (Specific recommendations and descriptions increase concreteness)
+
+### Summary of Ratings:
+- **Quarter 1:** Valence 0.5, Dominance 0.4, Intensity 0.3, Concreteness 0.5
+- **Quarter 2:** Valence 0.6, Dominance 0.5, Intensity 0.4, Concreteness 0.6
+- **Quarter 3:** Valence 0.7, Dominance 0.6, Intensity 0.5, Concreteness 0.7
+- **Quarter 4:** Valence 0.6, Dominance 0.6, Intensity 0.7, Concreteness 0.7
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! I will provide a rating score from 0.0 to 1.0 for each of the four dimensions (valence, dominance, intensity, and concreteness) for each quarter of the argument. 
+
+### Quarter 1: 
+**Text:** Punk music originated amongst people lacking traditional music training and the resources to make professional-sounding music. They were often performing for small groups of people in non-traditional venues. That is the same as early hip-hop. 
+
+- **Valence:** 0.6 (The tone is generally positive about the origins of punk and hip-hop as grassroots movements).
+- **Dominance:** 0.5 (The argument presents information but does not overly assert superiority; it draws a parallel instead).
+- **Intensity:** 0.4 (The delivery is somewhat casual and descriptive, lacking high emotional intensity).
+- **Concreteness:** 0.5 (The description is straightforward, but could benefit from more specific examples to enhance clarity).
+
+### Quarter 2:
+**Text:** Punk music can be made by people with limited talent. But a talented (not trained, talented) guitarist, bassist, drummer, and screamer can make short, fast songs that make people excited. Early punk was only accidentally groundbreaking. Just as Brooklyn kids didn't have full bands for their parties, so they used DJs; punks couldn't play well, so they turned up the distortion and did the best they could.
+
+- **Valence:** 0.5 (This section acknowledges limitations while celebrating the excitement of punk; somewhat neutral).
+- **Dominance:** 0.6 (There’s an assertive tone about the nature of punk and early creativity but remains balanced).
+- **Intensity:** 0.5 (The language is moderate; it speaks about talent and excitement but lacks intense emotional language).
+- **Concreteness:** 0.7 (The argument is more concrete here, explaining the dynamics of early punk and its relationship to talent).
+
+### Quarter 3:
+**Text:** But in time, punk evolved. It kept the short, fast and simple style, but there actually are talented singer/songwriters in punk, as well as great (if not virtuoso) instrumentation. Compare the DJing of early hip-hop to modern radio hits. It sounds completely different. But that is only because we've listened enough to understand the subtlety. An old fuddy-duddy might say that both Aesop Rock and Mobb Deep are both guys talking over drums and pops.
+
+- **Valence:** 0.6 (This section introduces more positivity about the evolution of punk and its artist's skills).
+- **Dominance:** 0.7 (There is a stronger assertion about the evolution of talent and the idea of subtlety in music).
+- **Intensity:** 0.6 (There’s an increasing intensity in discussing the evolution and complexity of the genre).
+- **Concreteness:** 0.6 (The argument makes good points about evolution but could reference specific examples for clarity).
+
+### Quarter 4:
+**Text:** Would you think it's crazy for me to say that a Black Flag record sounds very different from the Misfits? It is loud, sloppy guitars and screamy lyrics, say the fuddy-duddys. True, but I know enough about sloppy guitars and screamy lyrics to know which ones I like and which I don't. I guess the best metaphor is some people say "if you've seen one football match, you've seen them all." There are some similarities, for sure. People running around, kicking balls. But the more you get into football, the more you are able to enjoy it. I'd like to give you some homework. Listen to "Blitzkrieg Bop" by the Ramones. It is like the "Rapper's Delight" of Punk. Then listen to "Last Caress" by the Misfits. The message of the song is that the singer wants to kill a baby, rape a mother, and kill himself. Tell me if you think those sound similar.
+
+- **Valence:** 0.4 (The tone becomes more critical and the mention of dark themes alters the positivity).
+- **Dominance:** 0.8 (This section displays confident assertions about differences in punk that challenge the skeptic).
+- **Intensity:** 0.7 (There is an escalation in emotional and thematic intensity, especially in the comparison of songs).
+- **Concreteness:** 0.8 (The section ends with specific examples, enhancing clarity but also presenting harsh imagery).
+
+Overall, the argument provides an interesting perspective on punk music, balancing observations of its evolution with encouragement for listeners to appreciate its diversity.
+

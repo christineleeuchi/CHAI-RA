@@ -1,0 +1,80 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Here's the rating for each aspect (valence, dominance, intensity, and concreteness) of the presented argument based on each quarter of the text:
+
+### Quarter 1
+**Text:** "So, I'm blatantly stealing a bunch of this from [this article](http://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/) so if you want to see it written much better than I can, read that. But here is the thing: It isn't limited to women, and it's much more broad than you think."
+
+- **Valence:** 0.5 - Neutral tone, indicating a mix of acknowledgment and challenge without strong positive or negative emotion.
+- **Dominance:** 0.4 - The speaker is establishing the basis of their argument but doesn't exhibit strong authority.
+- **Intensity:** 0.3 - The expression is moderate, not particularly passionate or forceful.
+- **Concreteness:** 0.4 - The ideas presented are somewhat abstract, preliminary ideas about broader relevance.
+
+### Quarter 2
+**Text:** "Humans are all creatures with skills and needs. In order to create bonds with other humans, you need a skill that fits with that human's needs."
+
+- **Valence:** 0.6 - Positive framing about human connection and interaction.
+- **Dominance:** 0.5 - The argument presents a balanced view, suggesting that humans have mutual needs.
+- **Intensity:** 0.5 - Moderate level of enthusiasm and engagement with the topic.
+- **Concreteness:** 0.5 - Conceptually clearer but still somewhat abstract when discussing skills and needs.
+
+### Quarter 3
+**Text:** "The thing about women isn't that they all have this list of things to be attracted to. A woman being attracted to you is not (necessarily) about how much you earn or how handsome you are. It's about how interested you can make her with your unique attributes."
+
+- **Valence:** 0.7 - Positive and empowering viewpoint about individual attributes rather than traditional metrics of attractiveness.
+- **Dominance:** 0.6 - The argument takes a more assertive stance on what contributes to attraction.
+- **Intensity:** 0.7 - More engaging tone, emphasizing self-worth and uniqueness.
+- **Concreteness:** 0.6 - Presents clearer characteristics of attraction but still relies on abstract concepts of uniqueness.
+
+### Quarter 4
+**Text:** "As an anecdote, here are some things that I have done that have led to some form of romantic or sexual involvement..."
+
+- **Valence:** 0.8 - Positive, with an encouraging tone drawing from personal experience.
+- **Dominance:** 0.7 - The speaker shares personal success, establishing expertise through lived experience.
+- **Intensity:** 0.8 - Higher engagement and relatability through anecdotes make this section more compelling.
+- **Concreteness:** 0.7 - The list provides tangible examples that add clarity and relatability to the argument.
+
+### Summary of Ratings
+- **Quarter 1:** Valence 0.5 | Dominance 0.4 | Intensity 0.3 | Concreteness 0.4
+- **Quarter 2:** Valence 0.6 | Dominance 0.5 | Intensity 0.5 | Concreteness 0.5
+- **Quarter 3:** Valence 0.7 | Dominance 0.6 | Intensity 0.7 | Concreteness 0.6
+- **Quarter 4:** Valence 0.8 | Dominance 0.7 | Intensity 0.8 | Concreteness 0.7
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+To analyze the argument based on valence, dominance, intensity, and concreteness, we can break it down into four distinct sections, scoring each section from 0.0 to 1.0.
+
+### Section 1:  
+**Text:** "In most of the world and especially during most of History, most people weren't rich, didn't have the resources to take care of a family in the long run, weren't seen as attractive, weren't educated or privileged and didn't have an appealing job."
+- **Valence:** 0.3 (This section has a somewhat negative connotation, highlighting lack and scarcity.)
+- **Dominance:** 0.5 (The statement is factual and assertive, but not overly forceful.)
+- **Intensity:** 0.6 (The emphasis on widespread historical lack creates a strong effect.)
+- **Concreteness:** 0.9 (It uses concrete details about historical conditions.)
+
+### Section 2:  
+**Text:** "Hell, until the 19th century the vast majority of the world's population worked in agriculture without any benefits from technology or hope for growth."
+- **Valence:** 0.2 (This section is quite negative, focusing on hardships and lack of hope.)
+- **Dominance:** 0.6 (The use of the word "Hell" introduces a stronger element of authority in the statement.)
+- **Intensity:** 0.7 (The portrayal of agriculture conditions is strong and resonates with hardship.)
+- **Concreteness:** 0.9 (Explicit historical reference adds to the concreteness.)
+
+### Section 3:  
+**Text:** "All of the things on your list are taken for granted today, but are completely unreachable for poorer and less privileged populations (= most people who have ever lived) throughout the world and History."
+- **Valence:** 0.4 (Somewhat neutral; recognizes the disparity but carries a sobering tone.)
+- **Dominance:** 0.55 (Assertive in calling out those disparities, but not overly aggressive.)
+- **Intensity:** 0.65 (It carries a significant weight by emphasizing taken-for-granted aspects.)
+- **Concreteness:** 0.85 (Connects current conditions to historical realities, grounding the argument.)
+
+### Section 4:  
+**Text:** "And yet people still fall in love and get married. So there must be something more to sex, love and marriage than what you used to think right? Otherwise underprivileged people getting married wouldn't make any sense."
+- **Valence:** 0.8 (This section is much more positive, highlighting love and relationships.)
+- **Dominance:** 0.7 (There’s a strong assertion in questioning the previous beliefs.)
+- **Intensity:** 0.75 (The idea of love and marriage brings a hopeful intensity.)
+- **Concreteness:** 0.7 (While love can be abstract, the context of marriage provides grounding.)
+
+### Summary of Scores:
+**Section 1: Valence: 0.3, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.9**  
+**Section 2: Valence: 0.2, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.9**  
+**Section 3: Valence: 0.4, Dominance: 0.55, Intensity: 0.65, Concreteness: 0.85**  
+**Section 4: Valence: 0.8, Dominance: 0.7, Intensity: 0.75, Concreteness: 0.7**  
+
+Overall, the argument moves from a negative perspective on historical conditions to a more hopeful and affirming view of love and relationships, suggesting a significant complexity beyond initial judgments.
+

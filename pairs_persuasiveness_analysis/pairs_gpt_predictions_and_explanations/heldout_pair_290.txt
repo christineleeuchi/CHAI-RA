@@ -1,0 +1,50 @@
+Expected yes, changed mind. GPT responded: No, the provided counterargument does not change my mind
+To evaluate the argument provided, I will assign scores for each of the categories: valence, dominance, intensity, and concreteness. The scores will be based on a scale of 0.0 to 1.0, with 0.0 indicating the absence of that characteristic and 1.0 indicating a very strong presence of that characteristic.
+
+**Valence**: 0.7  
+- The argument presents a generally positive view of Common Core in relation to college preparedness. However, it lacks a strong emotional appeal, focusing more on personal experience and factual information.
+
+**Dominance**: 0.6  
+- The argument presents a personal perspective as an engineering student and posits that the lack of technology in lower division math courses supports the effectiveness of Common Core. While it asserts this point, it may come off as mild in its authority compared to broader educational perspectives.
+
+**Intensity**: 0.5  
+- The intensity of the argument is moderate. The author expresses a clear opinion but does not display strong emotions or urgency around the topic. The sentiment is there, but it could be more compelling with stronger language or emphasis.
+
+**Concreteness**: 0.8  
+- The argument is quite concrete in its claims, referencing specific courses without technology and relating them to Common Core standards. It provides a clear personal experience as evidence, which helps ground the argument in reality.
+
+Overall, this evaluation reflects the specific qualities of the argument within its context.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+To provide ratings for valence, dominance, intensity, and concreteness for each quarter of the argument, I'll break it down into four parts and give scores based on the emotional tone and clarity of each section.
+
+**Quarter 1: "Common Core standards might in fact prepare students for the Real World, but don't take this as an endorsement of the Real World."**
+- **Valence:** 0.5 (Neutral sentiment; acknowledges a possibility without strong positive or negative feelings.)
+- **Dominance:** 0.4 (The speaker is somewhat assertive in stating the possibility of preparation, but is hesitant to endorse fully.)
+- **Intensity:** 0.3 (The tone is mild, lacking strong emotional force.)
+- **Concreteness:** 0.6 (The reference to “Common Core standards” and their connection to the “Real World” offers some clarity.)
+
+**Quarter 2: "If being a STEM drone is what it takes to survive in the new economy, so be it, but that doesn't a whole person make."**
+- **Valence:** 0.4 (Mixed sentiment; acknowledges the necessity of STEM without expressing enthusiasm about it, then shifts to a critique.)
+- **Dominance:** 0.5 (More assertive in expressing a viewpoint about the dehumanizing nature of being a "STEM drone.")
+- **Intensity:** 0.7 (Strong emotional force in critiquing the concept of being reduced to a "drone.")
+- **Concreteness:** 0.5 (The metaphor of "STEM drone" adds clarity but may also detract from precision.)
+
+**Quarter 3: "If being a STEM drone is what it takes to survive in the new economy, so be it, but that doesn't a whole person make."**
+- **Valence:** 0.4 (Continues the mixed sentiment; indicates a resignation to reality while criticizing it.)
+- **Dominance:** 0.6 (The argument asserts a significant stance against the idea of reducing identity to mere survival.)
+- **Intensity:** 0.8 (High emotional intensity as it emphasizes the inadequacy of this kind of existence.)
+- **Concreteness:** 0.6 (Clear in stating the value of a "whole person," but metaphorical language may lead to ambiguity.)
+
+**Quarter 4: "but that doesn't a whole person make."**
+- **Valence:** 0.6 (Positive in valuing the concept of a "whole person," while primarily challenging the earlier point about STEM.)
+- **Dominance:** 0.5 (Affirms the argument strongly, though it's brief, it asserts a crucial viewpoint.)
+- **Intensity:** 0.7 (Emphasizes the importance of being more than just a function or role in society.)
+- **Concreteness:** 0.7 (Direct and straightforward in its assertion, making it clear and easy to understand.)
+
+In summary:
+- **Quarter 1:** Valence 0.5, Dominance 0.4, Intensity 0.3, Concreteness 0.6
+- **Quarter 2:** Valence 0.4, Dominance 0.5, Intensity 0.7, Concreteness 0.5
+- **Quarter 3:** Valence 0.4, Dominance 0.6, Intensity 0.8, Concreteness 0.6
+- **Quarter 4:** Valence 0.6, Dominance 0.5, Intensity 0.7, Concreteness 0.7
+

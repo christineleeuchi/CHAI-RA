@@ -1,0 +1,33 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here’s a rating for each of the four aspects—valence, dominance, intensity, and concreteness—divided into quarters of the argument:
+
+**1st Quarter: "CMV: If national service was reintroduced to the UK, I would refuse absolutely to participate. There is talk of national service being reintroduced here, and I personally detest the idea."**
+
+- **Valence:** 0.1 (Strongly negative view on national service)
+- **Dominance:** 0.7 (The speaker expresses a strong personal stance)
+- **Intensity:** 0.8 (Strong emotions conveyed through words like "absolutely" and "detest")
+- **Concreteness:** 0.5 (Specific topic identified, but no detailed argument given yet)
+
+**2nd Quarter: "My primary reason is simple- to serve one's country should remain, as it is now, a totally voluntary act. I would personally find it a deep insult if I had signed up of my own volition, only to find myself alongside those who had no choice in the matter. A voluntary act is always going to be worth more than a forced one."**
+
+- **Valence:** 0.2 (Continues a negative perspective about enforced service)
+- **Dominance:** 0.8 (The speaker firmly establishes their reasons)
+- **Intensity:** 0.9 (Strong emotional appeal regarding the concept of choice)
+- **Concreteness:** 0.6 (The argument is more defined with the idea of voluntary service highlighted)
+
+**3rd Quarter: "Similarly I fail to see of what value it is to any young person to do national service. Things like discipline, physical and mental strength, teamwork, all these can be taught in ways which do not involve learning aggression also. I would prefer a non-violent approach where young people agreed to civil service, perhaps helping repair roads, plant trees, work on farms and so on, which would be far more useful as well as teaching key skills I've already mentioned."**
+
+- **Valence:** 0.3 (A critical view of national service, though suggesting alternatives)
+- **Dominance:** 0.75 (Confidently presents counterarguments against the idea of national service)
+- **Intensity:** 0.7 (Clear conviction about the value of a non-violent approach)
+- **Concreteness:** 0.7 (Provides specific examples of alternative activities)
+
+**4th Quarter: "Plus given my own personal objections to the monarchy as an institution and also my country, I feel I should not be obligated to undergo an action which involves allegiance to it, given the choice of signing up to the army currently involves a pledge to do both of these things. Fact is that I would rather be put into prison, or simply leave the country, rather than do national service. Can anyone CMV?"**
+
+- **Valence:** 0.4 (Shows a strong personal objection, especially toward monarchy)
+- **Dominance:** 0.85 (Strongly leverages personal feelings against national service)
+- **Intensity:** 1.0 (Highly intense declaration of refusal to participate)
+- **Concreteness:** 0.6 (The argument remains personal, but solid in expressing individual beliefs)
+
+These ratings reflect the sentiments present in each quarter of the argument based on the specified criteria of valence, dominance, intensity, and concreteness.
+

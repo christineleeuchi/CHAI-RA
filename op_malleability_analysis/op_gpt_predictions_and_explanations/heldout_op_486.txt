@@ -1,0 +1,57 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument in terms of valence, dominance, intensity, and concreteness, we'll break it down into four quarters and provide ratings on a scale from 0.0 to 1.0 for each attribute:
+
+### Quarter 1
+"CMV: Black slavery is alive and well in the United States. Hi, allright so as I see it. Black Americans make up ~10% of our population but ~40% of our incarcerated."
+
+- **Valence:** 0.3 - The statement has a negative valence as it discusses a serious social issue.
+- **Dominance:** 0.5 - The argument is presented assertively, but it also invites discussion (“as I see it”).
+- **Intensity:** 0.6 - The emotion is relatively strong regarding the injustice referenced.
+- **Concreteness:** 0.4 - The data presented is somewhat concrete (percentages) but lacks extensive elaboration.
+
+### Quarter 2
+"Large majorities of our incarcerated population have been sentenced on minor drug and possession charges made possible by the war on drugs."
+
+- **Valence:** 0.4 - Again, the valence is negative as it critiques systemic issues.
+- **Dominance:** 0.6 - The statement presents a clear assertion about the cause of incarceration.
+- **Intensity:** 0.7 - There is a strong intensity as it addresses the consequences of a major policy (War on Drugs).
+- **Concreteness:** 0.5 - The argument is more concrete with a clear reference to specific charges but still lacks detailed statistics.
+
+### Quarter 3
+"The US prison system is structured as a profitable venture, those profits coming overwhelmingly from the tax-pool (insofar as I understand this). The only conclusion I can reach from this is that an institution of normalized slavery exists and functions on a wide scale in the united states."
+
+- **Valence:** 0.5 - The reference to a "profitable venture" has a negative connotation, but it's framed more as an observation.
+- **Dominance:** 0.7 - The argument is very dominant here as the author expresses a strong conclusion.
+- **Intensity:** 0.8 - The intensity is high; it likens the prison system to slavery, which is a weighty assertion.
+- **Concreteness:** 0.4 - The assertions are somewhat abstract and rely on the reader to understand the implications of profitability.
+
+### Quarter 4
+"Following emancipation, there was a long period where black slavery in America truly did function, with large work camps and prison gulags sourcing labour from the black community after slapping them with minor charges, loitering, etc. As far as I can tell, this never stopped and has only grown in scope."
+
+- **Valence:** 0.6 - The valence remains negative, reflecting on historical injustices.
+- **Dominance:** 0.8 - The author takes a strong stance and asserts a historical continuity of exploitation.
+- **Intensity:** 0.9 - The intensity is very high, making a significant emotional claim about slavery.
+- **Concreteness:** 0.3 - There are historical claims made, but they lack specific examples or sources, making them less concrete.
+
+### Summary Ratings:
+- **Quarter 1:**
+  - Valence: 0.3
+  - Dominance: 0.5
+  - Intensity: 0.6
+  - Concreteness: 0.4
+- **Quarter 2:**
+  - Valence: 0.4
+  - Dominance: 0.6
+  - Intensity: 0.7
+  - Concreteness: 0.5
+- **Quarter 3:**
+  - Valence: 0.5
+  - Dominance: 0.7
+  - Intensity: 0.8
+  - Concreteness: 0.4
+- **Quarter 4:**
+  - Valence: 0.6
+  - Dominance: 0.8
+  - Intensity: 0.9
+  - Concreteness: 0.3
+

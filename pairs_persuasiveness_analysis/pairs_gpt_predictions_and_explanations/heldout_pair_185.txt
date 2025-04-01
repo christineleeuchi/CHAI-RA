@@ -1,0 +1,91 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To analyze the argument related to homeschooling for military families, I'll break it down into four quarters and provide ratings for valence, dominance, intensity, and concreteness.
+
+### Quarter 1:
+**Text:** "Here's a big point on homeschooling that no one has mentioned yet: Military families."
+
+- **Valence:** 0.4 (Neutral; it introduces a positive but somewhat uncontroversial point.)
+- **Dominance:** 0.3 (The speaker is introducing a viewpoint but does not assert dominance.)
+- **Intensity:** 0.2 (Low intensity; it’s an introductory remark.)
+- **Concreteness:** 0.2 (Abstract opening statement with no specifics yet.)
+
+### Quarter 2:
+**Text:** "My dad was active duty military when I was growing up and as a result we moved 10 times before I turned 13."
+
+- **Valence:** 0.5 (Neutral; sharing a personal experience, but not emotionally charged.)
+- **Dominance:** 0.4 (The author has personal experience, giving them some authority.)
+- **Intensity:** 0.3 (Moderate; personal history reveals a challenge associated with military life.)
+- **Concreteness:** 0.6 (This is a specific, concrete experience related to the argument.)
+
+### Quarter 3:
+**Text:** "If we hadn't been homeschooling then that would have meant changing schools every 8 to 18 months."
+
+- **Valence:** 0.6 (Positive; highlights a benefit of homeschooling in military families.)
+- **Dominance:** 0.4 (The speaker continues to express their viewpoint through personal experience.)
+- **Intensity:** 0.5 (Moderate; the argument becomes more focused on a specific issue caused by military moves.)
+- **Concreteness:** 0.6 (Concrete example that illustrates the challenge faced.)
+
+### Quarter 4:
+**Text:** "Many times these moves took place during the conventional school year, so homeschooling meant that we could keep up with our curriculum even though we we're moving to a different state while the normal school year was still in session."
+
+- **Valence:** 0.7 (Positive; focuses on a clear benefit of homeschooling regarding consistency.)
+- **Dominance:** 0.5 (The argument demonstrates a strong personal perspective, offering clarity and resolution.)
+- **Intensity:** 0.6 (Moderately high; stresses the advantages in a way that can resonate with others in similar situations.)
+- **Concreteness:** 0.7 (Very concrete, detailing a practical application of homeschooling within the context of military family moves.)
+
+### Summary of Ratings:
+1. **Quarter 1:**
+   - Valence: 0.4
+   - Dominance: 0.3
+   - Intensity: 0.2
+   - Concreteness: 0.2
+
+2. **Quarter 2:**
+   - Valence: 0.5
+   - Dominance: 0.4
+   - Intensity: 0.3
+   - Concreteness: 0.6
+
+3. **Quarter 3:**
+   - Valence: 0.6
+   - Dominance: 0.4
+   - Intensity: 0.5
+   - Concreteness: 0.6
+
+4. **Quarter 4:**
+   - Valence: 0.7
+   - Dominance: 0.5
+   - Intensity: 0.6
+   - Concreteness: 0.7
+
+These scores reflect the gradual build-up of the argument, with increased positivity and specificity as the argument progresses.
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Here’s a breakdown of the ratings for the provided argument:
+
+### Quarter 1: "I went to public school then switched to a very highly ranked private school."
+- **Valence: 0.5** (Neutral; the statement is factual and doesn't express a strong positive or negative opinion.)
+- **Dominance: 0.7** (Moderately dominant; the transition sets a context that implies authority in the comparison.)
+- **Intensity: 0.5** (Moderate; this statement sets up the author’s experience but lacks strong emotional language.)
+- **Concreteness: 0.8** (Concrete; it describes a specific personal experience clearly.)
+
+### Quarter 2: "The difference in opportunity is insane."
+- **Valence: 0.8** (Positive; the term "insane" conveys enthusiasm about private school opportunities.)
+- **Dominance: 0.7** (Moderately dominant; the statement asserts a significant contrast.)
+- **Intensity: 0.9** (High; "insane" is an emotionally powerful descriptor.)
+- **Concreteness: 0.6** (Somewhat abstract; while it indicates a significant difference, it doesn’t specify what those opportunities are.)
+
+### Quarter 3: "I took more AP classes per year than the public schools even offered - and I didn't come close to taking all of the AP classes at my school."
+- **Valence: 0.7** (Positive; emphasizes the abundance of opportunities available at the private school.)
+- **Dominance: 0.8** (Strong; asserts a clear advantage over public schools.)
+- **Intensity: 0.8** (High; showcases a strong personal accomplishment.)
+- **Concreteness: 0.9** (Very concrete; provides specific information about AP classes.)
+
+### Quarter 4: "Everyone I knew at public high schools struggled starting college. It was an absolute joke for me, high school was harder. It may not always be true, but there are plenty of times when you get what you pay for."
+- **Valence: 0.6** (Mixed; it has negative implications for public schools while affirming the benefits of private schools.)
+- **Dominance: 0.8** (Strong; making generalized statements about peers implies a sense of superiority.)
+- **Intensity: 0.8** (High; phrases like "absolute joke" are emotionally charged.)
+- **Concreteness: 0.7** (Moderately concrete; provides specific comparisons but is still somewhat general regarding experiences.)
+
+These ratings reflect the emotional and contextual aspects of the argument as presented, giving a nuanced look at how it is constructed and perceived.
+

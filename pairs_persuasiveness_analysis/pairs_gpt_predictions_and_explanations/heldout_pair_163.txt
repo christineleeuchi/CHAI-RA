@@ -1,0 +1,46 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+Certainly! Here’s a rating for each of the four components—valence, dominance, intensity, and concreteness—divided into quarters of the argument provided:
+
+**1st Quarter:**
+- **Valence:** 0.7 (The argument introduces a personal perspective, conveying it positively, yet a slight tone of defensiveness could lower the score.)
+- **Dominance:** 0.6 (The narrator expresses a strong personal belief, but the use of neuroscience as a backdrop means it isn't entirely authoritative.)
+- **Intensity:** 0.5 (The argument feels moderate in passion; it conveys interest but lacks high emotional stakes.)
+- **Concreteness:** 0.4 (The concept of physical attraction is somewhat concrete, but the initial claim feels generalized without specific examples.)
+
+**2nd Quarter:**
+- **Valence:** 0.8 (Describing interconnection as a process of thought and memory is positive and engaging.)
+- **Dominance:** 0.6 (The explanation of interconnection showcases knowledge, but still feels exploratory rather than definitive.)
+- **Intensity:** 0.6 (The engagement with the neuroscience aspect ramps up the intensity a bit, as it feels more analytical and thorough.)
+- **Concreteness:** 0.5 (The concept is being made more tangible through neuroscience, though it remains abstract without direct examples.)
+
+**3rd Quarter:**
+- **Valence:** 0.8 (This segment elaborates positively on the relationship between thoughts and emotions, enriching the perspective.)
+- **Dominance:** 0.7 (It shows a solid understanding of the brain's functioning, enhancing the illustrative quality of the argument.)
+- **Intensity:** 0.7 (The deepening of the discussion around connections adds intensity due to the intricate nature of the topic.)
+- **Concreteness:** 0.6 (It starts to become more concrete with exemplifications, though still relies on abstract relationships between ideas.)
+
+**4th Quarter:**
+- **Valence:** 0.9 (This area conveys richness in emotional depth, enhancing the positive undertone of the argument.)
+- **Dominance:** 0.8 (It showcases thoughtful insight into prioritization, giving a strong authoritative feel.)
+- **Intensity:** 0.8 (This part of the argument is passionate, as it touches on emotional stakes related to romantic love.)
+- **Concreteness:** 0.7 (It illustrates the concept of prioritization effectively through relatable scenarios, adding to the concrete quality.)
+
+Overall, the argument develops from a more abstract claim about attraction to a deeper, emotionally resonant understanding of romantic relationships, balancing the analytical with personal insights as it progresses.
+
+Expected no, did not change mind. GPT responded: No, the provided counterargument does not change my mind
+Sure! Here’s a breakdown of the argument with scores for each category: 
+
+1. **Valence (0.0 to 1.0)**: 0.7  
+   The overall tone of the argument is positive, as the speaker expresses affection for friends and positive feelings about romantic attraction, albeit with some uncertainty. The mixed emotions about the nature of attraction make it slightly less than fully positive.
+
+2. **Dominance (0.0 to 1.0)**: 0.4  
+   The argument presents personal opinions and experiences rather than asserting dominance over a particular viewpoint. The speaker acknowledges uncertainty and invites understanding rather than claiming authority, resulting in a lower dominance score.
+
+3. **Intensity (0.0 to 1.0)**: 0.6  
+   The speaker expresses strong feelings, particularly in the description of the depth of romantic attraction versus platonic attraction. However, the language is more reflective and exploratory, rather than highly charged, so the intensity score reflects that nuance.
+
+4. **Concreteness (0.0 to 1.0)**: 0.5  
+   The argument uses personal anecdotes and examples to describe the experience of attraction, which adds some concreteness. However, the abstract nature of feelings about attraction and the subjective language leaves some room for vagueness.
+
+Overall, the ratings could vary based on interpretation, but these scores reflect an analysis of the argument provided.
+

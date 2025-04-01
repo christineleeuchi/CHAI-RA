@@ -1,0 +1,75 @@
+Expected yes, changed mind. GPT responded: Yes, the provided counterargument changes my mind
+To evaluate the argument based on the dimensions of valence, dominance, intensity, and concreteness, I will break it down into four quarters and score each category from 0.0 to 1.0. 
+
+### Quarter 1: 
+>A lot of your arguments boil down to opinions, which you can't really change by stating facts. You may not think Chrome looks good, but others would say that it does. It really comes down to personal taste.
+
+1. **Valence: 0.5** - The statement is neutral, acknowledging differing opinions without strong negative or positive sentiment.
+2. **Dominance: 0.5** - The speaker positions themselves as knowledgeable but acknowledges the subjective nature of preferences.
+3. **Intensity: 0.4** - The intensity is moderate; the speaker emphasizes that opinions vary but does not express strong feelings about the issue.
+4. **Concreteness: 0.6** - Mentions personal taste and contrasting opinions, making it somewhat concrete while remaining subjective.
+
+### Quarter 2:
+>You also have to give Chrome a lot of credit for pushing the state-of-the-art in Web and Web browser development. Before Chrome came out in 2008, the Web was an incredibly difficult platform to develop on. A majority of the Web's users used various forms of Internet Explorer, with a much smaller population using Firefox. And even as far as browser design was considered, it was All Toolbars, All The Time (modeled after IE6).
+
+1. **Valence: 0.6** - The speaker positively attributes advancements in development to Chrome, which implies a favorable view.
+2. **Dominance: 0.6** - The speaker asserts authority by detailing the historical context and presenting Chrome as a game-changer.
+3. **Intensity: 0.7** - The tone is more intense as it highlights significant changes in web development and user experience.
+4. **Concreteness: 0.7** - Provides specific contextual details about the state of web development before Chrome, making it concrete.
+
+### Quarter 3:
+>Chrome really shook up browser design, in a very big way. With tabs in the window header, people had a LOT more vertical viewing room, which made browsing the Web better. Along with browsing, having better support for new HTML, CSS, and JavaScript features allowed developers to build beautiful, performant websites without using external plugins (like Flash and Java). This gave way to Responsive Web Design, allowing pages to look good no matter what device the user is browsing with.
+
+1. **Valence: 0.7** - This portion has a positive valence as it praises Chrome's impact on browser design and web development.
+2. **Dominance: 0.7** - The author asserts dominance by elaborating on Chrome's significant contributions and innovations.
+3. **Intensity: 0.8** - The intensity is high as the speaker celebrates the influences of Chrome on web design and usability.
+4. **Concreteness: 0.8** - Offers concrete examples of features and changes in design, enhancing the argument's robustness.
+
+### Quarter 4:
+>Finally, on the subject of memory use, Chrome is a hog for a reason: security. Chrome was the first browser to have Tab Sandboxing, which means that each browser tab spawns its own operating system process. Should the tab crash for some reason (Flash fails to load, page can't be reached on the server, etc), it won't bring down the entire browser. Also, code running in one tab can't access the data in another tab; they're accessing entirely different sections of memory. That all comes at a cost, however: with more tabs open and more processes running, more memory is being used. That's less of a concern now since users are commonly using machines with 4+ GB of RAM, but it can still bog down the rest of the machine since the OS has to page memory in and out of disk swap (but now I'm getting far too technical). Extensions as well also operate in their own process, so the more extensions you have installed, the more memory you're using.
+
+1. **Valence: 0.4** - The valence leans slightly negative due to the acknowledgment of high memory usage.
+2. **Dominance: 0.5** - There's a balance; while the speaker explains Chrome's design choices, there's no attempt to dominate the discussion.
+3. **Intensity: 0.6** - The intensity is moderate as the speaker discusses the nuances of Chrome's memory usage.
+4. **Concreteness: 0.9** - Very concrete, explaining technical details about memory management and security features.
+
+### Summary of Scores:
+- **Quarter 1:** Valence: 0.5, Dominance: 0.5, Intensity: 0.4, Concreteness: 0.6
+- **Quarter 2:** Valence: 0.6, Dominance: 0.6, Intensity: 0.7, Concreteness: 0.7
+- **Quarter 3:** Valence: 0.7, Dominance: 0.7, Intensity: 0.8, Concreteness: 0.8
+- **Quarter 4:** Valence: 0.4, Dominance: 0.5, Intensity: 0.6, Concreteness: 0.9
+
+Expected no, did not change mind. GPT responded: Yes, the provided counterargument changes my mind
+Sure! Here are the rating scores for each quarter of the argument based on valence, dominance, intensity, and concreteness:
+
+### First Quarter:
+**Text:** "One thing that seems outright ignored here: Saying that you use Chrome means nothing anymore, and might as well use IE (or the incarnation Spartan)"
+- **Valence:** 0.3 (Neutral to slightly negative; suggests a lack of value in using Chrome)
+- **Dominance:** 0.4 (The speaker implies a stronger stance against Chrome)
+- **Intensity:** 0.5 (Moderate intensity in the dismissal of Chrome)
+- **Concreteness:** 0.6 (Somewhat concrete due to the comparison with IE)
+
+### Second Quarter:
+**Text:** "If you mean it's unremarkable because Chrome is so popular, is that a bad thing? Plus, Chrome is mostly Chromium, which is open source. There is no version of IE which can say that, and if IE and Chrome were in all other ways equal, I'd choose the one that's more open."
+- **Valence:** 0.6 (Positive; highlights the open-source aspect of Chrome)
+- **Dominance:** 0.5 (Suggests a balanced discussion, but leans toward Chrome)
+- **Intensity:** 0.4 (Moderate intensity advocating for open-source values)
+- **Concreteness:** 0.7 (More concrete, as it provides a direct comparison)
+
+### Third Quarter:
+**Text:** "I agree that Chrome needs to improve memory usage, but I don't think you're doing a fair comparison. Not entirely your fault, because it's hard to do a fair comparison. You'd basically need to import all your bookmarks and history and such back into Firefox, find Firefox equivalents for all your Chrome extensions, open the same webpages in the same order, and so on..."
+- **Valence:** 0.5 (Neutral; recognizes a flaw in Chrome but also defends the user)
+- **Dominance:** 0.5 (Balanced stance; acknowledges issues but doesn’t take a strong side)
+- **Intensity:** 0.4 (Moderate; emphasizes complexity in comparisons but doesn’t strongly argue for or against)
+- **Concreteness:** 0.6 (Fairly concrete, as it outlines practical steps for a better comparison)
+
+### Fourth Quarter:
+**Text:** "At the end of the day, I think Firefox still wins. But it's not as insane a difference as people think. I think probably half the reason people think Chrome RAM is ridiculous is that it's the browser they're using."
+- **Valence:** 0.4 (Slightly positive towards Firefox but still acknowledges Chrome's merits)
+- **Dominance:** 0.6 (Presents a more definitive opinion about Firefox winning)
+- **Intensity:** 0.5 (Moderate; asserts an opinion while allowing for nuance)
+- **Concreteness:** 0.6 (Somewhat concrete, as it provides a general conclusion based on observed behavior)
+
+### Summary:
+This evaluation reflects the argument's shifting tones, degrees of certainty, and specificity throughout the different portions of the text.
+

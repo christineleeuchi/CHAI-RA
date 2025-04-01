@@ -1,0 +1,60 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To evaluate the argument presented, we will assign scores for valence, dominance, intensity, and concreteness for each quarter of the text. 
+
+### First Quarter:
+“CMV: I don't see any reason not to vote for Bernie Sanders Pretty much all of my social media feeds are a massive hive mind, a huge circlejerk of Sanders quotes and video clips. He seems fantastic, but I'm honestly struggling to find anything bad about him online.”
+
+- **Valence (0.9):** The sentiment is overwhelmingly positive towards Bernie Sanders, although there is a hint of skepticism regarding the surrounding social media culture.
+- **Dominance (0.3):** The speaker appears to be sharing personal thoughts rather than asserting a dominant opinion; they're seeking input.
+- **Intensity (0.6):** The emotions displayed are moderately strong, emphasizing the fantastic qualities perceived in Sanders, but there's also acknowledgment of struggle.
+- **Concreteness (0.5):** The argument is somewhat abstract here, discussing perceptions and social media but lacking specific examples of Sanders’ policies.
+
+### Second Quarter:
+“I want to be informed and see both sides, so what's a good reason not to vote for Bernie Sanders?”
+
+- **Valence (0.8):** The desire to be informed and see both sides is positive, though it reflects some uncertainty.
+- **Dominance (0.4):** The speaker is more of a questioner here, which diminishes a sense of dominance.
+- **Intensity (0.5):** The speaker expresses a moderate level of concern or curiosity about their voting choice.
+- **Concreteness (0.6):** The content is more concrete than the first quarter as it explicitly asks for reasons against voting.
+
+### Third Quarter:
+“From what I see, he's a down to earth guy who wants equality, who wants huge cooperation to actually pay taxes and wants minimum wage to be able to keep people alive.”
+
+- **Valence (0.95):** This section is very positive, highlighting admirable qualities of Sanders.
+- **Dominance (0.5):** The speaker asserts their view while still asking for opposing opinions, maintaining a balance.
+- **Intensity (0.8):** The speaker has a strong positive emotional reaction to Sanders’ values and character.
+- **Concreteness (0.7):** This portion includes specific characteristics and policy desires, enhancing its concreteness.
+
+### Fourth Quarter:
+“He wants basic healthcare and education and humane living conditions for everyone. He seems like a saint!”
+
+- **Valence (1.0):** The language is highly positive, implying strong admiration for Sanders.
+- **Dominance (0.6):** The assertion of Sanders as a “saint” showcases a strong personal opinion, adding to the sense of dominance.
+- **Intensity (0.9):** The emotional intensity is very high, expressing a strong positive disposition.
+- **Concreteness (0.8):** This section gives specific policy goals, making it concrete and relatable.
+
+### Summary of Scores:
+**First Quarter:**  
+- Valence: 0.9  
+- Dominance: 0.3  
+- Intensity: 0.6  
+- Concreteness: 0.5  
+
+**Second Quarter:**  
+- Valence: 0.8  
+- Dominance: 0.4  
+- Intensity: 0.5  
+- Concreteness: 0.6  
+
+**Third Quarter:**  
+- Valence: 0.95  
+- Dominance: 0.5  
+- Intensity: 0.8  
+- Concreteness: 0.7  
+
+**Fourth Quarter:**  
+- Valence: 1.0  
+- Dominance: 0.6  
+- Intensity: 0.9  
+- Concreteness: 0.8  
+

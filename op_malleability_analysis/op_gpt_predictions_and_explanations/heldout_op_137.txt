@@ -1,0 +1,33 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+Here's the rating for each of the four dimensions—valence, dominance, intensity, and concreteness—for each quarter of the argument:
+
+### 1st Quarter: 
+"CMV: Arby's is amazing, and by far the most underrated fast food. I've always been a huge Arby's fan. In my mind, Arby's stands head and shoulders above virtually every other fast food option. I think their food is fresh, original, flavorful, and affordable. If most people gave it an honest chance, they would like it."
+- **Valence:** 0.9 (Positive sentiment about Arby's)
+- **Dominance:** 0.7 (Confident assertion about the superiority of Arby's)
+- **Intensity:** 0.8 (Strong appreciation and enthusiasm for Arby's)
+- **Concreteness:** 0.5 (Some specifics about food but mostly abstract praise)
+
+### 2nd Quarter: 
+"I recently realized how poor of a reputation Arby's has when [Comedy Central released a super-cut of all the Jon Stewart Arby's jokes]. Conan O'Brien has had [his own Arby's gag going for over a decade], at one point earning himself a gag "free Arby's for life" card due to the sheer volume of on-air Arby's mentions."
+- **Valence:** 0.6 (Mixed sentiment due to reputation issues, but some humor)
+- **Dominance:** 0.6 (Moderate assertion about cultural perception)
+- **Intensity:** 0.5 (Informative but less emotional than the first quarter)
+- **Concreteness:** 0.7 (Specific references to comedians and their jokes)
+
+### 3rd Quarter: 
+"The main criticism of these comedians is that the food is artificial, stomach busting, mystery meat. And I think anyone who's eaten at Arby's ever knows that that's just not true. The food is great, it doesn't taste fast-foody at all, and most of it is downright mouth watering. I remain thoroughly convinced that, if everyone could try Arby's without all the marketing bias of a lifetime of anti-Arby's jokes, they would come away loving it."
+- **Valence:** 0.8 (Defensive and positive affirmation of Arby's quality)
+- **Dominance:** 0.7 (Assertive in countering criticism)
+- **Intensity:** 0.7 (Strong feelings about the degradation of Arby's)
+- **Concreteness:** 0.6 (Some descriptive language but still abstract)
+
+### 4th Quarter: 
+"It's hard to demonstrate taste with writing, but let me give you the next best thing, pictures. Note, all real photos, no promotional images. [Though do have a look at the promotional photos] #It's not just the curly fries. - [Look at this god damn brisket sandwich] - [Look at this juicy beef and cheddar] - [Look at these giant ass onion rings] - [Look at this god damn steak sandwich] - [Fine, yeah, the curly fries are awesome] - [And yes, the meat mountain does exist, though I've never ordered it]"
+- **Valence:** 0.9 (High positivity in describing the food)
+- **Dominance:** 0.6 (Inviting others to appreciate the experience but less assertive)
+- **Intensity:** 0.8 (Excitement and enthusiasm conveyed through imagery)
+- **Concreteness:** 0.9 (Highly concrete due to the references to specific menu items with visual examples)
+
+Overall, this argument presents a strong personal endorsement of Arby's while addressing conflicting perceptions in a thoughtful, somewhat humorous way, supported by visual evidence.
+

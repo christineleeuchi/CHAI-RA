@@ -1,0 +1,43 @@
+Expected no, unlikely to change mind. GPT responded: No, I am not likely to change my mindset if presented with strong counterarguments.
+To analyze the argument based on valence, dominance, intensity, and concreteness, I'll break it down into four quarters and provide a score (0.0 to 1.0) for each aspect.
+
+### Quarter 1:
+**Text:** "CMV: I find it very irresponsible of the LGBT community to create videos about being bullied and showing it around. I would like to apologize in advance if this has appeared in the subreddit before."
+
+- **Valence:** 0.3 (The sentiment is negative regarding the LGBT community's actions.)
+- **Dominance:** 0.6 (The speaker expresses their opinion forcefully but is also apologetic.)
+- **Intensity:** 0.5 (The words "very irresponsible" suggest a moderate level of intensity.)
+- **Concreteness:** 0.4 (The mention of videos is concrete, but the argument remains abstract in nature.)
+
+### Quarter 2:
+**Text:** "I am 100% for the LGBT community, and have several friends who are part of it (who also got mad at me when I poorly attempted to explain this)."
+
+- **Valence:** 0.7 (This portion reveals positive sentiments towards the LGBT community.)
+- **Dominance:** 0.4 (The speaker is neutral, mostly supportive, and slightly submissive.)
+- **Intensity:** 0.4 (The phrase "100% for the LGBT community" is strong but tempered by self-reflection.)
+- **Concreteness:** 0.5 (The mention of "friends" provides a personal, relatable touch.)
+
+### Quarter 3:
+**Text:** "I sort of imagine this as being similar to slavery, imagine; a slave creates a documentary interviewing other slaves about how poorly they are treated, then show it in theatres where slavery is outlawed."
+
+- **Valence:** 0.2 (This comparison can be seen as negative and controversial, which may stir discomfort.)
+- **Dominance:** 0.5 (The analogy is quite strong and aims to dominate the argument.)
+- **Intensity:** 0.8 (This analogy uses powerful imagery, elevating the intensity significantly.)
+- **Concreteness:** 0.6 (The scenario is concrete, painted vividly to illustrate the speaker's point.)
+
+### Quarter 4:
+**Text:** "I find it irresponsible of them to ask anyone, let alone those who do nothing, to solve their problems for them... Also, if it sounds like I'm being an asshole, I apologize, but this is what I think, and that's why I'm on CMV."
+
+- **Valence:** 0.2 (The sentiment is predominantly negative towards the LGBT community's approach.)
+- **Dominance:** 0.7 (The speaker presents a strong opinion with a sense of finality.)
+- **Intensity:** 0.6 (The language is more assertive; it conveys frustration and a call to action.)
+- **Concreteness:** 0.5 (Some abstract references and appeals diminish the concreteness of the claims.)
+
+### Summary Scores
+1. **Quarter 1:** Valence: 0.3, Dominance: 0.6, Intensity: 0.5, Concreteness: 0.4
+2. **Quarter 2:** Valence: 0.7, Dominance: 0.4, Intensity: 0.4, Concreteness: 0.5
+3. **Quarter 3:** Valence: 0.2, Dominance: 0.5, Intensity: 0.8, Concreteness: 0.6
+4. **Quarter 4:** Valence: 0.2, Dominance: 0.7, Intensity: 0.6, Concreteness: 0.5
+
+These scores reflect the emotional quality, assertiveness, emotional weight, and clarity of the original statements in each segment of the argument.
+
